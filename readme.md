@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Vdieo Software Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-vdieo-software.techidaily.com](https://ai-vdieo-software.techidaily.com)
 
 ## Publish
 
