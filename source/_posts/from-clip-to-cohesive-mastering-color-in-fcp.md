@@ -1,7 +1,7 @@
 ---
 title: From Clip to Cohesive Mastering Color in FCP
-date: 2024-04-25T07:34:20.327Z
-updated: 2024-04-26T07:34:20.327Z
+date: 2024-05-19T07:45:03.917Z
+updated: 2024-05-20T07:45:03.917Z
 tags: 
   - video editing software
   - video editing
@@ -1879,5 +1879,6 @@ Some of the apps we have reviewed here are ideal for beginners, but they are eve
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-agni-2-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Agni 2 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

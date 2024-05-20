@@ -1,7 +1,7 @@
 ---
 title: Adding Titles in FCPX A Beginners Guide to Professional Results
-date: 2024-04-25T07:34:16.054Z
-updated: 2024-04-26T07:34:16.054Z
+date: 2024-05-19T07:44:48.801Z
+updated: 2024-05-20T07:44:48.801Z
 tags: 
   - video editing software
   - video editing
@@ -2129,5 +2129,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-moto-g84-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Moto G84 5G Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 
 

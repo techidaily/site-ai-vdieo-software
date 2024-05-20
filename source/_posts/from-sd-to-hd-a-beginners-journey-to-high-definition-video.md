@@ -1,7 +1,7 @@
 ---
 title: From SD to HD A Beginners Journey to High-Definition Video
-date: 2024-04-25T07:34:20.572Z
-updated: 2024-04-26T07:34:20.572Z
+date: 2024-05-19T07:45:04.578Z
+updated: 2024-05-20T07:45:04.578Z
 tags: 
   - video editing software
   - video editing
@@ -2650,5 +2650,6 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-docx-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .docx Document</u></a></li>
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
+
 
 

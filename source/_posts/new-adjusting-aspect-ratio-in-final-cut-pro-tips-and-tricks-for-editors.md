@@ -1,7 +1,7 @@
 ---
 title: New Adjusting Aspect Ratio in Final Cut Pro Tips and Tricks for Editors
-date: 2024-04-25T07:34:32.567Z
-updated: 2024-04-26T07:34:32.567Z
+date: 2024-05-19T07:45:30.418Z
+updated: 2024-05-20T07:45:30.418Z
 tags: 
   - video editing software
   - video editing
@@ -1541,5 +1541,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-poco-c51-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y77t-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y77t Users</u></a></li>
 </ul></div>
+
 
 

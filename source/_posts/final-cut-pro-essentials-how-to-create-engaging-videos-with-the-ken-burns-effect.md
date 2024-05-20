@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect
-date: 2024-04-25T07:34:19.600Z
-updated: 2024-04-26T07:34:19.600Z
+date: 2024-05-19T07:45:01.949Z
+updated: 2024-05-20T07:45:01.949Z
 tags: 
   - video editing software
   - video editing
@@ -2558,5 +2558,6 @@ Video editors are used by the ones who are interested in editing videos for pers
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c22-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C22 to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-x-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone X</u></a></li>
 </ul></div>
+
 
 

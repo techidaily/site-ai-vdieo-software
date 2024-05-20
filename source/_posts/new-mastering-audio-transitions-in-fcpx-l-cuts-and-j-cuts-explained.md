@@ -1,7 +1,7 @@
 ---
 title: New Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained
-date: 2024-04-25T07:34:34.274Z
-updated: 2024-04-26T07:34:34.274Z
+date: 2024-05-19T07:45:34.253Z
+updated: 2024-05-20T07:45:34.253Z
 tags: 
   - video editing software
   - video editing
@@ -2523,5 +2523,6 @@ Follow @Shanoon Cox
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-xr-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone XR and iPad</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Aspect Ratio Essentials A Beginners Guide to Social Media Visuals
-date: 2024-04-25T07:34:40.063Z
-updated: 2024-04-26T07:34:40.063Z
+date: 2024-05-19T07:45:57.500Z
+updated: 2024-05-20T07:45:57.500Z
 tags: 
   - video editing software
   - video editing
@@ -2975,5 +2975,6 @@ Follow @Shanoon Cox
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C33 2023 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-zte-axon-40-lite-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from ZTE Axon 40 Lite to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 
 

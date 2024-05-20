@@ -1,7 +1,7 @@
 ---
 title: Kapwing Video Trimmer Tutorial Edit Your Clips in Minutes
-date: 2024-04-25T07:34:21.871Z
-updated: 2024-04-26T07:34:21.871Z
+date: 2024-05-19T07:45:07.065Z
+updated: 2024-05-20T07:45:07.065Z
 tags: 
   - video editing software
   - video editing
@@ -3162,5 +3162,6 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-vip-racing-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 VIP Racing Edition Reset Code | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 
 

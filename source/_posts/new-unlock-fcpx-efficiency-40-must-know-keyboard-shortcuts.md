@@ -1,7 +1,7 @@
 ---
 title: New Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts
-date: 2024-04-25T07:34:39.346Z
-updated: 2024-04-26T07:34:39.346Z
+date: 2024-05-19T07:45:53.815Z
+updated: 2024-05-20T07:45:53.815Z
 tags: 
   - video editing software
   - video editing
@@ -1426,5 +1426,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Sony Xperia 10 V FRP</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g13-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

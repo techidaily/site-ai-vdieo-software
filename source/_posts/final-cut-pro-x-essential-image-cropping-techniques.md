@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Essential Image Cropping Techniques
-date: 2024-04-25T07:34:19.661Z
-updated: 2024-04-26T07:34:19.661Z
+date: 2024-05-19T07:45:02.079Z
+updated: 2024-05-20T07:45:02.079Z
 tags: 
   - video editing software
   - video editing
@@ -2115,5 +2115,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2022)? Learn All 4 Methods</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-6-plus-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 6 Plus with 3 Methods</u></a></li>
 </ul></div>
+
 
 

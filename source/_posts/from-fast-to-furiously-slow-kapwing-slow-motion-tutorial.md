@@ -1,7 +1,7 @@
 ---
 title: From Fast to Furious...ly Slow Kapwing Slow Motion Tutorial
-date: 2024-04-25T07:34:20.402Z
-updated: 2024-04-26T07:34:20.402Z
+date: 2024-05-19T07:45:04.044Z
+updated: 2024-05-20T07:45:04.044Z
 tags: 
   - video editing software
   - video editing
@@ -2509,5 +2509,6 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-se-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone SE Activation Lock without Previous Owner?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y27-4g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y27 4G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

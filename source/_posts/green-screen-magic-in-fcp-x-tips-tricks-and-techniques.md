@@ -1,7 +1,7 @@
 ---
 title: Green Screen Magic in FCP X Tips, Tricks, and Techniques
-date: 2024-04-25T07:34:21.247Z
-updated: 2024-04-26T07:34:21.247Z
+date: 2024-05-19T07:45:06.374Z
+updated: 2024-05-20T07:45:06.374Z
 tags: 
   - video editing software
   - video editing
@@ -2148,5 +2148,6 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 8T | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

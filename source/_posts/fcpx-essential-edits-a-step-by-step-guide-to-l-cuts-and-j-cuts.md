@@ -1,7 +1,7 @@
 ---
 title: FCPX Essential Edits A Step-by-Step Guide to L-Cuts and J-Cuts
-date: 2024-04-25T07:34:19.524Z
-updated: 2024-04-26T07:34:19.524Z
+date: 2024-05-19T07:45:01.641Z
+updated: 2024-05-20T07:45:01.641Z
 tags: 
   - video editing software
   - video editing
@@ -2585,5 +2585,6 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-xr-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone XR?</u></a></li>
 </ul></div>
+
 
 

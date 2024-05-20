@@ -1,7 +1,7 @@
 ---
 title: Updated Aspect Ratio Adjustment in FCP Tips and Tricks
-date: 2024-04-25T07:34:40.025Z
-updated: 2024-04-26T07:34:40.025Z
+date: 2024-05-19T07:45:57.396Z
+updated: 2024-05-20T07:45:57.396Z
 tags: 
   - video editing software
   - video editing
@@ -2322,5 +2322,6 @@ Indeed, there are multiple different video joiner app alternatives with strong f
 <li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo-for-2024/"><u>Updated Talking Photo for 2024</u></a></li>
 </ul></div>
+
 
 

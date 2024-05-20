@@ -1,7 +1,7 @@
 ---
 title: From Basics to Pro Mastering Motion Blur in Final Cut Pro
-date: 2024-04-25T07:34:20.271Z
-updated: 2024-04-26T07:34:20.271Z
+date: 2024-05-19T07:45:03.756Z
+updated: 2024-05-20T07:45:03.756Z
 tags: 
   - video editing software
   - video editing
@@ -2404,5 +2404,6 @@ It can help you with so much of professional and interesting video editing optio
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo V29 Pro Phone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-xr-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone XR</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Wax Video Editing Essentials A Guide to Getting Started with This Free Editor
-date: 2024-04-25T07:34:29.263Z
-updated: 2024-04-26T07:34:29.263Z
+date: 2024-05-19T07:45:20.719Z
+updated: 2024-05-20T07:45:20.719Z
 tags: 
   - video editing software
   - video editing
@@ -2154,5 +2154,6 @@ These are the hand-picked **blur photo background online** tools that one can go
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-xs-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone XS Is Unlocked</u></a></li>
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a1-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A1 5G</u></a></li>
 </ul></div>
+
 
 

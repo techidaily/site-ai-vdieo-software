@@ -1,7 +1,7 @@
 ---
 title: Add a Timer in Minutes A Quick FCPX Tutorial
-date: 2024-04-25T07:34:16.043Z
-updated: 2024-04-26T07:34:16.043Z
+date: 2024-05-19T07:44:48.696Z
+updated: 2024-05-20T07:44:48.696Z
 tags: 
   - video editing software
   - video editing
@@ -1733,5 +1733,6 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-12-dubbed-anime-websites-to-watch-for-free/"><u>Updated 2024 Approved 12 Dubbed Anime Websites to Watch for Free</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-14-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 14 Pro Max to Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 
 

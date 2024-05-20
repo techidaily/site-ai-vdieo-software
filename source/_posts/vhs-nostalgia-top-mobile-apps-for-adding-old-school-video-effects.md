@@ -1,7 +1,7 @@
 ---
 title: VHS Nostalgia Top Mobile Apps for Adding Old-School Video Effects
-date: 2024-04-25T07:34:28.297Z
-updated: 2024-04-26T07:34:28.297Z
+date: 2024-05-19T07:45:19.583Z
+updated: 2024-05-20T07:45:19.583Z
 tags: 
   - video editing software
   - video editing
@@ -2837,5 +2837,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-soft-reset-honor-x9b-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X9b phone? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 
 

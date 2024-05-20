@@ -1,7 +1,7 @@
 ---
 title: Updated Social Media Visuals 101 A Comprehensive Aspect Ratio Guide
-date: 2024-04-25T07:34:34.324Z
-updated: 2024-04-26T07:34:34.324Z
+date: 2024-05-19T07:45:34.779Z
+updated: 2024-05-20T07:45:34.779Z
 tags: 
   - video editing software
   - video editing
@@ -2689,5 +2689,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme C53? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-tips-to-create-animated-social-media-posts-in-canva/"><u>New 2024 Approved Tips to Create Animated Social Media Posts in Canva</u></a></li>
 </ul></div>
+
 
 

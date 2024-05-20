@@ -1,7 +1,7 @@
 ---
 title: Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-25T07:34:18.052Z
-updated: 2024-04-26T07:34:18.052Z
+date: 2024-05-19T07:44:58.115Z
+updated: 2024-05-20T07:44:58.115Z
 tags: 
   - video editing software
   - video editing
@@ -2063,5 +2063,6 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-magic-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor Magic 5 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 8 Plus Phone</u></a></li>
 </ul></div>
+
 
 

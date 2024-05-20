@@ -1,7 +1,7 @@
 ---
 title: The Best Video Brightening and Darkening Tools
-date: 2024-04-25T07:34:25.221Z
-updated: 2024-04-26T07:34:25.221Z
+date: 2024-05-19T07:45:13.406Z
+updated: 2024-05-20T07:45:13.406Z
 tags: 
   - video editing software
   - video editing
@@ -1371,5 +1371,6 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/top-20plus-best-free-gif-makers-online-to-quickly-edit-gif-for-2024/"><u>Top 20+ Best Free GIF Makers Online to Quickly Edit GIF for 2024</u></a></li>
 </ul></div>
+
 
 

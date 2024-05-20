@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Trimming Videos Online with Kapwing Editor
-date: 2024-04-25T07:34:26.207Z
-updated: 2024-04-26T07:34:26.207Z
+date: 2024-05-19T07:45:15.106Z
+updated: 2024-05-20T07:45:15.106Z
 tags: 
   - video editing software
   - video editing
@@ -2641,5 +2641,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-c55-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco C55 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-realme-12-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 12 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 
 

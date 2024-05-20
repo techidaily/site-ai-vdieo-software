@@ -1,7 +1,7 @@
 ---
 title: Blur, Speed, and Action How to Create Cinematic Motion in FCP
-date: 2024-04-25T07:34:17.401Z
-updated: 2024-04-26T07:34:17.401Z
+date: 2024-05-19T07:44:56.148Z
+updated: 2024-05-20T07:44:56.148Z
 tags: 
   - video editing software
   - video editing
@@ -2349,5 +2349,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo F25 Pro 5G FRP</u></a></li>
 </ul></div>
+
 
 

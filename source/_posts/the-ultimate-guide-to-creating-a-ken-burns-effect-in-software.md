@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Creating a Ken Burns Effect in Software
-date: 2024-04-25T07:34:25.935Z
-updated: 2024-04-26T07:34:25.935Z
+date: 2024-05-19T07:45:14.557Z
+updated: 2024-05-20T07:45:14.557Z
 tags: 
   - video editing software
   - video editing
@@ -2676,5 +2676,6 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-s23-fe-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy S23 FE.</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-7-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 7 Phones with/without a PC</u></a></li>
 </ul></div>
+
 
 

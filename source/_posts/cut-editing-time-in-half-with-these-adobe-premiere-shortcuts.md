@@ -1,7 +1,7 @@
 ---
 title: Cut Editing Time in Half with These Adobe Premiere Shortcuts
-date: 2024-04-25T07:34:18.238Z
-updated: 2024-04-26T07:34:18.238Z
+date: 2024-05-19T07:44:58.329Z
+updated: 2024-05-20T07:44:58.329Z
 tags: 
   - video editing software
   - video editing
@@ -1715,5 +1715,6 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor X50i? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-nord-ce-3-lite-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus Nord CE 3 Lite 5G Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 
 

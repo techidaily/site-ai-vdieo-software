@@ -1,7 +1,7 @@
 ---
 title: Video Editing Essentials How to Crop Videos Using Avidemux
-date: 2024-04-25T07:34:28.398Z
-updated: 2024-04-26T07:34:28.398Z
+date: 2024-05-19T07:45:19.737Z
+updated: 2024-05-20T07:45:19.737Z
 tags: 
   - video editing software
   - video editing
@@ -2891,5 +2891,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xr-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a05-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A05</u></a></li>
 </ul></div>
+
 
 

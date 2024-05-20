@@ -1,7 +1,7 @@
 ---
 title: New Smooth Operator Mastering Video Stabilization in FCPX
-date: 2024-04-25T07:34:34.319Z
-updated: 2024-04-26T07:34:34.319Z
+date: 2024-05-19T07:45:34.689Z
+updated: 2024-05-20T07:45:34.689Z
 tags: 
   - video editing software
   - video editing
@@ -3141,5 +3141,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-asus-rog-phone-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Asus ROG Phone 8 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-poco-x6-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Poco X6 Location | Dr.fone</u></a></li>
 </ul></div>
+
 
 

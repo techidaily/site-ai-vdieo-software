@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage Learn to Create Slow-Motion Videos on Kapwing
-date: 2024-04-25T07:34:27.261Z
-updated: 2024-04-26T07:34:27.261Z
+date: 2024-05-19T07:45:17.684Z
+updated: 2024-05-20T07:45:17.684Z
 tags: 
   - video editing software
   - video editing
@@ -3102,5 +3102,6 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-12-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 12 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 
 

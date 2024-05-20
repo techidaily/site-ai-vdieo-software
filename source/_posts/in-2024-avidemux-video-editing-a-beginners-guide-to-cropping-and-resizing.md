@@ -1,7 +1,7 @@
 ---
 title: In 2024, Avidemux Video Editing A Beginners Guide to Cropping and Resizing
-date: 2024-04-25T07:34:40.607Z
-updated: 2024-04-26T07:34:40.607Z
+date: 2024-05-19T07:45:59.612Z
+updated: 2024-05-20T07:45:59.612Z
 tags: 
   - video editing software
   - video editing
@@ -2499,5 +2499,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 14 Plus | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-xs-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone XS</u></a></li>
 </ul></div>
+
 
 

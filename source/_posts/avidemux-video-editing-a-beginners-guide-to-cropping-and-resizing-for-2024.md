@@ -1,7 +1,7 @@
 ---
 title: Avidemux Video Editing A Beginners Guide to Cropping and Resizing for 2024
-date: 2024-04-25T07:34:40.608Z
-updated: 2024-04-26T07:34:40.608Z
+date: 2024-05-19T07:45:59.672Z
+updated: 2024-05-20T07:45:59.672Z
 tags: 
   - video editing software
   - video editing
@@ -2512,5 +2512,6 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-g24-power-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola G24 Power</u></a></li>
 </ul></div>
+
 
 

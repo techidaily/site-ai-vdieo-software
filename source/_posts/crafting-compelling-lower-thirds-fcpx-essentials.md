@@ -1,7 +1,7 @@
 ---
 title: Crafting Compelling Lower Thirds FCPX Essentials
-date: 2024-04-25T07:34:16.273Z
-updated: 2024-04-26T07:34:16.273Z
+date: 2024-05-19T07:44:50.896Z
+updated: 2024-05-20T07:44:50.896Z
 tags: 
   - video editing software
   - video editing
@@ -1700,5 +1700,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>How To Translate Videos in Tamil for a Wider Reach</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Taming the Shake How to Smooth Out Your Videos in After Effects
-date: 2024-04-25T07:34:24.849Z
-updated: 2024-04-26T07:34:24.849Z
+date: 2024-05-19T07:45:12.639Z
+updated: 2024-05-20T07:45:12.639Z
 tags: 
   - video editing software
   - video editing
@@ -4249,5 +4249,6 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 15 Pro</u></a></li>
 </ul></div>
+
 
 

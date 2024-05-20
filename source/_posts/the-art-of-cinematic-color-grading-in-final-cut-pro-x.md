@@ -1,7 +1,7 @@
 ---
 title: The Art of Cinematic Color Grading in Final Cut Pro X
-date: 2024-04-25T07:34:24.868Z
-updated: 2024-04-26T07:34:24.868Z
+date: 2024-05-19T07:45:12.771Z
+updated: 2024-05-20T07:45:12.771Z
 tags: 
   - video editing software
   - video editing
@@ -2331,5 +2331,6 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-a34-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy A34 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2022) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 
 

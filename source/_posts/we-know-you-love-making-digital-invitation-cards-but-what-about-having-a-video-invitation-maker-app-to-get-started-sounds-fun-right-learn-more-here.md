@@ -1,7 +1,7 @@
 ---
 title: We Know You Love Making Digital Invitation Cards. But What About Having a Video Invitation Maker App to Get Started? Sounds Fun, Right? Learn More Here
-date: 2024-04-25T07:34:29.273Z
-updated: 2024-04-26T07:34:29.273Z
+date: 2024-05-19T07:45:20.780Z
+updated: 2024-05-20T07:45:20.780Z
 tags: 
   - video editing software
   - video editing
@@ -2672,5 +2672,6 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

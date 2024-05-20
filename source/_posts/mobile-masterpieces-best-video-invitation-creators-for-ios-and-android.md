@@ -1,7 +1,7 @@
 ---
 title: Mobile Masterpieces Best Video Invitation Creators for iOS and Android
-date: 2024-04-25T07:34:22.588Z
-updated: 2024-04-26T07:34:22.588Z
+date: 2024-05-19T07:45:08.627Z
+updated: 2024-05-20T07:45:08.627Z
 tags: 
   - video editing software
   - video editing
@@ -3806,5 +3806,6 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://techidaily.com/how-to-reset-infinix-hot-30i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 30i Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Flip Your Footage Easy Final Cut Pro Tutorial
-date: 2024-04-25T07:34:19.700Z
-updated: 2024-04-26T07:34:19.700Z
+date: 2024-05-19T07:45:02.247Z
+updated: 2024-05-20T07:45:02.247Z
 tags: 
   - video editing software
   - video editing
@@ -1849,5 +1849,6 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V30 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-smart-8-plus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Smart 8 Plus Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 
 

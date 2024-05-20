@@ -1,7 +1,7 @@
 ---
 title: Avidemux Essentials Cropping, Trimming, and Perfecting Your Video Edits
-date: 2024-04-25T07:34:16.951Z
-updated: 2024-04-26T07:34:16.951Z
+date: 2024-05-19T07:44:54.429Z
+updated: 2024-05-20T07:44:54.430Z
 tags: 
   - video editing software
   - video editing
@@ -2954,5 +2954,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-topics.techidaily.com/updated-waht-is-ai-pixel-art-generator-in-2024/"><u>Updated Waht Is AI Pixel Art Generator, In 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-m14-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy M14 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Video Aspect Ratio How to Adjust and Customize
-date: 2024-04-25T07:34:28.334Z
-updated: 2024-04-26T07:34:28.334Z
+date: 2024-05-19T07:45:19.615Z
+updated: 2024-05-20T07:45:19.615Z
 tags: 
   - video editing software
   - video editing
@@ -2226,5 +2226,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 13 Pro</u></a></li>
 </ul></div>
+
 
 

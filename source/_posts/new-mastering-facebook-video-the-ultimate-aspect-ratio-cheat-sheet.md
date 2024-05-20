@@ -1,7 +1,7 @@
 ---
 title: New Mastering Facebook Video The Ultimate Aspect Ratio Cheat Sheet
-date: 2024-04-25T07:34:36.636Z
-updated: 2024-04-26T07:34:36.636Z
+date: 2024-05-19T07:45:46.260Z
+updated: 2024-05-20T07:45:46.260Z
 tags: 
   - video editing software
   - video editing
@@ -4178,5 +4178,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Max Without a Passcode</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-huawei-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Huawei FRP Bypass</u></a></li>
 </ul></div>
+
 
 

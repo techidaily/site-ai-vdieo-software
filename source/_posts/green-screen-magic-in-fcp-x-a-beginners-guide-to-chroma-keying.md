@@ -1,7 +1,7 @@
 ---
 title: Green Screen Magic in FCP X A Beginners Guide to Chroma Keying
-date: 2024-04-25T07:34:21.241Z
-updated: 2024-04-26T07:34:21.241Z
+date: 2024-05-19T07:45:06.366Z
+updated: 2024-05-20T07:45:06.366Z
 tags: 
   - video editing software
   - video editing
@@ -2501,5 +2501,6 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Phone without PIN</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-g2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo G2 Activity | Dr.fone</u></a></li>
 </ul></div>
+
 
 

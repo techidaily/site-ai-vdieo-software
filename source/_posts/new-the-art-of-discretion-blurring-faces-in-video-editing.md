@@ -1,7 +1,7 @@
 ---
 title: New The Art of Discretion Blurring Faces in Video Editing
-date: 2024-04-25T07:34:37.351Z
-updated: 2024-04-26T07:34:37.351Z
+date: 2024-05-19T07:45:48.560Z
+updated: 2024-05-20T07:45:48.560Z
 tags: 
   - video editing software
   - video editing
@@ -2241,5 +2241,6 @@ Follow @Larry Jordan
 <li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-go-2023-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark Go (2023) Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: FCP Audio Editing 101 A Beginners Guide to Better Sound
-date: 2024-04-25T07:34:19.490Z
-updated: 2024-04-26T07:34:19.490Z
+date: 2024-05-19T07:45:01.561Z
+updated: 2024-05-20T07:45:01.561Z
 tags: 
   - video editing software
   - video editing
@@ -2576,5 +2576,6 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-8-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 8 Passcode Easily Video Inside | Dr.fone</u></a></li>
 </ul></div>
+
 
 

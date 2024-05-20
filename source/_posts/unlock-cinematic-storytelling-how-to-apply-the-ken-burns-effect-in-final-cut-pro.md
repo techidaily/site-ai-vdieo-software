@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro
-date: 2024-04-25T07:34:27.930Z
-updated: 2024-04-26T07:34:27.930Z
+date: 2024-05-19T07:45:19.001Z
+updated: 2024-05-20T07:45:19.001Z
 tags: 
   - video editing software
   - video editing
@@ -1837,5 +1837,6 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 11? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

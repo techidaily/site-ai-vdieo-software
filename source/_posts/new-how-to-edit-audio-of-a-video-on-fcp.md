@@ -1,7 +1,7 @@
 ---
 title: New How to Edit Audio of a Video on FCP
-date: 2024-04-25T07:34:36.356Z
-updated: 2024-04-26T07:34:36.356Z
+date: 2024-05-19T07:45:44.745Z
+updated: 2024-05-20T07:45:44.745Z
 tags: 
   - video editing software
   - video editing
@@ -2409,5 +2409,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-xcover-7-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy XCover 7 Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Others devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

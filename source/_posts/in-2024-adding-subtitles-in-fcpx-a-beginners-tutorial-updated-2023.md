@@ -1,7 +1,7 @@
 ---
 title: In 2024, Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023)
-date: 2024-04-25T07:34:32.533Z
-updated: 2024-04-26T07:34:32.533Z
+date: 2024-05-19T07:45:30.284Z
+updated: 2024-05-20T07:45:30.284Z
 tags: 
   - video editing software
   - video editing
@@ -2314,5 +2314,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Plus Passcode without a Computer</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

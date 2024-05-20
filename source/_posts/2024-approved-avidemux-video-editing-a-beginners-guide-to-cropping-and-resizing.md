@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Avidemux Video Editing A Beginners Guide to Cropping and Resizing
-date: 2024-04-25T07:34:40.610Z
-updated: 2024-04-26T07:34:40.610Z
+date: 2024-05-19T07:45:59.679Z
+updated: 2024-05-20T07:45:59.679Z
 tags: 
   - video editing software
   - video editing
@@ -2003,5 +2003,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 15 Plus Safe and Legal</u></a></li>
 </ul></div>
+
 
 

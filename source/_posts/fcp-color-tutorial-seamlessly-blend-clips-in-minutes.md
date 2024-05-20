@@ -1,7 +1,7 @@
 ---
 title: FCP Color Tutorial Seamlessly Blend Clips in Minutes
-date: 2024-04-25T07:34:19.501Z
-updated: 2024-04-26T07:34:19.501Z
+date: 2024-05-19T07:45:01.578Z
+updated: 2024-05-20T07:45:01.578Z
 tags: 
   - video editing software
   - video editing
@@ -1953,5 +1953,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-ace-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Ace 3 to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-10-proplus-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 10 Pro+ 5G Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 
 

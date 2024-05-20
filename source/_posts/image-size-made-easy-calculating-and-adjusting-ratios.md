@@ -1,7 +1,7 @@
 ---
 title: Image Size Made Easy Calculating and Adjusting Ratios
-date: 2024-04-25T07:34:16.357Z
-updated: 2024-04-26T07:34:16.357Z
+date: 2024-05-19T07:44:52.123Z
+updated: 2024-05-20T07:44:52.123Z
 tags: 
   - video editing software
   - video editing
@@ -2956,5 +2956,6 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-huawei-nova-y71-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Huawei Nova Y71 Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-a2plus-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi A2+ Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 
 

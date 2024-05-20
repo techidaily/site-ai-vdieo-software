@@ -1,7 +1,7 @@
 ---
 title: New Accelerate or Decelerate Video Clips in Camtasia
-date: 2024-04-25T07:34:32.155Z
-updated: 2024-04-26T07:34:32.155Z
+date: 2024-05-19T07:45:29.688Z
+updated: 2024-05-20T07:45:29.688Z
 tags: 
   - video editing software
   - video editing
@@ -2323,5 +2323,6 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

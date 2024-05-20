@@ -1,7 +1,7 @@
 ---
 title: Quick Guide How to Save Final Cut Pro Project？
-date: 2024-04-25T07:34:16.415Z
-updated: 2024-04-26T07:34:16.415Z
+date: 2024-05-19T07:44:52.391Z
+updated: 2024-05-20T07:44:52.391Z
 tags: 
   - video editing software
   - video editing
@@ -1882,5 +1882,6 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-whiteboard-animation-videos/"><u>New How to Make Whiteboard Animation Videos</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C67 4G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Little Directors, Big Ideas Teaching Kids to Make Movies
-date: 2024-04-25T07:34:21.919Z
-updated: 2024-04-26T07:34:21.919Z
+date: 2024-05-19T07:45:07.261Z
+updated: 2024-05-20T07:45:07.261Z
 tags: 
   - video editing software
   - video editing
@@ -3525,5 +3525,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-12-proplus-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 12 Pro+ 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-exploring-key-components-and-creation-process-of-ai-face-generators-for-2024/"><u>Updated Exploring Key Components and Creation Process of AI Face Generators for 2024</u></a></li>
 </ul></div>
+
 
 

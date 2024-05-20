@@ -1,7 +1,7 @@
 ---
 title: Mastering Mobile Video Tips for Vertical Aspect Ratio on Smartphones
-date: 2024-04-25T07:34:22.435Z
-updated: 2024-04-26T07:34:22.435Z
+date: 2024-05-19T07:45:08.192Z
+updated: 2024-05-20T07:45:08.192Z
 tags: 
   - video editing software
   - video editing
@@ -2827,5 +2827,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c12-plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C12 Plus</u></a></li>
 </ul></div>
+
 
 

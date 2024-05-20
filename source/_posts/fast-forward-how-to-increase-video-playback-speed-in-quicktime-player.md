@@ -1,7 +1,7 @@
 ---
 title: Fast Forward How to Increase Video Playback Speed in QuickTime Player
-date: 2024-04-25T07:34:19.479Z
-updated: 2024-04-26T07:34:19.479Z
+date: 2024-05-19T07:45:01.509Z
+updated: 2024-05-20T07:45:01.509Z
 tags: 
   - video editing software
   - video editing
@@ -1679,5 +1679,6 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 8? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

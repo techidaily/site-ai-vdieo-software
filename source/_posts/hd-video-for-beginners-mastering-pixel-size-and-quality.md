@@ -1,7 +1,7 @@
 ---
 title: HD Video for Beginners Mastering Pixel Size and Quality
-date: 2024-04-25T07:34:21.254Z
-updated: 2024-04-26T07:34:21.254Z
+date: 2024-05-19T07:45:06.395Z
+updated: 2024-05-20T07:45:06.395Z
 tags: 
   - video editing software
   - video editing
@@ -2618,5 +2618,6 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-11-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 11 with iTunes</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-15-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 15 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

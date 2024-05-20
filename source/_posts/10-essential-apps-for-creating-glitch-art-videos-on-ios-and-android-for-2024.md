@@ -1,7 +1,7 @@
 ---
 title: 10 Essential Apps for Creating Glitch Art Videos on iOS and Android for 2024
-date: 2024-04-25T07:34:29.666Z
-updated: 2024-04-26T07:34:29.666Z
+date: 2024-05-19T07:45:22.996Z
+updated: 2024-05-20T07:45:22.996Z
 tags: 
   - video editing software
   - video editing
@@ -2319,5 +2319,6 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

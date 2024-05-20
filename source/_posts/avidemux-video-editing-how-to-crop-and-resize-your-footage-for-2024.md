@@ -1,7 +1,7 @@
 ---
 title: Avidemux Video Editing How to Crop and Resize Your Footage for 2024
-date: 2024-04-25T07:34:40.613Z
-updated: 2024-04-26T07:34:40.613Z
+date: 2024-05-19T07:45:59.691Z
+updated: 2024-05-20T07:45:59.691Z
 tags: 
   - video editing software
   - video editing
@@ -1863,5 +1863,6 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y100i-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y100i</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Motion Blur A Step-by-Step FCP Tutorial
-date: 2024-04-25T07:34:22.460Z
-updated: 2024-04-26T07:34:22.460Z
+date: 2024-05-19T07:45:08.197Z
+updated: 2024-05-20T07:45:08.197Z
 tags: 
   - video editing software
   - video editing
@@ -2745,5 +2745,6 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://techidaily.com/how-to-reset-a-poco-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-v30-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme V30 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

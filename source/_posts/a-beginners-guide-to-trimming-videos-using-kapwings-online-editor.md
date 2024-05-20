@@ -1,7 +1,7 @@
 ---
 title: A Beginners Guide to Trimming Videos Using Kapwings Online Editor
-date: 2024-04-25T07:34:16.011Z
-updated: 2024-04-26T07:34:16.011Z
+date: 2024-05-19T07:44:48.582Z
+updated: 2024-05-20T07:44:48.582Z
 tags: 
   - video editing software
   - video editing
@@ -1629,5 +1629,6 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-12-proplus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 12 Pro+ 5G to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-m34-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy M34 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 
 

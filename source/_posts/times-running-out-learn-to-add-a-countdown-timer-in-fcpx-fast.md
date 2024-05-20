@@ -1,7 +1,7 @@
 ---
 title: Times Running Out! Learn to Add a Countdown Timer in FCPX Fast
-date: 2024-04-25T07:34:26.610Z
-updated: 2024-04-26T07:34:26.610Z
+date: 2024-05-19T07:45:16.576Z
+updated: 2024-05-20T07:45:16.576Z
 tags: 
   - video editing software
   - video editing
@@ -1840,5 +1840,6 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-whats-music-video-gif-and-how-to-add-music-to-gif-files/"><u>New In 2024, Whats Music Video GIF & How to Add Music to GIF Files</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 13 mini</u></a></li>
 </ul></div>
+
 
 

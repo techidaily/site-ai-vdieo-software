@@ -1,7 +1,7 @@
 ---
 title: Master Final Cut Pro X 40 Essential Keyboard Shortcuts
-date: 2024-04-25T07:34:16.381Z
-updated: 2024-04-26T07:34:16.381Z
+date: 2024-05-19T07:44:52.237Z
+updated: 2024-05-20T07:44:52.237Z
 tags: 
   - video editing software
   - video editing
@@ -1929,5 +1929,6 @@ chief Editor
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno Camon 20</u></a></li>
 </ul></div>
+
 
 

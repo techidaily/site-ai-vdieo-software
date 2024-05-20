@@ -1,7 +1,7 @@
 ---
 title: The Best Ways to Send Video Invitations From Your iPhone or Android
-date: 2024-04-25T07:34:25.231Z
-updated: 2024-04-26T07:34:25.231Z
+date: 2024-05-19T07:45:13.442Z
+updated: 2024-05-20T07:45:13.442Z
 tags: 
   - video editing software
   - video editing
@@ -1403,5 +1403,6 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Phone without PIN</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-razr-40-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Razr 40 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

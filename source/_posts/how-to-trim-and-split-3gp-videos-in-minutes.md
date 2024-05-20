@@ -1,7 +1,7 @@
 ---
 title: How to Trim and Split 3GP Videos in Minutes
-date: 2024-04-25T07:34:21.541Z
-updated: 2024-04-26T07:34:21.541Z
+date: 2024-05-19T07:45:06.579Z
+updated: 2024-05-20T07:45:06.579Z
 tags: 
   - video editing software
   - video editing
@@ -2330,5 +2330,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-find-x7-ultra-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Find X7 Ultra Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated HD Video 101 Mastering Pixel Size and Resolution
-date: 2024-04-25T07:34:36.257Z
-updated: 2024-04-26T07:34:36.257Z
+date: 2024-05-19T07:45:44.385Z
+updated: 2024-05-20T07:45:44.385Z
 tags: 
   - video editing software
   - video editing
@@ -2106,5 +2106,6 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone SE (2022)</u></a></li>
 </ul></div>
+
 
 

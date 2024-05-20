@@ -1,7 +1,7 @@
 ---
 title: Speed Up or Slow Down A Comprehensive Camtasia Video Guide
-date: 2024-04-25T07:34:24.661Z
-updated: 2024-04-26T07:34:24.661Z
+date: 2024-05-19T07:45:12.022Z
+updated: 2024-05-20T07:45:12.022Z
 tags: 
   - video editing software
   - video editing
@@ -2772,5 +2772,6 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 
 

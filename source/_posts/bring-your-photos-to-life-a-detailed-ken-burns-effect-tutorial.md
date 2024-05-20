@@ -1,7 +1,7 @@
 ---
 title: Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial
-date: 2024-04-25T07:34:16.262Z
-updated: 2024-04-26T07:34:16.262Z
+date: 2024-05-19T07:44:50.715Z
+updated: 2024-05-20T07:44:50.715Z
 tags: 
   - video editing software
   - video editing
@@ -2005,5 +2005,6 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nubia Red Magic 9 Pro+.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-itel-s23plus-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Itel S23+</u></a></li>
 </ul></div>
+
 
 

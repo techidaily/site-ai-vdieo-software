@@ -1,7 +1,7 @@
 ---
 title: How to Make Ken Burns Effect in Final Cut Pro?
-date: 2024-04-25T07:34:21.468Z
-updated: 2024-04-26T07:34:21.468Z
+date: 2024-05-19T07:45:06.520Z
+updated: 2024-05-20T07:45:06.520Z
 tags: 
   - video editing software
   - video editing
@@ -2831,5 +2831,6 @@ The last of the tools on this list, Freemake, is another Windows-only software! 
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-x100-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo X100</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
+
 
 

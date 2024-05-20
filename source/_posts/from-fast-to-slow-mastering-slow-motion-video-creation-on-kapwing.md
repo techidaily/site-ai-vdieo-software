@@ -1,7 +1,7 @@
 ---
 title: From Fast to Slow Mastering Slow-Motion Video Creation on Kapwing
-date: 2024-04-25T07:34:20.407Z
-updated: 2024-04-26T07:34:20.407Z
+date: 2024-05-19T07:45:04.063Z
+updated: 2024-05-20T07:45:04.063Z
 tags: 
   - video editing software
   - video editing
@@ -2670,5 +2670,6 @@ Some alternative **MP4 to MP3 Converters** are available for Mac, making the con
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-hd-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 8 HD Phone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-14-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 14 Pro Max with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

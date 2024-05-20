@@ -1,7 +1,7 @@
 ---
 title: Kapwing Tutorial Convert Your Videos to Slow Motion in Minutes
-date: 2024-04-25T07:34:21.866Z
-updated: 2024-04-26T07:34:21.866Z
+date: 2024-05-19T07:45:07.023Z
+updated: 2024-05-20T07:45:07.023Z
 tags: 
   - video editing software
   - video editing
@@ -1861,5 +1861,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-the-value-error-in-excel-2003-stellar-by-stellar-guide/"><u>How to Fix the #Value! Error in Excel 2003? | Stellar</u></a></li>
 </ul></div>
+
 
 

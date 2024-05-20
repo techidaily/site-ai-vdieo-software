@@ -1,7 +1,7 @@
 ---
 title: Understanding HD Video Resolution A Beginners Handbook
-date: 2024-04-25T07:34:27.580Z
-updated: 2024-04-26T07:34:27.580Z
+date: 2024-05-19T07:45:18.329Z
+updated: 2024-05-20T07:45:18.329Z
 tags: 
   - video editing software
   - video editing
@@ -2214,5 +2214,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone SE (2020)</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-3-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord 3 5G Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Cheat Sheet Social Media Image Sizes and Ratios
-date: 2024-04-25T07:34:25.754Z
-updated: 2024-04-26T07:34:25.754Z
+date: 2024-05-19T07:45:14.207Z
+updated: 2024-05-20T07:45:14.207Z
 tags: 
   - video editing software
   - video editing
@@ -2962,5 +2962,6 @@ It's a shame that iMovie is not available on Windows 10/11 computers. Thankfully
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a78-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A78 5G to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge+ (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 
 

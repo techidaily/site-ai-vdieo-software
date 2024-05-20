@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Control on Prime Video
-date: 2024-04-25T07:34:16.822Z
-updated: 2024-04-26T07:34:16.822Z
+date: 2024-05-19T07:44:54.097Z
+updated: 2024-05-20T07:44:54.097Z
 tags: 
   - video editing software
   - video editing
@@ -2623,5 +2623,6 @@ There are various other audio editing features that Filmora provides, such as ad
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-c51-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme C51 Location | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-v30-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme V30 Phone that is Locked?</u></a></li>
 </ul></div>
+
 
 

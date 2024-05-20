@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Editing A Guide to Changing Speed in Camtasia
-date: 2024-04-25T07:34:19.315Z
-updated: 2024-04-26T07:34:19.315Z
+date: 2024-05-19T07:45:00.042Z
+updated: 2024-05-20T07:45:00.042Z
 tags: 
   - video editing software
   - video editing
@@ -1710,5 +1710,6 @@ Follow @Shanoon Cox
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y56 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-liven-up-your-animate-website-on-scroll/"><u>Updated 2024 Approved How to Liven Up Your Animate Website on Scroll</u></a></li>
 </ul></div>
+
 
 

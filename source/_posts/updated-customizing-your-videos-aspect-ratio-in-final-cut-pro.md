@@ -1,7 +1,7 @@
 ---
 title: Updated Customizing Your Videos Aspect Ratio in Final Cut Pro
-date: 2024-04-25T07:34:35.563Z
-updated: 2024-04-26T07:34:35.563Z
+date: 2024-05-19T07:45:41.016Z
+updated: 2024-05-20T07:45:41.016Z
 tags: 
   - video editing software
   - video editing
@@ -2022,5 +2022,6 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A14 5G</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
 </ul></div>
+
 
 

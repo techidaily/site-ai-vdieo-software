@@ -1,7 +1,7 @@
 ---
 title: Color Harmony in PowerDirector A Beginners Guide to Clip Color Matching
-date: 2024-04-25T07:34:17.741Z
-updated: 2024-04-26T07:34:17.741Z
+date: 2024-05-19T07:44:56.791Z
+updated: 2024-05-20T07:44:56.791Z
 tags: 
   - video editing software
   - video editing
@@ -2107,5 +2107,6 @@ Follow @Liza Brown
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c02-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C02</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-asus-rog-phone-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Asus ROG Phone 8 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

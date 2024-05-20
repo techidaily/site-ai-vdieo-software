@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro
-date: 2024-04-25T07:34:19.657Z
-updated: 2024-04-26T07:34:19.657Z
+date: 2024-05-19T07:45:02.023Z
+updated: 2024-05-20T07:45:02.023Z
 tags: 
   - video editing software
   - video editing
@@ -1608,5 +1608,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Others ios devices? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-s18-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S18 Devices</u></a></li>
 </ul></div>
+
 
 

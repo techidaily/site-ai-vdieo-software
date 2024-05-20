@@ -1,7 +1,7 @@
 ---
 title: Mastering FCP Top 3 Transition Techniques for Smooth Edits
-date: 2024-04-25T07:34:22.419Z
-updated: 2024-04-26T07:34:22.419Z
+date: 2024-05-19T07:45:08.126Z
+updated: 2024-05-20T07:45:08.126Z
 tags: 
   - video editing software
   - video editing
@@ -2167,5 +2167,6 @@ To ensure safety and security, we need some special tools to edit audio or video
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-note-13-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi Note 13 Pro 5G Lock Screen Password</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 
 

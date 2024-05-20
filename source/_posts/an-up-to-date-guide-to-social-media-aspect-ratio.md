@@ -1,7 +1,7 @@
 ---
 title: An Up-to-Date Guide to Social Media Aspect Ratio
-date: 2024-04-25T07:34:16.093Z
-updated: 2024-04-26T07:34:16.093Z
+date: 2024-05-19T07:44:49.114Z
+updated: 2024-05-20T07:44:49.114Z
 tags: 
   - video editing software
   - video editing
@@ -4548,5 +4548,6 @@ To rotate an AVI video online, you need to be extremely picky, as even most onli
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Moto G04</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone X</u></a></li>
 </ul></div>
+
 
 

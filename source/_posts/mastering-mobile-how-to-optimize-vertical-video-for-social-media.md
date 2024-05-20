@@ -1,7 +1,7 @@
 ---
 title: Mastering Mobile How to Optimize Vertical Video for Social Media
-date: 2024-04-25T07:34:22.433Z
-updated: 2024-04-26T07:34:22.433Z
+date: 2024-05-19T07:45:08.187Z
+updated: 2024-05-20T07:45:08.187Z
 tags: 
   - video editing software
   - video editing
@@ -2080,5 +2080,6 @@ For macOS 10.12 or later
 <li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco C55 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-xr-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone XR Without a Passcode | Dr.fone</u></a></li>
 </ul></div>
+
 
 

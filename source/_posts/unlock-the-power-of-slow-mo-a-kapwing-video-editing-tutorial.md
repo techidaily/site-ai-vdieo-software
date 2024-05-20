@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Slow Mo A Kapwing Video Editing Tutorial
-date: 2024-04-25T07:34:28.143Z
-updated: 2024-04-26T07:34:28.143Z
+date: 2024-05-19T07:45:19.191Z
+updated: 2024-05-20T07:45:19.191Z
 tags: 
   - video editing software
   - video editing
@@ -2300,5 +2300,6 @@ In place of Sony Vegas Pro, any of these options would also give you a great use
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p40-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P40 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

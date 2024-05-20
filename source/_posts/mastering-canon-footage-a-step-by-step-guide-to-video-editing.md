@@ -1,7 +1,7 @@
 ---
 title: Mastering Canon Footage A Step-by-Step Guide to Video Editing
-date: 2024-04-25T07:34:22.413Z
-updated: 2024-04-26T07:34:22.413Z
+date: 2024-05-19T07:45:08.107Z
+updated: 2024-05-20T07:45:08.107Z
 tags: 
   - video editing software
   - video editing
@@ -2112,5 +2112,6 @@ One of the main benefits of using a light video editor is its simplicity and eas
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X7b | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/insert-signature-in-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Insert signature in Excel</u></a></li>
 </ul></div>
+
 
 

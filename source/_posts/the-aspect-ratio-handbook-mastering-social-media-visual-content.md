@@ -1,7 +1,7 @@
 ---
 title: The Aspect Ratio Handbook Mastering Social Media Visual Content
-date: 2024-04-25T07:34:16.452Z
-updated: 2024-04-26T07:34:16.452Z
+date: 2024-05-19T07:44:52.542Z
+updated: 2024-05-20T07:44:52.542Z
 tags: 
   - video editing software
   - video editing
@@ -3396,5 +3396,6 @@ Follow @Benjamin Arango
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-se-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone SE and Browser | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y78plus-t1-edition-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y78+ (T1) Edition FRP</u></a></li>
 </ul></div>
+
 
 

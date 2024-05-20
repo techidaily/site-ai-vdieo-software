@@ -1,7 +1,7 @@
 ---
 title: From Still to Stunning How to Add the Ken Burns Effect to Your Videos
-date: 2024-04-25T07:34:20.624Z
-updated: 2024-04-26T07:34:20.624Z
+date: 2024-05-19T07:45:04.729Z
+updated: 2024-05-20T07:45:04.729Z
 tags: 
   - video editing software
   - video editing
@@ -1796,5 +1796,6 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy F04? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 12 Pro Max?</u></a></li>
 </ul></div>
+
 
 

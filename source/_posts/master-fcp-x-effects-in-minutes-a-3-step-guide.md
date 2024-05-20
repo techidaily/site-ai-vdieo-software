@@ -1,7 +1,7 @@
 ---
 title: Master FCP X Effects in Minutes A 3-Step Guide
-date: 2024-04-25T07:34:16.147Z
-updated: 2024-04-26T07:34:16.147Z
+date: 2024-05-19T07:44:49.619Z
+updated: 2024-05-20T07:44:49.619Z
 tags: 
   - video editing software
   - video editing
@@ -3954,5 +3954,6 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S23+ to New Android? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Final Cut Pro X Tutorial L-Cuts and J-Cuts
-date: 2024-04-25T07:34:35.952Z
-updated: 2024-04-26T07:34:35.952Z
+date: 2024-05-19T07:45:42.678Z
+updated: 2024-05-20T07:45:42.678Z
 tags: 
   - video editing software
   - video editing
@@ -2851,5 +2851,6 @@ Many online video editing tools are available in the market that allows you to c
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-c51-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme C51 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-c02-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia C02? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 
 

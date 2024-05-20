@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro 2023 Color Correction Secrets for Filmmakers
-date: 2024-04-25T07:34:19.584Z
-updated: 2024-04-26T07:34:19.584Z
+date: 2024-05-19T07:45:01.898Z
+updated: 2024-05-20T07:45:01.898Z
 tags: 
   - video editing software
   - video editing
@@ -2533,5 +2533,6 @@ Key features
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Lava Agni 2 5G</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-14-plus-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 14 Plus Activation Lock</u></a></li>
 </ul></div>
+
 
 

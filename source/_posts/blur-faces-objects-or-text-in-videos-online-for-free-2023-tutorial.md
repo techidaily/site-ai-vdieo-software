@@ -1,7 +1,7 @@
 ---
 title: Blur Faces, Objects, or Text in Videos Online for Free (2023 Tutorial)
-date: 2024-04-25T07:34:17.394Z
-updated: 2024-04-26T07:34:17.394Z
+date: 2024-05-19T07:44:56.133Z
+updated: 2024-05-20T07:44:56.133Z
 tags: 
   - video editing software
   - video editing
@@ -3880,5 +3880,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 11 5G to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-hd-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 HD without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Free Online Image Resizer Adjust Ratios and Sizes
-date: 2024-04-25T07:34:19.986Z
-updated: 2024-04-26T07:34:19.986Z
+date: 2024-05-19T07:45:02.920Z
+updated: 2024-05-20T07:45:02.920Z
 tags: 
   - video editing software
   - video editing
@@ -2289,5 +2289,6 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-p55-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel P55 5G Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 
 

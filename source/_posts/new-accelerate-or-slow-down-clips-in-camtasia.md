@@ -1,7 +1,7 @@
 ---
 title: New Accelerate or Slow Down Clips in Camtasia
-date: 2024-04-25T07:34:32.156Z
-updated: 2024-04-26T07:34:32.156Z
+date: 2024-05-19T07:45:29.693Z
+updated: 2024-05-20T07:45:29.693Z
 tags: 
   - video editing software
   - video editing
@@ -2533,5 +2533,6 @@ Follow @Benjamin Arango
 <li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-c53-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

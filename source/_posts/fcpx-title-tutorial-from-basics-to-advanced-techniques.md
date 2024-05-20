@@ -1,7 +1,7 @@
 ---
 title: FCPX Title Tutorial From Basics to Advanced Techniques
-date: 2024-04-25T07:34:19.547Z
-updated: 2024-04-26T07:34:19.547Z
+date: 2024-05-19T07:45:01.732Z
+updated: 2024-05-20T07:45:01.732Z
 tags: 
   - video editing software
   - video editing
@@ -2553,5 +2553,6 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-reno-9a-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Reno 9A.</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-nokia-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Nokia .</u></a></li>
 </ul></div>
+
 
 

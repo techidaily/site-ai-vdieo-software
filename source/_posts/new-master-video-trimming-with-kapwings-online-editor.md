@@ -1,7 +1,7 @@
 ---
 title: New Master Video Trimming with Kapwings Online Editor
-date: 2024-04-25T07:34:34.272Z
-updated: 2024-04-26T07:34:34.272Z
+date: 2024-05-19T07:45:34.245Z
+updated: 2024-05-20T07:45:34.245Z
 tags: 
   - video editing software
   - video editing
@@ -3207,5 +3207,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel A60? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/best-oppo-a78-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo A78 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transcribe Voice to Written Words
-date: 2024-04-25T07:34:16.356Z
-updated: 2024-04-26T07:34:16.356Z
+date: 2024-05-19T07:44:52.112Z
+updated: 2024-05-20T07:44:52.112Z
 tags: 
   - video editing software
   - video editing
@@ -2082,5 +2082,6 @@ Various **pixel calculator ratios**, both paid and free, have popped up on the w
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MKV movies</u></a></li>
 </ul></div>
+
 
 

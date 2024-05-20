@@ -1,7 +1,7 @@
 ---
 title: Top Online Tools to Resize Images to Perfect Ratios
-date: 2024-04-25T07:34:26.957Z
-updated: 2024-04-26T07:34:26.957Z
+date: 2024-05-19T07:45:16.891Z
+updated: 2024-05-20T07:45:16.891Z
 tags: 
   - video editing software
   - video editing
@@ -5086,5 +5086,6 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-15-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 15 Plus Without a Home Button | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor V Purse? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Cut Out the Middleman Learn to Trim Videos Online with Kapwing
-date: 2024-04-25T07:34:18.241Z
-updated: 2024-04-26T07:34:18.241Z
+date: 2024-05-19T07:44:58.335Z
+updated: 2024-05-20T07:44:58.335Z
 tags: 
   - video editing software
   - video editing
@@ -2696,5 +2696,6 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-130-music-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia 130 Music Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-s24-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy S24 Ultra to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 
 

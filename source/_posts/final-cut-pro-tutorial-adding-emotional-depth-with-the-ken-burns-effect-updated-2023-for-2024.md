@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023) for 2024
-date: 2024-04-25T07:34:35.927Z
-updated: 2024-04-26T07:34:35.927Z
+date: 2024-05-19T07:45:42.595Z
+updated: 2024-05-20T07:45:42.595Z
 tags: 
   - video editing software
   - video editing
@@ -3047,5 +3047,6 @@ Follow @Liza Brown
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-n3-flip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find N3 Flip Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-note-13-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi Note 13 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Customize Your Videos Speed in Camtasia A Beginners Guide
-date: 2024-04-25T07:34:18.180Z
-updated: 2024-04-26T07:34:18.180Z
+date: 2024-05-19T07:44:58.269Z
+updated: 2024-05-20T07:44:58.269Z
 tags: 
   - video editing software
   - video editing
@@ -1739,5 +1739,6 @@ For Windows system users, Windows Movie Maker is the first and default choice wh
 <li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

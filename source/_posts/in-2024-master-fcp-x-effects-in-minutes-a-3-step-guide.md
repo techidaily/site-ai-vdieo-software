@@ -1,7 +1,7 @@
 ---
 title: In 2024, Master FCP X Effects in Minutes A 3-Step Guide
-date: 2024-04-25T07:34:34.269Z
-updated: 2024-04-26T07:34:34.269Z
+date: 2024-05-19T07:45:34.184Z
+updated: 2024-05-20T07:45:34.184Z
 tags: 
   - video editing software
   - video editing
@@ -2114,5 +2114,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V27e | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-p55-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel P55 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 
 

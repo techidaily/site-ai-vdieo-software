@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Aspect Ratio Settings A Beginners Guide
-date: 2024-04-25T07:34:16.301Z
-updated: 2024-04-26T07:34:16.301Z
+date: 2024-05-19T07:44:51.140Z
+updated: 2024-05-20T07:44:51.140Z
 tags: 
   - video editing software
   - video editing
@@ -2083,5 +2083,6 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-defy-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Defy 2 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y27 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

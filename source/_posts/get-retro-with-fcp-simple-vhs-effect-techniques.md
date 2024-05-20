@@ -1,7 +1,7 @@
 ---
 title: Get Retro with FCP Simple VHS Effect Techniques
-date: 2024-04-25T07:34:21.027Z
-updated: 2024-04-26T07:34:21.027Z
+date: 2024-05-19T07:45:05.479Z
+updated: 2024-05-20T07:45:05.479Z
 tags: 
   - video editing software
   - video editing
@@ -2257,5 +2257,6 @@ Well, there you have it – the best **WhatsApp Status Maker App that** would ma
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 11 Pro</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking HD Video A Step-by-Step Guide to Pixel Size and Quality
-date: 2024-04-25T07:34:28.189Z
-updated: 2024-04-26T07:34:28.189Z
+date: 2024-05-19T07:45:19.325Z
+updated: 2024-05-20T07:45:19.325Z
 tags: 
   - video editing software
   - video editing
@@ -2665,5 +2665,6 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-can-oppo-k11xmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo K11xMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

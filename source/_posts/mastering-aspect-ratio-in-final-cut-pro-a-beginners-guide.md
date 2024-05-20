@@ -1,7 +1,7 @@
 ---
 title: Mastering Aspect Ratio in Final Cut Pro A Beginners Guide
-date: 2024-04-25T07:34:22.409Z
-updated: 2024-04-26T07:34:22.409Z
+date: 2024-05-19T07:45:08.098Z
+updated: 2024-05-20T07:45:08.098Z
 tags: 
   - video editing software
   - video editing
@@ -2510,5 +2510,6 @@ For macOS 10.12 or later
 <li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-v2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic V2 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 
 

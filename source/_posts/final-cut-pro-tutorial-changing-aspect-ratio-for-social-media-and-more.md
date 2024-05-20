@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More
-date: 2024-04-25T07:34:19.655Z
-updated: 2024-04-26T07:34:19.655Z
+date: 2024-05-19T07:45:02.018Z
+updated: 2024-05-20T07:45:02.018Z
 tags: 
   - video editing software
   - video editing
@@ -1878,5 +1878,6 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-c55-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco C55 via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

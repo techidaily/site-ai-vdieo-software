@@ -1,7 +1,7 @@
 ---
 title: Adjusting Aspect Ratios in FCP A Step-by-Step Guide
-date: 2024-04-25T07:34:16.059Z
-updated: 2024-04-26T07:34:16.059Z
+date: 2024-05-19T07:44:48.832Z
+updated: 2024-05-20T07:44:48.832Z
 tags: 
   - video editing software
   - video editing
@@ -1957,5 +1957,6 @@ Speed changing is a standard video editing technique that, when done correctly, 
 <li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Samsung Galaxy A15 4G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-find-n3-flip-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Find N3 Flip Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 
 

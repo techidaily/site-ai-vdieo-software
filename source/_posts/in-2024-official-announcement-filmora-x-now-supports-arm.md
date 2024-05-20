@@ -1,7 +1,7 @@
 ---
 title: In 2024, Official Announcement Filmora X Now Supports ARM
-date: 2024-04-25T07:34:36.861Z
-updated: 2024-04-26T07:34:36.861Z
+date: 2024-05-19T07:45:47.244Z
+updated: 2024-05-20T07:45:47.244Z
 tags: 
   - video editing software
   - video editing
@@ -1778,5 +1778,6 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy A05? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g13-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G13?</u></a></li>
 </ul></div>
+
 
 

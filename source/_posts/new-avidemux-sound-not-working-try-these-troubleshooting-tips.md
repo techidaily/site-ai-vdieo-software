@@ -1,7 +1,7 @@
 ---
 title: New Avidemux Sound Not Working? Try These Troubleshooting Tips
-date: 2024-04-25T07:34:40.597Z
-updated: 2024-04-26T07:34:40.597Z
+date: 2024-05-19T07:45:59.571Z
+updated: 2024-05-20T07:45:59.571Z
 tags: 
   - video editing software
   - video editing
@@ -1973,5 +1973,6 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y55s 5G (2023)</u></a></li>
 </ul></div>
+
 
 

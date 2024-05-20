@@ -1,7 +1,7 @@
 ---
 title: From Script to Screen on a Shoestring 8 Affordable Filmmaking Software
-date: 2024-04-25T07:34:20.568Z
-updated: 2024-04-26T07:34:20.568Z
+date: 2024-05-19T07:45:04.549Z
+updated: 2024-05-20T07:45:04.549Z
 tags: 
   - video editing software
   - video editing
@@ -1746,5 +1746,6 @@ Various **pixel calculator ratios**, both paid and free, have popped up on the w
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s iOS System? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

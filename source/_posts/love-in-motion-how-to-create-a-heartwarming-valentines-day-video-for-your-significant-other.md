@@ -1,7 +1,7 @@
 ---
 title: Love in Motion How to Create a Heartwarming Valentines Day Video for Your Significant Other
-date: 2024-04-25T07:34:22.096Z
-updated: 2024-04-26T07:34:22.096Z
+date: 2024-05-19T07:45:07.422Z
+updated: 2024-05-20T07:45:07.422Z
 tags: 
   - video editing software
   - video editing
@@ -3615,5 +3615,6 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 12 mini</u></a></li>
 </ul></div>
+
 
 

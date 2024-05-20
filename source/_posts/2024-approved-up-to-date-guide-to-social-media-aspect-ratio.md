@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Up-to-Date Guide to Social Media Aspect Ratio
-date: 2024-04-25T07:34:39.385Z
-updated: 2024-04-26T07:34:39.385Z
+date: 2024-05-19T07:45:54.245Z
+updated: 2024-05-20T07:45:54.245Z
 tags: 
   - video editing software
   - video editing
@@ -3977,5 +3977,6 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-civi-3-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Civi 3</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-2020-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE (2020)</u></a></li>
 </ul></div>
+
 
 

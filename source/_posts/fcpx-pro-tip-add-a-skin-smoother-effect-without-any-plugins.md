@@ -1,7 +1,7 @@
 ---
 title: FCPX Pro Tip Add a Skin Smoother Effect Without Any Plugins
-date: 2024-04-25T07:34:19.540Z
-updated: 2024-04-26T07:34:19.540Z
+date: 2024-05-19T07:45:01.694Z
+updated: 2024-05-20T07:45:01.694Z
 tags: 
   - video editing software
   - video editing
@@ -2335,5 +2335,6 @@ In place of Sony Vegas Pro, any of these options would also give you a great use
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-c02-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia C02 Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-s18e-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo S18e Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

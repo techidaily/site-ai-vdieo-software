@@ -1,7 +1,7 @@
 ---
 title: Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX
-date: 2024-04-25T07:34:17.929Z
-updated: 2024-04-26T07:34:17.929Z
+date: 2024-05-19T07:44:57.166Z
+updated: 2024-05-20T07:44:57.166Z
 tags: 
   - video editing software
   - video editing
@@ -1865,5 +1865,6 @@ Follow @Liza Brown
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi 13T | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-infinix-smart-8-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Smart 8 Pro Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 
 

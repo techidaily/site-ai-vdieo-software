@@ -1,7 +1,7 @@
 ---
 title: In 2024, Avidemux Video Editing How to Crop and Resize Your Footage
-date: 2024-04-25T07:34:40.611Z
-updated: 2024-04-26T07:34:40.611Z
+date: 2024-05-19T07:45:59.685Z
+updated: 2024-05-20T07:45:59.685Z
 tags: 
   - video editing software
   - video editing
@@ -3297,5 +3297,6 @@ It’s essential every user becomes familiar with the various free video editing
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12 5G Device</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
 </ul></div>
+
 
 

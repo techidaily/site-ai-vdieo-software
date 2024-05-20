@@ -1,7 +1,7 @@
 ---
 title: How to Calculate Image Resolution and Aspect Ratio
-date: 2024-04-25T07:34:21.360Z
-updated: 2024-04-26T07:34:21.360Z
+date: 2024-05-19T07:45:06.473Z
+updated: 2024-05-20T07:45:06.473Z
 tags: 
   - video editing software
   - video editing
@@ -1759,5 +1759,6 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a58-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A58 4G Screen | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Motorola Moto E13? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

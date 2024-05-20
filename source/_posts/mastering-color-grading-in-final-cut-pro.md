@@ -1,7 +1,7 @@
 ---
 title: Mastering Color Grading in Final Cut Pro
-date: 2024-04-25T07:34:22.414Z
-updated: 2024-04-26T07:34:22.414Z
+date: 2024-05-19T07:45:08.111Z
+updated: 2024-05-20T07:45:08.111Z
 tags: 
   - video editing software
   - video editing
@@ -2919,5 +2919,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-11-proplus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme 11 Pro+ Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-m6-pro-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco M6 Pro 4G?</u></a></li>
 </ul></div>
+
 
 

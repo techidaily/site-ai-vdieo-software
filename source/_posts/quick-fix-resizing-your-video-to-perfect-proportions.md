@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Resizing Your Video to Perfect Proportions
-date: 2024-04-25T07:34:23.260Z
-updated: 2024-04-26T07:34:23.260Z
+date: 2024-05-19T07:45:10.103Z
+updated: 2024-05-20T07:45:10.103Z
 tags: 
   - video editing software
   - video editing
@@ -3030,5 +3030,6 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V30 Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-s17e-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo S17e? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 
 

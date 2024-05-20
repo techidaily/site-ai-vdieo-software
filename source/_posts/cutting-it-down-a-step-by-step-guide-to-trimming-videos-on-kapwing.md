@@ -1,7 +1,7 @@
 ---
 title: Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing
-date: 2024-04-25T07:34:18.298Z
-updated: 2024-04-26T07:34:18.298Z
+date: 2024-05-19T07:44:58.414Z
+updated: 2024-05-20T07:44:58.414Z
 tags: 
   - video editing software
   - video editing
@@ -3024,5 +3024,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Phone Forgot Password</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

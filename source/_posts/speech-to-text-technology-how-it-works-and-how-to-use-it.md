@@ -1,7 +1,7 @@
 ---
 title: Speech-to-Text Technology How It Works and How to Use It
-date: 2024-04-25T07:34:24.659Z
-updated: 2024-04-26T07:34:24.659Z
+date: 2024-05-19T07:45:12.018Z
+updated: 2024-05-20T07:45:12.018Z
 tags: 
   - video editing software
   - video editing
@@ -2106,5 +2106,6 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-magic-5-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor Magic 5 for Streaming | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-narzo-60-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme Narzo 60 Pro 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

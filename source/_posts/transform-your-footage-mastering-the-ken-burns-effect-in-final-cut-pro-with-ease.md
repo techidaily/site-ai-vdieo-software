@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease
-date: 2024-04-25T07:34:27.262Z
-updated: 2024-04-26T07:34:27.262Z
+date: 2024-05-19T07:45:17.693Z
+updated: 2024-05-20T07:45:17.693Z
 tags: 
   - video editing software
   - video editing
@@ -3391,5 +3391,6 @@ Follow @Shanoon Cox
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Pro Max</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 Pro i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
+
 
 

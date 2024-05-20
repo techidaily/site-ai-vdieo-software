@@ -1,7 +1,7 @@
 ---
 title: How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android
-date: 2024-04-25T07:34:21.352Z
-updated: 2024-04-26T07:34:21.352Z
+date: 2024-05-19T07:45:06.454Z
+updated: 2024-05-20T07:45:06.454Z
 tags: 
   - video editing software
   - video editing
@@ -2049,5 +2049,6 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-40c-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 40C</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-14-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from 14.</u></a></li>
 </ul></div>
+
 
 

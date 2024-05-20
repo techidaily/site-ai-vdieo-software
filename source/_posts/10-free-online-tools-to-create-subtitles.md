@@ -1,7 +1,7 @@
 ---
 title: 10 Free Online Tools to Create Subtitles
-date: 2024-04-25T07:34:15.790Z
-updated: 2024-04-26T07:34:15.790Z
+date: 2024-05-19T07:44:47.784Z
+updated: 2024-05-20T07:44:47.784Z
 tags: 
   - video editing software
   - video editing
@@ -2764,5 +2764,6 @@ Zamzar Is one of the most popular online converting tools. It does not just have
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-12-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 12 Pro 5G Data? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

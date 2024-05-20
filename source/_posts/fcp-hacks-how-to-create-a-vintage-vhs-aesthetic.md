@@ -1,7 +1,7 @@
 ---
 title: FCP Hacks How to Create a Vintage VHS Aesthetic
-date: 2024-04-25T07:34:19.505Z
-updated: 2024-04-26T07:34:19.505Z
+date: 2024-05-19T07:45:01.593Z
+updated: 2024-05-20T07:45:01.593Z
 tags: 
   - video editing software
   - video editing
@@ -2291,5 +2291,6 @@ As previously said, these are the best **video invitation maker app** available.
 <li><a href="https://animation-videos.techidaily.com/updated-simple-guide-to-create-new-and-exciting-blackboard-animation/"><u>Updated Simple Guide to Create New and Exciting Blackboard Animation</u></a></li>
 <li><a href="https://review-topics.techidaily.com/nokia-c12-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia C12 support - Forgotten screen lock.</u></a></li>
 </ul></div>
+
 
 

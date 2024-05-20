@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Color Grading Tutorial Final Cut Pro Edition
-date: 2024-04-25T07:34:25.816Z
-updated: 2024-04-26T07:34:25.816Z
+date: 2024-05-19T07:45:14.244Z
+updated: 2024-05-20T07:45:14.244Z
 tags: 
   - video editing software
   - video editing
@@ -2478,5 +2478,6 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-hot-40-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Hot 40 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Updated Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
 </ul></div>
+
 
 

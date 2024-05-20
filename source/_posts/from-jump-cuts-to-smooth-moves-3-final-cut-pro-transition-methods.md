@@ -1,7 +1,7 @@
 ---
 title: From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods
-date: 2024-04-25T07:34:20.482Z
-updated: 2024-04-26T07:34:20.482Z
+date: 2024-05-19T07:45:04.237Z
+updated: 2024-05-20T07:45:04.237Z
 tags: 
   - video editing software
   - video editing
@@ -3238,5 +3238,6 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

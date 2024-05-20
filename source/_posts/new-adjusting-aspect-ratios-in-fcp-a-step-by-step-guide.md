@@ -1,7 +1,7 @@
 ---
 title: New Adjusting Aspect Ratios in FCP A Step-by-Step Guide
-date: 2024-04-25T07:34:32.606Z
-updated: 2024-04-26T07:34:32.606Z
+date: 2024-05-19T07:45:30.449Z
+updated: 2024-05-20T07:45:30.449Z
 tags: 
   - video editing software
   - video editing
@@ -2236,5 +2236,6 @@ Video editors are used by the ones who are interested in editing videos for pers
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco M6 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

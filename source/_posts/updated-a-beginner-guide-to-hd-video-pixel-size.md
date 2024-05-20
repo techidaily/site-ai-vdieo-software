@@ -1,7 +1,7 @@
 ---
 title: Updated A Beginner Guide to HD Video Pixel Size
-date: 2024-04-25T07:34:31.970Z
-updated: 2024-04-26T07:34:31.970Z
+date: 2024-05-19T07:45:29.305Z
+updated: 2024-05-20T07:45:29.305Z
 tags: 
   - video editing software
   - video editing
@@ -2997,5 +2997,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 mini After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Effects in 3 Steps? Do with FCP X
-date: 2024-04-25T07:34:36.324Z
-updated: 2024-04-26T07:34:36.324Z
+date: 2024-05-19T07:45:44.482Z
+updated: 2024-05-20T07:45:44.482Z
 tags: 
   - video editing software
   - video editing
@@ -1993,5 +1993,6 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-12-miniipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 12 mini/iPad/iPod</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-11-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 11 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

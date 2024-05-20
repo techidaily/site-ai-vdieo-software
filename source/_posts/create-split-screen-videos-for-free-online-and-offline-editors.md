@@ -1,7 +1,7 @@
 ---
 title: Create Split-Screen Videos for Free Online and Offline Editors
-date: 2024-04-25T07:34:17.968Z
-updated: 2024-04-26T07:34:17.968Z
+date: 2024-05-19T07:44:57.412Z
+updated: 2024-05-20T07:44:57.412Z
 tags: 
   - video editing software
   - video editing
@@ -2259,5 +2259,6 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-phantom-v-flip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Phantom V Flip to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 
 

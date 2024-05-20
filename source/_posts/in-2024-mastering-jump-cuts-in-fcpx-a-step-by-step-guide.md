@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Jump Cuts in FCPX A Step-by-Step Guide
-date: 2024-04-25T07:34:36.649Z
-updated: 2024-04-26T07:34:36.649Z
+date: 2024-05-19T07:45:46.894Z
+updated: 2024-05-20T07:45:46.894Z
 tags: 
   - video editing software
   - video editing
@@ -2123,5 +2123,6 @@ Many online video editing tools are available in the market that allows you to c
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x50iplus-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here</u></a></li>
 </ul></div>
+
 
 

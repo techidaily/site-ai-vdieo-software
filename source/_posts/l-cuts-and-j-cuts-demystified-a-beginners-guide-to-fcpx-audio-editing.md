@@ -1,7 +1,7 @@
 ---
 title: L-Cuts and J-Cuts Demystified A Beginners Guide to FCPX Audio Editing
-date: 2024-04-25T07:34:21.888Z
-updated: 2024-04-26T07:34:21.888Z
+date: 2024-05-19T07:45:07.106Z
+updated: 2024-05-20T07:45:07.106Z
 tags: 
   - video editing software
   - video editing
@@ -3028,5 +3028,6 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

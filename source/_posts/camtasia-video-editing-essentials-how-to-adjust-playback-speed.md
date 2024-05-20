@@ -1,7 +1,7 @@
 ---
 title: Camtasia Video Editing Essentials How to Adjust Playback Speed
-date: 2024-04-25T07:34:17.583Z
-updated: 2024-04-26T07:34:17.583Z
+date: 2024-05-19T07:44:56.368Z
+updated: 2024-05-20T07:44:56.368Z
 tags: 
   - video editing software
   - video editing
@@ -2245,5 +2245,6 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-11-pro-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 11 Pro to TV or PC? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/infinix-smart-7-hd-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 7 HD Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
+
 
 

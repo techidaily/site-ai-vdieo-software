@@ -1,7 +1,7 @@
 ---
 title: Top 10 Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-25T07:34:16.512Z
-updated: 2024-04-26T07:34:16.512Z
+date: 2024-05-19T07:44:52.809Z
+updated: 2024-05-20T07:44:52.809Z
 tags: 
   - video editing software
   - video editing
@@ -2146,5 +2146,6 @@ For macOS 10.12 or later
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-tool-in-2024/"><u>Updated What Is an AI Tool, In 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-smart-8-plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Smart 8 Plus for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 
 

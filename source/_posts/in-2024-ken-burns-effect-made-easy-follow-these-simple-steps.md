@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-04-25T07:34:36.567Z
-updated: 2024-04-26T07:34:36.567Z
+date: 2024-05-19T07:45:45.770Z
+updated: 2024-05-20T07:45:45.770Z
 tags: 
   - video editing software
   - video editing
@@ -5008,5 +5008,6 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-v27-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo V27 to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

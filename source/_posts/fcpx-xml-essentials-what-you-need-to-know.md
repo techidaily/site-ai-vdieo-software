@@ -1,7 +1,7 @@
 ---
 title: FCPX XML Essentials What You Need to Know
-date: 2024-04-25T07:34:19.562Z
-updated: 2024-04-26T07:34:19.562Z
+date: 2024-05-19T07:45:01.787Z
+updated: 2024-05-20T07:45:01.787Z
 tags: 
   - video editing software
   - video editing
@@ -2934,5 +2934,6 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-m34-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy M34 5G to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

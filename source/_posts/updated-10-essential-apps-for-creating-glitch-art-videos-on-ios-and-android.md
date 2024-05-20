@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Essential Apps for Creating Glitch Art Videos on iOS and Android
-date: 2024-04-25T07:34:29.667Z
-updated: 2024-04-26T07:34:29.667Z
+date: 2024-05-19T07:45:23.001Z
+updated: 2024-05-20T07:45:23.001Z
 tags: 
   - video editing software
   - video editing
@@ -3133,5 +3133,6 @@ Follow @Shanoon Cox
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 8 Plus</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S17t FRP</u></a></li>
 </ul></div>
+
 
 

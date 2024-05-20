@@ -1,7 +1,7 @@
 ---
 title: New How to Do Jump Cuts Like a Pro in Final Cut Pro X?
-date: 2024-04-25T07:34:36.343Z
-updated: 2024-04-26T07:34:36.343Z
+date: 2024-05-19T07:45:44.694Z
+updated: 2024-05-20T07:45:44.694Z
 tags: 
   - video editing software
   - video editing
@@ -1734,5 +1734,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-12-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 12 Pro Max With or Without Password</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-5-vfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 5 VFRP Lock</u></a></li>
 </ul></div>
+
 
 

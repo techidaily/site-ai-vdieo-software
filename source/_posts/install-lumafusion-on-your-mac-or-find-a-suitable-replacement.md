@@ -1,7 +1,7 @@
 ---
 title: Install Lumafusion on Your Mac or Find a Suitable Replacement
-date: 2024-04-25T07:34:21.744Z
-updated: 2024-04-26T07:34:21.744Z
+date: 2024-05-19T07:45:06.853Z
+updated: 2024-05-20T07:45:06.853Z
 tags: 
   - video editing software
   - video editing
@@ -3202,5 +3202,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-s24-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy S24</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-8t-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 8T 5G For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

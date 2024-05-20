@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect Tutorial From Basics to Pro
-date: 2024-04-25T07:34:21.875Z
-updated: 2024-04-26T07:34:21.875Z
+date: 2024-05-19T07:45:07.077Z
+updated: 2024-05-20T07:45:07.077Z
 tags: 
   - video editing software
   - video editing
@@ -2523,5 +2523,6 @@ Audio Tool Set makes the last of the **audio converters** on this list (as well 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia 150 (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 
 

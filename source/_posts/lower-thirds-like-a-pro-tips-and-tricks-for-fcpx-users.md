@@ -1,7 +1,7 @@
 ---
 title: Lower Thirds Like a Pro Tips and Tricks for FCPX Users
-date: 2024-04-25T07:34:22.098Z
-updated: 2024-04-26T07:34:22.098Z
+date: 2024-05-19T07:45:07.428Z
+updated: 2024-05-20T07:45:07.428Z
 tags: 
   - video editing software
   - video editing
@@ -2029,5 +2029,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-f15-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy F15 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-z-fold-5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy Z Fold 5 Phones</u></a></li>
 </ul></div>
+
 
 

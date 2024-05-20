@@ -1,7 +1,7 @@
 ---
 title: How to Fast Forward or Slow Down Videos in Camtasia
-date: 2024-04-25T07:34:16.350Z
-updated: 2024-04-26T07:34:16.350Z
+date: 2024-05-19T07:44:51.618Z
+updated: 2024-05-20T07:44:51.618Z
 tags: 
   - video editing software
   - video editing
@@ -1323,5 +1323,6 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G13 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
 </ul></div>
+
 
 

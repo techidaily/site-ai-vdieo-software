@@ -1,7 +1,7 @@
 ---
 title: Resize and Refine The Art of Cropping Videos in Avidemux
-date: 2024-04-25T07:34:23.396Z
-updated: 2024-04-26T07:34:23.396Z
+date: 2024-05-19T07:45:10.510Z
+updated: 2024-05-20T07:45:10.510Z
 tags: 
   - video editing software
   - video editing
@@ -2517,5 +2517,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-c12-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia C12 Pro FRP Bypass Instantly</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a05-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

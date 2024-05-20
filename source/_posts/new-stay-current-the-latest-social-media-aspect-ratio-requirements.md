@@ -1,7 +1,7 @@
 ---
 title: New Stay Current The Latest Social Media Aspect Ratio Requirements
-date: 2024-04-25T07:34:37.222Z
-updated: 2024-04-26T07:34:37.222Z
+date: 2024-05-19T07:45:48.234Z
+updated: 2024-05-20T07:45:48.234Z
 tags: 
   - video editing software
   - video editing
@@ -1670,5 +1670,6 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y200-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y200 Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

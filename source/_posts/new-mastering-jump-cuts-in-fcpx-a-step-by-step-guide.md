@@ -1,7 +1,7 @@
 ---
 title: New Mastering Jump Cuts in FCPX A Step-by-Step Guide
-date: 2024-04-25T07:34:36.651Z
-updated: 2024-04-26T07:34:36.651Z
+date: 2024-05-19T07:45:46.899Z
+updated: 2024-05-20T07:45:46.899Z
 tags: 
   - video editing software
   - video editing
@@ -2454,5 +2454,6 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-zero-5g-2023-turbo-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Zero 5G 2023 Turbo FRP Without Computer</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Blur Video Footage on iPhone and Android Devices
-date: 2024-04-25T07:34:19.331Z
-updated: 2024-04-26T07:34:19.331Z
+date: 2024-05-19T07:45:00.141Z
+updated: 2024-05-20T07:45:00.141Z
 tags: 
   - video editing software
   - video editing
@@ -2785,5 +2785,6 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a78-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A78</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 
 

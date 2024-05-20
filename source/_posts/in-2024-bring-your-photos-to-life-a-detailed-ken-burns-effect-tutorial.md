@@ -1,7 +1,7 @@
 ---
 title: In 2024, Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial
-date: 2024-04-25T07:34:35.250Z
-updated: 2024-04-26T07:34:35.250Z
+date: 2024-05-19T07:45:39.451Z
+updated: 2024-05-20T07:45:39.451Z
 tags: 
   - video editing software
   - video editing
@@ -2257,5 +2257,6 @@ Many people come up with the question, **is windows movie maker free**; yes, it 
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-reno-10-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Reno 10 Pro 5G? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-v-purse-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor V Purse and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 
 

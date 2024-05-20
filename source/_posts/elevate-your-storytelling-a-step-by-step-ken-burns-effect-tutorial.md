@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-04-25T07:34:19.359Z
-updated: 2024-04-26T07:34:19.359Z
+date: 2024-05-19T07:45:00.281Z
+updated: 2024-05-20T07:45:00.281Z
 tags: 
   - video editing software
   - video editing
@@ -2676,5 +2676,6 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-htc-u23-pro-by-drfone-android/"><u>Three Ways to Sim Unlock HTC U23 Pro</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

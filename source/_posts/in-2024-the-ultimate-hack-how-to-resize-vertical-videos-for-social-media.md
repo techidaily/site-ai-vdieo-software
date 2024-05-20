@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Hack How to Resize Vertical Videos for Social Media
-date: 2024-04-25T07:34:37.736Z
-updated: 2024-04-26T07:34:37.736Z
+date: 2024-05-19T07:45:50.023Z
+updated: 2024-05-20T07:45:50.023Z
 tags: 
   - video editing software
   - video editing
@@ -2520,5 +2520,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-ace-3-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus Ace 3 for Free? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

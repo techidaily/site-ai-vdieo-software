@@ -1,7 +1,7 @@
 ---
 title: Updated Best Apps for Editing Vertical Videos on Your Smartphone
-date: 2024-04-25T07:34:41.057Z
-updated: 2024-04-26T07:34:41.057Z
+date: 2024-05-19T07:46:01.965Z
+updated: 2024-05-20T07:46:01.965Z
 tags: 
   - video editing software
   - video editing
@@ -3968,5 +3968,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-a2plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi A2+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

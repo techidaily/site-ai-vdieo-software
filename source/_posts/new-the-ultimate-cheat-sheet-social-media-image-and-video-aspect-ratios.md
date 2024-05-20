@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Cheat Sheet Social Media Image and Video Aspect Ratios
-date: 2024-04-25T07:34:37.465Z
-updated: 2024-04-26T07:34:37.465Z
+date: 2024-05-19T07:45:49.190Z
+updated: 2024-05-20T07:45:49.190Z
 tags: 
   - video editing software
   - video editing
@@ -3030,5 +3030,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Note 30i | Dr.fone</u></a></li>
 </ul></div>
+
 
 

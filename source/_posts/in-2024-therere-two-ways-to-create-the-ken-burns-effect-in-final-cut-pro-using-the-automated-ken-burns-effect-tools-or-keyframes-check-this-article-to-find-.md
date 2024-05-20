@@ -1,7 +1,7 @@
 ---
 title: In 2024, Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To
-date: 2024-04-25T07:34:31.112Z
-updated: 2024-04-26T07:34:31.112Z
+date: 2024-05-19T07:45:27.439Z
+updated: 2024-05-20T07:45:27.439Z
 tags: 
   - video editing software
   - video editing
@@ -3458,5 +3458,6 @@ The Gaming Intro comes at the front desk while working on your Game videos, cons
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-10-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark 10 Pro to New Phone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-x-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone X Display? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

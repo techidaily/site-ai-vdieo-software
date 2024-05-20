@@ -1,7 +1,7 @@
 ---
 title: Top 10 Glitch Art Video Editing Apps
-date: 2024-04-25T07:34:26.672Z
-updated: 2024-04-26T07:34:26.672Z
+date: 2024-05-19T07:45:16.608Z
+updated: 2024-05-20T07:45:16.608Z
 tags: 
   - video editing software
   - video editing
@@ -2345,5 +2345,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-12-pro-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 12 Pro Max Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-25T07:34:26.440Z
-updated: 2024-04-26T07:34:26.440Z
+date: 2024-05-19T07:45:15.695Z
+updated: 2024-05-20T07:45:15.695Z
 tags: 
   - video editing software
   - video editing
@@ -3017,5 +3017,6 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y36-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y36 Phone without Any Data Loss</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

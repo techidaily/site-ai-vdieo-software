@@ -1,7 +1,7 @@
 ---
 title: Subtitle Editing in FCPX Best Practices and Techniques
-date: 2024-04-25T07:34:24.766Z
-updated: 2024-04-26T07:34:24.766Z
+date: 2024-05-19T07:45:12.492Z
+updated: 2024-05-20T07:45:12.492Z
 tags: 
   - video editing software
   - video editing
@@ -1986,5 +1986,6 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lava Blaze Curve 5G? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

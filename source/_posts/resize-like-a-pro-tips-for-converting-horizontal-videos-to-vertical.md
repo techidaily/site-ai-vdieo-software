@@ -1,7 +1,7 @@
 ---
 title: Resize Like a Pro Tips for Converting Horizontal Videos to Vertical
-date: 2024-04-25T07:34:23.404Z
-updated: 2024-04-26T07:34:23.404Z
+date: 2024-05-19T07:45:10.587Z
+updated: 2024-05-20T07:45:10.587Z
 tags: 
   - video editing software
   - video editing
@@ -1999,5 +1999,6 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo V29e | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

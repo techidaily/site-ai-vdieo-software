@@ -1,7 +1,7 @@
 ---
 title: Jump Cutting Like a Pro in FCPX Expert Techniques Revealed
-date: 2024-04-25T07:34:21.858Z
-updated: 2024-04-26T07:34:21.858Z
+date: 2024-05-19T07:45:07.018Z
+updated: 2024-05-20T07:45:07.019Z
 tags: 
   - video editing software
   - video editing
@@ -2345,5 +2345,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 80 Pro Straight Screen Edition FRP?</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Max by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 
 

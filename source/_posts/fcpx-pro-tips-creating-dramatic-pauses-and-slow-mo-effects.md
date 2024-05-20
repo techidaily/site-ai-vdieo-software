@@ -1,7 +1,7 @@
 ---
 title: FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-04-25T07:34:19.542Z
-updated: 2024-04-26T07:34:19.542Z
+date: 2024-05-19T07:45:01.699Z
+updated: 2024-05-20T07:45:01.699Z
 tags: 
   - video editing software
   - video editing
@@ -2564,5 +2564,6 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-v30t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme V30T Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-use-emojis-on-windows-10-and-windows-11-in-2024/"><u>New How to Use Emojis on Windows 10 and Windows 11, In 2024</u></a></li>
 </ul></div>
+
 
 

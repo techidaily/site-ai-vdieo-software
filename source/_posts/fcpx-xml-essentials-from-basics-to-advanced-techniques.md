@@ -1,7 +1,7 @@
 ---
 title: FCPX XML Essentials From Basics to Advanced Techniques
-date: 2024-04-25T07:34:19.555Z
-updated: 2024-04-26T07:34:19.555Z
+date: 2024-05-19T07:45:01.772Z
+updated: 2024-05-20T07:45:01.772Z
 tags: 
   - video editing software
   - video editing
@@ -2268,5 +2268,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-v30t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme V30T Phone</u></a></li>
 </ul></div>
+
 
 

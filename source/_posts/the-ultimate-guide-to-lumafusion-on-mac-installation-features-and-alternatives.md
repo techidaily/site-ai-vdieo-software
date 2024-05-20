@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Lumafusion on Mac Installation, Features, and Alternatives
-date: 2024-04-25T07:34:26.120Z
-updated: 2024-04-26T07:34:26.120Z
+date: 2024-05-19T07:45:14.832Z
+updated: 2024-05-20T07:45:14.832Z
 tags: 
   - video editing software
   - video editing
@@ -1485,5 +1485,6 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-redmi-13c-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Redmi 13C 5G with Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X6? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

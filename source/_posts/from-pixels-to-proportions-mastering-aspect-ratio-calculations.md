@@ -1,7 +1,7 @@
 ---
 title: From Pixels to Proportions Mastering Aspect Ratio Calculations
-date: 2024-04-25T07:34:20.545Z
-updated: 2024-04-26T07:34:20.545Z
+date: 2024-05-19T07:45:04.491Z
+updated: 2024-05-20T07:45:04.491Z
 tags: 
   - video editing software
   - video editing
@@ -1926,5 +1926,6 @@ Follow @Max Wales
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

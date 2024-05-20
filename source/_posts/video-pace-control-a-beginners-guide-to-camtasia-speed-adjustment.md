@@ -1,7 +1,7 @@
 ---
 title: Video Pace Control A Beginners Guide to Camtasia Speed Adjustment
-date: 2024-04-25T07:34:28.579Z
-updated: 2024-04-26T07:34:28.579Z
+date: 2024-05-19T07:45:19.974Z
+updated: 2024-05-20T07:45:19.974Z
 tags: 
   - video editing software
   - video editing
@@ -2040,5 +2040,6 @@ Video editors are used by the ones who are interested in editing videos for pers
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lava Blaze 2 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

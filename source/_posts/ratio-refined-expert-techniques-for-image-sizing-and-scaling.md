@@ -1,7 +1,7 @@
 ---
 title: Ratio Refined Expert Techniques for Image Sizing and Scaling
-date: 2024-04-25T07:34:23.305Z
-updated: 2024-04-26T07:34:23.305Z
+date: 2024-05-19T07:45:10.254Z
+updated: 2024-05-20T07:45:10.254Z
 tags: 
   - video editing software
   - video editing
@@ -2302,5 +2302,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11-proplus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 11 Pro+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 
 

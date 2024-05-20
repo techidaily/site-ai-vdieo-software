@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Twitter Video Sizing Cheat Sheet Aspect Ratio Included
-date: 2024-04-25T07:34:26.563Z
-updated: 2024-04-26T07:34:26.563Z
+date: 2024-05-19T07:45:16.485Z
+updated: 2024-05-20T07:45:16.485Z
 tags: 
   - video editing software
   - video editing
@@ -3211,5 +3211,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Passcode Screen? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Find N3 Flip</u></a></li>
 </ul></div>
+
 
 

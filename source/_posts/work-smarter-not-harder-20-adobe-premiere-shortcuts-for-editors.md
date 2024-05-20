@@ -1,7 +1,7 @@
 ---
 title: Work Smarter, Not Harder 20 Adobe Premiere Shortcuts for Editors
-date: 2024-04-25T07:34:29.425Z
-updated: 2024-04-26T07:34:29.425Z
+date: 2024-05-19T07:45:21.541Z
+updated: 2024-05-20T07:45:21.541Z
 tags: 
   - video editing software
   - video editing
@@ -2526,5 +2526,6 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2000 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Avidemux Audio Not Playing? Fix It Now
-date: 2024-04-25T07:34:40.575Z
-updated: 2024-04-26T07:34:40.575Z
+date: 2024-05-19T07:45:59.479Z
+updated: 2024-05-20T07:45:59.479Z
 tags: 
   - video editing software
   - video editing
@@ -1674,5 +1674,6 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-v30-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo V30 Lite 5G Devices</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y77t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y77t</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Slow Motion on Kapwing Tips and Tricks for Amazing Videos
-date: 2024-04-25T07:34:22.463Z
-updated: 2024-04-26T07:34:22.463Z
+date: 2024-05-19T07:45:08.206Z
+updated: 2024-05-20T07:45:08.206Z
 tags: 
   - video editing software
   - video editing
@@ -2275,5 +2275,6 @@ Now, you can make and [edit videos](https://tools.techidaily.com/wondershare/fil
 <li><a href="https://ai-topics.techidaily.com/updated-in-2024-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>Updated In 2024, Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-x6-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco X6?</u></a></li>
 </ul></div>
+
 
 

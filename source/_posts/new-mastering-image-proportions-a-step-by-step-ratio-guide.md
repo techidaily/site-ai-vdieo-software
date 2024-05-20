@@ -1,7 +1,7 @@
 ---
 title: New Mastering Image Proportions A Step-by-Step Ratio Guide
-date: 2024-04-25T07:34:36.648Z
-updated: 2024-04-26T07:34:36.648Z
+date: 2024-05-19T07:45:46.347Z
+updated: 2024-05-20T07:45:46.347Z
 tags: 
   - video editing software
   - video editing
@@ -2152,5 +2152,6 @@ When selecting the software to use for [editing video](https://tools.techidaily.
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel S23+ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-90-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor 90 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Image Cropping in FCPX Essential Techniques for Editors
-date: 2024-04-25T07:34:21.594Z
-updated: 2024-04-26T07:34:21.594Z
+date: 2024-05-19T07:45:06.602Z
+updated: 2024-05-20T07:45:06.602Z
 tags: 
   - video editing software
   - video editing
@@ -2690,5 +2690,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nokia-105-classic-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nokia 105 Classic</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-s23-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel S23 Contacts  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 
 

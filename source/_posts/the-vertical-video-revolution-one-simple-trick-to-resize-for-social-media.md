@@ -1,7 +1,7 @@
 ---
 title: The Vertical Video Revolution One Simple Trick to Resize for Social Media
-date: 2024-04-25T07:34:26.573Z
-updated: 2024-04-26T07:34:26.573Z
+date: 2024-05-19T07:45:16.502Z
+updated: 2024-05-20T07:45:16.502Z
 tags: 
   - video editing software
   - video editing
@@ -2028,5 +2028,6 @@ Speed changing is a standard video editing technique that, when done correctly, 
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 5 Pattern Lock Screen</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-motorola-edge-40-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Edge 40 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

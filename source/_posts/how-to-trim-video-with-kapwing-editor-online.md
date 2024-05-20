@@ -1,7 +1,7 @@
 ---
 title: How to Trim Video with Kapwing Editor Online
-date: 2024-04-25T07:34:16.144Z
-updated: 2024-04-26T07:34:16.144Z
+date: 2024-05-19T07:44:49.577Z
+updated: 2024-05-20T07:44:49.577Z
 tags: 
   - video editing software
   - video editing
@@ -1673,5 +1673,6 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco X5? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
+
 
 

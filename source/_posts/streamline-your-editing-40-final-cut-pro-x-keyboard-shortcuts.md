@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Editing 40 Final Cut Pro X Keyboard Shortcuts
-date: 2024-04-25T07:34:24.744Z
-updated: 2024-04-26T07:34:24.744Z
+date: 2024-05-19T07:45:12.387Z
+updated: 2024-05-20T07:45:12.387Z
 tags: 
   - video editing software
   - video editing
@@ -1772,5 +1772,6 @@ Follow @Liza Brown
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 100 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Pro to Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 
 

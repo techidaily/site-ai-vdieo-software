@@ -1,7 +1,7 @@
 ---
 title: VirtualDub for Mac
-date: 2024-04-25T07:34:16.186Z
-updated: 2024-04-26T07:34:16.186Z
+date: 2024-05-19T07:44:50.070Z
+updated: 2024-05-20T07:44:50.070Z
 tags: 
   - video editing software
   - video editing
@@ -1461,5 +1461,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks
-date: 2024-04-25T07:34:36.967Z
-updated: 2024-04-26T07:34:36.967Z
+date: 2024-05-19T07:45:47.447Z
+updated: 2024-05-20T07:45:47.447Z
 tags: 
   - video editing software
   - video editing
@@ -3066,5 +3066,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

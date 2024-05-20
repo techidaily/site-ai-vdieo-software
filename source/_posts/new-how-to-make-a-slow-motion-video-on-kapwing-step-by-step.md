@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Slow Motion Video on Kapwing? Step by Step
-date: 2024-04-25T07:34:36.398Z
-updated: 2024-04-26T07:34:36.398Z
+date: 2024-05-19T07:45:45.028Z
+updated: 2024-05-20T07:45:45.028Z
 tags: 
   - video editing software
   - video editing
@@ -1750,5 +1750,6 @@ Follow @Benjamin Arango
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-14-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi 14 Pro Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-60-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo 60 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 
 

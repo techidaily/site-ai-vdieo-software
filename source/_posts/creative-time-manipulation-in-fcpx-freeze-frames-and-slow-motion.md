@@ -1,7 +1,7 @@
 ---
 title: Creative Time Manipulation in FCPX Freeze Frames and Slow Motion
-date: 2024-04-25T07:34:18.173Z
-updated: 2024-04-26T07:34:18.173Z
+date: 2024-05-19T07:44:58.231Z
+updated: 2024-05-20T07:44:58.231Z
 tags: 
   - video editing software
   - video editing
@@ -2629,5 +2629,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-hot-40-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Hot 40 Pro on Windows?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Poco C55 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

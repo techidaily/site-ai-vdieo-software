@@ -1,7 +1,7 @@
 ---
 title: From SD to HD A Beginners Guide to Pixel Size and Video Quality
-date: 2024-04-25T07:34:20.571Z
-updated: 2024-04-26T07:34:20.571Z
+date: 2024-05-19T07:45:04.572Z
+updated: 2024-05-20T07:45:04.572Z
 tags: 
   - video editing software
   - video editing
@@ -1752,5 +1752,6 @@ Now that you are aware of these top movie maker apps for Android, you can evalua
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-x50-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor X50? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

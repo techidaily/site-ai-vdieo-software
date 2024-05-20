@@ -1,7 +1,7 @@
 ---
 title: Timer Tutorial How to Create a Countdown in FCPX Fast
-date: 2024-04-25T07:34:26.608Z
-updated: 2024-04-26T07:34:26.608Z
+date: 2024-05-19T07:45:16.573Z
+updated: 2024-05-20T07:45:16.573Z
 tags: 
   - video editing software
   - video editing
@@ -2777,5 +2777,6 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

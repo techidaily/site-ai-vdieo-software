@@ -1,7 +1,7 @@
 ---
 title: Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
-date: 2024-04-25T07:34:17.779Z
-updated: 2024-04-26T07:34:17.779Z
+date: 2024-05-19T07:44:56.878Z
+updated: 2024-05-20T07:44:56.878Z
 tags: 
   - video editing software
   - video editing
@@ -2152,5 +2152,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Max Data From iCloud? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

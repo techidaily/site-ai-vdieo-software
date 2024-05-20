@@ -1,7 +1,7 @@
 ---
 title: Whats My Aspect Ratio? Calculator and Tutorial
-date: 2024-04-25T07:34:29.324Z
-updated: 2024-04-26T07:34:29.324Z
+date: 2024-05-19T07:45:20.926Z
+updated: 2024-05-20T07:45:20.926Z
 tags: 
   - video editing software
   - video editing
@@ -2703,5 +2703,6 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/xiaomi-13t-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi 13T won’t play HEVC H.265 media, how to fix?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-c55-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco C55</u></a></li>
 </ul></div>
+
 
 

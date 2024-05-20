@@ -1,7 +1,7 @@
 ---
 title: Adjust Video Playback Speed in Camtasia for 2024
-date: 2024-04-25T07:34:32.565Z
-updated: 2024-04-26T07:34:32.565Z
+date: 2024-05-19T07:45:30.378Z
+updated: 2024-05-20T07:45:30.378Z
 tags: 
   - video editing software
   - video editing
@@ -1765,5 +1765,6 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
+
 
 

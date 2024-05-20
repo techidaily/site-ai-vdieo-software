@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Audio Editing Essentials 2 Ways to Fade In and Out in FCP
-date: 2024-04-25T07:34:40.286Z
-updated: 2024-04-26T07:34:40.286Z
+date: 2024-05-19T07:45:58.100Z
+updated: 2024-05-20T07:45:58.100Z
 tags: 
   - video editing software
   - video editing
@@ -2185,5 +2185,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-soft-reset-realme-10t-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 10T 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-15-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 15</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Import and Export in Adobe Premiere Pro 2023
-date: 2024-04-25T07:34:16.387Z
-updated: 2024-04-26T07:34:16.387Z
+date: 2024-05-19T07:44:52.265Z
+updated: 2024-05-20T07:44:52.265Z
 tags: 
   - video editing software
   - video editing
@@ -5336,5 +5336,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-k70e-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi K70E phone? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mac Video Editing Essentials A Yosemite Users Handbook
-date: 2024-04-25T07:34:22.162Z
-updated: 2024-04-26T07:34:22.162Z
+date: 2024-05-19T07:45:07.612Z
+updated: 2024-05-20T07:45:07.612Z
 tags: 
   - video editing software
   - video editing
@@ -1308,5 +1308,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

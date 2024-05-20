@@ -1,7 +1,7 @@
 ---
 title: New Aspect Ratio Calculator How to Get the Perfect Proportions
-date: 2024-04-25T07:34:40.033Z
-updated: 2024-04-26T07:34:40.033Z
+date: 2024-05-19T07:45:57.423Z
+updated: 2024-05-20T07:45:57.423Z
 tags: 
   - video editing software
   - video editing
@@ -1808,5 +1808,6 @@ Follow @Liza Brown
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y78t-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y78t</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-yuva-3-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Yuva 3 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 
 

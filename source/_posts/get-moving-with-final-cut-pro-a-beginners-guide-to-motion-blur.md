@@ -1,7 +1,7 @@
 ---
 title: Get Moving with Final Cut Pro A Beginners Guide to Motion Blur
-date: 2024-04-25T07:34:20.963Z
-updated: 2024-04-26T07:34:20.963Z
+date: 2024-05-19T07:45:05.340Z
+updated: 2024-05-20T07:45:05.340Z
 tags: 
   - video editing software
   - video editing
@@ -2076,5 +2076,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-se-2020-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone SE (2020) Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-s24plus-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy S24+</u></a></li>
 </ul></div>
+
 
 

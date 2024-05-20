@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Slow-Motion Video on Kapwing
-date: 2024-04-25T07:34:34.240Z
-updated: 2024-04-26T07:34:34.240Z
+date: 2024-05-19T07:45:33.853Z
+updated: 2024-05-20T07:45:33.853Z
 tags: 
   - video editing software
   - video editing
@@ -3940,5 +3940,6 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/different-methods-for-resetting-itel-p55plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P55+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-6-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Hack How to Resize Vertical Videos for Social Media
-date: 2024-04-25T07:34:37.738Z
-updated: 2024-04-26T07:34:37.738Z
+date: 2024-05-19T07:45:50.033Z
+updated: 2024-05-20T07:45:50.033Z
 tags: 
   - video editing software
   - video editing
@@ -2215,5 +2215,6 @@ Follow @Liza Brown
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Smart 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-what-wikipedia-cant-tell-you-about-the-10-batman-cartoons/"><u>New 2024 Approved What Wikipedia Cant Tell You About the 10 Batman Cartoons</u></a></li>
 </ul></div>
+
 
 

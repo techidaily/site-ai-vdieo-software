@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Creating Stunning Titles for Your Videos
-date: 2024-04-25T07:34:19.660Z
-updated: 2024-04-26T07:34:19.660Z
+date: 2024-05-19T07:45:02.074Z
+updated: 2024-05-20T07:45:02.074Z
 tags: 
   - video editing software
   - video editing
@@ -2405,5 +2405,6 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 Pro with a Broken Screen?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-poco-x6-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Poco X6? </u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash the Power of Pan and Zoom Creating a Ken Burns Effect
-date: 2024-04-25T07:34:27.616Z
-updated: 2024-04-26T07:34:27.616Z
+date: 2024-05-19T07:45:18.425Z
+updated: 2024-05-20T07:45:18.425Z
 tags: 
   - video editing software
   - video editing
@@ -3226,5 +3226,6 @@ Windows Movie Maker is an excellent Windows video editor application for Windows
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nokia G310 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 
 

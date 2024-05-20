@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-04-25T07:34:35.925Z
-updated: 2024-04-26T07:34:35.925Z
+date: 2024-05-19T07:45:42.588Z
+updated: 2024-05-20T07:45:42.588Z
 tags: 
   - video editing software
   - video editing
@@ -1746,5 +1746,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G73 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-se-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone SE has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
+
 
 

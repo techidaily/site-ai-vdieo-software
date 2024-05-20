@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Create Ken Burns Effect? Detaied Steps
-date: 2024-04-25T07:34:36.336Z
-updated: 2024-04-26T07:34:36.336Z
+date: 2024-05-19T07:45:44.666Z
+updated: 2024-05-20T07:45:44.666Z
 tags: 
   - video editing software
   - video editing
@@ -3783,5 +3783,6 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-asus-rog-phone-7-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Asus ROG Phone 7 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
+
 
 

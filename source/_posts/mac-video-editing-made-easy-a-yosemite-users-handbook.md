@@ -1,7 +1,7 @@
 ---
 title: Mac Video Editing Made Easy A Yosemite Users Handbook
-date: 2024-04-25T07:34:22.168Z
-updated: 2024-04-26T07:34:22.168Z
+date: 2024-05-19T07:45:07.631Z
+updated: 2024-05-20T07:45:07.631Z
 tags: 
   - video editing software
   - video editing
@@ -2537,5 +2537,6 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-y36i-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y36i</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

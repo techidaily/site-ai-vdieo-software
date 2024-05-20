@@ -1,7 +1,7 @@
 ---
 title: Resize Videos in No Time A Simple Tutorial
-date: 2024-04-25T07:34:23.413Z
-updated: 2024-04-26T07:34:23.413Z
+date: 2024-05-19T07:45:10.603Z
+updated: 2024-05-20T07:45:10.603Z
 tags: 
   - video editing software
   - video editing
@@ -1947,5 +1947,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/does-vivo-v30-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V30 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y200-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y200 Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

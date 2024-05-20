@@ -1,7 +1,7 @@
 ---
 title: Lights, Camera, Action! A Kids Guide to Making Movies
-date: 2024-04-25T07:34:21.914Z
-updated: 2024-04-26T07:34:21.914Z
+date: 2024-05-19T07:45:07.241Z
+updated: 2024-05-20T07:45:07.241Z
 tags: 
   - video editing software
   - video editing
@@ -1255,5 +1255,6 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V29e | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor X9b? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

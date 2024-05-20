@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Hack How to Resize Vertical Videos for Social Media
-date: 2024-04-25T07:34:37.740Z
-updated: 2024-04-26T07:34:37.740Z
+date: 2024-05-19T07:45:50.039Z
+updated: 2024-05-20T07:45:50.039Z
 tags: 
   - video editing software
   - video editing
@@ -2020,5 +2020,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/calls-on-vivo-y17s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y17s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-pova-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Pova 5 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

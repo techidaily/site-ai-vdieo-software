@@ -1,7 +1,7 @@
 ---
 title: The Ultimate OS X Mavericks Video Editing Crash Course
-date: 2024-04-25T07:34:26.520Z
-updated: 2024-04-26T07:34:26.520Z
+date: 2024-05-19T07:45:16.450Z
+updated: 2024-05-20T07:45:16.450Z
 tags: 
   - video editing software
   - video editing
@@ -1658,5 +1658,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 7? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

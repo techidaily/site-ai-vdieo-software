@@ -1,7 +1,7 @@
 ---
 title: How to Change Video Playback Speed in QuickTime Player
-date: 2024-04-25T07:34:21.363Z
-updated: 2024-04-26T07:34:21.363Z
+date: 2024-05-19T07:45:06.480Z
+updated: 2024-05-20T07:45:06.480Z
 tags: 
   - video editing software
   - video editing
@@ -2392,5 +2392,6 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Google Pixel 7a</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-huawei-nova-y71-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Huawei Nova Y71 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 
 

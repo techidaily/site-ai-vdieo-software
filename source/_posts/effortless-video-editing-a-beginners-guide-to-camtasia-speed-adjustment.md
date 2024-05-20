@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Editing A Beginners Guide to Camtasia Speed Adjustment
-date: 2024-04-25T07:34:19.309Z
-updated: 2024-04-26T07:34:19.309Z
+date: 2024-05-19T07:45:00.035Z
+updated: 2024-05-20T07:45:00.035Z
 tags: 
   - video editing software
   - video editing
@@ -1807,5 +1807,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-12-proplus-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of 12 Pro+ 5G?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

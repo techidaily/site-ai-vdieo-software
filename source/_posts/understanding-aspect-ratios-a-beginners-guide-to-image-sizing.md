@@ -1,7 +1,7 @@
 ---
 title: Understanding Aspect Ratios A Beginners Guide to Image Sizing
-date: 2024-04-25T07:34:27.579Z
-updated: 2024-04-26T07:34:27.579Z
+date: 2024-05-19T07:45:18.324Z
+updated: 2024-05-20T07:45:18.324Z
 tags: 
   - video editing software
   - video editing
@@ -2853,5 +2853,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-s18e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo S18e For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Edge 40 Pro?</u></a></li>
 </ul></div>
+
 
 

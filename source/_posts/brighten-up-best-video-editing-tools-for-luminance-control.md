@@ -1,7 +1,7 @@
 ---
 title: Brighten Up Best Video Editing Tools for Luminance Control
-date: 2024-04-25T07:34:17.458Z
-updated: 2024-04-26T07:34:17.458Z
+date: 2024-05-19T07:44:56.200Z
+updated: 2024-05-20T07:44:56.200Z
 tags: 
   - video editing software
   - video editing
@@ -2514,5 +2514,6 @@ For macOS 10.14 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12r-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12R Phone</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-nokia-g310-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia G310 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

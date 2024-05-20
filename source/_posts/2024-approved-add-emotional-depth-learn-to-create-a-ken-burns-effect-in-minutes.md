@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes
-date: 2024-04-25T07:34:32.346Z
-updated: 2024-04-26T07:34:32.346Z
+date: 2024-05-19T07:45:29.967Z
+updated: 2024-05-20T07:45:29.967Z
 tags: 
   - video editing software
   - video editing
@@ -2220,5 +2220,6 @@ These are the hand-picked **blur photo background online** tools that one can go
 <li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-y100t-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo Y100t Phone Hassle-Free</u></a></li>
 </ul></div>
+
 
 

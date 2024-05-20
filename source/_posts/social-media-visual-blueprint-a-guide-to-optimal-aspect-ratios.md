@@ -1,7 +1,7 @@
 ---
 title: Social Media Visual Blueprint A Guide to Optimal Aspect Ratios
-date: 2024-04-25T07:34:24.636Z
-updated: 2024-04-26T07:34:24.636Z
+date: 2024-05-19T07:45:11.919Z
+updated: 2024-05-20T07:45:11.919Z
 tags: 
   - video editing software
   - video editing
@@ -2500,5 +2500,6 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/does-zte-blade-a73-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Blade A73 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

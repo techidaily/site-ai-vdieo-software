@@ -1,7 +1,7 @@
 ---
 title: Avidemux Video Editing How to Crop and Resize Your Footage
-date: 2024-04-25T07:34:16.993Z
-updated: 2024-04-26T07:34:16.993Z
+date: 2024-05-19T07:44:54.486Z
+updated: 2024-05-20T07:44:54.486Z
 tags: 
   - video editing software
   - video editing
@@ -1957,5 +1957,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Art of Color Correction in Final Cut Pro 2023
-date: 2024-04-25T07:34:24.876Z
-updated: 2024-04-26T07:34:24.876Z
+date: 2024-05-19T07:45:12.783Z
+updated: 2024-05-20T07:45:12.783Z
 tags: 
   - video editing software
   - video editing
@@ -2138,5 +2138,6 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 Pro when Phone is Broken?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For HTC U23 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

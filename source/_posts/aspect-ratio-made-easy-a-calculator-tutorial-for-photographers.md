@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Made Easy A Calculator Tutorial for Photographers
-date: 2024-04-25T07:34:16.830Z
-updated: 2024-04-26T07:34:16.830Z
+date: 2024-05-19T07:44:54.152Z
+updated: 2024-05-20T07:44:54.152Z
 tags: 
   - video editing software
   - video editing
@@ -1760,5 +1760,6 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A15 5G</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

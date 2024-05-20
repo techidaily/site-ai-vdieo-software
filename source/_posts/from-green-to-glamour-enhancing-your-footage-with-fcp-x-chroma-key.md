@@ -1,7 +1,7 @@
 ---
 title: From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
-date: 2024-04-25T07:34:20.445Z
-updated: 2024-04-26T07:34:20.445Z
+date: 2024-05-19T07:45:04.146Z
+updated: 2024-05-20T07:45:04.146Z
 tags: 
   - video editing software
   - video editing
@@ -2275,5 +2275,6 @@ This is a simple tool used for video editing. Its simple features make it less c
 <li><a href="https://animation-videos.techidaily.com/how-to-turn-yourself-into-anime-character/"><u>How To Turn Yourself Into Anime Character</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-define-ai-video/"><u>New 2024 Approved How to Define AI Video?</u></a></li>
 </ul></div>
+
 
 

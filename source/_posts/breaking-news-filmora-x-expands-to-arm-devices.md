@@ -1,7 +1,7 @@
 ---
 title: Breaking News Filmora X Expands to ARM Devices
-date: 2024-04-25T07:34:16.259Z
-updated: 2024-04-26T07:34:16.259Z
+date: 2024-05-19T07:44:50.678Z
+updated: 2024-05-20T07:44:50.678Z
 tags: 
   - video editing software
   - video editing
@@ -1525,5 +1525,6 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11X 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-f23-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo F23 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

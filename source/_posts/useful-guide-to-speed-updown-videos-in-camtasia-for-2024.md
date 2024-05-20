@@ -1,7 +1,7 @@
 ---
 title: Useful Guide to Speed Up/Down Videos in Camtasia for 2024
-date: 2024-04-25T07:34:34.472Z
-updated: 2024-04-26T07:34:34.472Z
+date: 2024-05-19T07:45:36.540Z
+updated: 2024-05-20T07:45:36.540Z
 tags: 
   - video editing software
   - video editing
@@ -2506,5 +2506,6 @@ Follow @Shanoon Cox
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme 10T 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

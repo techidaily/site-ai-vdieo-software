@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio 101 A Beginners Guide to Calculating
-date: 2024-04-25T07:34:16.796Z
-updated: 2024-04-26T07:34:16.796Z
+date: 2024-05-19T07:44:54.066Z
+updated: 2024-05-20T07:44:54.066Z
 tags: 
   - video editing software
   - video editing
@@ -3156,5 +3156,6 @@ Even if you don’t use video stabilizers for stabilizing videos for your busine
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 6/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

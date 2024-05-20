@@ -1,7 +1,7 @@
 ---
 title: Master Video Trimming with Kapwings Online Editor for 2024
-date: 2024-04-25T07:34:34.271Z
-updated: 2024-04-26T07:34:34.271Z
+date: 2024-05-19T07:45:34.208Z
+updated: 2024-05-20T07:45:34.208Z
 tags: 
   - video editing software
   - video editing
@@ -2398,5 +2398,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

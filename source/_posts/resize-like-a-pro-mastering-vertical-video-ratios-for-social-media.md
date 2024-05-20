@@ -1,7 +1,7 @@
 ---
 title: Resize Like a Pro Mastering Vertical Video Ratios for Social Media
-date: 2024-04-25T07:34:23.402Z
-updated: 2024-04-26T07:34:23.402Z
+date: 2024-05-19T07:45:10.578Z
+updated: 2024-05-20T07:45:10.578Z
 tags: 
   - video editing software
   - video editing
@@ -2192,5 +2192,6 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Lock Screen with Notifications?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

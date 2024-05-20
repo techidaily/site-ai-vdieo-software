@@ -1,7 +1,7 @@
 ---
 title: FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts
-date: 2024-04-25T07:34:19.539Z
-updated: 2024-04-26T07:34:19.539Z
+date: 2024-05-19T07:45:01.690Z
+updated: 2024-05-20T07:45:01.690Z
 tags: 
   - video editing software
   - video editing
@@ -1664,5 +1664,6 @@ However, occasionally those tools aren't available, and the outcome is questiona
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo Y200? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 
 

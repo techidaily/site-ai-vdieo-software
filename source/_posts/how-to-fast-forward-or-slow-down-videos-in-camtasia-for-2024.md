@@ -1,7 +1,7 @@
 ---
 title: How to Fast Forward or Slow Down Videos in Camtasia for 2024
-date: 2024-04-25T07:34:36.380Z
-updated: 2024-04-26T07:34:36.380Z
+date: 2024-05-19T07:45:44.847Z
+updated: 2024-05-20T07:45:44.847Z
 tags: 
   - video editing software
   - video editing
@@ -1882,5 +1882,6 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Splitting Videos in Windows Live Movie Maker for Beginners
-date: 2024-04-25T07:34:26.166Z
-updated: 2024-04-26T07:34:26.166Z
+date: 2024-05-19T07:45:15.028Z
+updated: 2024-05-20T07:45:15.028Z
 tags: 
   - video editing software
   - video editing
@@ -1230,5 +1230,6 @@ Follow @Benjamin Arango
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-10t-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 10T 5G? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 5G to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 
 

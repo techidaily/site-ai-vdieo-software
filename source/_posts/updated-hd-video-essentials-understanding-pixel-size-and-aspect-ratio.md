@@ -1,7 +1,7 @@
 ---
 title: Updated HD Video Essentials Understanding Pixel Size and Aspect Ratio
-date: 2024-04-25T07:34:36.316Z
-updated: 2024-04-26T07:34:36.316Z
+date: 2024-05-19T07:45:44.410Z
+updated: 2024-05-20T07:45:44.410Z
 tags: 
   - video editing software
   - video editing
@@ -2995,5 +2995,6 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-a58-4g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo A58 4G FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 12 mini</u></a></li>
 </ul></div>
+
 
 

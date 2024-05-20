@@ -1,7 +1,7 @@
 ---
 title: 10 Essential Tools for Resizing Videos
-date: 2024-04-25T07:34:15.762Z
-updated: 2024-04-26T07:34:15.762Z
+date: 2024-05-19T07:44:47.699Z
+updated: 2024-05-20T07:44:47.699Z
 tags: 
   - video editing software
   - video editing
@@ -2125,5 +2125,6 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-13-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 13</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05?</u></a></li>
 </ul></div>
+
 
 

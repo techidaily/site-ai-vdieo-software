@@ -1,7 +1,7 @@
 ---
 title: Optimizing Mobile Screen Design A Guide to Vertical Aspect Ratios
-date: 2024-04-25T07:34:23.002Z
-updated: 2024-04-26T07:34:23.002Z
+date: 2024-05-19T07:45:09.568Z
+updated: 2024-05-20T07:45:09.568Z
 tags: 
   - video editing software
   - video editing
@@ -3674,5 +3674,6 @@ In place of Sony Vegas Pro, any of these options would also give you a great use
 <li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Note 30</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-12-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi 12 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

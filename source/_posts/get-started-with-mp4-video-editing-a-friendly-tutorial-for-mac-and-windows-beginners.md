@@ -1,7 +1,7 @@
 ---
 title: Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
-date: 2024-04-25T07:34:21.064Z
-updated: 2024-04-26T07:34:21.064Z
+date: 2024-05-19T07:45:05.535Z
+updated: 2024-05-20T07:45:05.535Z
 tags: 
   - video editing software
   - video editing
@@ -1666,5 +1666,6 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco C65? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-ace-2v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus Ace 2V without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

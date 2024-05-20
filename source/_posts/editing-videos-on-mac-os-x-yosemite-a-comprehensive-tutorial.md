@@ -1,7 +1,7 @@
 ---
 title: Editing Videos on Mac OS X Yosemite A Comprehensive Tutorial
-date: 2024-04-25T07:34:19.291Z
-updated: 2024-04-26T07:34:19.291Z
+date: 2024-05-19T07:44:59.887Z
+updated: 2024-05-20T07:44:59.887Z
 tags: 
   - video editing software
   - video editing
@@ -2095,5 +2095,6 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-xs-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone XS Max</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Hot 40i? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

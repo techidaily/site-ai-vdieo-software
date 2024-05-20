@@ -1,7 +1,7 @@
 ---
 title: Kids in the Directors Chair A Fun Guide to Making Movies
-date: 2024-04-25T07:34:21.884Z
-updated: 2024-04-26T07:34:21.884Z
+date: 2024-05-19T07:45:07.098Z
+updated: 2024-05-20T07:45:07.098Z
 tags: 
   - video editing software
   - video editing
@@ -2258,5 +2258,6 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
 </ul></div>
+
 
 

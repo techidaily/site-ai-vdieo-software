@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-04-25T07:34:40.581Z
-updated: 2024-04-26T07:34:40.581Z
+date: 2024-05-19T07:45:59.484Z
+updated: 2024-05-20T07:45:59.484Z
 tags: 
   - video editing software
   - video editing
@@ -2471,5 +2471,6 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-turn-yourself-into-whatsapp-cartoon-for-2024/"><u>Updated How to Turn Yourself Into WhatsApp Cartoon for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

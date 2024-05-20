@@ -1,7 +1,7 @@
 ---
 title: FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
-date: 2024-04-25T07:34:19.552Z
-updated: 2024-04-26T07:34:19.552Z
+date: 2024-05-19T07:45:01.755Z
+updated: 2024-05-20T07:45:01.755Z
 tags: 
   - video editing software
   - video editing
@@ -2246,5 +2246,6 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A23 5G Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M34 5G?</u></a></li>
 </ul></div>
+
 
 

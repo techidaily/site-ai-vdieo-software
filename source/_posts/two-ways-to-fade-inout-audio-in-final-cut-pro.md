@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Fade In/Out Audio in Final Cut Pro
-date: 2024-04-25T07:34:16.580Z
-updated: 2024-04-26T07:34:16.580Z
+date: 2024-05-19T07:44:53.228Z
+updated: 2024-05-20T07:44:53.228Z
 tags: 
   - video editing software
   - video editing
@@ -3386,5 +3386,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find N3 Flip Devices</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-13-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 13 Pro 5G Device</u></a></li>
 </ul></div>
+
 
 

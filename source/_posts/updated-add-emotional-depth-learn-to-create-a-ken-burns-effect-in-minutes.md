@@ -1,7 +1,7 @@
 ---
 title: Updated Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes
-date: 2024-04-25T07:34:32.347Z
-updated: 2024-04-26T07:34:32.347Z
+date: 2024-05-19T07:45:29.969Z
+updated: 2024-05-20T07:45:29.969Z
 tags: 
   - video editing software
   - video editing
@@ -1761,5 +1761,6 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-04-25T07:34:19.511Z
-updated: 2024-04-26T07:34:19.511Z
+date: 2024-05-19T07:45:01.608Z
+updated: 2024-05-20T07:45:01.608Z
 tags: 
   - video editing software
   - video editing
@@ -2876,5 +2876,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2007-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2007 File Not Opening Error | Stellar</u></a></li>
 </ul></div>
+
 
 

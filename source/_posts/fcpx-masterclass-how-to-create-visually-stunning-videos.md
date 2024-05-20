@@ -1,7 +1,7 @@
 ---
 title: FCPX Masterclass How to Create Visually Stunning Videos
-date: 2024-04-25T07:34:19.532Z
-updated: 2024-04-26T07:34:19.532Z
+date: 2024-05-19T07:45:01.650Z
+updated: 2024-05-20T07:45:01.650Z
 tags: 
   - video editing software
   - video editing
@@ -1864,5 +1864,6 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 13 Ultra | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40i</u></a></li>
 </ul></div>
+
 
 

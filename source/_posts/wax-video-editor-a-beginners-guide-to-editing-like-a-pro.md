@@ -1,7 +1,7 @@
 ---
 title: Wax Video Editor A Beginners Guide to Editing Like a Pro
-date: 2024-04-25T07:34:29.264Z
-updated: 2024-04-26T07:34:29.264Z
+date: 2024-05-19T07:45:20.751Z
+updated: 2024-05-20T07:45:20.751Z
 tags: 
   - video editing software
   - video editing
@@ -1659,5 +1659,6 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pop 8 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

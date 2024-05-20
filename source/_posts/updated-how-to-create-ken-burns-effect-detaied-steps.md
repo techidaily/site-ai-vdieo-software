@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Ken Burns Effect? Detaied Steps
-date: 2024-04-25T07:34:36.337Z
-updated: 2024-04-26T07:34:36.337Z
+date: 2024-05-19T07:45:44.688Z
+updated: 2024-05-20T07:45:44.688Z
 tags: 
   - video editing software
   - video editing
@@ -2536,5 +2536,6 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy F04? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s17-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S17 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

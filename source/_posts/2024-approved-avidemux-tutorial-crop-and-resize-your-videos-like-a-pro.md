@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Avidemux Tutorial Crop and Resize Your Videos Like a Pro
-date: 2024-04-25T07:34:40.600Z
-updated: 2024-04-26T07:34:40.600Z
+date: 2024-05-19T07:45:59.606Z
+updated: 2024-05-20T07:45:59.606Z
 tags: 
   - video editing software
   - video editing
@@ -2920,5 +2920,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g73-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G73 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c02-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C02 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 
 

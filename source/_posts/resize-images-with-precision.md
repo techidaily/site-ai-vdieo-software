@@ -1,7 +1,7 @@
 ---
 title: Resize Images with Precision
-date: 2024-04-25T07:34:23.401Z
-updated: 2024-04-26T07:34:23.401Z
+date: 2024-05-19T07:45:10.571Z
+updated: 2024-05-20T07:45:10.571Z
 tags: 
   - video editing software
   - video editing
@@ -2414,5 +2414,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Pova 5? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)
-date: 2024-04-25T07:34:40.445Z
-updated: 2024-04-26T07:34:40.445Z
+date: 2024-05-19T07:45:58.982Z
+updated: 2024-05-20T07:45:58.982Z
 tags: 
   - video editing software
   - video editing
@@ -2720,5 +2720,6 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Blaze Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

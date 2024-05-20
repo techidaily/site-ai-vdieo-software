@@ -1,7 +1,7 @@
 ---
 title: Optimizing Mobile Design A Guide to Vertical Aspect Ratios
-date: 2024-04-25T07:34:22.999Z
-updated: 2024-04-26T07:34:22.999Z
+date: 2024-05-19T07:45:09.560Z
+updated: 2024-05-20T07:45:09.560Z
 tags: 
   - video editing software
   - video editing
@@ -3546,5 +3546,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-a2plus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi A2+</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
+
 
 

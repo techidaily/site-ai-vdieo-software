@@ -2263,3 +2263,4 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a60s-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel A60s</u></a></li>
 </ul></div>
 
+

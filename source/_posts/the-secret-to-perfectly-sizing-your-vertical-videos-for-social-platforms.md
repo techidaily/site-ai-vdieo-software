@@ -1,7 +1,7 @@
 ---
 title: The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms
-date: 2024-04-25T07:34:25.639Z
-updated: 2024-04-26T07:34:25.639Z
+date: 2024-05-19T07:45:13.979Z
+updated: 2024-05-20T07:45:13.979Z
 tags: 
   - video editing software
   - video editing
@@ -2539,5 +2539,6 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX
-date: 2024-04-25T07:34:32.250Z
-updated: 2024-04-26T07:34:32.250Z
+date: 2024-05-19T07:45:29.878Z
+updated: 2024-05-20T07:45:29.878Z
 tags: 
   - video editing software
   - video editing
@@ -2557,5 +2557,6 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g-stylus-5g-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G Stylus 5G (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Pro Max With or Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 
 

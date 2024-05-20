@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Cheat Sheet Social Media Image and Video Aspect Ratios
-date: 2024-04-25T07:34:37.463Z
-updated: 2024-04-26T07:34:37.463Z
+date: 2024-05-19T07:45:49.183Z
+updated: 2024-05-20T07:45:49.183Z
 tags: 
   - video editing software
   - video editing
@@ -2382,5 +2382,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-galaxy-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung Galaxy S23+?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

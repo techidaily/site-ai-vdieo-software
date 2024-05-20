@@ -1,7 +1,7 @@
 ---
 title: New Adding Subtitles in FCPX A Beginners Tutorial
-date: 2024-04-25T07:34:32.536Z
-updated: 2024-04-26T07:34:32.536Z
+date: 2024-05-19T07:45:30.302Z
+updated: 2024-05-20T07:45:30.302Z
 tags: 
   - video editing software
   - video editing
@@ -1583,5 +1583,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus, Apples New iPhone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

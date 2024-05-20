@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Cropping The Definitive Facebook Video Aspect Ratio Guide
-date: 2024-04-25T07:34:24.496Z
-updated: 2024-04-26T07:34:24.496Z
+date: 2024-05-19T07:45:11.607Z
+updated: 2024-05-20T07:45:11.607Z
 tags: 
   - video editing software
   - video editing
@@ -1899,5 +1899,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100t? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
+
 
 

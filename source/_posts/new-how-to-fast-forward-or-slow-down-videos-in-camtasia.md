@@ -1,7 +1,7 @@
 ---
 title: New How to Fast Forward or Slow Down Videos in Camtasia
-date: 2024-04-25T07:34:36.382Z
-updated: 2024-04-26T07:34:36.382Z
+date: 2024-05-19T07:45:44.880Z
+updated: 2024-05-20T07:45:44.880Z
 tags: 
   - video editing software
   - video editing
@@ -2192,5 +2192,6 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-t2x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo T2x 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 
 

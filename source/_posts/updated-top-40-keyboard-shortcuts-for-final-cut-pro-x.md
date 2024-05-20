@@ -1,7 +1,7 @@
 ---
 title: Updated Top 40 Keyboard Shortcuts for Final Cut Pro X
-date: 2024-04-25T07:34:38.325Z
-updated: 2024-04-26T07:34:38.325Z
+date: 2024-05-19T07:45:51.923Z
+updated: 2024-05-20T07:45:51.923Z
 tags: 
   - video editing software
   - video editing
@@ -2043,5 +2043,6 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-18-best-tools-and-services-to-create-animated-videos-for-your-business/"><u>2024 Approved 18 Best Tools and Services to Create Animated Videos for Your Business</u></a></li>
 </ul></div>
+
 
 

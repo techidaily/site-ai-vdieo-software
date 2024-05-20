@@ -1,7 +1,7 @@
 ---
 title: Edit Video Metadata Like a Pro Top 8 Mac Software
-date: 2024-04-25T07:34:19.258Z
-updated: 2024-04-26T07:34:19.258Z
+date: 2024-05-19T07:44:59.693Z
+updated: 2024-05-20T07:44:59.693Z
 tags: 
   - video editing software
   - video editing
@@ -2167,5 +2167,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 
 

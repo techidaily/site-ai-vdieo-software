@@ -1,7 +1,7 @@
 ---
 title: Mastering Image Dimensions How to Calculate the Perfect Ratio
-date: 2024-04-25T07:34:22.425Z
-updated: 2024-04-26T07:34:22.425Z
+date: 2024-05-19T07:45:08.174Z
+updated: 2024-05-20T07:45:08.174Z
 tags: 
   - video editing software
   - video editing
@@ -3182,5 +3182,6 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y100i-power-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y100i Power 5G in Minutes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

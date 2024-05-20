@@ -1,7 +1,7 @@
 ---
 title: Dont Lose Your Work! A Quick Guide to Saving FCP Projects
-date: 2024-04-25T07:34:18.675Z
-updated: 2024-04-26T07:34:18.675Z
+date: 2024-05-19T07:44:59.088Z
+updated: 2024-05-20T07:44:59.088Z
 tags: 
   - video editing software
   - video editing
@@ -4258,5 +4258,6 @@ So, now you know about the top **audio waveform video generators.** You can choo
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 11X 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-y100a-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Y100A lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
+
 
 

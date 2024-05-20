@@ -1,7 +1,7 @@
 ---
 title: FCP X Create a Chroma-Key (Green-Screen) Effect for 2024
-date: 2024-04-25T07:34:35.890Z
-updated: 2024-04-26T07:34:35.890Z
+date: 2024-05-19T07:45:42.398Z
+updated: 2024-05-20T07:45:42.398Z
 tags: 
   - video editing software
   - video editing
@@ -2599,5 +2599,6 @@ There are various other audio editing features that Filmora provides, such as ad
 <li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

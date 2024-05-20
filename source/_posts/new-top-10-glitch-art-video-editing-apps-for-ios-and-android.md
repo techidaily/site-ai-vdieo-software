@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-25T07:34:38.158Z
-updated: 2024-04-26T07:34:38.158Z
+date: 2024-05-19T07:45:50.888Z
+updated: 2024-05-20T07:45:50.888Z
 tags: 
   - video editing software
   - video editing
@@ -1628,5 +1628,6 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://animation-videos.techidaily.com/updated-finding-some-different-ways-to-animated-cartoon-of-yourself/"><u>Updated Finding Some Different Ways to Animated Cartoon of Yourself</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-6-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 6 Plus After Forgetting my PIN Code?</u></a></li>
 </ul></div>
+
 
 

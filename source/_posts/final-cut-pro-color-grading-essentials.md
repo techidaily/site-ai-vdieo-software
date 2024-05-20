@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Color Grading Essentials
-date: 2024-04-25T07:34:19.597Z
-updated: 2024-04-26T07:34:19.597Z
+date: 2024-05-19T07:45:01.939Z
+updated: 2024-05-20T07:45:01.939Z
 tags: 
   - video editing software
   - video editing
@@ -2111,5 +2111,6 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://animation-videos.techidaily.com/updated-10-great-moving-animation-powerpoint-techniques/"><u>Updated 10 Great Moving Animation PowerPoint Techniques</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A18? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Ratio Conversion A Quick Start
-date: 2024-04-25T07:34:19.324Z
-updated: 2024-04-26T07:34:19.324Z
+date: 2024-05-19T07:45:00.078Z
+updated: 2024-05-20T07:45:00.078Z
 tags: 
   - video editing software
   - video editing
@@ -1547,5 +1547,6 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/does-honor-magic-v2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic V2 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-lava-yuva-2-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Yuva 2 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

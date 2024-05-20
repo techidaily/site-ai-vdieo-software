@@ -1,7 +1,7 @@
 ---
 title: FCPX Video Accessibility Adding Subtitles and Captions
-date: 2024-04-25T07:34:19.554Z
-updated: 2024-04-26T07:34:19.554Z
+date: 2024-05-19T07:45:01.760Z
+updated: 2024-05-20T07:45:01.760Z
 tags: 
   - video editing software
   - video editing
@@ -2548,5 +2548,6 @@ Follow @Liza Brown
 <li><a href="https://ai-voice-clone.techidaily.com/new-how-to-generate-speech-from-text-the-best-text-to-speech-converters-for-2024/"><u>New How To Generate Speech From Text | The Best Text-to-Speech Converters for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 
 

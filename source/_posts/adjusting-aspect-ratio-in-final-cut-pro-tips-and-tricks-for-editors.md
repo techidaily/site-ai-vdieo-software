@@ -1,7 +1,7 @@
 ---
 title: Adjusting Aspect Ratio in Final Cut Pro Tips and Tricks for Editors
-date: 2024-04-25T07:34:16.057Z
-updated: 2024-04-26T07:34:16.057Z
+date: 2024-05-19T07:44:48.815Z
+updated: 2024-05-20T07:44:48.815Z
 tags: 
   - video editing software
   - video editing
@@ -1870,5 +1870,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2016</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-meizu-21-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Meizu 21.</u></a></li>
 </ul></div>
+
 
 

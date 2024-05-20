@@ -1,7 +1,7 @@
 ---
 title: New A Beginners Guide to Trimming Videos Using Kapwings Online Editor
-date: 2024-04-25T07:34:32.017Z
-updated: 2024-04-26T07:34:32.017Z
+date: 2024-05-19T07:45:29.472Z
+updated: 2024-05-20T07:45:29.472Z
 tags: 
   - video editing software
   - video editing
@@ -2051,5 +2051,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-narzo-60x-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme Narzo 60x 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

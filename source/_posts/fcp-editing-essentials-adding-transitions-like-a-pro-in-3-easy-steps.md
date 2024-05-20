@@ -1,7 +1,7 @@
 ---
 title: FCP Editing Essentials Adding Transitions Like a Pro in 3 Easy Steps
-date: 2024-04-25T07:34:19.502Z
-updated: 2024-04-26T07:34:19.502Z
+date: 2024-05-19T07:45:01.582Z
+updated: 2024-05-20T07:45:01.582Z
 tags: 
   - video editing software
   - video editing
@@ -1712,5 +1712,6 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-e13-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto E13 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-blaze-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Blaze Pro 5G Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The FCPX Shortcut Bible 40 Essential Commands to Know
-date: 2024-04-25T07:34:25.415Z
-updated: 2024-04-26T07:34:25.415Z
+date: 2024-05-19T07:45:13.680Z
+updated: 2024-05-20T07:45:13.680Z
 tags: 
   - video editing software
   - video editing
@@ -2013,5 +2013,6 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nubia-red-magic-8s-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nubia Red Magic 8S Pro without App | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
 </ul></div>
+
 
 

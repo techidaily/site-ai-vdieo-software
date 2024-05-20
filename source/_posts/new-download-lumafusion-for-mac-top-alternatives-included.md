@@ -1,7 +1,7 @@
 ---
 title: New Download Lumafusion for Mac Top Alternatives Included
-date: 2024-04-25T07:34:35.655Z
-updated: 2024-04-26T07:34:35.655Z
+date: 2024-05-19T07:45:41.870Z
+updated: 2024-05-20T07:45:41.870Z
 tags: 
   - video editing software
   - video editing
@@ -2171,5 +2171,6 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A05 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

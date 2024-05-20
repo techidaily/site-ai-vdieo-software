@@ -1,7 +1,7 @@
 ---
 title: FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2024-04-25T07:34:19.533Z
-updated: 2024-04-26T07:34:19.533Z
+date: 2024-05-19T07:45:01.654Z
+updated: 2024-05-20T07:45:01.654Z
 tags: 
   - video editing software
   - video editing
@@ -1792,5 +1792,6 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a05s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A05s Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

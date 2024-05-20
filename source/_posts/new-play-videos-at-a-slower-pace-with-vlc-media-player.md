@@ -1,7 +1,7 @@
 ---
 title: New Play Videos at a Slower Pace with VLC Media Player
-date: 2024-04-25T07:34:36.950Z
-updated: 2024-04-26T07:34:36.950Z
+date: 2024-05-19T07:45:47.418Z
+updated: 2024-05-20T07:45:47.418Z
 tags: 
   - video editing software
   - video editing
@@ -2034,5 +2034,6 @@ Do motion blur effect easily with Filmora!
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c300-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C300 to Mac? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

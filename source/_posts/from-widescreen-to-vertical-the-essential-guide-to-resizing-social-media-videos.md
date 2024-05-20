@@ -1,7 +1,7 @@
 ---
 title: From Widescreen to Vertical The Essential Guide to Resizing Social Media Videos
-date: 2024-04-25T07:34:20.667Z
-updated: 2024-04-26T07:34:20.667Z
+date: 2024-05-19T07:45:04.855Z
+updated: 2024-05-20T07:45:04.855Z
 tags: 
   - video editing software
   - video editing
@@ -2349,5 +2349,6 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-spark-20-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Spark 20 Pro</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-p40plus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel P40+ FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 
 

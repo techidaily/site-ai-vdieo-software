@@ -1,7 +1,7 @@
 ---
 title: FCPX Audio Editing Essentials A Step-by-Step Guide to L-Cuts and J-Cuts
-date: 2024-04-25T07:34:19.514Z
-updated: 2024-04-26T07:34:19.514Z
+date: 2024-05-19T07:45:01.615Z
+updated: 2024-05-20T07:45:01.615Z
 tags: 
   - video editing software
   - video editing
@@ -1595,5 +1595,6 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-spark-10-4gs-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Spark 10 4G’s lock screen pattern, PIN or password</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 
 

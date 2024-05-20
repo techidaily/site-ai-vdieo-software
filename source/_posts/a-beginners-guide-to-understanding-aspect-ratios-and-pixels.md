@@ -1,7 +1,7 @@
 ---
 title: A Beginners Guide to Understanding Aspect Ratios and Pixels
-date: 2024-04-25T07:34:16.012Z
-updated: 2024-04-26T07:34:16.012Z
+date: 2024-05-19T07:44:48.586Z
+updated: 2024-05-20T07:44:48.586Z
 tags: 
   - video editing software
   - video editing
@@ -2274,5 +2274,6 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y78t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y78t Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y56 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

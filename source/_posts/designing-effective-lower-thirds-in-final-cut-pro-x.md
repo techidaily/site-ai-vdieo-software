@@ -1,7 +1,7 @@
 ---
 title: Designing Effective Lower Thirds in Final Cut Pro X
-date: 2024-04-25T07:34:18.375Z
-updated: 2024-04-26T07:34:18.375Z
+date: 2024-05-19T07:44:58.523Z
+updated: 2024-05-20T07:44:58.523Z
 tags: 
   - video editing software
   - video editing
@@ -2346,5 +2346,6 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y36i.</u></a></li>
 </ul></div>
+
 
 

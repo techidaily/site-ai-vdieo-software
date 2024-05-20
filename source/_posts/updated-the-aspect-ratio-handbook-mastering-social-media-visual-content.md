@@ -1,7 +1,7 @@
 ---
 title: Updated The Aspect Ratio Handbook Mastering Social Media Visual Content
-date: 2024-04-25T07:34:37.360Z
-updated: 2024-04-26T07:34:37.360Z
+date: 2024-05-19T07:45:48.651Z
+updated: 2024-05-20T07:45:48.651Z
 tags: 
   - video editing software
   - video editing
@@ -2584,5 +2584,6 @@ Step 4\. Finally, click on the Export button to start file processing.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G34 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-90-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor 90</u></a></li>
 </ul></div>
+
 
 

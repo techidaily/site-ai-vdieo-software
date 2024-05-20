@@ -1,7 +1,7 @@
 ---
 title: Methods for Determining Screen Resolution Ratios
-date: 2024-04-25T07:34:16.150Z
-updated: 2024-04-26T07:34:16.150Z
+date: 2024-05-19T07:44:49.673Z
+updated: 2024-05-20T07:44:49.673Z
 tags: 
   - video editing software
   - video editing
@@ -2464,5 +2464,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-f04-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy F04 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo X90S? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

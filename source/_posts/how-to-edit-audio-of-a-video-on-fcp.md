@@ -1,7 +1,7 @@
 ---
 title: How to Edit Audio of a Video on FCP
-date: 2024-04-25T07:34:16.347Z
-updated: 2024-04-26T07:34:16.347Z
+date: 2024-05-19T07:44:51.600Z
+updated: 2024-05-20T07:44:51.600Z
 tags: 
   - video editing software
   - video editing
@@ -1752,5 +1752,6 @@ Follow @Larry Jordan
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

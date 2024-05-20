@@ -1,7 +1,7 @@
 ---
 title: Filmmaking for All A Beginners Guide to Creating a Movie
-date: 2024-04-25T07:34:19.568Z
-updated: 2024-04-26T07:34:19.568Z
+date: 2024-05-19T07:45:01.807Z
+updated: 2024-05-20T07:45:01.807Z
 tags: 
   - video editing software
   - video editing
@@ -1791,5 +1791,6 @@ Filmora unleashed some new features for advanced editing capabilities.
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-105-classic-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia 105 Classic Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-s23-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy S23? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Get Creative with Kapwing A Simple Guide to Making Slow-Motion Videos
-date: 2024-04-25T07:34:20.838Z
-updated: 2024-04-26T07:34:20.838Z
+date: 2024-05-19T07:45:05.174Z
+updated: 2024-05-20T07:45:05.174Z
 tags: 
   - video editing software
   - video editing
@@ -3308,5 +3308,6 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 
 
