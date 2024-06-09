@@ -1,7 +1,7 @@
 ---
 title: Quickly Edit Video Speed in Camtasia
-date: 2024-05-19T07:45:10.150Z
-updated: 2024-05-20T07:45:10.151Z
+date: 2024-06-08T09:47:36.311Z
+updated: 2024-06-09T09:47:36.311Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Quickly Edit Video Speed in Camtasia
 excerpt: This Article Describes Quickly Edit Video Speed in Camtasia
 keywords: speed updown videos in camtasia,adjust video playback speed in camtasia,video speed adjustment made easy in camtasia,mastering video speed in camtasia tips and tricks,video editing pro tips controlling speed in camtasia,quickly edit video speed in camtasia,useful guide to speed updown videos in camtasia
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Quickly Edit Video Speed in Camtasia

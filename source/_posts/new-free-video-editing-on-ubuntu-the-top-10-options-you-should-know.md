@@ -1,7 +1,7 @@
 ---
 title: New Free Video Editing on Ubuntu The Top 10 Options You Should Know
-date: 2024-04-25T07:34:59.615Z
-updated: 2024-04-26T07:34:59.615Z
+date: 2024-06-08T09:47:56.422Z
+updated: 2024-06-09T09:47:56.422Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Video Editing on Ubuntu The Top 10 Options You Should Know
 excerpt: This Article Describes New Free Video Editing on Ubuntu The Top 10 Options You Should Know
 keywords: free video editing on ubuntu the top 10 options you should know,free and fabulous top 10 ubuntu video editing software options,ubuntu video editing essentials top 10 free options,move over wmm 10 free video editing tools you should know,free video editing on ubuntu the top 10 picks,video editing on a budget try these top 10 free ubuntu options,video editing on a budget top free ubuntu options
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Free Video Editing on Ubuntu: The Top 10 Options You Should Know

@@ -1,7 +1,7 @@
 ---
 title: Updated Top Resources for Free Public Domain Video Downloads
-date: 2024-05-19T07:45:52.589Z
-updated: 2024-05-20T07:45:52.589Z
+date: 2024-06-08T09:47:47.313Z
+updated: 2024-06-09T09:47:47.313Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Top Resources for Free Public Domain Video Downloads
 excerpt: This Article Describes Updated Top Resources for Free Public Domain Video Downloads
 keywords: top resources for free public domain video downloads,top sources for free public domain video downloads,download free public domain videos from these top websites,ai animation top resources for free public domain video downloads,free video assets galore top public domain download sites,free and clear top websites for public domain video downloads,public domain video heaven top sites for free downloads
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## Top Resources for Free Public Domain Video Downloads

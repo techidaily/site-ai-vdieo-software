@@ -1,7 +1,7 @@
 ---
 title: Demystifying Pixel Calculations A Beginners Guide
-date: 2024-05-19T07:44:58.481Z
-updated: 2024-05-20T07:44:58.481Z
+date: 2024-06-08T09:47:47.902Z
+updated: 2024-06-09T09:47:47.902Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Demystifying Pixel Calculations A Beginners Guide
 excerpt: This Article Describes Demystifying Pixel Calculations A Beginners Guide
 keywords: pixel calculator demystified a simple ratio guide,aspect ratio 101 a beginners guide to calculating,a beginners guide to understanding aspect ratios and pixels,demystifying pixel calculations a beginners guide,mastering image proportions a beginners guide to ratio calculators,aspect ratio calculations simplified a beginners guide,sizing up success a beginners guide to image ratio calculation
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Demystifying Pixel Calculations: A Beginner's Guide

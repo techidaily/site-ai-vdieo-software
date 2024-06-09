@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Cinematic Storytelling Made Easy A Beginners Handbook
-date: 2024-04-25T07:34:45.594Z
-updated: 2024-04-26T07:34:45.594Z
+date: 2024-06-08T09:47:48.655Z
+updated: 2024-06-09T09:47:48.655Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Cinematic Storytelling Made Easy A Beginners Handbook
 excerpt: This Article Describes 2024 Approved Cinematic Storytelling Made Easy A Beginners Handbook
 keywords: online video editing made easy a practical guide for beginners and pros,mp4 video editing made easy a beginners guide for mac and windows,easy cinematography a beginners guide to making movies,video storytelling made easy best iphone and ipad collage apps 2023,cinematic storytelling made easy a beginners handbook,video editing mastery online tutorials for beginners and pros,animated storytelling made easy 10 best mobile apps
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Cinematic Storytelling Made Easy: A Beginner's Handbook

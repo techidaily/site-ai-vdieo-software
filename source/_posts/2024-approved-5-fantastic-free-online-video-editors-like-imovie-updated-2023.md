@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)
-date: 2024-04-25T07:35:04.469Z
-updated: 2024-04-26T07:35:04.469Z
+date: 2024-06-08T09:48:05.063Z
+updated: 2024-06-09T09:48:05.063Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)
 excerpt: This Article Describes 2024 Approved 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)
 keywords: 5 free online video editors similar to imovie updated 2023,free online video editors like imovie top picks,5 fantastic free online video editors like imovie updated 2023,free and fabulous top 5 imovie alternatives for online video editing,free online video editors that rival imovie 2023 edition,5 best free online video editors similar to imovie updated 2023,imovie free alternatives top 5 online video editors
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)

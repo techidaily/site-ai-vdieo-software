@@ -1,7 +1,7 @@
 ---
 title: Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing
-date: 2024-05-19T07:44:58.414Z
-updated: 2024-05-20T07:44:58.414Z
+date: 2024-06-08T09:48:01.213Z
+updated: 2024-06-09T09:48:01.213Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing
 excerpt: This Article Describes Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing
 keywords: cut video clips online a step by step guide to kapwing editor,kapwing editor a step by step guide to trimming videos,the ultimate guide to trimming videos online with kapwing,cutting it down a step by step guide to trimming videos on kapwing,cut and crop a step by step guide to trimming videos with kapwing,ai animation slow down time a step by step guide to creating slow mo videos on kapwing,slow down time a step by step guide to creating slow mo videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Cutting It Down: A Step-by-Step Guide to Trimming Videos on Kapwing

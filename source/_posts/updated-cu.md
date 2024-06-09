@@ -1,7 +1,7 @@
 ---
 title: Updated Cu
-date: 2024-04-25T07:34:48.437Z
-updated: 2024-04-26T07:34:48.437Z
+date: 2024-06-08T09:48:04.197Z
+updated: 2024-06-09T09:48:04.197Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Cu
 excerpt: This Article Describes Updated Cu
 keywords: trim cut and split avi files like a pro updated,3gp cutter,best mkv cutting software free and updated,fixed frequent crashes in final cut pro x updated,top 10 best free mkv cutters 2023 update,cut and trim 3gp files with ease updated 2023,cut and edit 3gp files with ease updated 2023
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Cu

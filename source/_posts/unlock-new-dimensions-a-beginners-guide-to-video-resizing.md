@@ -1,7 +1,7 @@
 ---
 title: Unlock New Dimensions A Beginners Guide to Video Resizing
-date: 2024-05-19T07:44:53.409Z
-updated: 2024-05-20T07:44:53.409Z
+date: 2024-06-08T09:47:45.508Z
+updated: 2024-06-09T09:47:45.508Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Unlock New Dimensions A Beginners Guide to Video Resizing
 excerpt: This Article Describes Unlock New Dimensions A Beginners Guide to Video Resizing
 keywords: mastering twitter video dimensions a beginners guide,video ratio made simple a beginners guide to resizing,change video dimensions fast a beginners guide,instagram video dimensions explained a beginners guide,ai animation unlock new dimensions a beginners guide to video resizing,unlock waxs potential a beginners guide to video editing,unlock new dimensions a beginners guide to video resizing
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## Unlock New Dimensions: A Beginner's Guide to Video Resizing

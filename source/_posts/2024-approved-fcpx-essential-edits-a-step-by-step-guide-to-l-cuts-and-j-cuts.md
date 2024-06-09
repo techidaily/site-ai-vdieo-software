@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCPX Essential Edits A Step-by-Step Guide to L-Cuts and J-Cuts
-date: 2024-05-19T07:47:04.868Z
-updated: 2024-05-20T07:47:04.868Z
+date: 2024-06-08T09:47:34.903Z
+updated: 2024-06-09T09:47:34.903Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved FCPX Essential Edits A Step-by-Step Guide to L-Cuts and J-Cuts
 excerpt: This Article Describes 2024 Approved FCPX Essential Edits A Step-by-Step Guide to L-Cuts and J-Cuts
 keywords: fcp audio editing essentials a step by step guide,l cuts and j cuts demystified a beginners guide to fcpx audio editing,fcpx essential edits a step by step guide to l cuts and j cuts,fcpx audio editing essentials a step by step guide to l cuts and j cuts,unlock seamless audio a step by step guide to l cuts and j cuts in fcpx,fcpx 2024 essentials how to sync audio and video like a pro,ai animation fcp audio editing essentials a step by step guide
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## FCPX Essential Edits: A Step-by-Step Guide to L-Cuts and J-Cuts

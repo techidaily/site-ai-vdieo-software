@@ -1,7 +1,7 @@
 ---
 title: New AVS Video Editor A Comprehensive Analysis
-date: 2024-05-19T07:45:59.968Z
-updated: 2024-05-20T07:45:59.968Z
+date: 2024-06-08T09:47:51.529Z
+updated: 2024-06-09T09:47:51.529Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New AVS Video Editor A Comprehensive Analysis
 excerpt: This Article Describes New AVS Video Editor A Comprehensive Analysis
 keywords: splice video editing app a comprehensive analysis,avs video editor a comprehensive review,avs video editor a comprehensive review and analysis,avs video editor a comprehensive analysis,avs video editor 2023 a comprehensive review and guide,splice video editor a comprehensive review and analysis,is avs video editor worth it a comprehensive review
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## AVS Video Editor: A Comprehensive Analysis

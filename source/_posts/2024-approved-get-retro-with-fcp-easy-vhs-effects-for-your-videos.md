@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Get Retro with FCP Easy VHS Effects for Your Videos
-date: 2024-05-19T07:45:43.988Z
-updated: 2024-05-20T07:45:43.988Z
+date: 2024-06-08T09:48:00.082Z
+updated: 2024-06-09T09:48:00.082Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Get Retro with FCP Easy VHS Effects for Your Videos
 excerpt: This Article Describes 2024 Approved Get Retro with FCP Easy VHS Effects for Your Videos
 keywords: the vhs effect top mobile apps for adding a retro touch to your videos,time warp transform your videos with vhs effects in fcp,rewind to the past top apps for adding retro vhs effects to your videos,ai animation add pro level effects to your videos in 3 easy steps with fcp x,ai animation get retro with fcp easy vhs effects for your videos,add pro level effects to your videos in 3 easy steps with fcp x,get retro with fcp easy vhs effects for your videos
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Get Retro with FCP: Easy VHS Effects for Your Videos

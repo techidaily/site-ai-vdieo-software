@@ -1,7 +1,7 @@
 ---
 title: New From Camera to Computer A Beginners Guide to Editing Canon Videos
-date: 2024-04-25T07:35:00.846Z
-updated: 2024-04-26T07:35:00.846Z
+date: 2024-06-08T09:47:42.060Z
+updated: 2024-06-09T09:47:42.060Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New From Camera to Computer A Beginners Guide to Editing Canon Videos
 excerpt: This Article Describes New From Camera to Computer A Beginners Guide to Editing Canon Videos
 keywords: canon video editor a beginners guide to editing your camcorder footage,from camera to computer a beginners guide to editing nikon videos,from camera to computer editing nikon videos with confidence,canon camcorder video editing for beginners a comprehensive guide,from camera to computer a beginners guide to editing canon videos,from camera to computer a step by step guide to editing sony camcorder videos,from camera to computer editing sony camcorder videos with ease
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## From Camera to Computer: A Beginner's Guide to Editing Canon Videos

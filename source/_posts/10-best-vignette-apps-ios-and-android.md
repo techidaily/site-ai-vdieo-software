@@ -1,7 +1,7 @@
 ---
 title: 10 Best Vignette Apps iOS & Android
-date: 2024-05-19T07:44:47.674Z
-updated: 2024-05-20T07:44:47.674Z
+date: 2024-06-08T09:48:03.377Z
+updated: 2024-06-09T09:48:03.377Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 10 Best Vignette Apps iOS & Android
 excerpt: This Article Describes 10 Best Vignette Apps iOS & Android
 keywords: best vignette apps for ios and android free paid,10 best vlog editor apps ios android,vignette masterpieces the best ios and android apps,best vhs apps iphone android,10 best vignette apps ios android,best vignette apps,vignette mastery the best ios and android apps free paid
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## 10 Best Vignette Apps [iOS & Android]

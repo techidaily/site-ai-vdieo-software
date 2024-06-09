@@ -1,7 +1,7 @@
 ---
 title: Updated Create, Shoot, Edit The Ultimate Kids Movie-Making Guide
-date: 2024-04-25T07:34:47.210Z
-updated: 2024-04-26T07:34:47.210Z
+date: 2024-06-08T09:47:49.493Z
+updated: 2024-06-09T09:47:49.493Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Create, Shoot, Edit The Ultimate Kids Movie-Making Guide
 excerpt: This Article Describes Updated Create, Shoot, Edit The Ultimate Kids Movie-Making Guide
 keywords: the ultimate guide to making movie style intros with ease,the ultimate fcp guide 5 editing tips every creator should know,create unforgettable dvds the ultimate movie making software guide,the ultimate guide to choosing a windows movie editor,the ultimate guide to editing sony camcorder videos updated,the ultimate guide to creating personalized dvds with movie making software,create shoot edit the ultimate kids movie making guide
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## Create, Shoot, Edit: The Ultimate Kid's Movie-Making Guide

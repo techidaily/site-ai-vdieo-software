@@ -1,7 +1,7 @@
 ---
 title: New Best Public Domain Picture Resources 2023 Edition
-date: 2024-05-19T07:46:06.120Z
-updated: 2024-05-20T07:46:06.120Z
+date: 2024-06-08T09:47:40.685Z
+updated: 2024-06-09T09:47:40.685Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Best Public Domain Picture Resources 2023 Edition
 excerpt: This Article Describes New Best Public Domain Picture Resources 2023 Edition
 keywords: your go to guide 10 best public domain image resources,unleash creative freedom best public domain video resources,best public domain picture sites 2023 edition,best public domain picture resources 2023 edition,best public domain image sites to explore,10 essential public domain image resources for designers,discover the best public domain video resources for free
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Best Public Domain Picture Resources: 2023 Edition

@@ -1,7 +1,7 @@
 ---
 title: Cinematic Storytelling with Final Cut Pro X Tips and Tricks
-date: 2024-05-19T07:44:56.663Z
-updated: 2024-05-20T07:44:56.663Z
+date: 2024-06-08T09:47:52.358Z
+updated: 2024-06-09T09:47:52.358Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Cinematic Storytelling with Final Cut Pro X Tips and Tricks
 excerpt: This Article Describes Cinematic Storytelling with Final Cut Pro X Tips and Tricks
 keywords: cinematic storytelling with final cut pro x tips and tricks,slideshow magic with final cut pro tips tricks and techniques,cinematic storytelling with final cut pro x tips and techniques,captioning in final cut pro x tips and tricks for success,final cut pro x subtitle editing tips and tricks,final cut pro tips and tricks flipping clips with ease 4 steps,the ultimate guide to subtitling in final cut pro x tips and tricks
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Cinematic Storytelling with Final Cut Pro X: Tips and Tricks

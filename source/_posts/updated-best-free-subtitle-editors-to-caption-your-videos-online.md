@@ -1,7 +1,7 @@
 ---
 title: Updated Best Free Subtitle Editors to Caption Your Videos Online
-date: 2024-05-19T07:46:02.894Z
-updated: 2024-05-20T07:46:02.894Z
+date: 2024-06-08T09:47:56.335Z
+updated: 2024-06-09T09:47:56.335Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Best Free Subtitle Editors to Caption Your Videos Online
 excerpt: This Article Describes Updated Best Free Subtitle Editors to Caption Your Videos Online
 keywords: best free subtitle generators add captions to your videos online,best free subtitle generators to add captions to your videos,subtitle your videos for free 10 best online captioning tools,top 10 free online subtitle editors for video captioning,top 10 free online subtitle editors for video captions,best free subtitle editors to caption your videos online,add captions to your videos with these 10 free online subtitle tools
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Best Free Subtitle Editors to Caption Your Videos Online

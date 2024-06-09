@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Free and Fantastic The Top 5 WMV Video Editors
-date: 2024-05-19T07:47:30.380Z
-updated: 2024-05-20T07:47:30.380Z
+date: 2024-06-08T09:47:36.139Z
+updated: 2024-06-09T09:47:36.139Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Free and Fantastic The Top 5 WMV Video Editors
 excerpt: This Article Describes 2024 Approved Free and Fantastic The Top 5 WMV Video Editors
 keywords: free and fantastic the top 10 video editors for ubuntu users,free and fantastic the best vob video editors,free and fantastic the top 5 wmv video editors,free and fantastic the best avi video editors,free and fantastic the best mp4 video editors,free and fantastic the best flv video editors,free and fantastic top 10 webm video editors
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Free and Fantastic: The Top 5 WMV Video Editors

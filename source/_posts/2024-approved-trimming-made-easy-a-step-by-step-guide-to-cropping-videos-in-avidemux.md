@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux
-date: 2024-05-19T07:45:53.198Z
-updated: 2024-05-20T07:45:53.198Z
+date: 2024-06-08T09:47:37.785Z
+updated: 2024-06-09T09:47:37.785Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux
 excerpt: This Article Describes 2024 Approved Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux
 keywords: kapwing editor a step by step guide to trimming videos,ai animation trimming made easy a step by step guide to cropping videos in avidemux,the ultimate guide to cropping videos in avidemux tips and tricks,video cropping made easy a comprehensive guide to using avidemux,trim and refine a step by step guide to cropping videos in avidemux,cut and crop a step by step guide to trimming videos with kapwing,trimming made easy a step by step guide to cropping videos in avidemux
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Trimming Made Easy: A Step-by-Step Guide to Cropping Videos in Avidemux

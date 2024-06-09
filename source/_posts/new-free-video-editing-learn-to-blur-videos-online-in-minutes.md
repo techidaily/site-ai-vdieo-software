@@ -1,7 +1,7 @@
 ---
 title: New Free Video Editing Learn to Blur Videos Online in Minutes
-date: 2024-04-25T07:34:59.594Z
-updated: 2024-04-26T07:34:59.594Z
+date: 2024-06-08T09:47:46.890Z
+updated: 2024-06-09T09:47:46.890Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Video Editing Learn to Blur Videos Online in Minutes
 excerpt: This Article Describes New Free Video Editing Learn to Blur Videos Online in Minutes
 keywords: free video editing learn to blur videos online in minutes,best video editing software to blur faces in video,make videos in minutes wevideo online editor,top 10 best free online video editors for video editing online,unlock pro level videos top free online video editing tools,make stunning videos in minutes wevideo online editor,free video editing learn to blur videos like a pro
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Free Video Editing: Learn to Blur Videos Online in Minutes

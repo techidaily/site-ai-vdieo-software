@@ -1,7 +1,7 @@
 ---
 title: Speed Up or Slow Down Top GIF Editing Software and Apps
-date: 2024-05-19T07:45:12.032Z
-updated: 2024-05-20T07:45:12.032Z
+date: 2024-06-08T09:47:50.589Z
+updated: 2024-06-09T09:47:50.589Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Speed Up or Slow Down Top GIF Editing Software and Apps
 excerpt: This Article Describes Speed Up or Slow Down Top GIF Editing Software and Apps
 keywords: slow down or speed up top video editing software with speed adjustment,speed up or slow down best video editing software for windows and mac,speed up or slow down top gif editors online and offline,speed up or slow down top gif editing software and apps,speed up or slow down top gif editors reviewed,speed up or slow down top 10 free video editing apps for mobile,speed up or slow down best video editing software
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Speed Up or Slow Down: Top GIF Editing Software and Apps

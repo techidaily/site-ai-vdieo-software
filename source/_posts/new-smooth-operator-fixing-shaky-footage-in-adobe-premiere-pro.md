@@ -1,7 +1,7 @@
 ---
 title: New Smooth Operator Fixing Shaky Footage in Adobe Premiere Pro
-date: 2024-05-19T07:45:34.684Z
-updated: 2024-05-20T07:45:34.684Z
+date: 2024-06-08T09:48:02.542Z
+updated: 2024-06-09T09:48:02.542Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Smooth Operator Fixing Shaky Footage in Adobe Premiere Pro
 excerpt: This Article Describes New Smooth Operator Fixing Shaky Footage in Adobe Premiere Pro
 keywords: ai animation smooth operator fixing shaky footage in adobe premiere pro,smooth operator fixing shaky footage in adobe premiere pro,ai animation ai animation smooth operator fixing shaky footage in adobe premiere pro,smooth operator video stabilization techniques in adobe premiere pro,shake it off how to fix shaky footage in adobe premiere pro,pro tips for smoother video stabilizing footage in adobe premiere pro,shaky footage no problem stabilizing videos in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Smooth Operator: Fixing Shaky Footage in Adobe Premiere Pro

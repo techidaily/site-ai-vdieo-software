@@ -1,7 +1,7 @@
 ---
 title: Free MKV Video Editing Software Top Cutting Tools for 2024
-date: 2024-04-25T07:34:58.797Z
-updated: 2024-04-26T07:34:58.797Z
+date: 2024-06-08T09:47:31.887Z
+updated: 2024-06-09T09:47:31.887Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free MKV Video Editing Software Top Cutting Tools for 2024
 excerpt: This Article Describes Free MKV Video Editing Software Top Cutting Tools for 2024
 keywords: the top mkv video cutting software for mac,cutting edge free flv video editing software,free video editing software for windows 10 top 10 trimming tools,best free video editing software for cutting mp4 files,free mov video editing software top 6 cutting tools,divx video editing made easy top free cutting tools,free mkv video editing software top cutting tools
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Free MKV Video Editing Software: Top Cutting Tools

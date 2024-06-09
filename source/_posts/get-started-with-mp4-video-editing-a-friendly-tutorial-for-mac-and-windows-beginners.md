@@ -1,7 +1,7 @@
 ---
 title: Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
-date: 2024-05-19T07:45:05.535Z
-updated: 2024-05-20T07:45:05.535Z
+date: 2024-06-08T09:47:54.241Z
+updated: 2024-06-09T09:47:54.241Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
 excerpt: This Article Describes Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
 keywords: mp4 video editing for beginners a friendly tutorial for mac and windows users,edit mp4 files like a pro mac and windows tutorial for beginners,get started with mp4 video editing a quick and easy tutorial for mac and windows,get started with mp4 video editing a friendly tutorial for mac and windows beginners,get started with video editing top beginner friendly software,get started with video editing a microsoft tutorial for windows 10 8 and 7,the ultimate mp4 video editing tutorial for mac and windows users
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Get Started with MP4 Video Editing: A Friendly Tutorial for Mac and Windows Beginners

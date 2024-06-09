@@ -1,7 +1,7 @@
 ---
 title: Best Free Online Collage Makers for Photos, Videos, and More for 2024
-date: 2024-05-19T07:46:02.747Z
-updated: 2024-05-20T07:46:02.747Z
+date: 2024-06-08T09:47:33.199Z
+updated: 2024-06-09T09:47:33.199Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Best Free Online Collage Makers for Photos, Videos, and More for 2024
 excerpt: This Article Describes Best Free Online Collage Makers for Photos, Videos, and More for 2024
 keywords: unleash your creativity best online collage makers for photos and videos,best free online collage makers for photos videos and more,unleash your creativity top online collage makers for photos and videos,online collage creators make stunning photo and video montages,ai animation best online photo and video collage makers,the ultimate list of online collage makers for photos and videos,best online photo and video collage makers
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Best Free Online Collage Makers for Photos, Videos, and More

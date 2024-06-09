@@ -1,7 +1,7 @@
 ---
 title: S Top Free QuickTime Video Editors for Beginners and Pros
-date: 2024-05-19T07:45:11.486Z
-updated: 2024-05-20T07:45:11.486Z
+date: 2024-06-08T09:47:31.968Z
+updated: 2024-06-09T09:47:31.968Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes S Top Free QuickTime Video Editors for Beginners and Pros
 excerpt: This Article Describes S Top Free QuickTime Video Editors for Beginners and Pros
 keywords: free video editing for dummies top picks for beginners,top picks simple video editors for beginners,apple video editing essentials top picks for pros and beginners,s top free quicktime video editors for beginners and pros,best free flv video editors for beginners and pros alike,the best free 4k video editors for beginners and pros alike,easy video editing top picks for beginners free paid
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## 'S Top Free QuickTime Video Editors for Beginners and Pros

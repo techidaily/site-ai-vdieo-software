@@ -1,7 +1,7 @@
 ---
 title: From Mouth to Manuscript The Art of Speech-to-Text Conversion
-date: 2024-05-19T07:45:04.344Z
-updated: 2024-05-20T07:45:04.344Z
+date: 2024-06-08T09:47:37.363Z
+updated: 2024-06-09T09:47:37.363Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Mouth to Manuscript The Art of Speech-to-Text Conversion
 excerpt: This Article Describes From Mouth to Manuscript The Art of Speech-to-Text Conversion
 keywords: the art of text to speech conversion insider secrets and best practices,the art of speech to text conversion tips and tools,say it write it the science of speech to text conversion,from soundcloud to mp3 mastering the art of music conversion,from mouth to manuscript speech to text solutions,from mouth to manuscript the art of speech to text conversion,from mouth to manuscript speech to text conversion tips
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## From Mouth to Manuscript: The Art of Speech-to-Text Conversion

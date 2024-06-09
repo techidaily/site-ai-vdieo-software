@@ -1,7 +1,7 @@
 ---
 title: Video Cropping 101 Learn How to Use Avidemux Like a Pro
-date: 2024-05-19T07:45:19.662Z
-updated: 2024-05-20T07:45:19.662Z
+date: 2024-06-08T09:47:39.476Z
+updated: 2024-06-09T09:47:39.476Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Video Cropping 101 Learn How to Use Avidemux Like a Pro
 excerpt: This Article Describes Video Cropping 101 Learn How to Use Avidemux Like a Pro
 keywords: video cropping 101 a beginners guide to using avidemux,fcpx video editing how to crop and resize images like a pro,cropping like a pro advanced techniques for avidemux users,how to crop a video with avidemux,video cropping 101 learn how to use avidemux like a pro,the ultimate avidemux tutorial cropping videos like a pro,free video editing learn to blur videos like a pro
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Video Cropping 101: Learn How to Use Avidemux Like a Pro

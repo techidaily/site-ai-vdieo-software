@@ -1,7 +1,7 @@
 ---
 title: New How to Fast Forward or Slow Down Videos in Camtasia
-date: 2024-05-19T07:45:44.880Z
-updated: 2024-05-20T07:45:44.880Z
+date: 2024-06-08T09:47:50.738Z
+updated: 2024-06-09T09:47:50.738Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Fast Forward or Slow Down Videos in Camtasia
 excerpt: This Article Describes New How to Fast Forward or Slow Down Videos in Camtasia
 keywords: unlocking camtasias power how to speed up or slow down videos,how to fast forward or reverse video in camtasia,how to fast forward or slow down videos in camtasia,quicktime video speed control how to fast forward and slow down,ai animation how to fast forward or slow down videos in camtasia,video editing hack speed up or slow down clips in camtasia,time saving tips how to speed up or slow down videos in camtasia
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## How to Fast Forward or Slow Down Videos in Camtasia

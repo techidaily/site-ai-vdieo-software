@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCPX Lower Thirds 101 A Beginners Guide to Success
-date: 2024-05-19T07:47:07.144Z
-updated: 2024-05-20T07:47:07.144Z
+date: 2024-06-08T09:47:38.574Z
+updated: 2024-06-09T09:47:38.574Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved FCPX Lower Thirds 101 A Beginners Guide to Success
 excerpt: This Article Describes 2024 Approved FCPX Lower Thirds 101 A Beginners Guide to Success
 keywords: fcp voice over essentials a beginners guide to success,twitter video aspect ratio 101 a beginners guide to success,designing effective lower thirds a guide to fcpx success,m4r conversion basics a beginners guide to success,fcpx lower thirds 101 a beginners guide to success,countdown to success a beginners guide to fcpx timers,the sound of success a beginners guide to youtube audio downloads
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## FCPX Lower Thirds 101: A Beginner's Guide to Success

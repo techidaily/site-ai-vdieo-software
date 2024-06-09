@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Video Editors for Beginners
-date: 2024-04-25T07:34:51.814Z
-updated: 2024-04-26T07:34:51.814Z
+date: 2024-06-08T09:47:46.213Z
+updated: 2024-06-09T09:47:46.213Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Easy Video Editors for Beginners
 excerpt: This Article Describes Updated Easy Video Editors for Beginners
 keywords: free and easy video editing software for beginners,easy peasy video editing 15 free tools for beginners,update top 5 ipad video editors for creators and beginners,video editing made easy top choices for beginners,top picks simple video editors for beginners,easy video editing software for beginners,easy video editors for beginners
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## Easy Video Editors for Beginners

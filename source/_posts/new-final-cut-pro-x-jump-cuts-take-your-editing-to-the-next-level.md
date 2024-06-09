@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Jump Cuts Take Your Editing to the Next Level
-date: 2024-04-25T07:34:57.249Z
-updated: 2024-04-26T07:34:57.249Z
+date: 2024-06-08T09:47:49.201Z
+updated: 2024-06-09T09:47:49.201Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Final Cut Pro X Jump Cuts Take Your Editing to the Next Level
 excerpt: This Article Describes New Final Cut Pro X Jump Cuts Take Your Editing to the Next Level
 keywords: taking lower thirds to the next level in final cut pro x,final cut pro x jump cuts take your editing to the next level,take your editing to the next level 5 expert final cut pro tips,take your editing to the next level advanced jump cuts in final cut pro x,elevate your editing how to create professional jump cuts in final cut pro x,taking your video editing to the next level with final cut pro,take your editing to the next level 5 final cut pro hacks
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## Final Cut Pro X Jump Cuts: Take Your Editing to the Next Level

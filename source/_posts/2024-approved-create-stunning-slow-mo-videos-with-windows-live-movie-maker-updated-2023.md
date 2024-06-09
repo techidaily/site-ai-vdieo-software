@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023
-date: 2024-04-25T07:35:53.191Z
-updated: 2024-04-26T07:35:53.191Z
+date: 2024-06-08T09:47:33.018Z
+updated: 2024-06-09T09:47:33.018Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023
 excerpt: This Article Describes 2024 Approved Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023
 keywords: create stunning slow mo videos with windows live movie maker updated 2023,the ultimate guide to splitting videos in windows live movie maker 2023 edition,create stunning videos with these 10 android movie makers,create stunning videos top windows 10 movie makers,unlock the power of slow motion in windows live movie maker updated 2023,windows live movie maker tutorial creating stunning slow motion videos,the ultimate guide to slow motion video editing with windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Create Stunning Slow-Mo Videos with Windows Live Movie Maker [Updated 2023]

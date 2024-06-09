@@ -1,7 +1,7 @@
 ---
 title: The Best Free Video Editing Programs for Rookies
-date: 2024-05-19T07:45:12.943Z
-updated: 2024-05-20T07:45:12.943Z
+date: 2024-06-08T09:48:03.622Z
+updated: 2024-06-09T09:48:03.622Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Best Free Video Editing Programs for Rookies
 excerpt: This Article Describes The Best Free Video Editing Programs for Rookies
 keywords: the best free video editing solutions for gamers,the best free video editing programs for rookies,ranking the best video editing programs for windows 11,the best free vob video editing programs for windows and macos,10 best free video editing programs for windows users,the best free video editing programs for learners,the best free video editing programs for old windows pcs
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## The Best Free Video Editing Programs for Rookies

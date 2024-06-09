@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Stunning Invitations 10 Free Video Maker Options
-date: 2024-04-25T07:35:52.686Z
-updated: 2024-04-26T07:35:52.686Z
+date: 2024-06-08T09:47:49.283Z
+updated: 2024-06-09T09:47:49.283Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Create Stunning Invitations 10 Free Video Maker Options
 excerpt: This Article Describes 2024 Approved Create Stunning Invitations 10 Free Video Maker Options
 keywords: create stunning invitations 10 free video maker options,free and fabulous 10 online invitation video maker options,create stunning video invitations for free top tools,10 free online tools to create stunning invitation videos,create stunning video invites for free top online makers,create stunning invites top 10 free video makers,ai animation create stunning videos from images 10 top online makers
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Create Stunning Invitations: 10 Free Video Maker Options

@@ -1,7 +1,7 @@
 ---
 title: Updated Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector
-date: 2024-04-25T07:34:45.791Z
-updated: 2024-04-26T07:34:45.791Z
+date: 2024-06-08T09:47:58.519Z
+updated: 2024-06-09T09:47:58.519Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector
 excerpt: This Article Describes Updated Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector
 keywords: unifying your visuals how to color match video clips in powerdirector,color matching mastery a step by step guide for powerdirector users,color code cracked how to match video clips in powerdirector like a pro,from disparate to unified color matching video clips in powerdirector,color harmony in powerdirector a beginners guide to clip color matching,unify your visuals a step by step color matching tutorial for powerdirector,color unify a step by step guide to matching video clips in powerdirector
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## Color Unify: A Step-by-Step Guide to Matching Video Clips in PowerDirector

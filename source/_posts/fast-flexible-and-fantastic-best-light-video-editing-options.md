@@ -1,7 +1,7 @@
 ---
 title: Fast, Flexible, and Fantastic Best Light Video Editing Options
-date: 2024-05-19T07:45:01.493Z
-updated: 2024-05-20T07:45:01.493Z
+date: 2024-06-08T09:47:59.355Z
+updated: 2024-06-09T09:47:59.355Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Fast, Flexible, and Fantastic Best Light Video Editing Options
 excerpt: This Article Describes Fast, Flexible, and Fantastic Best Light Video Editing Options
 keywords: free and fantastic the best flv video editors,fast and furious top 8 lightweight video editing solutions,fast flexible and fantastic best light video editing options,ai animation best light video editing software,ai animation best 8 light video editing software,free and fantastic 10 ubuntu video editing software options,fast and furious best video editing tools
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Fast, Flexible, and Fantastic: Best Light Video Editing Options

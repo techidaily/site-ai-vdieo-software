@@ -1,7 +1,7 @@
 ---
 title: From Start to Finish A Comprehensive Guide to QuickTime Video Editing on Mac
-date: 2024-05-19T07:45:04.679Z
-updated: 2024-05-20T07:45:04.679Z
+date: 2024-06-08T09:47:39.874Z
+updated: 2024-06-09T09:47:39.874Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Start to Finish A Comprehensive Guide to QuickTime Video Editing on Mac
 excerpt: This Article Describes From Start to Finish A Comprehensive Guide to QuickTime Video Editing on Mac
 keywords: edit mp4 on mac mavericks a comprehensive video editing guide,from start to finish a complete guide to editing mp4 videos on mac and windows,the ultimate guide to quicktime video editing on mac,nikon video file editing a comprehensive guide,from start to finish how to edit videos with quicktime on mac,from start to finish a comprehensive guide to quicktime video editing on mac,from start to finish a comprehensive guide to saving a final cut pro project
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## From Start to Finish: A Comprehensive Guide to QuickTime Video Editing on Mac

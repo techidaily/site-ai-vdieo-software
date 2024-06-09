@@ -1,7 +1,7 @@
 ---
 title: How to Create a Movie in Minutes A Quick Start Guide
-date: 2024-05-19T07:45:06.492Z
-updated: 2024-05-20T07:45:06.492Z
+date: 2024-06-08T09:47:43.007Z
+updated: 2024-06-09T09:47:43.007Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Create a Movie in Minutes A Quick Start Guide
 excerpt: This Article Describes How to Create a Movie in Minutes A Quick Start Guide
 keywords: resize your video in minutes a quick tutorial,download windows movie maker now a quick start guide to video creation,how to create a movie in minutes a quick start guide,record your desktop in minutes a quick start guide to filmora scrn,windows movie maker download and install a quick start guide,make a movie in minutes a quickstart guide,fcp hack how to create a vhs aesthetic in minutes
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## How to Create a Movie in Minutes: A Quick Start Guide

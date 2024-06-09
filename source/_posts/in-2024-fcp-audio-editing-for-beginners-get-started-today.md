@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCP Audio Editing for Beginners Get Started Today
-date: 2024-04-25T07:34:55.707Z
-updated: 2024-04-26T07:34:55.707Z
+date: 2024-06-08T09:47:58.812Z
+updated: 2024-06-09T09:47:58.812Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, FCP Audio Editing for Beginners Get Started Today
 excerpt: This Article Describes In 2024, FCP Audio Editing for Beginners Get Started Today
 keywords: free video editing for beginners a step by step guide to getting started,fcp audio editing 101 a beginners guide to better sound,best free m4a audio editing software for beginners,best video editing software for beginners 2022 top list,fcp audio editing for beginners get started today,get started with jaycut a beginners guide to free video editing,video editing for dummies top 2024 software for beginners
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## FCP Audio Editing for Beginners: Get Started Today

@@ -1,7 +1,7 @@
 ---
 title: New Create Stunning Composites FCP X Chroma Keying Guide
-date: 2024-04-25T07:34:47.297Z
-updated: 2024-04-26T07:34:47.297Z
+date: 2024-06-08T09:47:32.909Z
+updated: 2024-06-09T09:47:32.909Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Create Stunning Composites FCP X Chroma Keying Guide
 excerpt: This Article Describes New Create Stunning Composites FCP X Chroma Keying Guide
 keywords: get creative with fcp x a 3 step guide to adding stunning effects,create stunning intros top 10 online maker sites,create stunning slow mo videos with kapwing a step by step guide,the art of chroma keying in fcp x expert techniques for stunning results,fcp x the ultimate guide to creating realistic green screen composites,create stunning composites fcp x chroma keying guide,green screen magic in fcp x a beginners guide to chroma keying
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## Create Stunning Composites: FCP X Chroma Keying Guide

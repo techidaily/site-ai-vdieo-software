@@ -1,7 +1,7 @@
 ---
 title: PC Video Editing Made Easy A Review of VN Video Editor
-date: 2024-05-19T07:44:52.348Z
-updated: 2024-05-20T07:44:52.348Z
+date: 2024-06-08T09:47:59.438Z
+updated: 2024-06-09T09:47:59.438Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes PC Video Editing Made Easy A Review of VN Video Editor
 excerpt: This Article Describes PC Video Editing Made Easy A Review of VN Video Editor
 keywords: pc video editing made easy a review of vn editor,pc video editing made easy a vn editor review,mac video editing made easy vn video editor and more,pc video editing made easy vn editor review,ai animation pc video editing made easy a review of vn video editor,pc video editing made easy a review of vn video editor,vn video editor app review editing made easy on android
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## PC Video Editing Made Easy: A Review of VN Video Editor

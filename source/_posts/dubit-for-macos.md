@@ -1,7 +1,7 @@
 ---
 title: DubIt for macOS
-date: 2024-05-19T07:44:51.035Z
-updated: 2024-05-20T07:44:51.035Z
+date: 2024-06-08T09:48:01.321Z
+updated: 2024-06-09T09:48:01.321Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes DubIt for macOS
 excerpt: This Article Describes DubIt for macOS
 keywords: virtualdub for mac,ai animation dubit for macos,editstudio for macos,moviemaster for macos,splice for mac,dubit for macos,ezvid for mac
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## DubIt for macOS

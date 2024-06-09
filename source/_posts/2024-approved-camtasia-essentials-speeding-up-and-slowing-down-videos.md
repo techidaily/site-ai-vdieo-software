@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Camtasia Essentials Speeding Up and Slowing Down Videos
-date: 2024-04-25T07:34:44.893Z
-updated: 2024-04-26T07:34:44.893Z
+date: 2024-06-08T09:48:04.978Z
+updated: 2024-06-09T09:48:04.978Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Camtasia Essentials Speeding Up and Slowing Down Videos
 excerpt: This Article Describes 2024 Approved Camtasia Essentials Speeding Up and Slowing Down Videos
 keywords: the art of video timing speeding up and slowing down in camtasia,speed up or slow down the ultimate camtasia video editing guide,camtasia video editing secrets speeding up or slowing down footage,the ultimate camtasia shortcut speeding up and slowing down videos,effortless video editing a guide to speeding up and slowing down in camtasia,camtasia essentials speeding up and slowing down videos,video editing hack speed up or slow down clips in camtasia
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Camtasia Essentials: Speeding Up and Slowing Down Videos

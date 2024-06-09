@@ -1,7 +1,7 @@
 ---
 title: This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots
-date: 2024-05-19T07:45:16.537Z
-updated: 2024-05-20T07:45:16.537Z
+date: 2024-06-08T09:47:54.321Z
+updated: 2024-06-09T09:47:54.321Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots
 excerpt: This Article Describes This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots
 keywords: this article shows how to add skin smoother effect with 3 steps in final cut pro as well as other editors,ai animation how to use ken burns effect in final cut pro with detailed steps,this article shows the detail steps to add titles in final cut pro x,this article shows the detail steps to create a chromakey ie greenscreen effect in final cut pro x,this article shows you how to do freeze frames and slow motion in final cut pro x,this article shows the detail steps to crop an image in final cut pro with screenshots,how to use ken burns effect in final cut pro with detailed steps
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots

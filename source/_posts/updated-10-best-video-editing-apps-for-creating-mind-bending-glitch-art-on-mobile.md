@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile
-date: 2024-05-19T07:45:22.322Z
-updated: 2024-05-20T07:45:22.322Z
+date: 2024-06-08T09:47:58.134Z
+updated: 2024-06-09T09:47:58.134Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile
 excerpt: This Article Describes Updated 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile
 keywords: 10 best apps to create mind bending glitch art videos on mobile,10 best video editing apps for creating mind bending glitch art on mobile,unconventional editing top 10 glitch art video apps for mobile,best mobile apps for recording and editing reaction videos,breaking the rules 10 innovative glitch art video editing apps for mobile,bend reality with these 10 glitch art video editing apps for mobile,the ultimate list top 10 glitch video editing apps for mobile creatives
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile

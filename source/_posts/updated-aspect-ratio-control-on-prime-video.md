@@ -1,7 +1,7 @@
 ---
 title: Updated Aspect Ratio Control on Prime Video
-date: 2024-05-19T07:45:57.457Z
-updated: 2024-05-20T07:45:57.457Z
+date: 2024-06-08T09:47:29.946Z
+updated: 2024-06-09T09:47:29.946Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Aspect Ratio Control on Prime Video
 excerpt: This Article Describes Updated Aspect Ratio Control on Prime Video
 keywords: tips for amazon prime video aspect ratio,aspect ratio control on prime video,aspect ratio options on prime video,aspect ratio on amazon prime,amazon prime video aspect ratio,how to change aspect ratio on amazon prime video,ai animation amazon prime video aspect ratio
-thumbnail: https://www.lifewire.com/thmb/dUcMAT1_0DCxV5hsu63as34-gjs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coverjointwitter-6f13b51d1be04d8bb3f5221ef5a057c7.jpg
+thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
 ## Aspect Ratio Control on Prime Video

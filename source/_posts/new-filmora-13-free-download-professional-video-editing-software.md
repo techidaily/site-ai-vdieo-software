@@ -1,7 +1,7 @@
 ---
 title: New Filmora 13 Free Download Professional Video Editing Software
-date: 2024-04-25T07:34:56.778Z
-updated: 2024-04-26T07:34:56.778Z
+date: 2024-06-08T09:47:52.491Z
+updated: 2024-06-09T09:47:52.491Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Filmora 13 Free Download Professional Video Editing Software
 excerpt: This Article Describes New Filmora 13 Free Download Professional Video Editing Software
 keywords: filmora 13 free download the ultimate video editing software,filmora 13 download free the ultimate video editing software 2024,free filmora 13 download video editing software,free download filmora 13 video editing made easy,download filmora 13 for free professional video editing made easy,top 10 professional video editing software free download,filmora 13 free download professional video editing software
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Filmora 13 Free Download: Professional Video Editing Software

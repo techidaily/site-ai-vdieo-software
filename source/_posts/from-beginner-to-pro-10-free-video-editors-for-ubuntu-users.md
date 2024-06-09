@@ -1,7 +1,7 @@
 ---
 title: From Beginner to Pro 10 Free Video Editors for Ubuntu Users
-date: 2024-05-19T07:45:03.770Z
-updated: 2024-05-20T07:45:03.770Z
+date: 2024-06-08T09:47:56.242Z
+updated: 2024-06-09T09:47:56.242Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Beginner to Pro 10 Free Video Editors for Ubuntu Users
 excerpt: This Article Describes From Beginner to Pro 10 Free Video Editors for Ubuntu Users
 keywords: free and fantastic the top 10 video editors for ubuntu users,best of the bunch free video editors for ubuntu users,no budget no problem 10 free video editors for ubuntu users,no cost no problem top 10 free video editors for ubuntu,from zero to hero 15 free video editing tools for beginners,top 10 best free video editors for ubuntu,from beginner to pro 10 free video editors for ubuntu users
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## From Beginner to Pro: 10 Free Video Editors for Ubuntu Users
