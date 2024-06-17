@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make a Time Lapse Video in Final Cut Pro
-date: 2024-05-19T07:45:45.052Z
-updated: 2024-05-20T07:45:45.052Z
+date: 2024-06-16T01:52:23.900Z
+updated: 2024-06-17T01:52:23.900Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved How to Make a Time Lapse Video in Final Cut Pro
 excerpt: This Article Describes 2024 Approved How to Make a Time Lapse Video in Final Cut Pro
 keywords: from slow to fast mastering time lapse video editing in final cut pro,ai animation how to reverse a video in final cut pro,how to reverse a video in final cut pro,ai animation how to make a time lapse video in final cut pro,flip it how to reverse video clips in final cut pro like a pro,how to make a time lapse video in final cut pro,how to make timelapse video in fcp
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## How to Make a Time Lapse Video in Final Cut Pro

@@ -1,7 +1,7 @@
 ---
 title: New How to Import and Export Videos in Adobe Premiere
-date: 2024-05-19T07:45:30.550Z
-updated: 2024-05-20T07:45:30.550Z
+date: 2024-06-16T01:52:42.153Z
+updated: 2024-06-17T01:52:42.153Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Import and Export Videos in Adobe Premiere
 excerpt: This Article Describes New How to Import and Export Videos in Adobe Premiere
 keywords: mastering video import and export in adobe premiere pro 2023,effortless video transfer how to import and export in adobe premiere 2023,streamline your workflow how to import and export videos in adobe premiere,mastering video import and export in adobe premiere pro,ai animation how to import and export videos in adobe premiere,how to import and export videos in adobe premiere,the ultimate guide to importing and exporting videos in adobe premiere
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## Adobe Premiere Tutorial: Importing and Exporting Videos Like a Pro

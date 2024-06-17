@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)
-date: 2024-05-19T07:45:15.485Z
-updated: 2024-05-20T07:45:15.485Z
+date: 2024-06-16T01:52:22.140Z
+updated: 2024-06-17T01:52:22.140Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)
 excerpt: This Article Describes The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)
 keywords: the ultimate list of free online video editing tools,ai animation the ultimate list of 10 free online video trimmers 2023 edition,the ultimate list of free video trimmers for windows 10,the ultimate list of 10 free online video trimmers 2023 edition,the ultimate list of free video compressors for windows 10 2023 edition,the ultimate list of free online video trimmers 2023 edition,the ultimate list of free online video merger tools 2023 edition
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)

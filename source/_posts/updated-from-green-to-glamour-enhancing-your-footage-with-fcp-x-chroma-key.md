@@ -1,7 +1,7 @@
 ---
 title: Updated From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
-date: 2024-04-25T07:35:01.421Z
-updated: 2024-04-26T07:35:01.421Z
+date: 2024-06-16T01:52:28.969Z
+updated: 2024-06-17T01:52:28.969Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
 excerpt: This Article Describes Updated From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
 keywords: rev up your footage top rated video speed changers for windows and mac,revamp your footage top rated free online video enhancers,10 free video orientation changers to fix your footage,video editing freedom how to use any app on your chromebook updated 2023,add cinematic flair to your videos free slow motion editing with filmora,from green to glamour enhancing your footage with fcp x chroma key,dramatic slow mo enhance your videos for free with filmoras latest update
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## From Green to Glamour: Enhancing Your Footage with FCP X Chroma Key

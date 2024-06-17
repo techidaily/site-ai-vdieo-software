@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Change Video Dimensions Fast A Beginners Guide
-date: 2024-04-25T07:35:35.636Z
-updated: 2024-04-26T07:35:35.636Z
+date: 2024-06-16T01:52:41.384Z
+updated: 2024-06-17T01:52:41.384Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Change Video Dimensions Fast A Beginners Guide
 excerpt: This Article Describes 2024 Approved Change Video Dimensions Fast A Beginners Guide
 keywords: instagram video dimensions explained a beginners guide,video dimensions for instagram a beginners guide,change video dimensions fast a beginners guide,instagram video dimensions explained a beginners guide to aspect ratios,instagram video formatting 101 a beginners guide to aspect ratios and dimensions,unlock new dimensions a beginners guide to video resizing,mastering twitter video dimensions a beginners guide
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## Change Video Dimensions Fast: A Beginner's Guide

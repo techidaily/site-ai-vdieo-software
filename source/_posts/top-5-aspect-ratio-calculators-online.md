@@ -1,7 +1,7 @@
 ---
 title: Top 5 Aspect Ratio Calculators Online
-date: 2024-05-19T07:44:52.866Z
-updated: 2024-05-20T07:44:52.866Z
+date: 2024-06-16T01:52:39.775Z
+updated: 2024-06-17T01:52:39.775Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top 5 Aspect Ratio Calculators Online
 excerpt: This Article Describes Top 5 Aspect Ratio Calculators Online
 keywords: aspect ratio calculator online,ai animation top 5 aspect ratio calculators online,aspect ratio made simple top 5 online calculators,top 5 aspect ratio calculators online,online aspect ratio calculators our top picks,best 5 aspect ratio calculators online,top rated online aspect ratio calculators
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Top 5 Aspect Ratio Calculators Online

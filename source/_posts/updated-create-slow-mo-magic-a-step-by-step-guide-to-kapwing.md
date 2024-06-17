@@ -1,7 +1,7 @@
 ---
 title: Updated Create Slow-Mo Magic A Step-by-Step Guide to Kapwing
-date: 2024-05-19T07:45:40.678Z
-updated: 2024-05-20T07:45:40.678Z
+date: 2024-06-16T01:52:43.370Z
+updated: 2024-06-17T01:52:43.370Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Create Slow-Mo Magic A Step-by-Step Guide to Kapwing
 excerpt: This Article Describes Updated Create Slow-Mo Magic A Step-by-Step Guide to Kapwing
 keywords: ai animation create stunning slow mo videos with kapwing a step by step guide,slow motion magic on kapwing a step by step guide to editing like a pro,create slow mo magic a step by step guide to kapwing,ai animation create slow mo magic a step by step guide to kapwing,create stunning slow mo videos with kapwing a step by step guide,ai animation slow down time a step by step guide to creating slow mo videos on kapwing,slow down time a step by step guide to creating slow mo videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Create Slow-Mo Magic: A Step-by-Step Guide to Kapwing

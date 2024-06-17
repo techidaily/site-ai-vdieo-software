@@ -1,7 +1,7 @@
 ---
 title: In 2024, Free Online Video Editors That Rival iMovie (2023 Edition)
-date: 2024-04-25T07:34:59.179Z
-updated: 2024-04-26T07:34:59.179Z
+date: 2024-06-16T01:52:29.062Z
+updated: 2024-06-17T01:52:29.062Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Free Online Video Editors That Rival iMovie (2023 Edition)
 excerpt: This Article Describes In 2024, Free Online Video Editors That Rival iMovie (2023 Edition)
 keywords: 5 fantastic free online video editors like imovie updated 2023,the ultimate list of free online video trimmers 2023 edition,imovie free alternatives top 5 online video editors,best free online video editors for movie creation,free online video editors that rival imovie 2023 edition,5 free online video editors similar to imovie updated 2023,5 best free online video editors similar to imovie updated 2023
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## Free Online Video Editors That Rival iMovie (2023 Edition)

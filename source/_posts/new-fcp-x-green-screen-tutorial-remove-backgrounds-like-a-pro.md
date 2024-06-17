@@ -1,7 +1,7 @@
 ---
 title: New FCP X Green Screen Tutorial Remove Backgrounds Like a Pro
-date: 2024-04-25T07:34:55.913Z
-updated: 2024-04-26T07:34:55.913Z
+date: 2024-06-16T01:52:19.156Z
+updated: 2024-06-17T01:52:19.156Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New FCP X Green Screen Tutorial Remove Backgrounds Like a Pro
 excerpt: This Article Describes New FCP X Green Screen Tutorial Remove Backgrounds Like a Pro
 keywords: fcp x green screen tutorial remove backgrounds like a pro,fcp x pro tutorials creating realistic green screen effects,blur backgrounds like a pro top free online tools,from noisy to pro how to remove background noise in final cut pro x like a pro,how to remove background noise in final cut pro x,the ultimate fcp x green screen tutorial from basics to advanced,green screen like a pro fcp x chroma keying essentials
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## FCP X Green Screen Tutorial: Remove Backgrounds Like a Pro

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Free Video Splitters (Staff Picked)
-date: 2024-05-19T07:44:52.921Z
-updated: 2024-05-20T07:44:52.921Z
+date: 2024-06-16T01:52:46.989Z
+updated: 2024-06-17T01:52:46.989Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top 5 Free Video Splitters (Staff Picked)
 excerpt: This Article Describes Top 5 Free Video Splitters (Staff Picked)
 keywords: the ultimate guide to free video splitters top 5 picks,free mov video splitters top picks for you,top 5 free video splitters staff picked,ai animation top 5 free video splitters staff picked,free mpeg video splitter downloads top 5 picks,top 5 best free wmv video splitters,top 5 best free mpeg video splitters
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Top 5 Free Video Splitters (Staff Picked)

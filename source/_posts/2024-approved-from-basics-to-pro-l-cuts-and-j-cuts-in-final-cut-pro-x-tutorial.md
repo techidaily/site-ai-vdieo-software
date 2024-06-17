@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
-date: 2024-04-25T07:35:00.662Z
-updated: 2024-04-26T07:35:00.662Z
+date: 2024-06-16T01:52:18.873Z
+updated: 2024-06-17T01:52:18.873Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
 excerpt: This Article Describes 2024 Approved From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
 keywords: from beginner to pro final cut pro tutorials,cut like a pro l cuts and j cuts in final cut pro x,from basics to pro l cuts and j cuts in final cut pro x tutorial,pro level jump cuts in final cut pro x tips and tricks,final cut pro aspect ratio tutorial from basics to advanced,final cut pro x tutorial l cuts and j cuts,ai animation final cut pro x tutorial l cuts and j cuts
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## From Basics to Pro: L-Cuts and J-Cuts in Final Cut Pro X Tutorial

@@ -1,7 +1,7 @@
 ---
 title: Free Video Looper Apps for Windows and Mac Top Picks
-date: 2024-05-19T07:45:03.393Z
-updated: 2024-05-20T07:45:03.393Z
+date: 2024-06-16T01:52:44.299Z
+updated: 2024-06-17T01:52:44.299Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free Video Looper Apps for Windows and Mac Top Picks
 excerpt: This Article Describes Free Video Looper Apps for Windows and Mac Top Picks
 keywords: endless playback top free video loopers for windows and mac,best video loopers to loop videos for free on windows and mac,free video looper tools for endless playback on windows and mac,free video cutter for windows 10 top picks and reviews,free video looper apps for windows and mac top picks,top free video repeaters for windows and mac users,free video looper apps for desktop and mobile
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Free Video Looper Apps for Windows and Mac: Top Picks

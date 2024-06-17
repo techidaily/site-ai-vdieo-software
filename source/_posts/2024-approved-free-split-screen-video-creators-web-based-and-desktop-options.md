@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Free Split Screen Video Creators Web-Based and Desktop Options
-date: 2024-05-19T07:47:44.838Z
-updated: 2024-05-20T07:47:44.838Z
+date: 2024-06-16T01:52:19.646Z
+updated: 2024-06-17T01:52:19.646Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Free Split Screen Video Creators Web-Based and Desktop Options
 excerpt: This Article Describes 2024 Approved Free Split Screen Video Creators Web-Based and Desktop Options
 keywords: top video highlight creators desktop and mobile options,no cost split screen video creators web based and downloadable options,top whatsapp video status creators free and premium options,top rated split screen video creators for mobile phones,ai animation top free dual screen video editing tools web desktop,free split screen video creators web based and desktop options,free split screen video creators web based and desktop solutions
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## Free Split Screen Video Creators: Web-Based and Desktop Options

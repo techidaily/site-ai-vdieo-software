@@ -1,7 +1,7 @@
 ---
 title: Free MKV Trimming Software Top 10 Picks
-date: 2024-05-19T07:45:02.766Z
-updated: 2024-05-20T07:45:02.766Z
+date: 2024-06-16T01:52:35.421Z
+updated: 2024-06-17T01:52:35.421Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free MKV Trimming Software Top 10 Picks
 excerpt: This Article Describes Free MKV Trimming Software Top 10 Picks
 keywords: free mkv trimmer software top picks,pc video trimming top 10 software picks,free mkv trimming software top 10 picks,free music making software the top 10 picks,free divx video trimming software top picks,free mp4 video trimming software top picks,best free video trimming software online top 10 picks
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## Free MKV Trimming Software: Top 10 Picks

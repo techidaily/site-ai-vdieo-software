@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easily Blur Photo Backgrounds with These Free Online Tools
-date: 2024-04-25T07:34:51.537Z
-updated: 2024-04-26T07:34:51.537Z
+date: 2024-06-16T01:52:29.561Z
+updated: 2024-06-17T01:52:29.561Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Easily Blur Photo Backgrounds with These Free Online Tools
 excerpt: This Article Describes In 2024, Easily Blur Photo Backgrounds with These Free Online Tools
 keywords: online photo background blur the best free tools and websites,unfocus the background best free online photo blur tools,easily blur image backgrounds with these free online tools,easily blur photo backgrounds with these free online tools,free photo editor blur background online with these tools,easily blur image backgrounds with these free online editors,easily blur photo backgrounds online with these free web tools
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Easily Blur Photo Backgrounds with These Free Online Tools

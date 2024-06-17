@@ -1,7 +1,7 @@
 ---
 title: Mastering Aspect Ratio in Final Cut Pro A Beginners Guide
-date: 2024-05-19T07:45:08.098Z
-updated: 2024-05-20T07:45:08.098Z
+date: 2024-06-16T01:52:20.362Z
+updated: 2024-06-17T01:52:20.362Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering Aspect Ratio in Final Cut Pro A Beginners Guide
 excerpt: This Article Describes Mastering Aspect Ratio in Final Cut Pro A Beginners Guide
 keywords: mastering aspect ratio in final cut pro a beginners guide,a beginners guide to audio editing in final cut pro,adjusting aspect ratio in final cut pro a step by step guide,ai animation final cut pro aspect ratio settings a beginners guide,change video aspect ratio in final cut pro easy instructions for beginners,final cut pro aspect ratio settings a beginners guide,mastering aspect ratios in final cut pro a beginners guide
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Mastering Aspect Ratio in Final Cut Pro: A Beginner's Guide

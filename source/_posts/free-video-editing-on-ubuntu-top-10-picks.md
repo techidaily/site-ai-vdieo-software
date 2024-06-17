@@ -1,7 +1,7 @@
 ---
 title: Free Video Editing on Ubuntu Top 10 Picks
-date: 2024-05-19T07:45:03.315Z
-updated: 2024-05-20T07:45:03.315Z
+date: 2024-06-16T01:52:40.307Z
+updated: 2024-06-17T01:52:40.307Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free Video Editing on Ubuntu Top 10 Picks
 excerpt: This Article Describes Free Video Editing on Ubuntu Top 10 Picks
 keywords: free and open source video editing on ubuntu top 10 choices,free video editing on ubuntu the top 10 picks,free webm video editing software top 10 picks,ubuntu video editing essentials top 10 free options,get creative with free video editing software on ubuntu top 10 picks,free mp4 video editing software top 10 picks,free video editing on ubuntu top 10 picks
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Free Video Editing on Ubuntu: Top 10 Picks

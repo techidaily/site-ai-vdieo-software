@@ -1,7 +1,7 @@
 ---
 title: New Creating a Sense of Speed Motion Blur in Final Cut Pro
-date: 2024-04-25T07:34:48.335Z
-updated: 2024-04-26T07:34:48.335Z
+date: 2024-06-16T01:52:24.777Z
+updated: 2024-06-17T01:52:24.777Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Creating a Sense of Speed Motion Blur in Final Cut Pro
 excerpt: This Article Describes New Creating a Sense of Speed Motion Blur in Final Cut Pro
 keywords: creating a sense of speed motion blur in final cut pro,create stunning motion blur in final cut pro a step by step guide,unlocking realism how to create motion blur in final cut pro,create a sense of speed motion blur in final cut pro,from still to fast creating motion blur effects in final cut pro,unleash speed how to add realistic motion blur in final cut pro,unlocking the power of motion blur in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Creating a Sense of Speed: Motion Blur in Final Cut Pro

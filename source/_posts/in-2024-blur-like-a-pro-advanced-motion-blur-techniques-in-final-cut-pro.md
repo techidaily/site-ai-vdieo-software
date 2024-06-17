@@ -1,7 +1,7 @@
 ---
 title: In 2024, Blur Like a Pro Advanced Motion Blur Techniques in Final Cut Pro
-date: 2024-04-25T07:34:43.898Z
-updated: 2024-04-26T07:34:43.898Z
+date: 2024-06-16T01:52:35.315Z
+updated: 2024-06-17T01:52:35.315Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Blur Like a Pro Advanced Motion Blur Techniques in Final Cut Pro
 excerpt: This Article Describes In 2024, Blur Like a Pro Advanced Motion Blur Techniques in Final Cut Pro
 keywords: blur like a pro advanced motion blur techniques in final cut pro,pip like a pro advanced techniques in final cut pro,time lapse like a pro advanced techniques in final cut pro,from basic to advanced mastering motion blur in final cut pro,jump cut like a pro advanced editing techniques in fcpx,blur like a pro mastering motion blur effects in final cut pro,transition like a pro 3 expert techniques in final cut pro
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Blur Like a Pro: Advanced Motion Blur Techniques in Final Cut Pro

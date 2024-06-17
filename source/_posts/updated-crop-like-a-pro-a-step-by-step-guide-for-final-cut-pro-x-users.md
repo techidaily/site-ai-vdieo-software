@@ -1,7 +1,7 @@
 ---
 title: Updated Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users
-date: 2024-04-25T07:34:48.369Z
-updated: 2024-04-26T07:34:48.369Z
+date: 2024-06-16T01:52:39.215Z
+updated: 2024-06-17T01:52:39.215Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users
 excerpt: This Article Describes Updated Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users
 keywords: unlock free sound effects a step by step guide for final cut pro users,crop like a pro a step by step guide for final cut pro x users,reverse your footage a step by step guide for final cut pro users,motion blur made easy a step by step guide for final cut pro users,cropping in final cut pro x a step by step guide,reverse footage in final cut pro a step by step guide,mastering compressor a step by step guide for final cut pro x
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Crop Like a Pro: A Step-by-Step Guide for Final Cut Pro X Users

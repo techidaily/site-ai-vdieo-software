@@ -1,7 +1,7 @@
 ---
 title: New AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)
-date: 2024-05-19T07:45:58.982Z
-updated: 2024-05-20T07:45:58.982Z
+date: 2024-06-16T01:52:17.667Z
+updated: 2024-06-17T01:52:17.667Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)
 excerpt: This Article Describes New AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)
 keywords: mastering avi file editing a beginners guide to splitting and trimming,video ratio made simple a beginners guide to resizing,the complete guide to avi file splitting and trimming for beginners,avi file cutting made simple a beginners guide to video editing updated 2023,gopro video editing simplified a beginners guide to amazing results,beginners guide to free video editing cutting and joining made simple,mac video editing made easy a beginners guide to movie creation
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## AVI File Cutting Made Simple: A Beginner's Guide to Video Editing (Updated 2023)

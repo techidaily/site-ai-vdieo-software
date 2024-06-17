@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-04-25T07:35:05.034Z
-updated: 2024-04-26T07:35:05.034Z
+date: 2024-06-16T01:52:30.738Z
+updated: 2024-06-17T01:52:30.738Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Audio Fade Ins and Outs Made Easy 2 FCP Techniques
 excerpt: This Article Describes 2024 Approved Audio Fade Ins and Outs Made Easy 2 FCP Techniques
 keywords: audio fade ins and outs made easy 2 fcp techniques,sync like a pro audio and video alignment in fcpx 2024 made easy,pro editing techniques l cuts and j cuts in fcpx made easy,fade in fade out two essential audio techniques in fcp,the art of syncing audio and video alignment techniques in fcpx 2024,ai animation fade in fade out two essential audio techniques in fcp,audio fade ins and outs made easy 2 final cut pro techniques
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Audio Fade Ins and Outs Made Easy: 2 FCP Techniques

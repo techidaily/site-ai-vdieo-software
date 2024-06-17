@@ -1,7 +1,7 @@
 ---
 title: Image Size Made Easy Calculating and Adjusting Ratios for 2024
-date: 2024-05-19T07:45:45.515Z
-updated: 2024-05-20T07:45:45.515Z
+date: 2024-06-16T01:52:37.626Z
+updated: 2024-06-17T01:52:37.626Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Image Size Made Easy Calculating and Adjusting Ratios for 2024
 excerpt: This Article Describes Image Size Made Easy Calculating and Adjusting Ratios for 2024
 keywords: the art of image resizing calculating and adjusting ratios for perfection,image size made easy calculating and adjusting ratios,calculate find and adjust image ratio,image dimension mastery calculating and adjusting ratios like a pro,video formatting made easy change shape size and aspect ratio,ai animation image size made easy calculating and adjusting ratios,video formatting made easy shape size and aspect ratio
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Image Size Made Easy: Calculating and Adjusting Ratios

@@ -1,7 +1,7 @@
 ---
 title: How to Stabilize Shaky Videos in After Effects
-date: 2024-05-19T07:44:49.542Z
-updated: 2024-05-20T07:44:49.542Z
+date: 2024-06-16T01:52:25.255Z
+updated: 2024-06-17T01:52:25.255Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Stabilize Shaky Videos in After Effects
 excerpt: This Article Describes How to Stabilize Shaky Videos in After Effects
 keywords: shake it off how to stabilize unsteady video in after effects,ai animation how to stabilize shaky videos in after effects,ai animation ai animation how to stabilize shaky videos in after effects,ai animation how to stabilize shaky videos in after effects 3 ways,how to stabilize shaky videos in after effects,stabilize shaky videos after effects,how to stabilize shaky videos in after effects 3 ways
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## How to Stabilize Shaky Videos in After Effects

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Back to Basic
-date: 2024-05-19T07:46:00.288Z
-updated: 2024-05-20T07:46:00.288Z
+date: 2024-06-16T01:52:25.585Z
+updated: 2024-06-17T01:52:25.585Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Back to Basic
 excerpt: This Article Describes In 2024, Back to Basic
 keywords: tiktok aspect ratio 2024 tips tricks and dimensions explained,m4r conversion basics a beginners guide to success,best basic video editors,customize video playback rate in camtasia,back to basic,ken burns effect tutorial from basics to pro,ai animation best basic video editors
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## Back to Basic

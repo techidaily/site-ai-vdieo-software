@@ -1,7 +1,7 @@
 ---
 title: Vegas Pro Not Your Cup of Tea? Try These 10 Mac-Friendly Alternatives
-date: 2024-05-19T07:44:53.434Z
-updated: 2024-05-20T07:44:53.434Z
+date: 2024-06-16T01:52:40.579Z
+updated: 2024-06-17T01:52:40.579Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Vegas Pro Not Your Cup of Tea? Try These 10 Mac-Friendly Alternatives
 excerpt: This Article Describes Vegas Pro Not Your Cup of Tea? Try These 10 Mac-Friendly Alternatives
 keywords: pinnacle studio not your cup of tea try these mac alternatives,windows 10 photos not your cup of tea try these 8 alternatives,sony vegas not your cup of tea try these windows alternatives,ai animation vegas pro not your cup of tea try these 10 mac friendly alternatives,vegas pro not your cup of tea try these 10 mac alternatives fre,subtitle edit not your cup of tea try these mac friendly alternatives,vegas pro not your cup of tea try these 10 mac friendly alternatives
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Vegas Pro Not Your Cup of Tea? Try These 10 Mac-Friendly Alternatives

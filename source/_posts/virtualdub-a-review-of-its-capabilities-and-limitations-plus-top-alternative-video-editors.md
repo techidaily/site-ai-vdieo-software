@@ -1,7 +1,7 @@
 ---
 title: Virtualdub A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors
-date: 2024-05-19T07:45:20.293Z
-updated: 2024-05-20T07:45:20.293Z
+date: 2024-06-16T01:52:28.777Z
+updated: 2024-06-17T01:52:28.777Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Virtualdub A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors
 excerpt: This Article Describes Virtualdub A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors
 keywords: the best virtualdub alternatives a review of top video editing tools,unbiased virtualdub review and top picks for alternative video editors,avs video editor review a closer look at its capabilities and limitations,avs video editor 2023 a detailed review of its capabilities and limitation,virtualdub a review of its capabilities and limitations plus top alternative video editors,whats next after virtualdub a review of the top video editing alternatives,videopad video editor review a closer look at its capabilities and limitations
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Virtualdub: A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors

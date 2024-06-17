@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro for 2024
-date: 2024-04-25T07:34:57.128Z
-updated: 2024-04-26T07:34:57.128Z
+date: 2024-06-16T01:52:21.167Z
+updated: 2024-06-17T01:52:21.167Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro for 2024
 excerpt: This Article Describes Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro for 2024
 keywords: final cut pro tutorial fading in and out of audio like a pro,subtitle like a pro a tutorial on adding captions in final cut pro x,the art of audio fading 2 pro tips for final cut pro users,editing audio like a pro fcp tutorial and tips,cut like a pro l cuts and j cuts in final cut pro x,two ways to fade inout audio in final cut pro,final cut pro 2 simple ways to fade audio in and out
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Final Cut Pro Tutorial: Fading In and Out of Audio Like a Pro

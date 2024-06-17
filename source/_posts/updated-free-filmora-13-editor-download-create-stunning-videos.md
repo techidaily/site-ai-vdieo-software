@@ -1,7 +1,7 @@
 ---
 title: Updated Free Filmora 13 Editor Download Create Stunning Videos
-date: 2024-04-25T07:34:58.613Z
-updated: 2024-04-26T07:34:58.613Z
+date: 2024-06-16T01:52:44.193Z
+updated: 2024-06-17T01:52:44.193Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Free Filmora 13 Editor Download Create Stunning Videos
 excerpt: This Article Describes Updated Free Filmora 13 Editor Download Create Stunning Videos
 keywords: get started with filmora 13 free video editor download,free filmora 13 download video editing software,get filmora 13 video editor free download,free filmora 13 editor download create stunning videos,free download filmora 13 video editing made easy,ai animation get filmora 13 video editor free download 2024 update,get filmora 13 video editor free download 2024 update
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Free Filmora 13 Editor Download: Create Stunning Videos

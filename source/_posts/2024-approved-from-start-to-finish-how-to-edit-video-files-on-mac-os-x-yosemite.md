@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Start to Finish How to Edit Video Files on Mac OS X Yosemite
-date: 2024-04-25T07:35:02.337Z
-updated: 2024-04-26T07:35:02.337Z
+date: 2024-06-16T01:52:29.149Z
+updated: 2024-06-17T01:52:29.149Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved From Start to Finish How to Edit Video Files on Mac OS X Yosemite
 excerpt: This Article Describes 2024 Approved From Start to Finish How to Edit Video Files on Mac OS X Yosemite
 keywords: how to edit video files on mac os x yosemite,unleash your creativity how to edit video files on mac os x yosemite,from footage to film how to edit gopro videos with ease on macbook,ai animation how to edit video files on mac os x yosemite,from start to finish a complete guide to editing mp4 videos on mac and windows,from start to finish how to edit video files on mac os x yosemite,from start to finish how to edit videos with quicktime on mac
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## From Start to Finish: How to Edit Video Files on Mac OS X Yosemite

@@ -1,7 +1,7 @@
 ---
 title: Free Video Editing on a Budget Top Chromebook Options for 2024
-date: 2024-04-25T07:34:59.603Z
-updated: 2024-04-26T07:34:59.603Z
+date: 2024-06-16T01:52:24.851Z
+updated: 2024-06-17T01:52:24.851Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free Video Editing on a Budget Top Chromebook Options for 2024
 excerpt: This Article Describes Free Video Editing on a Budget Top Chromebook Options for 2024
 keywords: webm video editing on a budget top 10 free options,vob video editing on a budget top 5 free options,free video editing on a budget top chromebook options,chromebook video editing on a budget 10 free options,wmv video editing on a budget top free options,avi video editing on a budget top 5 free options,mod video editing on a budget top 5 free options
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Free Video Editing on a Budget: Top Chromebook Options

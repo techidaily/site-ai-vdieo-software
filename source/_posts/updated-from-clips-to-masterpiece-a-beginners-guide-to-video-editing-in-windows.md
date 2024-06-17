@@ -1,7 +1,7 @@
 ---
 title: Updated From Clips to Masterpiece A Beginners Guide to Video Editing in Windows
-date: 2024-04-25T07:35:01.062Z
-updated: 2024-04-26T07:35:01.062Z
+date: 2024-06-16T01:52:34.782Z
+updated: 2024-06-17T01:52:34.782Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated From Clips to Masterpiece A Beginners Guide to Video Editing in Windows
 excerpt: This Article Describes Updated From Clips to Masterpiece A Beginners Guide to Video Editing in Windows
 keywords: 3d video magic a beginners guide to windows video editing,download windows movie maker for free a beginners guide to video editing,video editing mastery a beginners guide to online download and editing,editing videos like a pro a beginners guide to windows movie maker,from long to short a beginners guide to splitting videos in windows live movie maker,from clips to masterpiece a beginners guide to video editing in windows,free download windows movie maker a beginners guide to video editing
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## From Clips to Masterpiece: A Beginner's Guide to Video Editing in Windows

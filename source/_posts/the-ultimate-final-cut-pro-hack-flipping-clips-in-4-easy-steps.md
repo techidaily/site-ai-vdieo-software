@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps
-date: 2024-05-19T07:45:14.337Z
-updated: 2024-05-20T07:45:14.337Z
+date: 2024-06-16T01:52:42.235Z
+updated: 2024-06-17T01:52:42.235Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps
 excerpt: This Article Describes The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps
 keywords: mastering xml files in final cut pro x the ultimate guide,the ultimate final cut pro hack flipping clips in 4 easy steps,the ultimate fcp hack flipping clips in just 4 clicks,final cut pro tips and tricks flipping clips with ease 4 steps,the ultimate guide to flipping videos in final cut pro,quick fix flipping clips in final cut pro made easy,mastering final cut pro how to flip a clip in 4 simple steps
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## The Ultimate Final Cut Pro Hack: Flipping Clips in 4 Easy Steps

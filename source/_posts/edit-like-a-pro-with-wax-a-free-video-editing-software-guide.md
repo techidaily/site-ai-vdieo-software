@@ -1,7 +1,7 @@
 ---
 title: Edit Like a Pro with Wax A Free Video Editing Software Guide
-date: 2024-05-19T07:44:59.660Z
-updated: 2024-05-20T07:44:59.660Z
+date: 2024-06-16T01:52:43.633Z
+updated: 2024-06-17T01:52:43.633Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Edit Like a Pro with Wax A Free Video Editing Software Guide
 excerpt: This Article Describes Edit Like a Pro with Wax A Free Video Editing Software Guide
 keywords: edit like a pro top rated free 4k video editing software,edit like a pro top free 4k video editing software,edit like a pro top 10 free video editing software for ubuntu,get started with wax a free video editing software tutorial,edit like a pro top hd video editing software,get started with wax a beginners guide to free video editing software,edit like a pro with wax a free video editing software guide
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Edit Like a Pro with Wax: A Free Video Editing Software Guide

@@ -1,7 +1,7 @@
 ---
 title: HD Video Made Easy A Beginners Guide to Pixel Size and Quality
-date: 2024-05-19T07:45:06.398Z
-updated: 2024-05-20T07:45:06.398Z
+date: 2024-06-16T01:52:33.697Z
+updated: 2024-06-17T01:52:33.697Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes HD Video Made Easy A Beginners Guide to Pixel Size and Quality
 excerpt: This Article Describes HD Video Made Easy A Beginners Guide to Pixel Size and Quality
 keywords: high definition video made easy a beginners guide to pixel size,hd video essentials a beginners guide to pixel size and resolution,a beginner guide to hd video pixel size,hd video made easy a beginners guide to pixel size and quality,from sd to hd a beginners guide to pixel size and video quality,understanding hd video quality a beginners guide to pixels,hd video for beginners mastering pixel size and quality
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## HD Video Made Easy: A Beginner's Guide to Pixel Size and Quality

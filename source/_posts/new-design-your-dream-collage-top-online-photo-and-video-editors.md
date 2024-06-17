@@ -1,7 +1,7 @@
 ---
 title: New Design Your Dream Collage Top Online Photo and Video Editors
-date: 2024-04-25T07:34:49.157Z
-updated: 2024-04-26T07:34:49.157Z
+date: 2024-06-16T01:52:32.838Z
+updated: 2024-06-17T01:52:32.838Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Design Your Dream Collage Top Online Photo and Video Editors
 excerpt: This Article Describes New Design Your Dream Collage Top Online Photo and Video Editors
 keywords: design your dream collage top online photo and video editors,unleash your creativity top online collage makers for photos and videos,design your dream collage top online photo and video tools,best online photo and video collage makers,online collage creators photo and video editing made easy,design beautiful memories online photo and video collage editors,photo and video collage software top picks for online creators
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## Design Your Dream Collage: Top Online Photo and Video Editors

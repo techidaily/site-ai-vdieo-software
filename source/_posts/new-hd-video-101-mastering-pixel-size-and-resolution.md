@@ -1,7 +1,7 @@
 ---
 title: New HD Video 101 Mastering Pixel Size and Resolution
-date: 2024-05-19T07:45:44.368Z
-updated: 2024-05-20T07:45:44.368Z
+date: 2024-06-16T01:52:20.968Z
+updated: 2024-06-17T01:52:20.968Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New HD Video 101 Mastering Pixel Size and Resolution
 excerpt: This Article Describes New HD Video 101 Mastering Pixel Size and Resolution
 keywords: hd video 101 mastering pixel size and resolution,ai animation hd video 101 understanding pixel resolution,hd video 101 demystifying pixel size and resolution,ai animation hd video 101 mastering pixel size and resolution,hd video 101 understanding pixel resolution,hd video essentials mastering pixel size and resolution,the basics of hd video pixel size resolution and more
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## HD Video 101: Mastering Pixel Size and Resolution

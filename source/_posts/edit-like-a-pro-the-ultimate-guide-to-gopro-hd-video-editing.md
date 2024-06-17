@@ -1,7 +1,7 @@
 ---
 title: Edit Like a Pro The Ultimate Guide to GoPro HD Video Editing
-date: 2024-05-19T07:44:59.565Z
-updated: 2024-05-20T07:44:59.565Z
+date: 2024-06-16T01:52:24.532Z
+updated: 2024-06-17T01:52:24.532Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Edit Like a Pro The Ultimate Guide to GoPro HD Video Editing
 excerpt: This Article Describes Edit Like a Pro The Ultimate Guide to GoPro HD Video Editing
 keywords: the ultimate guide to 4k proxy video editing top apps,edit like a pro the ultimate free guide to gopro video editing,the ultimate guide to hd video editing software,from footage to film the ultimate free gopro hd video editing guide,edit like a pro the ultimate guide to gopro hd video editing,the ultimate guide to video editing on a mac,the ultimate guide to ipad video editing top 5 editors
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Edit Like a Pro: The Ultimate Guide to GoPro HD Video Editing

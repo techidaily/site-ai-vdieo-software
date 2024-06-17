@@ -1,7 +1,7 @@
 ---
 title: Updated Create Split Screen Videos for Free Online and Offline Editor Reviews
-date: 2024-04-25T07:34:47.212Z
-updated: 2024-04-26T07:34:47.212Z
+date: 2024-06-16T01:52:18.573Z
+updated: 2024-06-17T01:52:18.573Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Create Split Screen Videos for Free Online and Offline Editor Reviews
 excerpt: This Article Describes Updated Create Split Screen Videos for Free Online and Offline Editor Reviews
 keywords: create split screen videos for free online and offline editor reviews,ai animation best free split screen video editor online offline,free video splitter online and offline editors for dual screen videos,split your screen for free top online and offline video editors,best free split screen video editor online offline,no cost split screen video editors online and offline options reviewed,create split screen videos for free online and offline editors
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Create Split Screen Videos for Free: Online and Offline Editor Reviews

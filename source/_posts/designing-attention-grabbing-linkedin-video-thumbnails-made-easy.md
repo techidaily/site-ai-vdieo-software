@@ -1,7 +1,7 @@
 ---
 title: Designing Attention-Grabbing LinkedIn Video Thumbnails Made Easy
-date: 2024-05-19T07:44:58.519Z
-updated: 2024-05-20T07:44:58.519Z
+date: 2024-06-16T01:52:32.321Z
+updated: 2024-06-17T01:52:32.321Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Designing Attention-Grabbing LinkedIn Video Thumbnails Made Easy
 excerpt: This Article Describes Designing Attention-Grabbing LinkedIn Video Thumbnails Made Easy
 keywords: ai animation linkedin video thumbnails made easy a step by step guide,designing attention grabbing linkedin video thumbnails made easy,the ultimate guide to creating engaging linkedin video thumbnails,ai animation make a lasting impression customizing linkedin video thumbnails,resize crop and optimize mastering linkedin video thumbnails,make a lasting impression customizing linkedin video thumbnails,linkedin video thumbnails made easy a step by step guide
-thumbnail: https://www.lifewire.com/thmb/dUcMAT1_0DCxV5hsu63as34-gjs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coverjointwitter-6f13b51d1be04d8bb3f5221ef5a057c7.jpg
+thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
 ## Designing Attention-Grabbing LinkedIn Video Thumbnails Made Easy

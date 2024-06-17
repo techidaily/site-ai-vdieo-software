@@ -1,7 +1,7 @@
 ---
 title: Updated From Idea to Screen A Simplified Movie Making Process
-date: 2024-04-25T07:35:01.450Z
-updated: 2024-04-26T07:35:01.450Z
+date: 2024-06-16T01:52:32.470Z
+updated: 2024-06-17T01:52:32.470Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated From Idea to Screen A Simplified Movie Making Process
 excerpt: This Article Describes Updated From Idea to Screen A Simplified Movie Making Process
 keywords: from script to screen a kids journey in movie making,from idea to screen a simplified movie making process,the ultimate guide to making a movie simplified,from script to screen 10 essential android movie making tools,from idea to reality wevideos simplified video creation process,from script to screen a kids adventure in movie making,from script to screen a kids guide to movie making
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## From Idea to Screen: A Simplified Movie Making Process

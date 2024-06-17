@@ -1,7 +1,7 @@
 ---
 title: Updated How to Flip Video Quickly and Easily
-date: 2024-05-19T07:45:44.924Z
-updated: 2024-05-20T07:45:44.924Z
+date: 2024-06-16T01:52:20.639Z
+updated: 2024-06-17T01:52:20.639Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Flip Video Quickly and Easily
 excerpt: This Article Describes Updated How to Flip Video Quickly and Easily
 keywords: how to resize videos quickly and efficiently,ai animation how to flip video quickly and easily,from sideways to right side up how to flip videos quickly,change video dimensions quickly and easily,the ultimate video flip tutorial quick and easy methods,how to flip video,how to flip video quickly and easily
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Rotate Videos in a Snap: A Step-by-Step Guide

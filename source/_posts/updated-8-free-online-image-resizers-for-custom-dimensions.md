@@ -1,7 +1,7 @@
 ---
 title: Updated 8 Free Online Image Resizers for Custom Dimensions
-date: 2024-05-19T07:45:29.120Z
-updated: 2024-05-20T07:45:29.120Z
+date: 2024-06-16T01:52:23.622Z
+updated: 2024-06-17T01:52:23.622Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 8 Free Online Image Resizers for Custom Dimensions
 excerpt: This Article Describes Updated 8 Free Online Image Resizers for Custom Dimensions
 keywords: top online image resizers for perfect proportions,8 reliable online image scalers for any dimension,online image editor change ratio and dimensions,free online image resizer adjust ratios and sizes,discover the best online image resizers for any ratio,discover the best free online image ratio editors,8 free online image resizers for custom dimensions
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## 8 Free Online Image Resizers for Custom Dimensions

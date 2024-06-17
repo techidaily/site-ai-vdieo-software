@@ -1,7 +1,7 @@
 ---
 title: In 2024, Free and Open-Source Video Editing on Ubuntu Top 10 Choices
-date: 2024-04-25T07:34:58.435Z
-updated: 2024-04-26T07:34:58.435Z
+date: 2024-06-16T01:52:28.280Z
+updated: 2024-06-17T01:52:28.280Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Free and Open-Source Video Editing on Ubuntu Top 10 Choices
 excerpt: This Article Describes In 2024, Free and Open-Source Video Editing on Ubuntu Top 10 Choices
 keywords: zero cost video editing the top 10 free and open source solutions,open source video editing top 10 free tools,free and fabulous top 10 ubuntu video editing software options,free and open source video editing on ubuntu top 10 choices,free video editing on ubuntu the top 10 picks,free video editing on ubuntu top 10 picks,open source video editing on a budget top 10 free options
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Free and Open-Source Video Editing on Ubuntu: Top 10 Choices

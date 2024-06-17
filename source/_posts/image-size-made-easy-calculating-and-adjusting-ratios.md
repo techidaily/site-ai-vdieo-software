@@ -1,7 +1,7 @@
 ---
 title: Image Size Made Easy Calculating and Adjusting Ratios
-date: 2024-05-19T07:44:52.123Z
-updated: 2024-05-20T07:44:52.123Z
+date: 2024-06-16T01:52:18.175Z
+updated: 2024-06-17T01:52:18.175Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Image Size Made Easy Calculating and Adjusting Ratios
 excerpt: This Article Describes Image Size Made Easy Calculating and Adjusting Ratios
 keywords: image dimension mastery calculating and adjusting ratios like a pro,ai animation image size made easy calculating and adjusting ratios,calculate find and adjust image ratio,ai animation calculate find and adjust image ratio,image size made easy calculating and adjusting ratios,calculating image size and aspect ratio like a pro,the art of image resizing calculating and adjusting ratios for perfection
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## Image Size Made Easy: Calculating and Adjusting Ratios
