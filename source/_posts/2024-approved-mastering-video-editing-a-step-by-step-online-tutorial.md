@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Video Editing A Step-by-Step Online Tutorial
-date: 2024-05-19T07:45:46.969Z
-updated: 2024-05-20T07:45:46.969Z
+date: 2024-06-24T03:13:38.798Z
+updated: 2024-06-25T03:13:38.798Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Mastering Video Editing A Step-by-Step Online Tutorial
 excerpt: This Article Describes 2024 Approved Mastering Video Editing A Step-by-Step Online Tutorial
 keywords: mastering gopro video editing on mac a step by step guide,ai animation mastering video editing a step by step online tutorial,mastering video editing a step by step online tutorial,ai animation mastering jaycut a step by step guide to free online video editing,mastering jaycut a step by step guide to free online video editing,ultimate tutorial mastering online video editing and downloading,video editing mastery online tutorials for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Mastering Video Editing: A Step-by-Step Online Tutorial

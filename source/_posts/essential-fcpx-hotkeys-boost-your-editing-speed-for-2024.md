@@ -1,7 +1,7 @@
 ---
 title: Essential FCPX Hotkeys Boost Your Editing Speed for 2024
-date: 2024-04-25T07:34:54.393Z
-updated: 2024-04-26T07:34:54.393Z
+date: 2024-06-24T03:14:01.592Z
+updated: 2024-06-25T03:14:01.592Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Essential FCPX Hotkeys Boost Your Editing Speed for 2024
 excerpt: This Article Describes Essential FCPX Hotkeys Boost Your Editing Speed for 2024
 keywords: essential fcpx hotkeys boost your editing speed,unlock fcpx potential troubleshooting essentials for editors,transform your home movies essential editing techniques,elevate your editing game 10 best free plugins for fcpx,mastering titles in fcpx essential skills for video editors,boost your editing speed 40 expert level keyboard shortcuts for fcpx,streamline your workflow 40 essential fcpx keyboard shortcuts
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Essential FCPX Hotkeys: Boost Your Editing Speed
@@ -39,7 +39,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -88,8 +88,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -142,7 +142,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -191,8 +191,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -245,7 +245,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -294,8 +294,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -348,7 +348,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -397,8 +397,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -474,7 +474,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -632,7 +632,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -790,7 +790,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -948,7 +948,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 

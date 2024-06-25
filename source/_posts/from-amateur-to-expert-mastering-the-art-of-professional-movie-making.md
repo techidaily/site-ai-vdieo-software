@@ -1,7 +1,7 @@
 ---
 title: From Amateur to Expert Mastering the Art of Professional Movie Making
-date: 2024-05-19T07:45:03.695Z
-updated: 2024-05-20T07:45:03.695Z
+date: 2024-06-24T03:13:52.434Z
+updated: 2024-06-25T03:13:52.434Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Amateur to Expert Mastering the Art of Professional Movie Making
 excerpt: This Article Describes From Amateur to Expert Mastering the Art of Professional Movie Making
 keywords: from snap to story mastering the art of vertical mobile video,final cut pro tutorial mastering the art of motion blur effects,from amateur to ace mastering the art of professional movie making,the art of visual storytelling a beginners guide to professional movie making,from amateur to expert mastering the art of professional movie making,from fast to slow mastering the art of slow motion in windows live movie maker,how to make a professional looking movie on your mac
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## From Amateur to Expert: Mastering the Art of Professional Movie Making
@@ -48,11 +48,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -64,9 +64,7 @@ When you're satisfied with the result in the previewing window, simply hit "Crea
 
 ![magic video maker](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -104,11 +102,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -120,9 +118,7 @@ When you're satisfied with the result in the previewing window, simply hit "Crea
 
 ![magic video maker](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -160,11 +156,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -176,9 +172,7 @@ When you're satisfied with the result in the previewing window, simply hit "Crea
 
 ![magic video maker](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -216,11 +210,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -232,9 +226,7 @@ When you're satisfied with the result in the previewing window, simply hit "Crea
 
 ![magic video maker](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Congratulations! You've just made a stunning video ready to share. It's pretty easy, fast, cool to create a home movie with this magic movie maker, right? Download the free trial and get started now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -596,7 +588,7 @@ avchd is a video format that is commonly used in High Definition camcorders from
 
 ## Top 5 AVCHD video editing software
 
-### [1.Wondershare Filmora(Originally Wondershare Video editor)](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1.Wondershare Filmora(Originally Wondershare Video editor)
 
 This is a powerful easy and quick to use video editing software that can help you make professional videos from avchd videos recorded by your camcorder in minutes. Its features include
 
@@ -608,7 +600,7 @@ Download a free trial version below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### [2\. Free avchd Editor](http://www.vso-software.fr/products/avchd-editor/avchd-editor.php)
+### 2\. Free avchd Editor
 
 ![free avchd editor](https://images.wondershare.com/multimedia/free-avchd-editor.jpg)
 
@@ -619,7 +611,7 @@ This is free software that can help you edit your camcorder avchd video formats 
 * Unable you to create a personal copy of blu-ray movie
 * You can strip video from those parts that you don’t prefer
 
-### [3. WinX avchd editing software](http://www.winxdvd.com/download.htm)
+### 3. WinX avchd editing software
 
 ![winx avchd editing software](https://images.wondershare.com/multimedia/winx-avchd-editing-software.jpg)
 
@@ -631,7 +623,7 @@ WinX AVCHD editing software is excellent video editing software that can help yo
 * Extract scenes from videos and store them into a photo gallery
 * Convert avchd video to iPhone, Samsung, iPad, HTC, WP8, etc
 
-### [4. ArcSoft ShowBiz](http://www.arcsoft.com/topics/video-editor/how-to-edit-avchd-video-files.html)
+### 4. ArcSoft ShowBiz
 
 ![arcsoft showbiz](https://images.wondershare.com/multimedia/arcsoft-showbiz.jpg)
 
@@ -641,7 +633,7 @@ With the help of ArcSoft ShowBiz video editing software, you can make profession
 * Add multiple clips on timeline and produce a single clip from those clips
 * Cut, copy, split, combine and rearrange video clips in less than a minute
 
-### [5\. Sony Vegas Pro 8 Video Editing Software](http://www.bhphotovideo.com/c/product/523079-REG/Sony%5FSVDVD8000%5FVegas%5FPro%5F8%5FVideo.html)
+### 5\. Sony Vegas Pro 8 Video Editing Software
 
 ![editing software](https://images.wondershare.com/multimedia/editing-software.jpg)
 
@@ -668,7 +660,7 @@ avchd is a video format that is commonly used in High Definition camcorders from
 
 ## Top 5 AVCHD video editing software
 
-### [1.Wondershare Filmora(Originally Wondershare Video editor)](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1.Wondershare Filmora(Originally Wondershare Video editor)
 
 This is a powerful easy and quick to use video editing software that can help you make professional videos from avchd videos recorded by your camcorder in minutes. Its features include
 
@@ -680,7 +672,7 @@ Download a free trial version below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### [2\. Free avchd Editor](http://www.vso-software.fr/products/avchd-editor/avchd-editor.php)
+### 2\. Free avchd Editor
 
 ![free avchd editor](https://images.wondershare.com/multimedia/free-avchd-editor.jpg)
 
@@ -691,7 +683,7 @@ This is free software that can help you edit your camcorder avchd video formats 
 * Unable you to create a personal copy of blu-ray movie
 * You can strip video from those parts that you don’t prefer
 
-### [3. WinX avchd editing software](http://www.winxdvd.com/download.htm)
+### 3. WinX avchd editing software
 
 ![winx avchd editing software](https://images.wondershare.com/multimedia/winx-avchd-editing-software.jpg)
 
@@ -703,7 +695,7 @@ WinX AVCHD editing software is excellent video editing software that can help yo
 * Extract scenes from videos and store them into a photo gallery
 * Convert avchd video to iPhone, Samsung, iPad, HTC, WP8, etc
 
-### [4. ArcSoft ShowBiz](http://www.arcsoft.com/topics/video-editor/how-to-edit-avchd-video-files.html)
+### 4. ArcSoft ShowBiz
 
 ![arcsoft showbiz](https://images.wondershare.com/multimedia/arcsoft-showbiz.jpg)
 
@@ -713,7 +705,7 @@ With the help of ArcSoft ShowBiz video editing software, you can make profession
 * Add multiple clips on timeline and produce a single clip from those clips
 * Cut, copy, split, combine and rearrange video clips in less than a minute
 
-### [5\. Sony Vegas Pro 8 Video Editing Software](http://www.bhphotovideo.com/c/product/523079-REG/Sony%5FSVDVD8000%5FVegas%5FPro%5F8%5FVideo.html)
+### 5\. Sony Vegas Pro 8 Video Editing Software
 
 ![editing software](https://images.wondershare.com/multimedia/editing-software.jpg)
 
@@ -740,7 +732,7 @@ avchd is a video format that is commonly used in High Definition camcorders from
 
 ## Top 5 AVCHD video editing software
 
-### [1.Wondershare Filmora(Originally Wondershare Video editor)](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1.Wondershare Filmora(Originally Wondershare Video editor)
 
 This is a powerful easy and quick to use video editing software that can help you make professional videos from avchd videos recorded by your camcorder in minutes. Its features include
 
@@ -752,7 +744,7 @@ Download a free trial version below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### [2\. Free avchd Editor](http://www.vso-software.fr/products/avchd-editor/avchd-editor.php)
+### 2\. Free avchd Editor
 
 ![free avchd editor](https://images.wondershare.com/multimedia/free-avchd-editor.jpg)
 
@@ -763,7 +755,7 @@ This is free software that can help you edit your camcorder avchd video formats 
 * Unable you to create a personal copy of blu-ray movie
 * You can strip video from those parts that you don’t prefer
 
-### [3. WinX avchd editing software](http://www.winxdvd.com/download.htm)
+### 3. WinX avchd editing software
 
 ![winx avchd editing software](https://images.wondershare.com/multimedia/winx-avchd-editing-software.jpg)
 
@@ -775,7 +767,7 @@ WinX AVCHD editing software is excellent video editing software that can help yo
 * Extract scenes from videos and store them into a photo gallery
 * Convert avchd video to iPhone, Samsung, iPad, HTC, WP8, etc
 
-### [4. ArcSoft ShowBiz](http://www.arcsoft.com/topics/video-editor/how-to-edit-avchd-video-files.html)
+### 4. ArcSoft ShowBiz
 
 ![arcsoft showbiz](https://images.wondershare.com/multimedia/arcsoft-showbiz.jpg)
 
@@ -785,7 +777,7 @@ With the help of ArcSoft ShowBiz video editing software, you can make profession
 * Add multiple clips on timeline and produce a single clip from those clips
 * Cut, copy, split, combine and rearrange video clips in less than a minute
 
-### [5\. Sony Vegas Pro 8 Video Editing Software](http://www.bhphotovideo.com/c/product/523079-REG/Sony%5FSVDVD8000%5FVegas%5FPro%5F8%5FVideo.html)
+### 5\. Sony Vegas Pro 8 Video Editing Software
 
 ![editing software](https://images.wondershare.com/multimedia/editing-software.jpg)
 
@@ -812,7 +804,7 @@ avchd is a video format that is commonly used in High Definition camcorders from
 
 ## Top 5 AVCHD video editing software
 
-### [1.Wondershare Filmora(Originally Wondershare Video editor)](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1.Wondershare Filmora(Originally Wondershare Video editor)
 
 This is a powerful easy and quick to use video editing software that can help you make professional videos from avchd videos recorded by your camcorder in minutes. Its features include
 
@@ -824,7 +816,7 @@ Download a free trial version below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### [2\. Free avchd Editor](http://www.vso-software.fr/products/avchd-editor/avchd-editor.php)
+### 2\. Free avchd Editor
 
 ![free avchd editor](https://images.wondershare.com/multimedia/free-avchd-editor.jpg)
 
@@ -835,7 +827,7 @@ This is free software that can help you edit your camcorder avchd video formats 
 * Unable you to create a personal copy of blu-ray movie
 * You can strip video from those parts that you don’t prefer
 
-### [3. WinX avchd editing software](http://www.winxdvd.com/download.htm)
+### 3. WinX avchd editing software
 
 ![winx avchd editing software](https://images.wondershare.com/multimedia/winx-avchd-editing-software.jpg)
 
@@ -847,7 +839,7 @@ WinX AVCHD editing software is excellent video editing software that can help yo
 * Extract scenes from videos and store them into a photo gallery
 * Convert avchd video to iPhone, Samsung, iPad, HTC, WP8, etc
 
-### [4. ArcSoft ShowBiz](http://www.arcsoft.com/topics/video-editor/how-to-edit-avchd-video-files.html)
+### 4. ArcSoft ShowBiz
 
 ![arcsoft showbiz](https://images.wondershare.com/multimedia/arcsoft-showbiz.jpg)
 
@@ -857,7 +849,7 @@ With the help of ArcSoft ShowBiz video editing software, you can make profession
 * Add multiple clips on timeline and produce a single clip from those clips
 * Cut, copy, split, combine and rearrange video clips in less than a minute
 
-### [5\. Sony Vegas Pro 8 Video Editing Software](http://www.bhphotovideo.com/c/product/523079-REG/Sony%5FSVDVD8000%5FVegas%5FPro%5F8%5FVideo.html)
+### 5\. Sony Vegas Pro 8 Video Editing Software
 
 ![editing software](https://images.wondershare.com/multimedia/editing-software.jpg)
 

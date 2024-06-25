@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Craft Unforgettable Intros 6 Best Movie Intro Design Software
-date: 2024-04-25T07:34:46.598Z
-updated: 2024-04-26T07:34:46.598Z
+date: 2024-06-24T03:13:50.736Z
+updated: 2024-06-25T03:13:50.736Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Craft Unforgettable Intros 6 Best Movie Intro Design Software
 excerpt: This Article Describes 2024 Approved Craft Unforgettable Intros 6 Best Movie Intro Design Software
 keywords: craft unforgettable intros top 5 movie intro creator tools,design your dream intro 6 best movie intro generator tools,create unforgettable intros 7 leading movie intro software,best movie intro software create professional looking intros,craft unforgettable intros with these 6 movie intro tools,craft unforgettable intros 6 best movie intro design software,create unforgettable intros top movie intro makers revealed
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## Craft Unforgettable Intros: 6 Best Movie Intro Design Software
@@ -26,7 +26,7 @@ As mentioned earlier that movie intros are very important. Intros have a signifi
 
 To avoid all such situations and make attractive movie intros let's discuss 6 movie intro makers with you. Without any further delay, let’s get started.
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 ![filmora intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-1.jpg)
 
@@ -49,7 +49,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -62,7 +62,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -75,7 +75,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -88,7 +88,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -101,7 +101,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -139,7 +139,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -152,7 +152,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -165,7 +165,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -178,7 +178,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -191,7 +191,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -229,7 +229,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -242,7 +242,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -255,7 +255,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -268,7 +268,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -281,7 +281,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -319,7 +319,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -332,7 +332,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -345,7 +345,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -358,7 +358,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -371,7 +371,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -451,7 +451,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -463,17 +463,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -481,15 +481,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -542,7 +542,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -554,17 +554,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -572,15 +572,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -633,7 +633,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -645,17 +645,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -663,15 +663,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -724,7 +724,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -736,17 +736,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -754,15 +754,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
