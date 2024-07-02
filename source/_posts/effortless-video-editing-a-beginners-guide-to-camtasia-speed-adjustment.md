@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Editing A Beginners Guide to Camtasia Speed Adjustment
-date: 2024-05-19T07:45:00.035Z
-updated: 2024-05-20T07:45:00.035Z
+date: 2024-07-01T16:57:30.702Z
+updated: 2024-07-02T16:57:30.702Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Effortless Video Editing A Beginners Guide to Camtasia Speed Adjustment
 excerpt: This Article Describes Effortless Video Editing A Beginners Guide to Camtasia Speed Adjustment
 keywords: effortless gopro video editing a beginners guide,customize your videos speed in camtasia a beginners guide,effortless video editing a guide to changing speed in camtasia,effortless video size adjustment a how to guide,effortless video editing a guide to speeding up and slowing down in camtasia,video pace control a beginners guide to camtasia speed adjustment,effortless video editing a beginners guide to camtasia speed adjustment
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## Effortless Video Editing: A Beginner's Guide to Camtasia Speed Adjustment

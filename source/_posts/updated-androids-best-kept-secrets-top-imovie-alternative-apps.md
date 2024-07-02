@@ -1,7 +1,7 @@
 ---
 title: Updated Androids Best Kept Secrets Top iMovie Alternative Apps
-date: 2024-06-16T01:52:35.189Z
-updated: 2024-06-17T01:52:35.189Z
+date: 2024-07-01T16:56:56.403Z
+updated: 2024-07-02T16:56:56.403Z
 tags: 
   - video editing software
   - video editing
@@ -72,7 +72,7 @@ Yes, the above three are the best **iMovie similar apps for Android**. However, 
 
 Indeed, multiple capable apps are available that Android users can opt for to improve their video projects with high-quality edits, both custom and using preset templates. Learn more about them here and find the most useful **Android app equivalent to iMovie** for your personalized needs.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Best for Custom Video Edits With Pre-Set Templates**
 
@@ -108,7 +108,7 @@ One of the best **Android alternatives to iMovie** is Filmora, with its high-gra
 
 Users enjoy this app's high-quality tools and editing interface, as per [reviews](https://www.techradar.com/reviews/filmora-go).
 
-### 2\. [VideoShow](http://www.videoshowapp.com/)
+### 2\. VideoShow
 
 **Best for Funny Videos and Memes**
 
@@ -145,7 +145,7 @@ Easily zoom in/out and adjust speed.
 
 [VideoShow](https://www.techradar.com/reviews/videoshow) is a major choice for intuitive and simple usability during video editing. Users enjoy the various tools available.
 
-### 3\. [VivaVideo](https://vivavideo.tv/)
+### 3\. VivaVideo
 
 **Best for Short Video Recording and Editing**
 
@@ -181,7 +181,7 @@ VivaVideo is a capable **app similar to iMovie for Android** that allows users t
 
 As per [reviews](https://www.g2.com/products/viva-video/reviews), users can easily find and use the various top-grade functions here, like unwanted part removal, duration changing, cropping, and canvas support.
 
-### 4\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro&gl=US)
+### 4\. VidTrim Pro
 
 **Best for Video Edits With Transcoding Support**
 
@@ -217,7 +217,7 @@ The VidTrim Pro is a professional-level Android-based video editor. Use it to cu
 
 Users leave [reviews](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro&gl=US) on the simple usability of the VidTrim Pro app on Google, including trimming and transcoding support here.
 
-### 5\. [WeVideo](https://www.wevideo.com/)
+### 5\. WeVideo
 
 Best for Cloud-Based Editing on Android and Browsers
 
@@ -253,7 +253,7 @@ For professionals, WeVideo is a strong **iMovie alternative for Android**\-based
 
 As per [reviews](https://www.trustpilot.com/review/wevideo.com?utm%5Fmedium=trustbox&utm%5Fsource=MicroCombo), WeVideo is a favorite of many users, some of who have utilized it for years to create and edit stylish videos. It is simple for beginners.
 
-### 6\. [Magisto](https://www.magisto.com/)
+### 6\. Magisto
 
 **Best for Marketing and Promotional Video Making**
 
@@ -289,7 +289,7 @@ Another top app **similar to iMovie for Android** users to depend on is Magisto.
 
 [Customers](https://www.g2.com/products/magisto/reviews) and professional editing experts enjoy the easy-to-use quality of Magisto for creating marketing videos in lesser time.
 
-### 7\. [KineMaster](https://kinemaster.com/)
+### 7\. KineMaster
 
 **Best for Advanced Video Edits on Open-Source Platform**
 
@@ -325,7 +325,7 @@ KineMaster is an open-source app that Android users can try out to create fun vi
 
 There are many high-quality functions of KineMaster. As per [reviews](https://www.capterra.com/p/233236/KineMaster/reviews/), the green screen support is very useful for quick and efficient video edits, after which they post them easily.
 
-### 8.[Splice](https://www.spliceapp.com/)
+### 8. Splice
 
 **Best for Social Media Video Editing with Precise Audio**
 
@@ -428,7 +428,7 @@ Yes, the above three are the best **iMovie similar apps for Android**. However, 
 
 Indeed, multiple capable apps are available that Android users can opt for to improve their video projects with high-quality edits, both custom and using preset templates. Learn more about them here and find the most useful **Android app equivalent to iMovie** for your personalized needs.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Best for Custom Video Edits With Pre-Set Templates**
 
@@ -464,7 +464,7 @@ One of the best **Android alternatives to iMovie** is Filmora, with its high-gra
 
 Users enjoy this app's high-quality tools and editing interface, as per [reviews](https://www.techradar.com/reviews/filmora-go).
 
-### 2\. [VideoShow](http://www.videoshowapp.com/)
+### 2\. VideoShow
 
 **Best for Funny Videos and Memes**
 
@@ -501,7 +501,7 @@ Easily zoom in/out and adjust speed.
 
 [VideoShow](https://www.techradar.com/reviews/videoshow) is a major choice for intuitive and simple usability during video editing. Users enjoy the various tools available.
 
-### 3\. [VivaVideo](https://vivavideo.tv/)
+### 3\. VivaVideo
 
 **Best for Short Video Recording and Editing**
 
@@ -537,7 +537,7 @@ VivaVideo is a capable **app similar to iMovie for Android** that allows users t
 
 As per [reviews](https://www.g2.com/products/viva-video/reviews), users can easily find and use the various top-grade functions here, like unwanted part removal, duration changing, cropping, and canvas support.
 
-### 4\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro&gl=US)
+### 4\. VidTrim Pro
 
 **Best for Video Edits With Transcoding Support**
 
@@ -573,7 +573,7 @@ The VidTrim Pro is a professional-level Android-based video editor. Use it to cu
 
 Users leave [reviews](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro&gl=US) on the simple usability of the VidTrim Pro app on Google, including trimming and transcoding support here.
 
-### 5\. [WeVideo](https://www.wevideo.com/)
+### 5\. WeVideo
 
 Best for Cloud-Based Editing on Android and Browsers
 
@@ -609,7 +609,7 @@ For professionals, WeVideo is a strong **iMovie alternative for Android**\-based
 
 As per [reviews](https://www.trustpilot.com/review/wevideo.com?utm%5Fmedium=trustbox&utm%5Fsource=MicroCombo), WeVideo is a favorite of many users, some of who have utilized it for years to create and edit stylish videos. It is simple for beginners.
 
-### 6\. [Magisto](https://www.magisto.com/)
+### 6\. Magisto
 
 **Best for Marketing and Promotional Video Making**
 
@@ -645,7 +645,7 @@ Another top app **similar to iMovie for Android** users to depend on is Magisto.
 
 [Customers](https://www.g2.com/products/magisto/reviews) and professional editing experts enjoy the easy-to-use quality of Magisto for creating marketing videos in lesser time.
 
-### 7\. [KineMaster](https://kinemaster.com/)
+### 7\. KineMaster
 
 **Best for Advanced Video Edits on Open-Source Platform**
 
@@ -681,7 +681,7 @@ KineMaster is an open-source app that Android users can try out to create fun vi
 
 There are many high-quality functions of KineMaster. As per [reviews](https://www.capterra.com/p/233236/KineMaster/reviews/), the green screen support is very useful for quick and efficient video edits, after which they post them easily.
 
-### 8.[Splice](https://www.spliceapp.com/)
+### 8. Splice
 
 **Best for Social Media Video Editing with Precise Audio**
 
@@ -761,7 +761,8 @@ All the apps mentioned are suitable for Android users for top-notch [video editi
 
 ## Turning Talk Into Text: Easy Techniques
 
-### ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png) Latest [Speech-to-Text](https://tools.techidaily.com/wondershare/filmora/download/) Feature For 2024 with Filmora
+### icon note
+![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 1\. Supports direct transcription of bilingual subtitles up to 27 languages.
 
@@ -887,7 +888,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1017,7 +1018,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1147,7 +1148,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1277,7 +1278,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1451,7 +1452,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1607,7 +1608,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1763,7 +1764,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1919,7 +1920,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1965,7 +1966,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -1981,7 +1982,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -1996,7 +1997,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -2012,7 +2013,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -2027,7 +2028,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -2071,7 +2072,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -2087,7 +2088,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -2102,7 +2103,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -2118,7 +2119,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -2133,7 +2134,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -2177,7 +2178,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -2193,7 +2194,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -2208,7 +2209,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -2224,7 +2225,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -2239,7 +2240,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -2283,7 +2284,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -2299,7 +2300,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -2314,7 +2315,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -2330,7 +2331,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -2345,7 +2346,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 

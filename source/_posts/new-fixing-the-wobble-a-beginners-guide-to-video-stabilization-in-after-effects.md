@@ -1,7 +1,7 @@
 ---
 title: New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects
-date: 2024-04-25T07:34:57.359Z
-updated: 2024-04-26T07:34:57.359Z
+date: 2024-07-01T16:57:01.499Z
+updated: 2024-07-02T16:57:01.499Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects
 excerpt: This Article Describes New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects
 keywords: fixing the shake a step by step guide to video stabilization in after effects,on the level expert tips for stabilizing video in after effects,fixing the wobble a beginners guide to video stabilization in adobe premiere pro,fixing wobbly videos a beginners guide to stabilization in ae,no more jitters mastering video stabilization in after effects,fixing the wobble a beginners guide to video stabilization in after effects,pro level video stabilization in adobe premiere pro a beginners guide
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Fixing the Wobble: A Beginner's Guide to Video Stabilization in After Effects
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -196,7 +196,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +206,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +216,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -304,7 +304,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +314,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +324,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -412,7 +412,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +422,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +432,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -563,7 +563,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -838,7 +838,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -1113,7 +1113,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -1388,7 +1388,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -1730,7 +1730,7 @@ Yes. Most stock image providers have device-specific apps that allow you to acce
 
 Regardless of whether you're an experienced content maker or simply a beginner to edit your videos, the right video editing software for your Mac can improve things significantly. It should assist you with doing everything you want when editing videos on Mac, from basic editing to advanced editing. It should take your videos to a higher level and make it stand apart from the group. So, we did some testing and have tracked down the best video editing software on Mac for you. Followings are our picks for you, you can choose the one suits you more.
 
-## Part1: Best Video Editor for Mac – [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part1: Best Video Editor for Mac – Wondershare Filmora for Mac
 
 Wondershare Filmora is a powerful video-editing software available for Windows and Mac users. Just like its intuitive interface, you can conduct video editing easily with only few clicks, your videos will become much more attractive. You can not only simply trim, crop, split and merge videos, but also utilizing motion tracking, key framing and color match and others advanced tools to make your video more attractive. There are also tons of video effects like AR stickers and AI portrait, filters, elements, and titles to personalize you video. What’s more, you can use almost all features of it via free version. Try it now to edit your video easily.
 
@@ -1873,7 +1873,7 @@ Follow @Larry Jordan
 
 Regardless of whether you're an experienced content maker or simply a beginner to edit your videos, the right video editing software for your Mac can improve things significantly. It should assist you with doing everything you want when editing videos on Mac, from basic editing to advanced editing. It should take your videos to a higher level and make it stand apart from the group. So, we did some testing and have tracked down the best video editing software on Mac for you. Followings are our picks for you, you can choose the one suits you more.
 
-## Part1: Best Video Editor for Mac – [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part1: Best Video Editor for Mac – Wondershare Filmora for Mac
 
 Wondershare Filmora is a powerful video-editing software available for Windows and Mac users. Just like its intuitive interface, you can conduct video editing easily with only few clicks, your videos will become much more attractive. You can not only simply trim, crop, split and merge videos, but also utilizing motion tracking, key framing and color match and others advanced tools to make your video more attractive. There are also tons of video effects like AR stickers and AI portrait, filters, elements, and titles to personalize you video. What’s more, you can use almost all features of it via free version. Try it now to edit your video easily.
 
@@ -2016,7 +2016,7 @@ Follow @Larry Jordan
 
 Regardless of whether you're an experienced content maker or simply a beginner to edit your videos, the right video editing software for your Mac can improve things significantly. It should assist you with doing everything you want when editing videos on Mac, from basic editing to advanced editing. It should take your videos to a higher level and make it stand apart from the group. So, we did some testing and have tracked down the best video editing software on Mac for you. Followings are our picks for you, you can choose the one suits you more.
 
-## Part1: Best Video Editor for Mac – [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part1: Best Video Editor for Mac – Wondershare Filmora for Mac
 
 Wondershare Filmora is a powerful video-editing software available for Windows and Mac users. Just like its intuitive interface, you can conduct video editing easily with only few clicks, your videos will become much more attractive. You can not only simply trim, crop, split and merge videos, but also utilizing motion tracking, key framing and color match and others advanced tools to make your video more attractive. There are also tons of video effects like AR stickers and AI portrait, filters, elements, and titles to personalize you video. What’s more, you can use almost all features of it via free version. Try it now to edit your video easily.
 
@@ -2159,7 +2159,7 @@ Follow @Larry Jordan
 
 Regardless of whether you're an experienced content maker or simply a beginner to edit your videos, the right video editing software for your Mac can improve things significantly. It should assist you with doing everything you want when editing videos on Mac, from basic editing to advanced editing. It should take your videos to a higher level and make it stand apart from the group. So, we did some testing and have tracked down the best video editing software on Mac for you. Followings are our picks for you, you can choose the one suits you more.
 
-## Part1: Best Video Editor for Mac – [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part1: Best Video Editor for Mac – Wondershare Filmora for Mac
 
 Wondershare Filmora is a powerful video-editing software available for Windows and Mac users. Just like its intuitive interface, you can conduct video editing easily with only few clicks, your videos will become much more attractive. You can not only simply trim, crop, split and merge videos, but also utilizing motion tracking, key framing and color match and others advanced tools to make your video more attractive. There are also tons of video effects like AR stickers and AI portrait, filters, elements, and titles to personalize you video. What’s more, you can use almost all features of it via free version. Try it now to edit your video easily.
 

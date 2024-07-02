@@ -1,7 +1,7 @@
 ---
 title: New FCPX Lower Thirds Mastery Best Practices and Techniques
-date: 2024-04-25T07:34:56.259Z
-updated: 2024-04-26T07:34:56.259Z
+date: 2024-07-01T16:56:55.342Z
+updated: 2024-07-02T16:56:55.342Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New FCPX Lower Thirds Mastery Best Practices and Techniques
 excerpt: This Article Describes New FCPX Lower Thirds Mastery Best Practices and Techniques
 keywords: lower thirds that pop advanced techniques for fcpx editors,xml mastery in fcpx tips tricks and best practices,the secret to engaging lower thirds fcpx best practices revealed,fcpx lower thirds mastery best practices and techniques,the anatomy of a perfect lower third fcpx best practices,lower thirds mastery tips and tricks for fcpx users,subtitle editing in fcpx best practices and techniques
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## FCPX Lower Thirds Mastery: Best Practices and Techniques
@@ -1652,7 +1652,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1808,7 +1808,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -1964,7 +1964,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 
@@ -2120,7 +2120,7 @@ The above steps can be used to **change aspect ratio MP4** as well as all other 
 
 Step 4\. After the video settings are done you can process it and save it at the desired location.
 
-To edit the aspect ratio using other ways, you can check out the details[here](https://tools.techidaily.com/wondershare/filmora/download/).
+To edit the aspect ratio using other ways, you can check out the details [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2021/how-to-change-ratio-of-video-in-a-quick-and-easy-way-7.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 4K/8K Video Editing Showdown Top Software Compared
-date: 2024-05-19T07:45:28.333Z
-updated: 2024-05-20T07:45:28.333Z
+date: 2024-07-01T16:56:56.069Z
+updated: 2024-07-02T16:56:56.069Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 4K/8K Video Editing Showdown Top Software Compared
 excerpt: This Article Describes Updated 4K/8K Video Editing Showdown Top Software Compared
 keywords: hd video editing software showdown the top 5 contenders,video editing software showdown top 10 picks,top 4k video editing software,top rated free 4k video editing software,iphone video editing showdown top 5 apps compared,ai animation top rated free 4k video editing software,4k8k video editing showdown top software compared
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## 4K/8K Video Editing Showdown: Top Software Compared
@@ -32,11 +32,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -110,11 +110,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -188,11 +188,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -266,11 +266,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -828,7 +828,7 @@ Follow the steps below to trim the videos using this video editor:
 
 Trimming the unnecessary parts of the video is the need of the hour. However, some people don't prefer downloading a tool for it. So, the following online video trimmers for windows 10 can assist them in their job:
 
-### 2\. [Online Video Cutter](https://online-video-cutter.com/)
+### 2\. Online Video Cutter
 
 ![online video cutter trimmer](https://images.wondershare.com/filmora/article-images/online-video-cutter-trimmer.jpg)
 
@@ -842,7 +842,7 @@ Features:
 * It does not leave any watermark
 * Offers a quick no-encode alternative
 
-### 3\. [Kapwing](https://www.kapwing.com/)
+### 3\. Kapwing
 
 ![kapwing trim video online](https://images.wondershare.com/filmora/article-images/kapwing-trim-video-online.jpg)
 
@@ -856,7 +856,7 @@ Features:
 * It is quite simple to use for editing
 * It does not require any sign up before trimming
 
-### 4\. [Adobe Creative Cloud Express](https://www.adobe.com/express/)
+### 4\. Adobe Creative Cloud Express
 
 Adobe Creative Cloud Express is the best free online video trimmer windows 10 available for making simple modifications to videos. It enables the creation, editing, and sharing of new projects from any device. It recognizes original edit spots automatically and works with all AVI, MXF, and other file formats. Furthermore, the curve is managed automatically by this online video trimmer.
 
@@ -870,7 +870,7 @@ Features:
 
 ![adobe express trim video interface](https://images.wondershare.com/filmora/article-images/adobe-express-trim-video-interface.jpg)
 
-### 5\. [Clipchamp](https://clipchamp.com/en/)
+### 5\. Clipchamp
 
 ![clipchamp trim video online windows chrome](https://images.wondershare.com/filmora/article-images/clipchamp-trim-video-online-windows-chrome.jpg)
 
@@ -884,7 +884,7 @@ Features:
 * Lets you export the video to social media platforms
 * Offers multiple editing features for the video
 
-### 6\. [Clideo](https://clideo.com/cut-video)
+### 6\. Clideo
 
 Clideo provides several online tools for looping, flipping, reversing, and filtering video clips, adding subtitles, resizing clips, and creating memes. Each tool is a standalone application running in your internet browser.
 
@@ -1068,7 +1068,7 @@ Follow the steps below to trim the videos using this video editor:
 
 Trimming the unnecessary parts of the video is the need of the hour. However, some people don't prefer downloading a tool for it. So, the following online video trimmers for windows 10 can assist them in their job:
 
-### 2\. [Online Video Cutter](https://online-video-cutter.com/)
+### 2\. Online Video Cutter
 
 ![online video cutter trimmer](https://images.wondershare.com/filmora/article-images/online-video-cutter-trimmer.jpg)
 
@@ -1082,7 +1082,7 @@ Features:
 * It does not leave any watermark
 * Offers a quick no-encode alternative
 
-### 3\. [Kapwing](https://www.kapwing.com/)
+### 3\. Kapwing
 
 ![kapwing trim video online](https://images.wondershare.com/filmora/article-images/kapwing-trim-video-online.jpg)
 
@@ -1096,7 +1096,7 @@ Features:
 * It is quite simple to use for editing
 * It does not require any sign up before trimming
 
-### 4\. [Adobe Creative Cloud Express](https://www.adobe.com/express/)
+### 4\. Adobe Creative Cloud Express
 
 Adobe Creative Cloud Express is the best free online video trimmer windows 10 available for making simple modifications to videos. It enables the creation, editing, and sharing of new projects from any device. It recognizes original edit spots automatically and works with all AVI, MXF, and other file formats. Furthermore, the curve is managed automatically by this online video trimmer.
 
@@ -1110,7 +1110,7 @@ Features:
 
 ![adobe express trim video interface](https://images.wondershare.com/filmora/article-images/adobe-express-trim-video-interface.jpg)
 
-### 5\. [Clipchamp](https://clipchamp.com/en/)
+### 5\. Clipchamp
 
 ![clipchamp trim video online windows chrome](https://images.wondershare.com/filmora/article-images/clipchamp-trim-video-online-windows-chrome.jpg)
 
@@ -1124,7 +1124,7 @@ Features:
 * Lets you export the video to social media platforms
 * Offers multiple editing features for the video
 
-### 6\. [Clideo](https://clideo.com/cut-video)
+### 6\. Clideo
 
 Clideo provides several online tools for looping, flipping, reversing, and filtering video clips, adding subtitles, resizing clips, and creating memes. Each tool is a standalone application running in your internet browser.
 
@@ -1308,7 +1308,7 @@ Follow the steps below to trim the videos using this video editor:
 
 Trimming the unnecessary parts of the video is the need of the hour. However, some people don't prefer downloading a tool for it. So, the following online video trimmers for windows 10 can assist them in their job:
 
-### 2\. [Online Video Cutter](https://online-video-cutter.com/)
+### 2\. Online Video Cutter
 
 ![online video cutter trimmer](https://images.wondershare.com/filmora/article-images/online-video-cutter-trimmer.jpg)
 
@@ -1322,7 +1322,7 @@ Features:
 * It does not leave any watermark
 * Offers a quick no-encode alternative
 
-### 3\. [Kapwing](https://www.kapwing.com/)
+### 3\. Kapwing
 
 ![kapwing trim video online](https://images.wondershare.com/filmora/article-images/kapwing-trim-video-online.jpg)
 
@@ -1336,7 +1336,7 @@ Features:
 * It is quite simple to use for editing
 * It does not require any sign up before trimming
 
-### 4\. [Adobe Creative Cloud Express](https://www.adobe.com/express/)
+### 4\. Adobe Creative Cloud Express
 
 Adobe Creative Cloud Express is the best free online video trimmer windows 10 available for making simple modifications to videos. It enables the creation, editing, and sharing of new projects from any device. It recognizes original edit spots automatically and works with all AVI, MXF, and other file formats. Furthermore, the curve is managed automatically by this online video trimmer.
 
@@ -1350,7 +1350,7 @@ Features:
 
 ![adobe express trim video interface](https://images.wondershare.com/filmora/article-images/adobe-express-trim-video-interface.jpg)
 
-### 5\. [Clipchamp](https://clipchamp.com/en/)
+### 5\. Clipchamp
 
 ![clipchamp trim video online windows chrome](https://images.wondershare.com/filmora/article-images/clipchamp-trim-video-online-windows-chrome.jpg)
 
@@ -1364,7 +1364,7 @@ Features:
 * Lets you export the video to social media platforms
 * Offers multiple editing features for the video
 
-### 6\. [Clideo](https://clideo.com/cut-video)
+### 6\. Clideo
 
 Clideo provides several online tools for looping, flipping, reversing, and filtering video clips, adding subtitles, resizing clips, and creating memes. Each tool is a standalone application running in your internet browser.
 
@@ -1548,7 +1548,7 @@ Follow the steps below to trim the videos using this video editor:
 
 Trimming the unnecessary parts of the video is the need of the hour. However, some people don't prefer downloading a tool for it. So, the following online video trimmers for windows 10 can assist them in their job:
 
-### 2\. [Online Video Cutter](https://online-video-cutter.com/)
+### 2\. Online Video Cutter
 
 ![online video cutter trimmer](https://images.wondershare.com/filmora/article-images/online-video-cutter-trimmer.jpg)
 
@@ -1562,7 +1562,7 @@ Features:
 * It does not leave any watermark
 * Offers a quick no-encode alternative
 
-### 3\. [Kapwing](https://www.kapwing.com/)
+### 3\. Kapwing
 
 ![kapwing trim video online](https://images.wondershare.com/filmora/article-images/kapwing-trim-video-online.jpg)
 
@@ -1576,7 +1576,7 @@ Features:
 * It is quite simple to use for editing
 * It does not require any sign up before trimming
 
-### 4\. [Adobe Creative Cloud Express](https://www.adobe.com/express/)
+### 4\. Adobe Creative Cloud Express
 
 Adobe Creative Cloud Express is the best free online video trimmer windows 10 available for making simple modifications to videos. It enables the creation, editing, and sharing of new projects from any device. It recognizes original edit spots automatically and works with all AVI, MXF, and other file formats. Furthermore, the curve is managed automatically by this online video trimmer.
 
@@ -1590,7 +1590,7 @@ Features:
 
 ![adobe express trim video interface](https://images.wondershare.com/filmora/article-images/adobe-express-trim-video-interface.jpg)
 
-### 5\. [Clipchamp](https://clipchamp.com/en/)
+### 5\. Clipchamp
 
 ![clipchamp trim video online windows chrome](https://images.wondershare.com/filmora/article-images/clipchamp-trim-video-online-windows-chrome.jpg)
 
@@ -1604,7 +1604,7 @@ Features:
 * Lets you export the video to social media platforms
 * Offers multiple editing features for the video
 
-### 6\. [Clideo](https://clideo.com/cut-video)
+### 6\. Clideo
 
 Clideo provides several online tools for looping, flipping, reversing, and filtering video clips, adding subtitles, resizing clips, and creating memes. Each tool is a standalone application running in your internet browser.
 
@@ -1666,7 +1666,7 @@ In the coming year, [over half of marketers](https://blog.hubspot.com/marketing/
 
 #### In this article
 
-01 [ Best Basic Video Editors for Windows and Mac \[Free and Paid\] ](#part1)
+01 [Best Basic Video Editors for Windows and Mac \[Free and Paid\]](#part1)
 
 02 [Best Free Basic Video Editors Online](#part2)
 
@@ -1688,7 +1688,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -1700,7 +1700,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -1710,7 +1710,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -1812,7 +1812,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -1824,7 +1824,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -1834,7 +1834,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -1936,7 +1936,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -1948,7 +1948,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -1958,7 +1958,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -2060,7 +2060,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -2072,7 +2072,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -2082,7 +2082,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 

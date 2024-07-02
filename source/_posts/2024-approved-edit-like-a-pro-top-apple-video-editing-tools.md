@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Edit Like a Pro Top Apple Video Editing Tools
-date: 2024-04-25T07:34:52.274Z
-updated: 2024-04-26T07:34:52.274Z
+date: 2024-07-01T16:57:06.769Z
+updated: 2024-07-02T16:57:06.769Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Edit Like a Pro Top Apple Video Editing Tools
 excerpt: This Article Describes 2024 Approved Edit Like a Pro Top Apple Video Editing Tools
 keywords: edit like a pro top 8 video editing apps for 4k proxy,edit like a pro top rated iphone video editing apps,edit like a pro top apple video editing tools,edit like a pro top mobile video editing apps,edit like a pro top 10 free video editing tools for ubuntu,edit like a pro top hd video editing software,edit like a pro top iphone video editing apps
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Edit Like a Pro: Top Apple Video Editing Tools
@@ -126,7 +126,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -250,7 +250,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -374,7 +374,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -498,7 +498,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -544,7 +544,7 @@ Some of the apps we have reviewed here are ideal for beginners, but they are eve
 
 ## You Have a Chromebook and Want to Edit Videos but Are Not Sure Which Video Editor Works on Chromebook Perfectly? Don’t Worry, Here Is a List of the Best Video Editors for Chromebook
 
-##### [Wodershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Wodershare Filmora
 
 Filmora is one of the most popular video editing software among YouTubers, download and have a try.
 
@@ -1568,7 +1568,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -1580,7 +1580,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -1592,7 +1592,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -1604,7 +1604,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -1616,7 +1616,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -1627,7 +1627,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -1638,7 +1638,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -1650,7 +1650,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -1698,7 +1698,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -1710,7 +1710,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -1722,7 +1722,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -1734,7 +1734,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -1746,7 +1746,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -1757,7 +1757,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -1768,7 +1768,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -1780,7 +1780,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -1828,7 +1828,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -1840,7 +1840,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -1852,7 +1852,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -1864,7 +1864,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -1876,7 +1876,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -1887,7 +1887,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -1898,7 +1898,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -1910,7 +1910,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -1958,7 +1958,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -1970,7 +1970,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -1982,7 +1982,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -1994,7 +1994,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -2006,7 +2006,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -2017,7 +2017,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -2028,7 +2028,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -2040,7 +2040,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 

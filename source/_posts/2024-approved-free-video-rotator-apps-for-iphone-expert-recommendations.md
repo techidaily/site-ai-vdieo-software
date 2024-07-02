@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Free Video Rotator Apps for iPhone Expert Recommendations
-date: 2024-06-16T01:52:19.524Z
-updated: 2024-06-17T01:52:19.524Z
+date: 2024-07-01T16:57:15.399Z
+updated: 2024-07-02T16:57:15.399Z
 tags: 
   - video editing software
   - video editing
@@ -36,13 +36,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -56,7 +56,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -74,7 +74,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -91,7 +91,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -144,13 +144,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -164,7 +164,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -182,7 +182,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -199,7 +199,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -252,13 +252,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -272,7 +272,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -290,7 +290,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -307,7 +307,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -360,13 +360,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -380,7 +380,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -398,7 +398,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -415,7 +415,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -662,7 +662,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -672,7 +672,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -870,7 +870,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -880,7 +880,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1078,7 +1078,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1088,7 +1088,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1286,7 +1286,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1296,7 +1296,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1559,7 +1559,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1573,13 +1573,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1836,7 +1836,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1850,13 +1850,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2113,7 +2113,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2127,13 +2127,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2390,7 +2390,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2404,13 +2404,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 

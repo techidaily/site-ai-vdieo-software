@@ -1,7 +1,7 @@
 ---
 title: Free AVI Video Rotators A Roundup of the Best Tools for All Platforms
-date: 2024-05-19T07:45:02.628Z
-updated: 2024-05-20T07:45:02.628Z
+date: 2024-07-01T16:57:01.021Z
+updated: 2024-07-02T16:57:01.021Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free AVI Video Rotators A Roundup of the Best Tools for All Platforms
 excerpt: This Article Describes Free AVI Video Rotators A Roundup of the Best Tools for All Platforms
 keywords: the ultimate list of 16 free avi video rotation tools for any platform,free avi video rotators a roundup of the best tools for all platforms,the ultimate list of free avi video rotators for all devices,best of the best 5 free avi video rotation tools,top rated avi video rotators free solutions for all platforms,best of the best top 16 free avi video rotation software for any platform,flip and rotate avi videos for free best tools
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Free AVI Video Rotators: A Roundup of the Best Tools for All Platforms

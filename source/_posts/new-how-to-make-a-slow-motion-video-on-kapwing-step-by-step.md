@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Slow Motion Video on Kapwing? Step by Step
-date: 2024-05-19T07:45:45.028Z
-updated: 2024-05-20T07:45:45.028Z
+date: 2024-07-01T16:56:55.036Z
+updated: 2024-07-02T16:56:55.036Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Make a Slow Motion Video on Kapwing? Step by Step
 excerpt: This Article Describes New How to Make a Slow Motion Video on Kapwing? Step by Step
 keywords: how to make a slow motion video on kapwing step by step,how to make a slow motion video on kapwing,slow down time how to make a slow motion video on kapwing,slow down time a step by step guide to creating slow mo videos on kapwing,kapwing how to make slow motion video,ai animation how to make a slow motion video on kapwing,ai animation how to make a slow motion video on kapwing step by step
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## How to Make a Slow Motion Video on Kapwing? [Step by Step]
@@ -37,7 +37,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -81,7 +81,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -123,7 +123,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -167,7 +167,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -209,7 +209,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -253,7 +253,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -295,7 +295,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -339,7 +339,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -850,16 +850,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -876,17 +876,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -897,7 +897,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -950,16 +950,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -976,17 +976,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -997,7 +997,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -1050,16 +1050,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -1076,17 +1076,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -1097,7 +1097,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -1150,16 +1150,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -1176,17 +1176,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -1197,7 +1197,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -1284,17 +1284,17 @@ First of all go to timeline and then select the desired clip from your collectio
 
 Now you need to go to the pop up menu where an option for reverse the clip is available in form of an arrow pointing towards left direction.
 
-![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
+![How to reverse a clip in Final Cut Pro](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 Hit that reverse option.
 
-![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
+![Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
 
 #### **Step 3:**
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
-![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
+![Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
 #### **Step 4:**
 
@@ -1312,13 +1312,13 @@ Go to timeline and select clips that you want to rewind.
 
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
-![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
+![Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
-![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
+![Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 #### **Step 4:**
 
@@ -1392,17 +1392,17 @@ First of all go to timeline and then select the desired clip from your collectio
 
 Now you need to go to the pop up menu where an option for reverse the clip is available in form of an arrow pointing towards left direction.
 
-![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
+![How to reverse a clip in Final Cut Pro](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 Hit that reverse option.
 
-![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
+![Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
 
 #### **Step 3:**
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
-![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
+![Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
 #### **Step 4:**
 
@@ -1420,13 +1420,13 @@ Go to timeline and select clips that you want to rewind.
 
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
-![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
+![Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
-![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
+![Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 #### **Step 4:**
 
@@ -1500,17 +1500,17 @@ First of all go to timeline and then select the desired clip from your collectio
 
 Now you need to go to the pop up menu where an option for reverse the clip is available in form of an arrow pointing towards left direction.
 
-![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
+![How to reverse a clip in Final Cut Pro](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 Hit that reverse option.
 
-![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
+![Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
 
 #### **Step 3:**
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
-![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
+![Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
 #### **Step 4:**
 
@@ -1528,13 +1528,13 @@ Go to timeline and select clips that you want to rewind.
 
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
-![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
+![Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
-![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
+![Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 #### **Step 4:**
 
@@ -1608,17 +1608,17 @@ First of all go to timeline and then select the desired clip from your collectio
 
 Now you need to go to the pop up menu where an option for reverse the clip is available in form of an arrow pointing towards left direction.
 
-![ How to reverse a clip in Final Cut Pro ](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
+![How to reverse a clip in Final Cut Pro](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
 Hit that reverse option.
 
-![ Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
+![Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
 
 #### **Step 3:**
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
-![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
+![Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
 #### **Step 4:**
 
@@ -1636,13 +1636,13 @@ Go to timeline and select clips that you want to rewind.
 
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
-![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
+![Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
-![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
+![Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 #### **Step 4:**
 

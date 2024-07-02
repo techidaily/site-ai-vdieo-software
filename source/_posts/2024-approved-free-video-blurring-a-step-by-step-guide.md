@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Free Video Blurring A Step-by-Step Guide
-date: 2024-05-19T07:47:46.527Z
-updated: 2024-05-20T07:47:46.527Z
+date: 2024-07-01T16:57:24.152Z
+updated: 2024-07-02T16:57:24.152Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Free Video Blurring A Step-by-Step Guide
 excerpt: This Article Describes 2024 Approved Free Video Blurring A Step-by-Step Guide
 keywords: free video blur tool a step by step guide,free video blurring a step by step guide,freeze time a step by step guide to pausing videos,mastering wax a step by step guide to free video editing,face blur mastery a step by step guide to free video editing tools,get started with free video blurring a beginners guide,ai animation free video blurring a step by step guide
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## Free Video Blurring: A Step-by-Step Guide
@@ -261,7 +261,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -275,13 +275,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -538,7 +538,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -552,13 +552,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -815,7 +815,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -829,13 +829,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1092,7 +1092,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1106,13 +1106,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1982,7 +1982,7 @@ In the coming year, [over half of marketers](https://blog.hubspot.com/marketing/
 
 #### In this article
 
-01 [ Best Basic Video Editors for Windows and Mac \[Free and Paid\] ](#part1)
+01 [Best Basic Video Editors for Windows and Mac \[Free and Paid\]](#part1)
 
 02 [Best Free Basic Video Editors Online](#part2)
 
@@ -2004,7 +2004,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -2016,7 +2016,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -2026,7 +2026,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -2128,7 +2128,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -2140,7 +2140,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -2150,7 +2150,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -2252,7 +2252,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -2264,7 +2264,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -2274,7 +2274,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -2376,7 +2376,7 @@ Clips may be trimmed or divided, [text can be added](https://tools.techidaily.co
 
 The Photos app features the Automatic Video tool which can [create video automatically with the images or videos uploaded](https://tools.techidaily.com/wondershare/filmora/download/).
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 Okay, so this one won't actually apply to those of you who deal with computers, but we'd be negligent if we left it off the roster. Thanks to its high-class interface, it doesn't get much nicer than Apple iMovie regarding elegance and beauty. It is only supported by macOS and iOS.
 
@@ -2388,7 +2388,7 @@ The ten [high-fidelity filters in iMovie](https://tools.techidaily.com/wondersha
 
 Here are some tips and tricks in editing videos with iMovie, hope that will help you edit faster.
 
-### 3\. [Apple Photos App](https://www.apple.com/macos/photos/)
+### 3\. Apple Photos App
 
 Apple Photos, a free app included with macOS and iOS, is our pick for the best basic video editing software for Mac and iOS users because it embodies the company's concept of fun, easy-to-use software. The interface of Apple Photos is clean, straightforward, and direct, allowing you to express yourself using basic, uncomplicated shortcuts rather than the complex layers of capabilities seen in more feature-rich products. It is only supported by Apple devices only.
 
@@ -2398,7 +2398,7 @@ In Adjust, for example, you may move an indicator over a thumbnail variant to ch
 
 Here are some of the [best Apple video editing software](https://tools.techidaily.com/wondershare/filmora/download/), make sure to check it if you’re using a Mac.
 
-### 4\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 4\. Wondershare Filmora
 
 In terms of video editors, Wondershare Filmora has long been a current favorite of several, particularly regular customers, due to its ease of use. You will be met with the interface where you will do all of your film editing production. You'll note how clean, tidy, and uncomplicated it looks and seems at first sight.
 
@@ -2524,7 +2524,7 @@ In terms of price, OS and video format, we made a comparison table for you to ha
 | Windows Movie Maker | Free             | Windows                | AVI/WMA/WAV/MP3            |
 | iMovie              | Free             | Mac                    | MP4/MOV/HDV                |
 
-### 1\. [Free Video Cutter](http://www.freevideocutter.com/)
+### 1\. Free Video Cutter
 
 Free Video Cutter has been a popular video splitter for years now. The program supports a vast range of video formats, including AVI, FLV, MOV, VOB, MKV, Xvid, Divx, Mp4, MPEG 1/2 and enables you to cut and split video files into segments as you like while keep good video quality.
 
@@ -2541,7 +2541,7 @@ Free Video Cutter has been a popular video splitter for years now. The program s
 * Lacks in sound quality;
 * Fewer sound settings.
 
-### 2\. [Easy Video Splitter](https://download.cnet.com/Easy-Video-Splitter/3000-13631%5F4-10176687.html)
+### 2\. Easy Video Splitter
 
 Easy Video Splitter is an easy-to-use video editing tool to help you split your video. It supports multiple formats, including AVI, MPEG, WMV and ASF. You can use the scroll bats to decide exactly where you want the video to be cut or split the video at specific intervals. It’s also equipped the batch-mode processing function, which enables you to split several files at a time.
 
@@ -2555,7 +2555,7 @@ Easy Video Splitter is an easy-to-use video editing tool to help you split your 
 
 * The only fine tuning is one frame at a time.
 
-### 3\. [Avidemux](http://avidemux.sourceforge.net/)
+### 3\. Avidemux
 
 Avidemux is another free video splitter that can be used to finish basic video editing tasks such as video cutting and merging. It is also compatible will most of the video file formats that includes AVI, DVD compatible MPEG files, MP4, ASF, etc. To use this program simply: you just have to move the cursor and mark the beginning of the video that you will split.
 
@@ -2570,7 +2570,7 @@ Avidemux is another free video splitter that can be used to finish basic video e
 
 * The performance is not very satisfactory.
 
-### 4\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker)
+### 4\. Windows Movie Maker
 
 If you're a Windows user, then the best video splitter freeware that you can take advantage is the Windows Live Movie Maker. It can provide basic video editing such as trimming, cutting, add text, music and effects. Here is a guide about how to split video using this software.
 
@@ -2588,7 +2588,7 @@ If you're a Windows user, then the best video splitter freeware that you can tak
 * Many different versions of the same product;
 * Not available anymore as a part of Windows OS.
 
-### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+### 5\. iMovie
 
 On the other hand, if you are a Mac user then the best video splitter is the iMovie. It also provides simple video editing functions like trimming, adding caption and text, special effects, and audio.
 
@@ -2650,7 +2650,7 @@ In terms of price, OS and video format, we made a comparison table for you to ha
 | Windows Movie Maker | Free             | Windows                | AVI/WMA/WAV/MP3            |
 | iMovie              | Free             | Mac                    | MP4/MOV/HDV                |
 
-### 1\. [Free Video Cutter](http://www.freevideocutter.com/)
+### 1\. Free Video Cutter
 
 Free Video Cutter has been a popular video splitter for years now. The program supports a vast range of video formats, including AVI, FLV, MOV, VOB, MKV, Xvid, Divx, Mp4, MPEG 1/2 and enables you to cut and split video files into segments as you like while keep good video quality.
 
@@ -2667,7 +2667,7 @@ Free Video Cutter has been a popular video splitter for years now. The program s
 * Lacks in sound quality;
 * Fewer sound settings.
 
-### 2\. [Easy Video Splitter](https://download.cnet.com/Easy-Video-Splitter/3000-13631%5F4-10176687.html)
+### 2\. Easy Video Splitter
 
 Easy Video Splitter is an easy-to-use video editing tool to help you split your video. It supports multiple formats, including AVI, MPEG, WMV and ASF. You can use the scroll bats to decide exactly where you want the video to be cut or split the video at specific intervals. It’s also equipped the batch-mode processing function, which enables you to split several files at a time.
 
@@ -2681,7 +2681,7 @@ Easy Video Splitter is an easy-to-use video editing tool to help you split your 
 
 * The only fine tuning is one frame at a time.
 
-### 3\. [Avidemux](http://avidemux.sourceforge.net/)
+### 3\. Avidemux
 
 Avidemux is another free video splitter that can be used to finish basic video editing tasks such as video cutting and merging. It is also compatible will most of the video file formats that includes AVI, DVD compatible MPEG files, MP4, ASF, etc. To use this program simply: you just have to move the cursor and mark the beginning of the video that you will split.
 
@@ -2696,7 +2696,7 @@ Avidemux is another free video splitter that can be used to finish basic video e
 
 * The performance is not very satisfactory.
 
-### 4\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker)
+### 4\. Windows Movie Maker
 
 If you're a Windows user, then the best video splitter freeware that you can take advantage is the Windows Live Movie Maker. It can provide basic video editing such as trimming, cutting, add text, music and effects. Here is a guide about how to split video using this software.
 
@@ -2714,7 +2714,7 @@ If you're a Windows user, then the best video splitter freeware that you can tak
 * Many different versions of the same product;
 * Not available anymore as a part of Windows OS.
 
-### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+### 5\. iMovie
 
 On the other hand, if you are a Mac user then the best video splitter is the iMovie. It also provides simple video editing functions like trimming, adding caption and text, special effects, and audio.
 
@@ -2776,7 +2776,7 @@ In terms of price, OS and video format, we made a comparison table for you to ha
 | Windows Movie Maker | Free             | Windows                | AVI/WMA/WAV/MP3            |
 | iMovie              | Free             | Mac                    | MP4/MOV/HDV                |
 
-### 1\. [Free Video Cutter](http://www.freevideocutter.com/)
+### 1\. Free Video Cutter
 
 Free Video Cutter has been a popular video splitter for years now. The program supports a vast range of video formats, including AVI, FLV, MOV, VOB, MKV, Xvid, Divx, Mp4, MPEG 1/2 and enables you to cut and split video files into segments as you like while keep good video quality.
 
@@ -2793,7 +2793,7 @@ Free Video Cutter has been a popular video splitter for years now. The program s
 * Lacks in sound quality;
 * Fewer sound settings.
 
-### 2\. [Easy Video Splitter](https://download.cnet.com/Easy-Video-Splitter/3000-13631%5F4-10176687.html)
+### 2\. Easy Video Splitter
 
 Easy Video Splitter is an easy-to-use video editing tool to help you split your video. It supports multiple formats, including AVI, MPEG, WMV and ASF. You can use the scroll bats to decide exactly where you want the video to be cut or split the video at specific intervals. It’s also equipped the batch-mode processing function, which enables you to split several files at a time.
 
@@ -2807,7 +2807,7 @@ Easy Video Splitter is an easy-to-use video editing tool to help you split your 
 
 * The only fine tuning is one frame at a time.
 
-### 3\. [Avidemux](http://avidemux.sourceforge.net/)
+### 3\. Avidemux
 
 Avidemux is another free video splitter that can be used to finish basic video editing tasks such as video cutting and merging. It is also compatible will most of the video file formats that includes AVI, DVD compatible MPEG files, MP4, ASF, etc. To use this program simply: you just have to move the cursor and mark the beginning of the video that you will split.
 
@@ -2822,7 +2822,7 @@ Avidemux is another free video splitter that can be used to finish basic video e
 
 * The performance is not very satisfactory.
 
-### 4\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker)
+### 4\. Windows Movie Maker
 
 If you're a Windows user, then the best video splitter freeware that you can take advantage is the Windows Live Movie Maker. It can provide basic video editing such as trimming, cutting, add text, music and effects. Here is a guide about how to split video using this software.
 
@@ -2840,7 +2840,7 @@ If you're a Windows user, then the best video splitter freeware that you can tak
 * Many different versions of the same product;
 * Not available anymore as a part of Windows OS.
 
-### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+### 5\. iMovie
 
 On the other hand, if you are a Mac user then the best video splitter is the iMovie. It also provides simple video editing functions like trimming, adding caption and text, special effects, and audio.
 
@@ -2902,7 +2902,7 @@ In terms of price, OS and video format, we made a comparison table for you to ha
 | Windows Movie Maker | Free             | Windows                | AVI/WMA/WAV/MP3            |
 | iMovie              | Free             | Mac                    | MP4/MOV/HDV                |
 
-### 1\. [Free Video Cutter](http://www.freevideocutter.com/)
+### 1\. Free Video Cutter
 
 Free Video Cutter has been a popular video splitter for years now. The program supports a vast range of video formats, including AVI, FLV, MOV, VOB, MKV, Xvid, Divx, Mp4, MPEG 1/2 and enables you to cut and split video files into segments as you like while keep good video quality.
 
@@ -2919,7 +2919,7 @@ Free Video Cutter has been a popular video splitter for years now. The program s
 * Lacks in sound quality;
 * Fewer sound settings.
 
-### 2\. [Easy Video Splitter](https://download.cnet.com/Easy-Video-Splitter/3000-13631%5F4-10176687.html)
+### 2\. Easy Video Splitter
 
 Easy Video Splitter is an easy-to-use video editing tool to help you split your video. It supports multiple formats, including AVI, MPEG, WMV and ASF. You can use the scroll bats to decide exactly where you want the video to be cut or split the video at specific intervals. It’s also equipped the batch-mode processing function, which enables you to split several files at a time.
 
@@ -2933,7 +2933,7 @@ Easy Video Splitter is an easy-to-use video editing tool to help you split your 
 
 * The only fine tuning is one frame at a time.
 
-### 3\. [Avidemux](http://avidemux.sourceforge.net/)
+### 3\. Avidemux
 
 Avidemux is another free video splitter that can be used to finish basic video editing tasks such as video cutting and merging. It is also compatible will most of the video file formats that includes AVI, DVD compatible MPEG files, MP4, ASF, etc. To use this program simply: you just have to move the cursor and mark the beginning of the video that you will split.
 
@@ -2948,7 +2948,7 @@ Avidemux is another free video splitter that can be used to finish basic video e
 
 * The performance is not very satisfactory.
 
-### 4\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker)
+### 4\. Windows Movie Maker
 
 If you're a Windows user, then the best video splitter freeware that you can take advantage is the Windows Live Movie Maker. It can provide basic video editing such as trimming, cutting, add text, music and effects. Here is a guide about how to split video using this software.
 
@@ -2966,7 +2966,7 @@ If you're a Windows user, then the best video splitter freeware that you can tak
 * Many different versions of the same product;
 * Not available anymore as a part of Windows OS.
 
-### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+### 5\. iMovie
 
 On the other hand, if you are a Mac user then the best video splitter is the iMovie. It also provides simple video editing functions like trimming, adding caption and text, special effects, and audio.
 

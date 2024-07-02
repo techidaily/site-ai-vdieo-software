@@ -1,7 +1,7 @@
 ---
 title: Updated Aspect Ratio Calculator Roundup Top Online Options
-date: 2024-05-19T07:45:57.439Z
-updated: 2024-05-20T07:45:57.439Z
+date: 2024-07-01T16:56:54.214Z
+updated: 2024-07-02T16:56:54.214Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Aspect Ratio Calculator Roundup Top Online Options
 excerpt: This Article Describes Updated Aspect Ratio Calculator Roundup Top Online Options
 keywords: ai animation top 5 aspect ratio calculators online,aspect ratio calculator roundup top online options,top rated online aspect ratio calculators for easy conversion,top 5 aspect ratio calculators online,online aspect ratio calculators our top picks,top rated online aspect ratio calculators for easy use,top rated online aspect ratio calculators
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## Aspect Ratio Calculator Roundup: Top Online Options
@@ -1116,9 +1116,9 @@ Go to [FlexClip video maker](https://www.flexclip.com/)
 
 ---
 
-### #4\. [WeVideo](http://share.wevideo.com/CpLGR)
+### #4\. WeVideo
 
-![WeVideo Online Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
+![WeVideo Online Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
 
 WeVideo is a shared online video creation tool. You can **upload your own videos, photos, music files** from your computer or from social sites such as Google Drive, Facebook, Box, Instagram, Dropbox, etc. to the Media panel, or use the **built-in stock videos, audio, and images** to make a video quickly. However, the stock images, videos, and audio files are limited to Professional and Business plans, you can also choose to use free music and sound effects instead of Premium music.
 
@@ -1134,7 +1134,7 @@ Go to [WeVideo Online Video Maker >>](http://share.wevideo.com/CpLGR)
 
 ### #5\. Wideo
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
 
 Wideo is an online video creating site for **creating animated videos, explainer videos** and other marketing videos with a lot of video templates. **Sign in first** to make a video online with this animated editor and then drag and drop elements of the website's editing service, create a sequence of animations.
 
@@ -1150,7 +1150,7 @@ Go to [Wideo Animated Video Maker >>](http://wideo.co/)
 
 ### #6\. PowToon
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
 
 PowToon is a great way to create videos that will serve an explanatory purpose. If you need a video that is to serve as a sort of guide or teacher then PowToon is definitely the website you want to use. It allows you to use what is essentially a digital version of paper cut-outs superimposed on colorful backgrounds. The drag and drop style editing leaves you with a video reminiscent of the Common Craft style.
 
@@ -1164,7 +1164,7 @@ Go to [Learn more about PowToon >>](http://www.powtoon.com/)
 
 ### #7\. Video Toolbox
 
-![Video Toolbox Online  Video Editor ](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
+![Video Toolbox Online  Video Editor](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
 
 Touted as the future of video editing, Video Toolbox is a free online platform that in addition to editing your video files analyses it and gives you highly detailed information about the bit rate, codec, frame rate, and resolution.
 
@@ -1220,7 +1220,7 @@ Go to [Magisto Online Video Maker >>](http://www.magisto.com/)
 
 ### #11\. Kapwing
 
-![ kapwing online video studio ](https://tools.techidaily.com/wondershare/filmora/download/)
+![kapwing online video studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Kapwing provides lots of **online video editing related products** such as online meme generator, video maker, video resizer, and video trimmer, add subtitles, add audio and loop video, as well as an all-in-one online video studio. This  lets you **combine videos, GIFs, and photos, add texts and audio** to create a brand new video.
 
@@ -1262,7 +1262,7 @@ However, Filmora is one of the easiest-to-use home video editing software with s
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1338,9 +1338,9 @@ Go to [FlexClip video maker](https://www.flexclip.com/)
 
 ---
 
-### #4\. [WeVideo](http://share.wevideo.com/CpLGR)
+### #4\. WeVideo
 
-![WeVideo Online Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
+![WeVideo Online Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
 
 WeVideo is a shared online video creation tool. You can **upload your own videos, photos, music files** from your computer or from social sites such as Google Drive, Facebook, Box, Instagram, Dropbox, etc. to the Media panel, or use the **built-in stock videos, audio, and images** to make a video quickly. However, the stock images, videos, and audio files are limited to Professional and Business plans, you can also choose to use free music and sound effects instead of Premium music.
 
@@ -1356,7 +1356,7 @@ Go to [WeVideo Online Video Maker >>](http://share.wevideo.com/CpLGR)
 
 ### #5\. Wideo
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
 
 Wideo is an online video creating site for **creating animated videos, explainer videos** and other marketing videos with a lot of video templates. **Sign in first** to make a video online with this animated editor and then drag and drop elements of the website's editing service, create a sequence of animations.
 
@@ -1372,7 +1372,7 @@ Go to [Wideo Animated Video Maker >>](http://wideo.co/)
 
 ### #6\. PowToon
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
 
 PowToon is a great way to create videos that will serve an explanatory purpose. If you need a video that is to serve as a sort of guide or teacher then PowToon is definitely the website you want to use. It allows you to use what is essentially a digital version of paper cut-outs superimposed on colorful backgrounds. The drag and drop style editing leaves you with a video reminiscent of the Common Craft style.
 
@@ -1386,7 +1386,7 @@ Go to [Learn more about PowToon >>](http://www.powtoon.com/)
 
 ### #7\. Video Toolbox
 
-![Video Toolbox Online  Video Editor ](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
+![Video Toolbox Online  Video Editor](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
 
 Touted as the future of video editing, Video Toolbox is a free online platform that in addition to editing your video files analyses it and gives you highly detailed information about the bit rate, codec, frame rate, and resolution.
 
@@ -1442,7 +1442,7 @@ Go to [Magisto Online Video Maker >>](http://www.magisto.com/)
 
 ### #11\. Kapwing
 
-![ kapwing online video studio ](https://tools.techidaily.com/wondershare/filmora/download/)
+![kapwing online video studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Kapwing provides lots of **online video editing related products** such as online meme generator, video maker, video resizer, and video trimmer, add subtitles, add audio and loop video, as well as an all-in-one online video studio. This  lets you **combine videos, GIFs, and photos, add texts and audio** to create a brand new video.
 
@@ -1484,7 +1484,7 @@ However, Filmora is one of the easiest-to-use home video editing software with s
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1560,9 +1560,9 @@ Go to [FlexClip video maker](https://www.flexclip.com/)
 
 ---
 
-### #4\. [WeVideo](http://share.wevideo.com/CpLGR)
+### #4\. WeVideo
 
-![WeVideo Online Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
+![WeVideo Online Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
 
 WeVideo is a shared online video creation tool. You can **upload your own videos, photos, music files** from your computer or from social sites such as Google Drive, Facebook, Box, Instagram, Dropbox, etc. to the Media panel, or use the **built-in stock videos, audio, and images** to make a video quickly. However, the stock images, videos, and audio files are limited to Professional and Business plans, you can also choose to use free music and sound effects instead of Premium music.
 
@@ -1578,7 +1578,7 @@ Go to [WeVideo Online Video Maker >>](http://share.wevideo.com/CpLGR)
 
 ### #5\. Wideo
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
 
 Wideo is an online video creating site for **creating animated videos, explainer videos** and other marketing videos with a lot of video templates. **Sign in first** to make a video online with this animated editor and then drag and drop elements of the website's editing service, create a sequence of animations.
 
@@ -1594,7 +1594,7 @@ Go to [Wideo Animated Video Maker >>](http://wideo.co/)
 
 ### #6\. PowToon
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
 
 PowToon is a great way to create videos that will serve an explanatory purpose. If you need a video that is to serve as a sort of guide or teacher then PowToon is definitely the website you want to use. It allows you to use what is essentially a digital version of paper cut-outs superimposed on colorful backgrounds. The drag and drop style editing leaves you with a video reminiscent of the Common Craft style.
 
@@ -1608,7 +1608,7 @@ Go to [Learn more about PowToon >>](http://www.powtoon.com/)
 
 ### #7\. Video Toolbox
 
-![Video Toolbox Online  Video Editor ](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
+![Video Toolbox Online  Video Editor](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
 
 Touted as the future of video editing, Video Toolbox is a free online platform that in addition to editing your video files analyses it and gives you highly detailed information about the bit rate, codec, frame rate, and resolution.
 
@@ -1664,7 +1664,7 @@ Go to [Magisto Online Video Maker >>](http://www.magisto.com/)
 
 ### #11\. Kapwing
 
-![ kapwing online video studio ](https://tools.techidaily.com/wondershare/filmora/download/)
+![kapwing online video studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Kapwing provides lots of **online video editing related products** such as online meme generator, video maker, video resizer, and video trimmer, add subtitles, add audio and loop video, as well as an all-in-one online video studio. This  lets you **combine videos, GIFs, and photos, add texts and audio** to create a brand new video.
 
@@ -1706,7 +1706,7 @@ However, Filmora is one of the easiest-to-use home video editing software with s
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1782,9 +1782,9 @@ Go to [FlexClip video maker](https://www.flexclip.com/)
 
 ---
 
-### #4\. [WeVideo](http://share.wevideo.com/CpLGR)
+### #4\. WeVideo
 
-![WeVideo Online Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
+![WeVideo Online Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wevideo-online-video-editor.jpg)
 
 WeVideo is a shared online video creation tool. You can **upload your own videos, photos, music files** from your computer or from social sites such as Google Drive, Facebook, Box, Instagram, Dropbox, etc. to the Media panel, or use the **built-in stock videos, audio, and images** to make a video quickly. However, the stock images, videos, and audio files are limited to Professional and Business plans, you can also choose to use free music and sound effects instead of Premium music.
 
@@ -1800,7 +1800,7 @@ Go to [WeVideo Online Video Maker >>](http://share.wevideo.com/CpLGR)
 
 ### #5\. Wideo
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/wideo-online-animated-video-maker.jpg)
 
 Wideo is an online video creating site for **creating animated videos, explainer videos** and other marketing videos with a lot of video templates. **Sign in first** to make a video online with this animated editor and then drag and drop elements of the website's editing service, create a sequence of animations.
 
@@ -1816,7 +1816,7 @@ Go to [Wideo Animated Video Maker >>](http://wideo.co/)
 
 ### #6\. PowToon
 
-![Wideo Online Animated Video Editor Editing Panel ](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
+![Wideo Online Animated Video Editor Editing Panel](https://images.wondershare.com/filmora/article-images/powtoon-online-animated-video-maker.jpg)
 
 PowToon is a great way to create videos that will serve an explanatory purpose. If you need a video that is to serve as a sort of guide or teacher then PowToon is definitely the website you want to use. It allows you to use what is essentially a digital version of paper cut-outs superimposed on colorful backgrounds. The drag and drop style editing leaves you with a video reminiscent of the Common Craft style.
 
@@ -1830,7 +1830,7 @@ Go to [Learn more about PowToon >>](http://www.powtoon.com/)
 
 ### #7\. Video Toolbox
 
-![Video Toolbox Online  Video Editor ](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
+![Video Toolbox Online  Video Editor](https://images.wondershare.com/filmora/article-images/video-toolbox-online-video-editor-interface.jpg)
 
 Touted as the future of video editing, Video Toolbox is a free online platform that in addition to editing your video files analyses it and gives you highly detailed information about the bit rate, codec, frame rate, and resolution.
 
@@ -1886,7 +1886,7 @@ Go to [Magisto Online Video Maker >>](http://www.magisto.com/)
 
 ### #11\. Kapwing
 
-![ kapwing online video studio ](https://tools.techidaily.com/wondershare/filmora/download/)
+![kapwing online video studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Kapwing provides lots of **online video editing related products** such as online meme generator, video maker, video resizer, and video trimmer, add subtitles, add audio and loop video, as well as an all-in-one online video studio. This  lets you **combine videos, GIFs, and photos, add texts and audio** to create a brand new video.
 
@@ -1928,7 +1928,7 @@ However, Filmora is one of the easiest-to-use home video editing software with s
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1984,7 +1984,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1998,11 +1998,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -2011,7 +2011,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -2057,7 +2057,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -2071,11 +2071,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -2084,7 +2084,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -2130,7 +2130,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -2144,11 +2144,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -2157,7 +2157,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -2203,7 +2203,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -2217,11 +2217,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -2230,7 +2230,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -2349,7 +2349,7 @@ You may download [Filmora](https://tools.techidaily.com/wondershare/filmora/down
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows PC
+##### Step1 Install Filmora
 
 You must to download and install Wondershare Filmora on your computer before using it. This TV recorder on the fly may be used for your requirements. You can find every version of the Filmora software, including Windows and Mac versions, as well as the most current version.
 
@@ -2455,7 +2455,7 @@ You may download [Filmora](https://tools.techidaily.com/wondershare/filmora/down
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows PC
+##### Step1 Install Filmora
 
 You must to download and install Wondershare Filmora on your computer before using it. This TV recorder on the fly may be used for your requirements. You can find every version of the Filmora software, including Windows and Mac versions, as well as the most current version.
 

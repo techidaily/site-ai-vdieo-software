@@ -1,7 +1,7 @@
 ---
 title: Motion Blur Magic A Step-by-Step Guide for FCP Users
-date: 2024-05-19T07:45:08.734Z
-updated: 2024-05-20T07:45:08.734Z
+date: 2024-07-01T16:57:33.896Z
+updated: 2024-07-02T16:57:33.896Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Motion Blur Magic A Step-by-Step Guide for FCP Users
 excerpt: This Article Describes Motion Blur Magic A Step-by-Step Guide for FCP Users
 keywords: movie magic for kids a step by step guide,motion blur magic a step by step guide for fcp users,mastering compressor a step by step guide for fcpx users,kinemaster for mac a step by step installation guide,motion blur made easy a step by step guide for final cut pro users,mastering motion blur a step by step fcp tutorial,stop motion 101 a step by step guide for newbies
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Motion Blur Magic: A Step-by-Step Guide for FCP Users

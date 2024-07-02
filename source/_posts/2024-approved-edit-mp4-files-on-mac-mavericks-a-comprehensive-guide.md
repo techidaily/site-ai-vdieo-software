@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Edit MP4 Files on Mac Mavericks A Comprehensive Guide
-date: 2024-04-25T07:34:52.433Z
-updated: 2024-04-26T07:34:52.433Z
+date: 2024-07-01T16:57:00.204Z
+updated: 2024-07-02T16:57:00.204Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Edit MP4 Files on Mac Mavericks A Comprehensive Guide
 excerpt: This Article Describes 2024 Approved Edit MP4 Files on Mac Mavericks A Comprehensive Guide
 keywords: edit mp4 on mac mavericks a comprehensive video editing guide,best mac mp3 conversion tools a comprehensive guide,mastering video editing in os x mavericks a comprehensive guide,edit mp4 files on mac mavericks a comprehensive guide,mavericks mp4 video editor a comprehensive guide,vn video editor on mac a comprehensive guide and alternatives,movie magic on android a comprehensive app guide
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## Edit MP4 Files on Mac Mavericks: A Comprehensive Guide
@@ -226,7 +226,7 @@ Here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmo
 
 ## 7 best software to animate your drawing
 
-#### 1. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 1. Adobe Animate
 
 Adobe Animate is [one of the leading 2D animation software](https://tools.techidaily.com/wondershare/filmora/download/) in this animation industry that many designers use. For better results, it is suggested that you combine it with Capture so that you can capture various interesting color schemes or transforming the image into vector and other things before starting animation with Adobe Animate. This will create an effective hand drawn animation.
 
@@ -241,7 +241,7 @@ Adobe Animate is [one of the leading 2D animation software](https://tools.techid
 
 ![Adobe Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 2. [SketchBook Motion](https://itunes.apple.com/us/app/sketchbook-motion/id1061224933?mt=8)
+#### 2. SketchBook Motion
 
 SketchBook Motion is for iPad users to make their animations.With the help of this app, you can drag and drop into a document easily. You can instantly share your animation drawings as iMessage stickers, animated GIFs or MP4s.
 
@@ -258,7 +258,7 @@ SketchBook Motion is for iPad users to make their animations.With the help of th
 
 ![SketchBook](https://images.wondershare.com/filmora/article-images/SketchBook-Motion.JPG)
 
-#### 3. [Animation & Drawing by Do Ink](https://itunes.apple.com/us/app/animation-drawing-by-do-ink/id364762290?mt=8)
+#### 3. Animation & Drawing by Do Ink
 
 It is an easy to use and one of the best hand drawn animation apps for iPad users. This app has a large number of features and drawing editing options. For example, you can make frame-by-frame or single frame animations, create motion paths just by dragging fingers, and enjoy custom color palette and more.
 
@@ -273,7 +273,7 @@ It is an easy to use and one of the best hand drawn animation apps for iPad user
 
 ![Animation Drawing by Do Ink](https://images.wondershare.com/filmora/article-images/Animation-Drawing-by-Do-Ink.JPG)
 
-#### 4. [Animation Paper](https://animationpaper.com/)
+#### 4. Animation Paper
 
 Here is the next animation drawing software named as Animation Paper. It is simple to use and offers a lot of features. It can be considered as one of the most effective software to create animations. From layers to cutouts to paint features, it has all that pro software and a pro designer needs.
 
@@ -288,7 +288,7 @@ Here is the next animation drawing software named as Animation Paper. It is simp
 
 ![Animation Paper](https://images.wondershare.com/filmora/article-images/Animation-Paper.JPG)
 
-#### 5. [Pencil2D](https://www.pencil2d.org/)
+#### 5. Pencil2D
 
 Pencil2D is next in the list and is one of the lightweight software. It is an open source software and completely free to use. You can simply and smoothly sketch, ink or paint by switching between raster and vector workflows. The animated file can be exported to MP4, animated GIF or AVI when using this software. There are many drawing tools given by this animation drawing software like fast hand tool, dotted cursor etc.
 
@@ -304,7 +304,7 @@ Pencil2D is next in the list and is one of the lightweight software. It is an op
 
 ![pencil 2d](https://images.wondershare.com/filmora/article-images/Pencil-2D.JPG)
 
-#### 6. [Toonator](http://toonator.com/)
+#### 6. Toonator
 
 Toonator is an online tool that can help you making your own animations. It lets you draw your own imagination on the screen and turn it into animated effect. It’s an easy to use online platform to help you draw animation online. Here are the positives and negative of this tool.
 
@@ -321,7 +321,7 @@ Toonator is an online tool that can help you making your own animations. It lets
 
 ![Toonator](https://images.wondershare.com/filmora/article-images/Toonator.JPG)
 
-#### 7. [FlipAnim](http://flipanim.com/)
+#### 7. FlipAnim
 
 Here is the last option you can try for animation drawing. This also lets you draw animation online in an easy way. You get different color options to draw as well as set animation speed. It is fun to use FlipAnim and you can share your work on this tool as well similar to the above one.
 
@@ -369,7 +369,7 @@ Here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmo
 
 ## 7 best software to animate your drawing
 
-#### 1. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 1. Adobe Animate
 
 Adobe Animate is [one of the leading 2D animation software](https://tools.techidaily.com/wondershare/filmora/download/) in this animation industry that many designers use. For better results, it is suggested that you combine it with Capture so that you can capture various interesting color schemes or transforming the image into vector and other things before starting animation with Adobe Animate. This will create an effective hand drawn animation.
 
@@ -384,7 +384,7 @@ Adobe Animate is [one of the leading 2D animation software](https://tools.techid
 
 ![Adobe Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 2. [SketchBook Motion](https://itunes.apple.com/us/app/sketchbook-motion/id1061224933?mt=8)
+#### 2. SketchBook Motion
 
 SketchBook Motion is for iPad users to make their animations.With the help of this app, you can drag and drop into a document easily. You can instantly share your animation drawings as iMessage stickers, animated GIFs or MP4s.
 
@@ -401,7 +401,7 @@ SketchBook Motion is for iPad users to make their animations.With the help of th
 
 ![SketchBook](https://images.wondershare.com/filmora/article-images/SketchBook-Motion.JPG)
 
-#### 3. [Animation & Drawing by Do Ink](https://itunes.apple.com/us/app/animation-drawing-by-do-ink/id364762290?mt=8)
+#### 3. Animation & Drawing by Do Ink
 
 It is an easy to use and one of the best hand drawn animation apps for iPad users. This app has a large number of features and drawing editing options. For example, you can make frame-by-frame or single frame animations, create motion paths just by dragging fingers, and enjoy custom color palette and more.
 
@@ -416,7 +416,7 @@ It is an easy to use and one of the best hand drawn animation apps for iPad user
 
 ![Animation Drawing by Do Ink](https://images.wondershare.com/filmora/article-images/Animation-Drawing-by-Do-Ink.JPG)
 
-#### 4. [Animation Paper](https://animationpaper.com/)
+#### 4. Animation Paper
 
 Here is the next animation drawing software named as Animation Paper. It is simple to use and offers a lot of features. It can be considered as one of the most effective software to create animations. From layers to cutouts to paint features, it has all that pro software and a pro designer needs.
 
@@ -431,7 +431,7 @@ Here is the next animation drawing software named as Animation Paper. It is simp
 
 ![Animation Paper](https://images.wondershare.com/filmora/article-images/Animation-Paper.JPG)
 
-#### 5. [Pencil2D](https://www.pencil2d.org/)
+#### 5. Pencil2D
 
 Pencil2D is next in the list and is one of the lightweight software. It is an open source software and completely free to use. You can simply and smoothly sketch, ink or paint by switching between raster and vector workflows. The animated file can be exported to MP4, animated GIF or AVI when using this software. There are many drawing tools given by this animation drawing software like fast hand tool, dotted cursor etc.
 
@@ -447,7 +447,7 @@ Pencil2D is next in the list and is one of the lightweight software. It is an op
 
 ![pencil 2d](https://images.wondershare.com/filmora/article-images/Pencil-2D.JPG)
 
-#### 6. [Toonator](http://toonator.com/)
+#### 6. Toonator
 
 Toonator is an online tool that can help you making your own animations. It lets you draw your own imagination on the screen and turn it into animated effect. It’s an easy to use online platform to help you draw animation online. Here are the positives and negative of this tool.
 
@@ -464,7 +464,7 @@ Toonator is an online tool that can help you making your own animations. It lets
 
 ![Toonator](https://images.wondershare.com/filmora/article-images/Toonator.JPG)
 
-#### 7. [FlipAnim](http://flipanim.com/)
+#### 7. FlipAnim
 
 Here is the last option you can try for animation drawing. This also lets you draw animation online in an easy way. You get different color options to draw as well as set animation speed. It is fun to use FlipAnim and you can share your work on this tool as well similar to the above one.
 
@@ -512,7 +512,7 @@ Here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmo
 
 ## 7 best software to animate your drawing
 
-#### 1. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 1. Adobe Animate
 
 Adobe Animate is [one of the leading 2D animation software](https://tools.techidaily.com/wondershare/filmora/download/) in this animation industry that many designers use. For better results, it is suggested that you combine it with Capture so that you can capture various interesting color schemes or transforming the image into vector and other things before starting animation with Adobe Animate. This will create an effective hand drawn animation.
 
@@ -527,7 +527,7 @@ Adobe Animate is [one of the leading 2D animation software](https://tools.techid
 
 ![Adobe Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 2. [SketchBook Motion](https://itunes.apple.com/us/app/sketchbook-motion/id1061224933?mt=8)
+#### 2. SketchBook Motion
 
 SketchBook Motion is for iPad users to make their animations.With the help of this app, you can drag and drop into a document easily. You can instantly share your animation drawings as iMessage stickers, animated GIFs or MP4s.
 
@@ -544,7 +544,7 @@ SketchBook Motion is for iPad users to make their animations.With the help of th
 
 ![SketchBook](https://images.wondershare.com/filmora/article-images/SketchBook-Motion.JPG)
 
-#### 3. [Animation & Drawing by Do Ink](https://itunes.apple.com/us/app/animation-drawing-by-do-ink/id364762290?mt=8)
+#### 3. Animation & Drawing by Do Ink
 
 It is an easy to use and one of the best hand drawn animation apps for iPad users. This app has a large number of features and drawing editing options. For example, you can make frame-by-frame or single frame animations, create motion paths just by dragging fingers, and enjoy custom color palette and more.
 
@@ -559,7 +559,7 @@ It is an easy to use and one of the best hand drawn animation apps for iPad user
 
 ![Animation Drawing by Do Ink](https://images.wondershare.com/filmora/article-images/Animation-Drawing-by-Do-Ink.JPG)
 
-#### 4. [Animation Paper](https://animationpaper.com/)
+#### 4. Animation Paper
 
 Here is the next animation drawing software named as Animation Paper. It is simple to use and offers a lot of features. It can be considered as one of the most effective software to create animations. From layers to cutouts to paint features, it has all that pro software and a pro designer needs.
 
@@ -574,7 +574,7 @@ Here is the next animation drawing software named as Animation Paper. It is simp
 
 ![Animation Paper](https://images.wondershare.com/filmora/article-images/Animation-Paper.JPG)
 
-#### 5. [Pencil2D](https://www.pencil2d.org/)
+#### 5. Pencil2D
 
 Pencil2D is next in the list and is one of the lightweight software. It is an open source software and completely free to use. You can simply and smoothly sketch, ink or paint by switching between raster and vector workflows. The animated file can be exported to MP4, animated GIF or AVI when using this software. There are many drawing tools given by this animation drawing software like fast hand tool, dotted cursor etc.
 
@@ -590,7 +590,7 @@ Pencil2D is next in the list and is one of the lightweight software. It is an op
 
 ![pencil 2d](https://images.wondershare.com/filmora/article-images/Pencil-2D.JPG)
 
-#### 6. [Toonator](http://toonator.com/)
+#### 6. Toonator
 
 Toonator is an online tool that can help you making your own animations. It lets you draw your own imagination on the screen and turn it into animated effect. It’s an easy to use online platform to help you draw animation online. Here are the positives and negative of this tool.
 
@@ -607,7 +607,7 @@ Toonator is an online tool that can help you making your own animations. It lets
 
 ![Toonator](https://images.wondershare.com/filmora/article-images/Toonator.JPG)
 
-#### 7. [FlipAnim](http://flipanim.com/)
+#### 7. FlipAnim
 
 Here is the last option you can try for animation drawing. This also lets you draw animation online in an easy way. You get different color options to draw as well as set animation speed. It is fun to use FlipAnim and you can share your work on this tool as well similar to the above one.
 
@@ -655,7 +655,7 @@ Here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmo
 
 ## 7 best software to animate your drawing
 
-#### 1. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 1. Adobe Animate
 
 Adobe Animate is [one of the leading 2D animation software](https://tools.techidaily.com/wondershare/filmora/download/) in this animation industry that many designers use. For better results, it is suggested that you combine it with Capture so that you can capture various interesting color schemes or transforming the image into vector and other things before starting animation with Adobe Animate. This will create an effective hand drawn animation.
 
@@ -670,7 +670,7 @@ Adobe Animate is [one of the leading 2D animation software](https://tools.techid
 
 ![Adobe Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 2. [SketchBook Motion](https://itunes.apple.com/us/app/sketchbook-motion/id1061224933?mt=8)
+#### 2. SketchBook Motion
 
 SketchBook Motion is for iPad users to make their animations.With the help of this app, you can drag and drop into a document easily. You can instantly share your animation drawings as iMessage stickers, animated GIFs or MP4s.
 
@@ -687,7 +687,7 @@ SketchBook Motion is for iPad users to make their animations.With the help of th
 
 ![SketchBook](https://images.wondershare.com/filmora/article-images/SketchBook-Motion.JPG)
 
-#### 3. [Animation & Drawing by Do Ink](https://itunes.apple.com/us/app/animation-drawing-by-do-ink/id364762290?mt=8)
+#### 3. Animation & Drawing by Do Ink
 
 It is an easy to use and one of the best hand drawn animation apps for iPad users. This app has a large number of features and drawing editing options. For example, you can make frame-by-frame or single frame animations, create motion paths just by dragging fingers, and enjoy custom color palette and more.
 
@@ -702,7 +702,7 @@ It is an easy to use and one of the best hand drawn animation apps for iPad user
 
 ![Animation Drawing by Do Ink](https://images.wondershare.com/filmora/article-images/Animation-Drawing-by-Do-Ink.JPG)
 
-#### 4. [Animation Paper](https://animationpaper.com/)
+#### 4. Animation Paper
 
 Here is the next animation drawing software named as Animation Paper. It is simple to use and offers a lot of features. It can be considered as one of the most effective software to create animations. From layers to cutouts to paint features, it has all that pro software and a pro designer needs.
 
@@ -717,7 +717,7 @@ Here is the next animation drawing software named as Animation Paper. It is simp
 
 ![Animation Paper](https://images.wondershare.com/filmora/article-images/Animation-Paper.JPG)
 
-#### 5. [Pencil2D](https://www.pencil2d.org/)
+#### 5. Pencil2D
 
 Pencil2D is next in the list and is one of the lightweight software. It is an open source software and completely free to use. You can simply and smoothly sketch, ink or paint by switching between raster and vector workflows. The animated file can be exported to MP4, animated GIF or AVI when using this software. There are many drawing tools given by this animation drawing software like fast hand tool, dotted cursor etc.
 
@@ -733,7 +733,7 @@ Pencil2D is next in the list and is one of the lightweight software. It is an op
 
 ![pencil 2d](https://images.wondershare.com/filmora/article-images/Pencil-2D.JPG)
 
-#### 6. [Toonator](http://toonator.com/)
+#### 6. Toonator
 
 Toonator is an online tool that can help you making your own animations. It lets you draw your own imagination on the screen and turn it into animated effect. It’s an easy to use online platform to help you draw animation online. Here are the positives and negative of this tool.
 
@@ -750,7 +750,7 @@ Toonator is an online tool that can help you making your own animations. It lets
 
 ![Toonator](https://images.wondershare.com/filmora/article-images/Toonator.JPG)
 
-#### 7. [FlipAnim](http://flipanim.com/)
+#### 7. FlipAnim
 
 Here is the last option you can try for animation drawing. This also lets you draw animation online in an easy way. You get different color options to draw as well as set animation speed. It is fun to use FlipAnim and you can share your work on this tool as well similar to the above one.
 
@@ -1453,7 +1453,7 @@ Do motion blur effect easily with Filmora!
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -1470,7 +1470,7 @@ Do motion blur effect easily with Filmora!
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -1501,7 +1501,7 @@ Do motion blur effect easily with Filmora!
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -1515,7 +1515,7 @@ Do motion blur effect easily with Filmora!
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -1556,7 +1556,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -1573,7 +1573,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -1604,7 +1604,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -1618,7 +1618,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -1659,7 +1659,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -1676,7 +1676,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -1707,7 +1707,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -1721,7 +1721,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -1762,7 +1762,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -1779,7 +1779,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -1810,7 +1810,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -1824,7 +1824,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 

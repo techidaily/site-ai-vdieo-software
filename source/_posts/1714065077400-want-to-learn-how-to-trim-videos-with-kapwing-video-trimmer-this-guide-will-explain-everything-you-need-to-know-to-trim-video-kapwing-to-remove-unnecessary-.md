@@ -1,7 +1,7 @@
 ---
 title: Want to Learn How to Trim Videos with Kapwing Video Trimmer? This Guide Will Explain Everything You Need to Know to Trim Video Kapwing to Remove Unnecessary Content for 2024
-date: 2024-05-19T07:45:27.516Z
-updated: 2024-05-20T07:45:27.516Z
+date: 2024-07-01T16:56:45.000Z
+updated: 2024-07-02T16:56:45.000Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Want to Learn How to Trim Videos with Kapwing Video Trimmer? This Guide Will Explain Everything You Need to Know to Trim Video Kapwing to Remove Unnecessary Content for 2024
 excerpt: This Article Describes Want to Learn How to Trim Videos with Kapwing Video Trimmer? This Guide Will Explain Everything You Need to Know to Trim Video Kapwing to Remove Unnecessary Content for 2024
 keywords: in this article youll get to know the best free online video editors without a watermark to create and edit videos that attract thousands of views,if you are looking for a free video trimmer to trim video for free without watermark check this article you can definitely find the one for your need,read this guide to learn how to split large videos in windows live movie maker for sharing on youtube some other video editing tips are also provided,how to blur the video background or some parts of the video you can know how to blur videos with some free online tools in this article,need to find the best video editing apps to edit video on your ipad we can help from here this guide lists the best video editors for ipad,the following are the top 10 media players with the slow motion feature to give an astonishing experience to you while you are viewing your most loved video,trimming videos will almost always result in quality loss here are the three best video cutters you can use to edit videos without losing quality
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Want to Learn How to Trim Videos with Kapwing Video Trimmer? This Guide Will Explain Everything You Need to Know to Trim Video Kapwing to Remove Unnecessary Content
@@ -648,7 +648,7 @@ It is not always feasible to re-enact a video, and in those cases, we must make 
 
 Here are the best video stabilizer apps for iPhone and Android for you to choose from.
 
-### 1\. [Emulsio](https://apps.apple.com/us/app/video-stabilizer-emulsio-3/id397583851)
+### 1\. Emulsio
 
 ![video stabilizer emulsio app](https://images.wondershare.com/filmora/article-images/video-stabilizer-emulsio-app.jpg)
 
@@ -662,7 +662,7 @@ Using Emulsio to stabilize video on iPhone is easy, all you need to do is import
 
 Emulsio also provides some additional settings, such as stabilization profile, rolling shutter, avoid black borders, and discontinuity handling to improve the stabilization result.
 
-### 2\. [Shaky Video Stabilizer](https://play.google.com/store/apps/details?id=kallossoft.videostabilizer&hl=en%5FUS&gl=US)
+### 2\. Shaky Video Stabilizer
 
 ![kallossoft shaky video stabilization app android](https://images.wondershare.com/filmora/article-images/kallossoft-shaky-video-stabilization-app-android.jpg)
 
@@ -670,7 +670,7 @@ The second one on our list is the Shaky Video Stabilizer app for Android phones,
 
 It’s easy to use Shaky Video Stabilizer app to remove the shakiness. Choose a video from your library. Begin the process of stabilization, and use the **Background** or wait. After the video is stabilized, save the result. And now you can examine the video's **Before** and **After** result.
 
-### 3\. [VideoStabilizer for KineMaster](https://www.kinemaster.com/)
+### 3\. VideoStabilizer for KineMaster
 
 ![videostabilizer for kinemaster iphone android](https://images.wondershare.com/filmora/article-images/videostabilizer-for-kinemaster-iphone-android.jpg)
 
@@ -702,7 +702,7 @@ Stabilizing videos with PowerDirector on Android phone is not complex. Follow th
 
 **Step 4**: Simply click the **Stabilizer** button to discover an option to stabilize the video.
 
-### 5\. [Deshake](https://windowsden.uk/1104260355/deshake-video-stabilization)
+### 5\. Deshake
 
 ![deshake video stabilization](https://images.wondershare.com/filmora/article-images/deshake-video-stabilization.jpg)
 
@@ -710,7 +710,7 @@ Deshake offers desktop-quality video stabilization to your iPhone, iPad, and iPo
 
 Choose a film from your picture gallery and tweak the parameters while seeing the results in real-time on your phone! It's super-fast due to a next-generation stabilization technology that surpasses most pro programs and has been thoroughly tested on genuine home movies like yours.
 
-### 6\. [LumaFusion](https://luma-touch.com/lumafusion-for-ios-2/)
+### 6\. LumaFusion
 
 ![lumafusion pro video editing app ios ipad](https://images.wondershare.com/filmora/article-images/lumafusion-pro-video-editing-app-ios-ipad.jpg)
 
@@ -772,7 +772,7 @@ It is not always feasible to re-enact a video, and in those cases, we must make 
 
 Here are the best video stabilizer apps for iPhone and Android for you to choose from.
 
-### 1\. [Emulsio](https://apps.apple.com/us/app/video-stabilizer-emulsio-3/id397583851)
+### 1\. Emulsio
 
 ![video stabilizer emulsio app](https://images.wondershare.com/filmora/article-images/video-stabilizer-emulsio-app.jpg)
 
@@ -786,7 +786,7 @@ Using Emulsio to stabilize video on iPhone is easy, all you need to do is import
 
 Emulsio also provides some additional settings, such as stabilization profile, rolling shutter, avoid black borders, and discontinuity handling to improve the stabilization result.
 
-### 2\. [Shaky Video Stabilizer](https://play.google.com/store/apps/details?id=kallossoft.videostabilizer&hl=en%5FUS&gl=US)
+### 2\. Shaky Video Stabilizer
 
 ![kallossoft shaky video stabilization app android](https://images.wondershare.com/filmora/article-images/kallossoft-shaky-video-stabilization-app-android.jpg)
 
@@ -794,7 +794,7 @@ The second one on our list is the Shaky Video Stabilizer app for Android phones,
 
 It’s easy to use Shaky Video Stabilizer app to remove the shakiness. Choose a video from your library. Begin the process of stabilization, and use the **Background** or wait. After the video is stabilized, save the result. And now you can examine the video's **Before** and **After** result.
 
-### 3\. [VideoStabilizer for KineMaster](https://www.kinemaster.com/)
+### 3\. VideoStabilizer for KineMaster
 
 ![videostabilizer for kinemaster iphone android](https://images.wondershare.com/filmora/article-images/videostabilizer-for-kinemaster-iphone-android.jpg)
 
@@ -826,7 +826,7 @@ Stabilizing videos with PowerDirector on Android phone is not complex. Follow th
 
 **Step 4**: Simply click the **Stabilizer** button to discover an option to stabilize the video.
 
-### 5\. [Deshake](https://windowsden.uk/1104260355/deshake-video-stabilization)
+### 5\. Deshake
 
 ![deshake video stabilization](https://images.wondershare.com/filmora/article-images/deshake-video-stabilization.jpg)
 
@@ -834,7 +834,7 @@ Deshake offers desktop-quality video stabilization to your iPhone, iPad, and iPo
 
 Choose a film from your picture gallery and tweak the parameters while seeing the results in real-time on your phone! It's super-fast due to a next-generation stabilization technology that surpasses most pro programs and has been thoroughly tested on genuine home movies like yours.
 
-### 6\. [LumaFusion](https://luma-touch.com/lumafusion-for-ios-2/)
+### 6\. LumaFusion
 
 ![lumafusion pro video editing app ios ipad](https://images.wondershare.com/filmora/article-images/lumafusion-pro-video-editing-app-ios-ipad.jpg)
 
@@ -896,7 +896,7 @@ It is not always feasible to re-enact a video, and in those cases, we must make 
 
 Here are the best video stabilizer apps for iPhone and Android for you to choose from.
 
-### 1\. [Emulsio](https://apps.apple.com/us/app/video-stabilizer-emulsio-3/id397583851)
+### 1\. Emulsio
 
 ![video stabilizer emulsio app](https://images.wondershare.com/filmora/article-images/video-stabilizer-emulsio-app.jpg)
 
@@ -910,7 +910,7 @@ Using Emulsio to stabilize video on iPhone is easy, all you need to do is import
 
 Emulsio also provides some additional settings, such as stabilization profile, rolling shutter, avoid black borders, and discontinuity handling to improve the stabilization result.
 
-### 2\. [Shaky Video Stabilizer](https://play.google.com/store/apps/details?id=kallossoft.videostabilizer&hl=en%5FUS&gl=US)
+### 2\. Shaky Video Stabilizer
 
 ![kallossoft shaky video stabilization app android](https://images.wondershare.com/filmora/article-images/kallossoft-shaky-video-stabilization-app-android.jpg)
 
@@ -918,7 +918,7 @@ The second one on our list is the Shaky Video Stabilizer app for Android phones,
 
 It’s easy to use Shaky Video Stabilizer app to remove the shakiness. Choose a video from your library. Begin the process of stabilization, and use the **Background** or wait. After the video is stabilized, save the result. And now you can examine the video's **Before** and **After** result.
 
-### 3\. [VideoStabilizer for KineMaster](https://www.kinemaster.com/)
+### 3\. VideoStabilizer for KineMaster
 
 ![videostabilizer for kinemaster iphone android](https://images.wondershare.com/filmora/article-images/videostabilizer-for-kinemaster-iphone-android.jpg)
 
@@ -950,7 +950,7 @@ Stabilizing videos with PowerDirector on Android phone is not complex. Follow th
 
 **Step 4**: Simply click the **Stabilizer** button to discover an option to stabilize the video.
 
-### 5\. [Deshake](https://windowsden.uk/1104260355/deshake-video-stabilization)
+### 5\. Deshake
 
 ![deshake video stabilization](https://images.wondershare.com/filmora/article-images/deshake-video-stabilization.jpg)
 
@@ -958,7 +958,7 @@ Deshake offers desktop-quality video stabilization to your iPhone, iPad, and iPo
 
 Choose a film from your picture gallery and tweak the parameters while seeing the results in real-time on your phone! It's super-fast due to a next-generation stabilization technology that surpasses most pro programs and has been thoroughly tested on genuine home movies like yours.
 
-### 6\. [LumaFusion](https://luma-touch.com/lumafusion-for-ios-2/)
+### 6\. LumaFusion
 
 ![lumafusion pro video editing app ios ipad](https://images.wondershare.com/filmora/article-images/lumafusion-pro-video-editing-app-ios-ipad.jpg)
 
@@ -1020,7 +1020,7 @@ It is not always feasible to re-enact a video, and in those cases, we must make 
 
 Here are the best video stabilizer apps for iPhone and Android for you to choose from.
 
-### 1\. [Emulsio](https://apps.apple.com/us/app/video-stabilizer-emulsio-3/id397583851)
+### 1\. Emulsio
 
 ![video stabilizer emulsio app](https://images.wondershare.com/filmora/article-images/video-stabilizer-emulsio-app.jpg)
 
@@ -1034,7 +1034,7 @@ Using Emulsio to stabilize video on iPhone is easy, all you need to do is import
 
 Emulsio also provides some additional settings, such as stabilization profile, rolling shutter, avoid black borders, and discontinuity handling to improve the stabilization result.
 
-### 2\. [Shaky Video Stabilizer](https://play.google.com/store/apps/details?id=kallossoft.videostabilizer&hl=en%5FUS&gl=US)
+### 2\. Shaky Video Stabilizer
 
 ![kallossoft shaky video stabilization app android](https://images.wondershare.com/filmora/article-images/kallossoft-shaky-video-stabilization-app-android.jpg)
 
@@ -1042,7 +1042,7 @@ The second one on our list is the Shaky Video Stabilizer app for Android phones,
 
 It’s easy to use Shaky Video Stabilizer app to remove the shakiness. Choose a video from your library. Begin the process of stabilization, and use the **Background** or wait. After the video is stabilized, save the result. And now you can examine the video's **Before** and **After** result.
 
-### 3\. [VideoStabilizer for KineMaster](https://www.kinemaster.com/)
+### 3\. VideoStabilizer for KineMaster
 
 ![videostabilizer for kinemaster iphone android](https://images.wondershare.com/filmora/article-images/videostabilizer-for-kinemaster-iphone-android.jpg)
 
@@ -1074,7 +1074,7 @@ Stabilizing videos with PowerDirector on Android phone is not complex. Follow th
 
 **Step 4**: Simply click the **Stabilizer** button to discover an option to stabilize the video.
 
-### 5\. [Deshake](https://windowsden.uk/1104260355/deshake-video-stabilization)
+### 5\. Deshake
 
 ![deshake video stabilization](https://images.wondershare.com/filmora/article-images/deshake-video-stabilization.jpg)
 
@@ -1082,7 +1082,7 @@ Deshake offers desktop-quality video stabilization to your iPhone, iPad, and iPo
 
 Choose a film from your picture gallery and tweak the parameters while seeing the results in real-time on your phone! It's super-fast due to a next-generation stabilization technology that surpasses most pro programs and has been thoroughly tested on genuine home movies like yours.
 
-### 6\. [LumaFusion](https://luma-touch.com/lumafusion-for-ios-2/)
+### 6\. LumaFusion
 
 ![lumafusion pro video editing app ios ipad](https://images.wondershare.com/filmora/article-images/lumafusion-pro-video-editing-app-ios-ipad.jpg)
 
@@ -1146,13 +1146,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1166,7 +1166,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1178,7 +1178,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1188,13 +1188,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1206,7 +1206,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1277,13 +1277,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1297,7 +1297,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1309,7 +1309,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1319,13 +1319,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1337,7 +1337,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1408,13 +1408,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1428,7 +1428,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1440,7 +1440,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1450,13 +1450,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1468,7 +1468,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1539,13 +1539,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1559,7 +1559,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1571,7 +1571,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1581,13 +1581,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1599,7 +1599,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
