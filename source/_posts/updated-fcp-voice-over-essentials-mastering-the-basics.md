@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Voice Over Essentials Mastering the Basics
-date: 2024-04-25T07:34:55.870Z
-updated: 2024-04-26T07:34:55.870Z
+date: 2024-07-09T13:32:32.005Z
+updated: 2024-07-10T13:32:32.005Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated FCP Voice Over Essentials Mastering the Basics
 excerpt: This Article Describes Updated FCP Voice Over Essentials Mastering the Basics
 keywords: voice over made easy fcp recording tips and tricks,fcpx essentials mastering time manipulation,fcp voice over essentials a beginners guide to success,voice over mastery essential fcp recording hacks,os x mavericks video editing tutorial mastering the basics,voice over like a pro essential fcp recording tips,fcp voice over essentials mastering the basics
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## FCP Voice Over Essentials: Mastering the Basics
@@ -46,7 +46,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -58,11 +58,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -70,11 +70,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -101,7 +101,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -149,7 +149,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -161,11 +161,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -173,11 +173,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -204,7 +204,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -252,7 +252,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -264,11 +264,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -276,11 +276,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -307,7 +307,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -355,7 +355,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -367,11 +367,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -379,11 +379,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -410,7 +410,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -446,7 +446,8 @@ Follow @Benjamin Arango
 
 ## Voice Recognition to Written Language: A Guide
 
-### ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png) Latest [Speech-to-Text](https://tools.techidaily.com/wondershare/filmora/download/) Feature For 2024 with Filmora
+### icon note
+![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 1\. Supports direct transcription of bilingual subtitles up to 27 languages.
 
@@ -572,7 +573,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -702,7 +703,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -832,7 +833,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -962,7 +963,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 **●** Note, however, that many of the better **speech-to-text** software is PAID or FREEmium products — as the technology required to produce accurate **audio-to-text** transcriptions is usually quite complex
 
-[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg)KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
+[![kwicut](https://neveragain.allstatics.com/2019/assets/icon/logo/kwicut-square.svg) KwiCut](https://kwicut.media.io/?utm%5Fsource=other%5Fmedia%5Fsites&utm%5Fmedium=referral&utm%5Fcampaign=from-fx-article&utm%5Fcontent=link%5F21111411%5F2023-11-03)
 
 Transform Long Videos into Short Ones Instantly
 
@@ -1122,7 +1123,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1318,7 +1319,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1514,7 +1515,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1710,7 +1711,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1822,9 +1823,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1930,9 +1931,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -2038,9 +2039,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -2146,9 +2147,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 

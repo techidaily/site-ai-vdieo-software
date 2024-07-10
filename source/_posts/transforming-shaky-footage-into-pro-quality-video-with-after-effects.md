@@ -1,7 +1,7 @@
 ---
 title: Transforming Shaky Footage Into Pro-Quality Video with After Effects
-date: 2024-05-19T07:45:17.913Z
-updated: 2024-05-20T07:45:17.913Z
+date: 2024-07-09T13:32:15.523Z
+updated: 2024-07-10T13:32:15.523Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Transforming Shaky Footage Into Pro-Quality Video with After Effects
 excerpt: This Article Describes Transforming Shaky Footage Into Pro-Quality Video with After Effects
 keywords: shake it off how to stabilize video in after effects with ease,transforming raw footage into masterpieces sony camcorder video editing,transform your gopro footage easy video editing for all,transform your photos into a breathtaking video with final cut pro,transforming shaky videos into cinematic masterpieces with fcpx,transforming shaky footage into pro quality video with after effects,video rescue 3 ways to fix shaky footage in after effects
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Transforming Shaky Footage Into Pro-Quality Video with After Effects
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -196,7 +196,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +206,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +216,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -304,7 +304,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +314,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +324,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -412,7 +412,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +422,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +432,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1694,7 +1694,7 @@ For steps of compositing a green screen video, check this video tutorial below:
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
-![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 #### 3 Export your videos
 
@@ -1770,7 +1770,7 @@ For steps of compositing a green screen video, check this video tutorial below:
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
-![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 #### 3 Export your videos
 
@@ -1846,7 +1846,7 @@ For steps of compositing a green screen video, check this video tutorial below:
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
-![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 #### 3 Export your videos
 
@@ -1922,7 +1922,7 @@ For steps of compositing a green screen video, check this video tutorial below:
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
-![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 #### 3 Export your videos
 

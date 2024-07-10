@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Final Cut Pro Essentials Crafting a Compelling Video Slideshow
-date: 2024-05-19T07:47:13.309Z
-updated: 2024-05-20T07:47:13.309Z
+date: 2024-07-09T13:32:37.449Z
+updated: 2024-07-10T13:32:37.449Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Final Cut Pro Essentials Crafting a Compelling Video Slideshow
 excerpt: This Article Describes 2024 Approved Final Cut Pro Essentials Crafting a Compelling Video Slideshow
 keywords: final cut pro for beginners creating a video slideshow from scratch,compressor essentials optimizing video files in final cut pro x,final cut pro essentials crafting a compelling video slideshow,final cut pro essentials creating engaging video slideshows from your favorite moments,final cut pro x 2024 essentials syncing audio and video for smooth edits,final cut pro essentials designing and editing a professional slideshow,from photos to film how to craft a compelling video slideshow in final cut pro
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Final Cut Pro Essentials: Crafting a Compelling Video Slideshow
@@ -1082,13 +1082,13 @@ Wondershare Filmora is one of the [most popular video editing software among You
 
 #### In this article
 
-01 [ Best 3D Video Makers You Should Know \[Free and Paid\] ](#part1)
+01 [Best 3D Video Makers You Should Know \[Free and Paid\]](#part1)
 
 02 [FAQs About 3D Movie Makers](#part2)
 
 ## Part 1: Best 3D Video Makers You Should Know \[Free and Paid\]
 
-### 1\. [Blender](https://www.blender.org/)
+### 1\. Blender
 
 Supported System: Windows, macOS, and Linux
 
@@ -1100,7 +1100,7 @@ Blender is a leading 3D video editor and is preferred by many. This is an open-s
 * The edited videos are always of high quality.
 * Keyframes, transitions, adjustment layers, and more.
 
-### 2\. [Xara 3D Maker](https://www.xara.com/uk/products/xara3d/)
+### 2\. Xara 3D Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1112,7 +1112,7 @@ Unlike the traditional 3D video editors, Xara 3D Maker makes things easy for you
 * You can choose a few objects to make it animated or the complete video.
 * You can move the 3D objects as per your requirements.
 
-### **3\.** [Aurora 3D Animation Maker](https://www.presentation-3d.com/)
+### **3\.** Aurora 3D Animation Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1124,7 +1124,7 @@ Aurora 3D Animation Maker is not a **free 3D video maker** and is fully equipped
 * The tool is equipped with multiple animation templates.
 * The 3D graphic mode allows you to change from 3D to 2D.
 
-### 4\. [Maxon](https://www.maxon.net/en/)
+### 4\. Maxon
 
 Supported Systems: Windows, macOS, and Linux
 
@@ -1136,7 +1136,7 @@ Maxon is a fantastic 3D video editor that allows users to quickly create a stunn
 * It is equipped with GPU-accelerated rendering permits.
 * The global illumination feature lets you create more realistic and accurate visuals.
 
-### 5\. [Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html)
+### 5\. Adobe Character Animator
 
 Supported Systems: Windows and macOS
 
@@ -1148,7 +1148,7 @@ If you want to create animated characters based on someone’s facial expression
 * You can add audio to your 3D animation videos.
 * You can start a project by using a predesigned character as well.
 
-### 6\. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+### 6\. Autodesk MotionBuilder
 
 Supported Systems: Windows and Linux
 
@@ -1160,7 +1160,7 @@ Autodesk MotionBuilder is an intelligent and professional 3D video editor and ma
 * The tools let you do motion capture editing.
 * For easy access to data transfer, the files get saved in FBX format.
 
-### 7\. [Jahshaka](https://www.jahshaka.com/) Studio
+### 7\. Jahshaka
 
 ![create 3d video jahshaka studio](https://images.wondershare.com/filmora/article-images/create-3d-video-jahshaka-studio.jpg)
 
@@ -1174,7 +1174,7 @@ Jahshaka comes with multiple royalty-free assets and scenes. In addition, this o
 * You can use it to create different characters and avatars.
 * You will find multiple 3D content creation materials and effects.
 
-### 8\. [Tipard video converter](https://www.tipard.com/video-converter-ultimate/)
+### 8\. Tipard video converter
 
 Supported Systems: macOS and Windows
 
@@ -1186,7 +1186,7 @@ Whether you have 3D animation editing knowledge or not, Tipard video converter w
 * The software comes along with robust editing features.
 * You can convert the animated video to different video formats.
 
-### 9\. [Vidmore Video Converter](https://www.vidmore.com/video-converter/)
+### 9\. Vidmore Video Converter
 
 Supported Systems: macOS and Windows
 
@@ -1227,13 +1227,13 @@ It depends on your requirements. Both paid and freeware video editing tools will
 
 #### In this article
 
-01 [ Best 3D Video Makers You Should Know \[Free and Paid\] ](#part1)
+01 [Best 3D Video Makers You Should Know \[Free and Paid\]](#part1)
 
 02 [FAQs About 3D Movie Makers](#part2)
 
 ## Part 1: Best 3D Video Makers You Should Know \[Free and Paid\]
 
-### 1\. [Blender](https://www.blender.org/)
+### 1\. Blender
 
 Supported System: Windows, macOS, and Linux
 
@@ -1245,7 +1245,7 @@ Blender is a leading 3D video editor and is preferred by many. This is an open-s
 * The edited videos are always of high quality.
 * Keyframes, transitions, adjustment layers, and more.
 
-### 2\. [Xara 3D Maker](https://www.xara.com/uk/products/xara3d/)
+### 2\. Xara 3D Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1257,7 +1257,7 @@ Unlike the traditional 3D video editors, Xara 3D Maker makes things easy for you
 * You can choose a few objects to make it animated or the complete video.
 * You can move the 3D objects as per your requirements.
 
-### **3\.** [Aurora 3D Animation Maker](https://www.presentation-3d.com/)
+### **3\.** Aurora 3D Animation Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1269,7 +1269,7 @@ Aurora 3D Animation Maker is not a **free 3D video maker** and is fully equipped
 * The tool is equipped with multiple animation templates.
 * The 3D graphic mode allows you to change from 3D to 2D.
 
-### 4\. [Maxon](https://www.maxon.net/en/)
+### 4\. Maxon
 
 Supported Systems: Windows, macOS, and Linux
 
@@ -1281,7 +1281,7 @@ Maxon is a fantastic 3D video editor that allows users to quickly create a stunn
 * It is equipped with GPU-accelerated rendering permits.
 * The global illumination feature lets you create more realistic and accurate visuals.
 
-### 5\. [Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html)
+### 5\. Adobe Character Animator
 
 Supported Systems: Windows and macOS
 
@@ -1293,7 +1293,7 @@ If you want to create animated characters based on someone’s facial expression
 * You can add audio to your 3D animation videos.
 * You can start a project by using a predesigned character as well.
 
-### 6\. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+### 6\. Autodesk MotionBuilder
 
 Supported Systems: Windows and Linux
 
@@ -1305,7 +1305,7 @@ Autodesk MotionBuilder is an intelligent and professional 3D video editor and ma
 * The tools let you do motion capture editing.
 * For easy access to data transfer, the files get saved in FBX format.
 
-### 7\. [Jahshaka](https://www.jahshaka.com/) Studio
+### 7\. Jahshaka
 
 ![create 3d video jahshaka studio](https://images.wondershare.com/filmora/article-images/create-3d-video-jahshaka-studio.jpg)
 
@@ -1319,7 +1319,7 @@ Jahshaka comes with multiple royalty-free assets and scenes. In addition, this o
 * You can use it to create different characters and avatars.
 * You will find multiple 3D content creation materials and effects.
 
-### 8\. [Tipard video converter](https://www.tipard.com/video-converter-ultimate/)
+### 8\. Tipard video converter
 
 Supported Systems: macOS and Windows
 
@@ -1331,7 +1331,7 @@ Whether you have 3D animation editing knowledge or not, Tipard video converter w
 * The software comes along with robust editing features.
 * You can convert the animated video to different video formats.
 
-### 9\. [Vidmore Video Converter](https://www.vidmore.com/video-converter/)
+### 9\. Vidmore Video Converter
 
 Supported Systems: macOS and Windows
 
@@ -1372,13 +1372,13 @@ It depends on your requirements. Both paid and freeware video editing tools will
 
 #### In this article
 
-01 [ Best 3D Video Makers You Should Know \[Free and Paid\] ](#part1)
+01 [Best 3D Video Makers You Should Know \[Free and Paid\]](#part1)
 
 02 [FAQs About 3D Movie Makers](#part2)
 
 ## Part 1: Best 3D Video Makers You Should Know \[Free and Paid\]
 
-### 1\. [Blender](https://www.blender.org/)
+### 1\. Blender
 
 Supported System: Windows, macOS, and Linux
 
@@ -1390,7 +1390,7 @@ Blender is a leading 3D video editor and is preferred by many. This is an open-s
 * The edited videos are always of high quality.
 * Keyframes, transitions, adjustment layers, and more.
 
-### 2\. [Xara 3D Maker](https://www.xara.com/uk/products/xara3d/)
+### 2\. Xara 3D Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1402,7 +1402,7 @@ Unlike the traditional 3D video editors, Xara 3D Maker makes things easy for you
 * You can choose a few objects to make it animated or the complete video.
 * You can move the 3D objects as per your requirements.
 
-### **3\.** [Aurora 3D Animation Maker](https://www.presentation-3d.com/)
+### **3\.** Aurora 3D Animation Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1414,7 +1414,7 @@ Aurora 3D Animation Maker is not a **free 3D video maker** and is fully equipped
 * The tool is equipped with multiple animation templates.
 * The 3D graphic mode allows you to change from 3D to 2D.
 
-### 4\. [Maxon](https://www.maxon.net/en/)
+### 4\. Maxon
 
 Supported Systems: Windows, macOS, and Linux
 
@@ -1426,7 +1426,7 @@ Maxon is a fantastic 3D video editor that allows users to quickly create a stunn
 * It is equipped with GPU-accelerated rendering permits.
 * The global illumination feature lets you create more realistic and accurate visuals.
 
-### 5\. [Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html)
+### 5\. Adobe Character Animator
 
 Supported Systems: Windows and macOS
 
@@ -1438,7 +1438,7 @@ If you want to create animated characters based on someone’s facial expression
 * You can add audio to your 3D animation videos.
 * You can start a project by using a predesigned character as well.
 
-### 6\. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+### 6\. Autodesk MotionBuilder
 
 Supported Systems: Windows and Linux
 
@@ -1450,7 +1450,7 @@ Autodesk MotionBuilder is an intelligent and professional 3D video editor and ma
 * The tools let you do motion capture editing.
 * For easy access to data transfer, the files get saved in FBX format.
 
-### 7\. [Jahshaka](https://www.jahshaka.com/) Studio
+### 7\. Jahshaka
 
 ![create 3d video jahshaka studio](https://images.wondershare.com/filmora/article-images/create-3d-video-jahshaka-studio.jpg)
 
@@ -1464,7 +1464,7 @@ Jahshaka comes with multiple royalty-free assets and scenes. In addition, this o
 * You can use it to create different characters and avatars.
 * You will find multiple 3D content creation materials and effects.
 
-### 8\. [Tipard video converter](https://www.tipard.com/video-converter-ultimate/)
+### 8\. Tipard video converter
 
 Supported Systems: macOS and Windows
 
@@ -1476,7 +1476,7 @@ Whether you have 3D animation editing knowledge or not, Tipard video converter w
 * The software comes along with robust editing features.
 * You can convert the animated video to different video formats.
 
-### 9\. [Vidmore Video Converter](https://www.vidmore.com/video-converter/)
+### 9\. Vidmore Video Converter
 
 Supported Systems: macOS and Windows
 
@@ -1517,13 +1517,13 @@ It depends on your requirements. Both paid and freeware video editing tools will
 
 #### In this article
 
-01 [ Best 3D Video Makers You Should Know \[Free and Paid\] ](#part1)
+01 [Best 3D Video Makers You Should Know \[Free and Paid\]](#part1)
 
 02 [FAQs About 3D Movie Makers](#part2)
 
 ## Part 1: Best 3D Video Makers You Should Know \[Free and Paid\]
 
-### 1\. [Blender](https://www.blender.org/)
+### 1\. Blender
 
 Supported System: Windows, macOS, and Linux
 
@@ -1535,7 +1535,7 @@ Blender is a leading 3D video editor and is preferred by many. This is an open-s
 * The edited videos are always of high quality.
 * Keyframes, transitions, adjustment layers, and more.
 
-### 2\. [Xara 3D Maker](https://www.xara.com/uk/products/xara3d/)
+### 2\. Xara 3D Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1547,7 +1547,7 @@ Unlike the traditional 3D video editors, Xara 3D Maker makes things easy for you
 * You can choose a few objects to make it animated or the complete video.
 * You can move the 3D objects as per your requirements.
 
-### **3\.** [Aurora 3D Animation Maker](https://www.presentation-3d.com/)
+### **3\.** Aurora 3D Animation Maker
 
 Supported Systems: Mac OS and Windows
 
@@ -1559,7 +1559,7 @@ Aurora 3D Animation Maker is not a **free 3D video maker** and is fully equipped
 * The tool is equipped with multiple animation templates.
 * The 3D graphic mode allows you to change from 3D to 2D.
 
-### 4\. [Maxon](https://www.maxon.net/en/)
+### 4\. Maxon
 
 Supported Systems: Windows, macOS, and Linux
 
@@ -1571,7 +1571,7 @@ Maxon is a fantastic 3D video editor that allows users to quickly create a stunn
 * It is equipped with GPU-accelerated rendering permits.
 * The global illumination feature lets you create more realistic and accurate visuals.
 
-### 5\. [Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html)
+### 5\. Adobe Character Animator
 
 Supported Systems: Windows and macOS
 
@@ -1583,7 +1583,7 @@ If you want to create animated characters based on someone’s facial expression
 * You can add audio to your 3D animation videos.
 * You can start a project by using a predesigned character as well.
 
-### 6\. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+### 6\. Autodesk MotionBuilder
 
 Supported Systems: Windows and Linux
 
@@ -1595,7 +1595,7 @@ Autodesk MotionBuilder is an intelligent and professional 3D video editor and ma
 * The tools let you do motion capture editing.
 * For easy access to data transfer, the files get saved in FBX format.
 
-### 7\. [Jahshaka](https://www.jahshaka.com/) Studio
+### 7\. Jahshaka
 
 ![create 3d video jahshaka studio](https://images.wondershare.com/filmora/article-images/create-3d-video-jahshaka-studio.jpg)
 
@@ -1609,7 +1609,7 @@ Jahshaka comes with multiple royalty-free assets and scenes. In addition, this o
 * You can use it to create different characters and avatars.
 * You will find multiple 3D content creation materials and effects.
 
-### 8\. [Tipard video converter](https://www.tipard.com/video-converter-ultimate/)
+### 8\. Tipard video converter
 
 Supported Systems: macOS and Windows
 
@@ -1621,7 +1621,7 @@ Whether you have 3D animation editing knowledge or not, Tipard video converter w
 * The software comes along with robust editing features.
 * You can convert the animated video to different video formats.
 
-### 9\. [Vidmore Video Converter](https://www.vidmore.com/video-converter/)
+### 9\. Vidmore Video Converter
 
 Supported Systems: macOS and Windows
 
@@ -1703,7 +1703,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1715,17 +1715,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1733,15 +1733,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1794,7 +1794,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1806,17 +1806,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1824,15 +1824,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1885,7 +1885,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1897,17 +1897,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1915,15 +1915,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1976,7 +1976,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1988,17 +1988,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2006,15 +2006,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 

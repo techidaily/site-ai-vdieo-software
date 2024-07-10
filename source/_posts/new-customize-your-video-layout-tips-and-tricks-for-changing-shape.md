@@ -1,7 +1,7 @@
 ---
 title: New Customize Your Video Layout Tips and Tricks for Changing Shape
-date: 2024-04-25T07:34:48.459Z
-updated: 2024-04-26T07:34:48.459Z
+date: 2024-07-09T13:32:26.146Z
+updated: 2024-07-10T13:32:26.146Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Customize Your Video Layout Tips and Tricks for Changing Shape
 excerpt: This Article Describes New Customize Your Video Layout Tips and Tricks for Changing Shape
 keywords: customize your video layout tips and tricks for changing shape,optimizing your tiktok videos aspect ratio tips and tricks,take your videos to the next level editing tips and tricks,the fastest way to resize your videos tips and tricks,resize your video in a flash tips and tricks,transform your video how to adjust shape and size,resize your video tips and tricks for perfect dimensions
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## Customize Your Video Layout: Tips and Tricks for Changing Shape
