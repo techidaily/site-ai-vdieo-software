@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide
-date: 2024-06-24T03:14:54.757Z
-updated: 2024-06-25T03:14:54.757Z
+date: 2024-07-15T23:44:12.402Z
+updated: 2024-07-16T23:44:12.402Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 # How to Make Ken Burns Effect in Final Cut Pro?
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -40,13 +43,16 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -60,7 +66,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -72,7 +78,10 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -82,13 +91,19 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -100,7 +115,10 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -110,7 +128,7 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 * Tap on the Pause icon and return to editing;
 * Click Done and enjoy your animation.
 
-Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try ![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
@@ -157,3 +175,47 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-clearing-photos-expert-background-takedown-in-photopea/"><u>[New] Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[New] In 2024, How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leveraging-technology-for-efficient-team-discussions-slack-filmora-strategy-for-2024/"><u>[New] Leveraging Technology for Efficient Team Discussions  Slack-Filmora Strategy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-sporting-cameras-for-adventure/"><u>[New] Premium Sporting Cameras for Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speedy-explorer-windows-10-photography-interface/"><u>[New] Speedy Explorer - Windows 10 Photography Interface</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-advanced-methods-to-archive-your-whatsapp-chat/"><u>[Updated] 2024 Approved  Advanced Methods to Archive Your WhatsApp Chat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-overview-dji-inspire-2/"><u>[Updated] Comprehensive Overview - DJI Inspire 2</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-master-the-art-of-tiktok-sharing-across-chrome-os-devices/"><u>[Updated] In 2024, Master the Art of TikTok Sharing Across Chrome OS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-striking-the-perfect-balance-in-profile-videos/"><u>2024 Approved  Striking the Perfect Balance in Profile Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-aspect-ratio-converter-top-10-picks/"><u>2024 Approved Aspect Ratio Converter Top 10 Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-aspect-ratio-revolution-how-it-impacts-your-videos-visual-identity/"><u>2024 Approved Aspect Ratio Revolution How It Impacts Your Videos Visual Identity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-beginners-guide-to-video-editing-top-software-picks/"><u>2024 Approved Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/audio-file-conversion-made-easy-top-software-picks-for-2024/"><u>Audio File Conversion Made Easy Top Software Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beginners-guide-to-free-video-editing-top-picks-desktoponlinemobile-for-2024/"><u>Beginners Guide to Free Video Editing Top Picks Desktop/Online/Mobile for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-14-slideshow-video-creators-for-2024/"><u>Best 14 Slideshow Video Creators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-3d-animation-apps-for-android-and-iphone-free-download-for-2024/"><u>Best 3D Animation Apps for Android and iPhone (Free Download) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/detailed-instructions-maximizing-mobizen-record-functionality/"><u>Detailed Instructions  Maximizing Mobizen Record Functionality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avi-editor-for-windows-8-easily-edit-avi-files-on-pc-2023-update/"><u>In 2024, AVI Editor for Windows 8 Easily Edit AVI Files on PC-2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-no-sound-solution/"><u>In 2024, Avidemux No Sound Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>In 2024, AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beginner-guide-to-hd-video-pixel-size/"><u>In 2024, Beginner Guide to HD Video Pixel Size</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beginners-guide-to-video-editing-top-software-picks/"><u>In 2024, Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-10-online-waveform-generators-you-should-try/"><u>In 2024, Best 10 Online Waveform Generators You Should Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-10-software-for-video-editors/"><u>In 2024, Best 10 Software for Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-3d-animation-apps-for-android-and-iphone-free-download/"><u>In 2024, Best 3D Animation Apps for Android and iPhone (Free Download)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-6-video-dubbing-apps-funny-and-creative/"><u>In 2024, Best 6 Video Dubbing Apps - Funny & Creative</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-6-video-dubbing-software-for-pc-free-download/"><u>In 2024, Best 6 Video Dubbing Software for PC - Free Download</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi A2+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-windows-8-podcast-apps-reviewed-for-2024/"><u>Leading Windows 8 Podcast Apps Reviewed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avi-video-editing-on-a-budget-top-5-free-options/"><u>New AVI Video Editing on a Budget Top 5 Free Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-11-free-animated-logo-makers-plus-creative-logo-tips/"><u>New Best 11 Free Animated Logo Makers + Creative Logo Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-14-vlog-video-editing-software-for-hot-platformsfree-and-paid/"><u>New Best 14 Vlog Video Editing Software for Hot PlatformsFree & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-3d-animation-software-free-and-paid-recommended/"><u>New Best 3D Animation Software Free and Paid Recommended</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-5-reaction-video-makers-you-should-try/"><u>New Best 5 Reaction Video Makers You Should Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-aspect-ratio-mastery-5-surprising-facts-about-16x9-calculators/"><u>Updated Aspect Ratio Mastery 5 Surprising Facts About 16X9 Calculators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-beginners-guide-to-free-video-editing-top-picks-desktoponlinemobile/"><u>Updated Beginners Guide to Free Video Editing Top Picks Desktop/Online/Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-10-free-online-video-loopers-to-loop-video/"><u>Updated Best 10 Free Online Video Loopers to Loop Video</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-10-software-for-video-editors/"><u>Updated Best 10 Software for Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-14-vlog-video-editing-software-for-hot-platformsfree-and-paid/"><u>Updated Best 14 Vlog Video Editing Software for Hot PlatformsFree & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-5-reaction-video-makers-you-should-try/"><u>Updated Best 5 Reaction Video Makers You Should Try</u></a></li>
+</ul></div>

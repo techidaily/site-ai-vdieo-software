@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials
-date: 2024-06-24T03:14:27.379Z
-updated: 2024-06-25T03:14:27.379Z
+date: 2024-07-15T23:43:39.936Z
+updated: 2024-07-16T23:43:39.936Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,9 @@ In this article, you will learn how to add VHS effects to a video in Final Cut P
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -48,12 +51,18 @@ Drag and drop your footage in the timeline of FCPX. After this, scale your proje
 
 Open the Effects, and in the search bar, type Add Noise. Select the Add Noise effect and drop it on your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add_guassian_blur_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_guassian_blur_in_final_cut_pro.jpg)
 
 Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
@@ -66,31 +75,52 @@ Set the amount of sharpness to around 8.0-9.0.
 
 Now in the search bar type Bad TV effect. Select it and drop it on your footage in FCPX.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
 
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
 
-First, if you haven't got Filmora, click here to download it for free![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+First, if you haven't got Filmora, click here to download it for free ![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To do VHS effects quickly, follow these steps:
 
@@ -116,6 +146,9 @@ Go to Effect, and in the search bar, type **VHS**.
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
@@ -129,6 +162,9 @@ Go to Effect, and in the search bar, type **VHS**.
 * Stretch it all the way across.
 * Change its Alpha value to 25 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 Search for **Chromatic Aberration effect**.
@@ -207,3 +243,62 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-by-step-tutorial-on-how-to-use-igtv-effectively/"><u>[New] 2024 Approved  Step-by-Step Tutorial on How to Use IGTV Effectively</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[New] Full-Time Careers Meet Video Content  A Harmonious Mix</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-through-social-streams-securing-your-status-videos/"><u>[New] In 2024, Navigating Through Social Streams  Securing Your Status Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-masterful-windows-screen-capture-for-2024/"><u>[New] Masterful Windows Screen Capture for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-online-persona-transformation-in-discord-for-2024/"><u>[New] Mastering Online Persona Transformation in Discord for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[Updated] In 2024, Exploring Media  Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-outstanding-intro-creator-tools-to-elevate-your-brand-for-2024/"><u>10 Outstanding Intro Creator Tools to Elevate Your Brand for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-reliable-aspect-ratio-conversion-applications-for-2024/"><u>10 Reliable Aspect Ratio Conversion Applications for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review-for-2024/"><u>10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/11-exceptional-free-music-recording-programs-for-beginners-and-pros-for-2024/"><u>11 Exceptional Free Music Recording Programs for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/12-amazing-free-animation-programs-for-pc-and-mac-for-2024/"><u>12 Amazing Free Animation Programs for PC and Mac for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>2024 Approved  How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>2024 Approved  Learn to Conduct Zoom Webinars  A Newbie's Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-resolved-faulty-obs-camera/"><u>2024 Approved  Resolved  Faulty OBS Camera</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>2024 Approved  The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>2024 Approved  The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-online-rotators-for-rotating-videos/"><u>2024 Approved 10 Online Rotators for Rotating Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-online-video-rotation-solutions-to-elevate-your-content/"><u>2024 Approved 10 Online Video Rotation Solutions to Elevate Your Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-popular-aspect-ratio-changer-tools/"><u>2024 Approved 10 Popular Aspect Ratio Changer Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>2024 Approved 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-royalty-free-image-websites-you-need-to-know/"><u>2024 Approved 10 Royalty-Free Image Websites You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-top-rated-open-source-video-editors-for-free/"><u>2024 Approved 10 Top-Rated Open-Source Video Editors for Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review/"><u>2024 Approved 10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10plus-video-editing-software-solutions-you-need-to-know/"><u>2024 Approved 10+ Video Editing Software Solutions You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10plus-video-editing-solutions-to-replace-windows-movie-maker/"><u>2024 Approved 10+ Video Editing Solutions to Replace Windows Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-12-audio-converters-that-will-change-your-music-experience-forever/"><u>2024 Approved 12 Audio Converters That Will Change Your Music Experience Forever</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-beats-unraveling-the-secrets-of-crossfade/"><u>Bridging Beats  Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discord-gifs-how-to-put-gifs-on-discord-a-complete-guide/"><u>Discord GIFs  How to Put GIFs on Discord - A Complete Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-8-android-group-calls-over-4-users-for-2024/"><u>Essential 8 Android Group Calls  Over 4 Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-outstanding-intro-creator-tools-to-elevate-your-brand/"><u>In 2024, 10 Outstanding Intro Creator Tools to Elevate Your Brand</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-top-notch-video-editing-software-for-mac-vegas-pro-alternatives/"><u>In 2024, 10 Top-Notch Video Editing Software for Mac Vegas Pro Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-11-amazing-free-animated-logo-generators-for-stunning-designs/"><u>In 2024, 11 Amazing Free Animated Logo Generators for Stunning Designs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-c67-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme C67 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellence-in-screensnapting-fast-reliable-recorder/"><u>In 2024, Excellence in Screensnapting  Fast, Reliable Recorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-whatsapp-broadcasting-share-your-tweets-video-style/"><u>In 2024, WhatsApp Broadcasting  Share Your Tweets Video-Style</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-low-light-photos-on-ios-11/"><u>Mastering Low-Light Photos on iOS 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>New 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-powerful-video-editing-software-alternatives-to-final-cut-pro-x/"><u>New 10 Powerful Video Editing Software Alternatives to Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>New 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-reliable-aspect-ratio-conversion-applications/"><u>New 10 Reliable Aspect Ratio Conversion Applications</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-simple-yet-effective-neon-text-generators-online/"><u>New 10 Simple Yet Effective Neon Text Generators Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-top-notch-video-editing-software-for-mac-vegas-pro-alternatives/"><u>New 10 Top-Notch Video Editing Software for Mac Vegas Pro Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review/"><u>New 10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-11-best-free-music-recording-software-2024-reviews/"><u>New 11 Best Free Music Recording Software 2024 Reviews</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-elevating-listener-experience-through-powerful-podcast-covers-the-latest-design-dos-and-donts/"><u>New In 2024, Elevating Listener Experience Through Powerful Podcast Covers (The Latest Design Dos and Donts)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>New In 2024, Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-and-secure-lecture-capture-methods-for-mac-users-for-2024/"><u>Quick and Secure Lecture Capture Methods for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/relish-free-movie-playback-pc-and-mac-style-for-2024/"><u>Relish Free Movie Playback, PC & Mac Style for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-a-list-playbook-swiftly-climb-the-social-ladder-on-instagram-with-these-essentials-for-2024/"><u>The A-List Playbook  Swiftly Climb the Social Ladder on Instagram with These Essentials for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-civi-3-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Civi 3 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-typography-in-after-effects-with-premium-plug-ins-for-2024/"><u>Transform Typography in After Effects With Premium Plug-Ins for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-online-video-rotation-solutions-to-elevate-your-content/"><u>Updated 10 Online Video Rotation Solutions to Elevate Your Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-open-source-video-editors-that-rival-adobe-premiere-on-linux/"><u>Updated 10 Open-Source Video Editors That Rival Adobe Premiere on Linux</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-reliable-aspect-ratio-conversion-applications/"><u>Updated 10 Reliable Aspect Ratio Conversion Applications</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10plus-video-editing-solutions-to-replace-windows-movie-maker/"><u>Updated 10+ Video Editing Solutions to Replace Windows Movie Maker</u></a></li>
+</ul></div>

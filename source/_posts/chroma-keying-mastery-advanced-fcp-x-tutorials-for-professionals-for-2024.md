@@ -1,7 +1,7 @@
 ---
 title: Chroma Keying Mastery Advanced FCP X Tutorials for Professionals for 2024
-date: 2024-07-01T17:05:55.551Z
-updated: 2024-07-02T17:05:55.551Z
+date: 2024-07-15T23:55:10.923Z
+updated: 2024-07-16T23:55:10.923Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 # FCP X: Create a Chroma-Key (Green-screen) Effect
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -46,6 +49,9 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Setting up the Key
 
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
@@ -78,14 +84,23 @@ Your key should look better immediately. Most of the time, you can probably stop
 
 Click the **Matte** button to display your key as a white foreground on a black background.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
 
 **Step 2: Tweaks Video**
@@ -123,18 +138,27 @@ Sometimes, however, you don't have, ah, perhaps, the best green-screen image to 
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -149,6 +173,9 @@ Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/won
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -167,3 +194,42 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>[New] 2024 Approved  Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>[New] In 2024, 30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-lens-of-loom-perfecting-your-video-weave/"><u>[Updated] In 2024, Lens of Loom  Perfecting Your Video Weave</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-dailymotion-video-converter-fast-free-and-easy-online/"><u>2024 Approved Dailymotion Video Converter - Fast, Free, and Easy Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-demystifying-16x9-5-key-facts-about-aspect-ratio-calculators/"><u>2024 Approved Demystifying 16X9 5 Key Facts About Aspect Ratio Calculators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-top-rated-free-dailymotion-video-converter/"><u>2024 Approved Top-Rated Free Dailymotion Video Converter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v27-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V27</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-through-the-noise-final-cut-pro-vs-lumafusion-for-video-creators-for-2024/"><u>Cutting Through the Noise Final Cut Pro vs LumaFusion for Video Creators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/decoding-audio-how-to-turn-speech-into-written-text-for-2024/"><u>Decoding Audio How to Turn Speech Into Written Text for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/decoding-speech-a-beginners-guide-to-text-conversion-for-2024/"><u>Decoding Speech A Beginners Guide to Text Conversion for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/demystifying-hd-video-pixel-size-a-simple-explanation-for-2024/"><u>Demystifying HD Video Pixel Size A Simple Explanation for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-15-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 15 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-y100t-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Y100t</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-copyright-confusion-suddenly-no-more-videos/"><u>In 2024, Copyright Confusion  Suddenly No More Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-it-down-a-step-by-step-guide-to-trimming-videos-on-kapwing/"><u>In 2024, Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-through-the-differences-final-cut-pro-vs-express/"><u>In 2024, Cutting Through the Differences Final Cut Pro vs Express</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-dailymotion-video-converter-fast-free-and-easy-online/"><u>In 2024, Dailymotion Video Converter - Fast, Free, and Easy Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-decoding-speech-a-beginners-guide-to-text-conversion/"><u>In 2024, Decoding Speech A Beginners Guide to Text Conversion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-decoding-speech-ways-to-generate-written-text/"><u>In 2024, Decoding Speech Ways to Generate Written Text</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-youtube-product-endorsements/"><u>Navigating the World of YouTube Product Endorsements</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-it-up-a-beginners-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>New Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-the-cord-tivo-vs-comcast-a-comprehensive-dvr-comparison/"><u>New Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dailymotion-video-converter-fast-free-and-easy-online/"><u>New Dailymotion Video Converter - Fast, Free, and Easy Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-demystifying-aspect-ratios-a-5-point-calculator-primer/"><u>New Demystifying Aspect Ratios A 5-Point Calculator Primer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snapchat-anomaly-detecting-possible-block-or-mute/"><u>Snapchat Anomaly  Detecting Possible Block or Mute</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-it-up-a-beginners-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-efficiently/"><u>Updated Cutting Large Videos on Mac? Heres How to Do It Quickly and Efficiently</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison/"><u>Updated Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-through-the-noise-final-cut-pro-vs-lumafusion-for-video-creators/"><u>Updated Cutting Through the Noise Final Cut Pro vs LumaFusion for Video Creators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dailymotion-video-converter-fast-free-and-easy-online/"><u>Updated Dailymotion Video Converter - Fast, Free, and Easy Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-debunking-myths-5-little-known-truths-about-the-16x9-ratio-calculator/"><u>Updated Debunking Myths 5 Little-Known Truths About the 16X9 Ratio Calculator</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-debunking-the-myths-5-misconceptions-about-16x9-ratio-calculators-cleared-up/"><u>Updated Debunking the Myths 5 Misconceptions About 16X9 Ratio Calculators Cleared Up</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-demystifying-aspect-ratios-a-5-point-calculator-primer/"><u>Updated Demystifying Aspect Ratios A 5-Point Calculator Primer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-11-tips-to-make-product-ad-videos/"><u>Updated In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/viral-video-vault-top-10-most-viewed-in-a-day/"><u>Viral Video Vault  Top 10 Most Viewed in a Day</u></a></li>
+</ul></div>

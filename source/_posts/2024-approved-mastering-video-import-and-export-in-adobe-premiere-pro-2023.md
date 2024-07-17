@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Video Import and Export in Adobe Premiere Pro 2023
-date: 2024-06-24T03:15:26.718Z
-updated: 2024-06-25T03:15:26.718Z
+date: 2024-07-15T23:44:50.988Z
+updated: 2024-07-16T23:44:50.988Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,9 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -44,6 +47,9 @@ This is a straightforward command that works like most other programs, and is ac
 
 Whichever way you access it, you get the standard for the platform import dialogue box we see here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
@@ -52,6 +58,9 @@ This method of importing is best suited to self-contained media such as audio or
 
 Whilst on the surface media browser appears to do the same job as the import command the way they carry out the task is somewhat different, media browser is designed to let you see the media created by cameras, and show you easy to understand icons and metadata rather than the intricate pattern of files and folders they use. This makes picking the correct clip from a selection much easier, with metadata showing you date and duration as well as file type.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
@@ -76,6 +85,9 @@ To export a project that closely matches the original media in quality and frame
 
 Which opens the media export dialogue.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
@@ -86,6 +98,9 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
@@ -94,6 +109,9 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -110,3 +128,40 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-10-tikfilters-for-viral-video-success/"><u>[New] In 2024, Best 10 TikFilters for Viral Video Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tech-for-instant-time-lapse-videos/"><u>[New] In 2024, Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>[Updated] 2024 Approved  CaptureCare  Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-inexpensive-pcs-revealed-by-best-obs-setup/"><u>[Updated] 2024 Approved  Inexpensive PCs Revealed by Best OBS Setup</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ways-to-download-instagram-mp3/"><u>2024 Approved Ways to Download Instagram MP3</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ways-to-find-a-suitable-youtube-to-mp3-converter/"><u>2024 Approved Ways to Find a Suitable YouTube to MP3 Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ways-to-help-your-find-best-flac-converter/"><u>2024 Approved Ways to Help Your Find Best Flac Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-webm-to-mp3-top-10-webm-to-mp3-converters/"><u>2024 Approved WebM to MP3 Top 10 WebM to MP3 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-what-is-the-top-mp3-converter-mac-software/"><u>2024 Approved What Is the Top MP3 Converter Mac Software?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-what-sets-final-cut-pro-apart-from-final-cut-express/"><u>2024 Approved What Sets Final Cut Pro Apart From Final Cut Express?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-what-to-look-for-in-a-video-to-audio-converter-my-expert-advice/"><u>2024 Approved What to Look for in a Video to Audio Converter My Expert Advice</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-whatsapp-status-designers-top-rated-apps/"><u>2024 Approved WhatsApp Status Designers Top Rated Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-your-onedrive-save-point-on-windows-10/"><u>Altering Your OneDrive Save Point on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/entering-filmmaking-with-smart-camera-choices-23-update/"><u>Entering Filmmaking with Smart Camera Choices '23 Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-honor-x7b-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Honor X7b lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-c53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme C53 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed/"><u>In 2024, Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-equipment-list-for-homebound-filmmakers/"><u>In 2024, Equipment List for Homebound Filmmakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-webm-to-mp4-the-10-best-webm-to-mp4-converters/"><u>In 2024, WebM to MP4 The 10 Best WebM to MP4 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-what-sets-final-cut-pro-apart-from-final-cut-express/"><u>In 2024, What Sets Final Cut Pro Apart From Final Cut Express?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-webm-to-mp3-top-10-webm-to-mp3-converters/"><u>New WebM to MP3 Top 10 WebM to MP3 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-wevideo-easily-create-videos-online/"><u>New WeVideo Easily Create Videos Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-what-sets-final-cut-pro-apart-from-final-cut-express/"><u>New What Sets Final Cut Pro Apart From Final Cut Express?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-whatsapp-status-video-editing-apps/"><u>New WhatsApp Status Video Editing Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-video-devices-direct-headset-screens/"><u>Premium Video Devices  Direct Headset Screens</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-10-youtube-music-how-toes-2023-edition/"><u>Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>Top Tips  Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-ultimate-guide-to-time-lapse-video-editing-software/"><u>Updated S Ultimate Guide to Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-what-should-consider-when-converting-mp3-into-mp4/"><u>Updated What Should Consider when Converting MP3 Into MP4</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ways-to-help-your-find-best-flac-converter-for-2024/"><u>Ways to Help Your Find Best Flac Converter for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/what-should-consider-when-converting-mp3-into-mp4-for-2024/"><u>What Should Consider when Converting MP3 Into MP4 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whats-the-best-green-screen-app-for-mac-weve-got-the-answer-for-2024/"><u>Whats the Best Green Screen App for Mac? Weve Got the Answer for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whatsapp-status-makers-best-video-and-photo-editing-apps-for-2024/"><u>WhatsApp Status Makers Best Video and Photo Editing Apps for 2024</u></a></li>
+</ul></div>

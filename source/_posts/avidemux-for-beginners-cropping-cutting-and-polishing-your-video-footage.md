@@ -1,7 +1,7 @@
 ---
 title: Avidemux for Beginners Cropping, Cutting, and Polishing Your Video Footage
-date: 2024-07-01T17:00:44.157Z
-updated: 2024-07-02T17:00:44.157Z
+date: 2024-07-15T23:48:39.145Z
+updated: 2024-07-16T23:48:39.145Z
 tags: 
   - video editing software
   - video editing
@@ -42,6 +42,9 @@ You can find [Avidemux for download here](http://fixounet.free.fr/avidemux/), it
 
 One point of note during installation is that you can choose which parts of the program you wish to install. It is a very small footprint and for the best performance it is wise to simply install everything.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Installation2](https://images.wondershare.com/multimedia/installation2.png)
 
 Once installed you will be presented with the program as seen here.
@@ -64,6 +67,9 @@ Now you can edit the video as you need, Avidemux contains a wealth of features t
 
 Avidemux has some idiosyncrasies in terms of operation, one of those is that to be able to edit any video, you have to choose your output format. Don’t worry though, this is easy, just use the dropdown at the side to choose the output format you want as can be seen here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Editing Video](https://images.wondershare.com/multimedia/editing-video.png)
 
 Once that is set you are free to start editing your footage.
@@ -72,10 +78,16 @@ Once that is set you are free to start editing your footage.
 
 It is important to understand how the editing process works in Avidemux, everything is accessed via the filters menu Video>Filters and from here you are faced with a new interface that enables you to choose the component you wish to use.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cropping1](https://images.wondershare.com/multimedia/cropping.png)
 
 Selecting ‘Crop’ from the menu and pressing the green plus symbol at the bottom activated the crop tool and presents you with yet another view that allows you to adjust the crop to your tastes.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cropping2](https://images.wondershare.com/multimedia/cropping2.png)
 
 #### 5\. Cropping controls
@@ -94,6 +106,9 @@ Once you are happy with the crop, you click Ok and it takes you back to the fami
 
 One of the most common points of confusion with Avidemux comes at this point, as your video will look no different to when you started, and many think they have done something wrong, but this is another part of Avidemux workflow. These filters can only be applied when the video is reencoded, and you do that through the file>save menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Saving the crop1](https://images.wondershare.com/multimedia/saving-the-crop1.png)
 
 Selecting this presents the familiar export dialogue and allows you to choose the name and destination of the file. Once that is done you click OK and you will see Avidemux processing your file and re-rendering it in this dialogue box.
@@ -108,10 +123,16 @@ One of the key things to remember with Avidemux is that you apply all of your fi
 
 Avidemux is a great piece of software, it lacks the polish of some of its commercial rivals of course, but behind the sometimes clunky interface there is a very broad range of features that allow you to accomplish more or less any editing task you may want. In terms of free programs this is about as good as it gets, and the output is, without a doubt, great quality. For anyone looking for a free solution to video editing problems, and who do not mind a learning process Avidemux provides a useful tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Easier Way to Crop a Video with Filmora
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful program that allows you to create stunning video clips in only a few clicks. This video editing software provides users with a variety of tools for editing videos. It also includes a user-friendly interface for editing home films on Windows PCs, Macs, and Linux devices. To crop a video, these are to follow:
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
@@ -130,6 +151,9 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -146,3 +170,44 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-foodie-frenzy-tiktoks-most-shared-meals-and-munchies/"><u>[New] 2024 Approved  Foodie Frenzy  TikTok's Most Shared Meals and Munchies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capturing-the-heavens-phone-panorama-basics/"><u>[New] Capturing the Heavens  Phone Panorama Basics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-integrate-srt-into-windowsmacos-operations/"><u>[New] In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>[New] Skype Capture Manual  Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transforming-your-igtv-presence-with-new-covers/"><u>[New] Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-mkv-cutting-tools-2023-edition-no-cost/"><u>2024 Approved Best MKV Cutting Tools 2023 Edition (No Cost!)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-mobile-video-editors-for-blurring-faces-and-backgrounds/"><u>2024 Approved Best Mobile Video Editors for Blurring Faces and Backgrounds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-movie-making-apps-for-android-top-picks/"><u>2024 Approved Best Movie Making Apps for Android Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-mp4-editor-for-mac-mavericks-easy-video-editing/"><u>2024 Approved Best MP4 Editor for Mac Mavericks Easy Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-mts-video-editors-top-picks/"><u>2024 Approved Best MTS Video Editors Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-music-video-editors-for-photographers-and-enthusiasts/"><u>2024 Approved Best Music Video Editors for Photographers and Enthusiasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-neon-sign-makers-online-top-picks-for-diy-designers/"><u>2024 Approved Best Neon Sign Makers Online Top Picks for DIY Designers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-no-cost-video-editors-for-side-by-side-videos-online-and-offline/"><u>2024 Approved Best No-Cost Video Editors for Side-by-Side Videos Online & Offline</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>2024 Approved Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>2024 Approved Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>2024 Approved Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>2024 Approved Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-8-free-online-video-stabilizers-reviewed/"><u>2024 Approved Best of the Best 8 Free Online Video Stabilizers Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-free-4k-video-converters-for-pc-and-mac/"><u>2024 Approved Best of the Best Free 4K Video Converters for PC and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-10-free-online-video-editors-without-watermarks/"><u>2024 Approved Best of the Best Top 10 Free Online Video Editors without Watermarks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-10-intro-maker-sites-for-stunning-openers/"><u>2024 Approved Best of the Best Top 10 Intro Maker Sites for Stunning Openers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-free-video-editors-for-chromebook-users/"><u>2024 Approved Best of the Best Top Free Video Editors for Chromebook Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-hd-video-editing-software/"><u>2024 Approved Best of the Best Top HD Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-mac-video-editing-software-like-windows-movie-maker/"><u>2024 Approved Best of the Best Top Mac Video Editing Software Like Windows Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-top-webcam-recording-tools-for-windows-10/"><u>2024 Approved Best of the Best Top Webcam Recording Tools for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-best-video-editing-apps-for-windows-mac-ios-android-and-linux/"><u>2024 Approved Best of the Best Video Editing Apps for Windows, Mac, iOS, Android, and Linux</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-bunch-free-video-editors-for-ubuntu-users/"><u>2024 Approved Best of the Bunch Free Video Editors for Ubuntu Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-bunch-top-10-free-video-editors-compatible-with-chromebook/"><u>2024 Approved Best of the Bunch Top 10 Free Video Editors Compatible with Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-of-the-bunch-top-rated-meme-generator-apps-for-android-and-ios/"><u>2024 Approved Best of the Bunch Top-Rated Meme Generator Apps for Android and iOS</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-7-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 7 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-eden-echoes-best-rural-role-playing-realms/"><u>In 2024, Eden Echoes  Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-12-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 12 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-6-youtube-shorts-downloaders-free-and-online/"><u>In 2024, Top 6 YouTube Shorts Downloaders [Free & Online]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reimagining-creation-in-the-crypto-world-a-guide-to-top-nft-generating-platforms-for-2024/"><u>Reimagining Creation in the Crypto World - A Guide to Top NFT-Generating Platforms for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-best-app-to-remove-background-noise-for-2024/"><u>The Best App to Remove Background Noise for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-tiktok-gurus-handbook-for-mastering-essentials/"><u>The TikTok Guru's Handbook for Mastering Essentials</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-video-editing-incorporating-dubbing-techniques-in-filmora/"><u>Updated Navigating Video Editing Incorporating Dubbing Techniques in Filmora</u></a></li>
+</ul></div>

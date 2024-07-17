@@ -1,7 +1,7 @@
 ---
 title: Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024
-date: 2024-07-09T13:35:03.888Z
-updated: 2024-07-10T13:35:03.888Z
+date: 2024-07-15T23:57:12.022Z
+updated: 2024-07-16T23:57:12.022Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -127,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -199,6 +214,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -215,3 +233,42 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-basic-routines-for-recording-on-youtube/"><u>[New] 2024 Approved  Basic Routines for Recording on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snap-a-story-sharing-photos-and-videos-without-retweet/"><u>[New] 2024 Approved  Snap a Story  Sharing Photos & Videos Without Retweet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[New] From Ideas to Action  How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfect-your-yt-thumbnails-with-these-mac-tips/"><u>[New] Perfect Your YT Thumbnails with These Mac Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-aplus-powerpoint-to-cinema-suites/"><u>[Updated] 2024 Approved  A+ PowerPoint to Cinema Suites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>[Updated] 2024 Approved  Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-securing-youtube-tracks-at-no-cost-with-security-in-mind/"><u>[Updated] Securing Youtube Tracks at No Cost, with Security in Mind</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-cut-costs-on-downloads-with-this-list-of-20-free-youtube-sound-rippers/"><u>2024 Approved  Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-embrace-authenticity-your-style-journey-begins-here/"><u>2024 Approved  Embrace Authenticity  Your Style Journey Begins Here</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>2024 Approved  Frame Fastness  Mastering Time-Lapse Shots with Samsung</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-video-to-mp3-how-to-download-instagram-audio-files/"><u>2024 Approved From Video to MP3 How to Download Instagram Audio Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-video-to-pure-audio-bliss-a-step-by-step-quality-preservation-guide/"><u>2024 Approved From Video to Pure Audio Bliss A Step-by-Step Quality Preservation Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-videos-to-audios-a-step-by-step-guide-to-choosing-the-best-converter/"><u>2024 Approved From Videos to Audios A Step-by-Step Guide to Choosing the Best Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-voice-to-text-top-mac-apps-for-accurate-transcription-free-and-no-download/"><u>2024 Approved From Voice to Text Top Mac Apps for Accurate Transcription Free & No Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-webm-to-mp4-the-top-10-conversion-tools-you-need/"><u>2024 Approved From WebM to MP4 The Top 10 Conversion Tools You Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-fcpx-troubleshooters-bible-solving-problems/"><u>2024 Approved The FCPX Troubleshooters Bible Solving Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-video-to-mp3-maintaining-audio-fidelity-made-easy-for-2024/"><u>From Video to MP3 Maintaining Audio Fidelity Made Easy for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-voice-to-text-top-mac-apps-for-accurate-transcription-free-and-no-download-for-2024/"><u>From Voice to Text Top Mac Apps for Accurate Transcription Free & No Download for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-wide-to-tall-adapting-your-design-for-vertical-screens-for-2024/"><u>From Wide to Tall Adapting Your Design for Vertical Screens for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-reach-more-users-by-using-instagram-live-shopping/"><u>How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>In 2024, Beyond Binary Boundaries  Unveiling Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craft-a-compelling-metaverse-presence-with-these-tools/"><u>In 2024, Craft a Compelling Metaverse Presence with These Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-views-to-leads-the-ideal-aspect-ratios-for-linkedin-video-ads/"><u>In 2024, From Views to Leads The Ideal Aspect Ratios for LinkedIn Video Ads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-voice-to-written-word-the-art-of-speech-transcription/"><u>In 2024, From Voice to Written Word The Art of Speech Transcription</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-webm-to-mp3-the-top-conversion-software-and-online-tools/"><u>In 2024, From WebM to MP3 The Top Conversion Software and Online Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/master-the-art-of-excluding-commercial-videos-from-social-media/"><u>Master the Art of Excluding Commercial Videos From Social Media</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-video-to-mp3-how-to-download-instagram-audio-content/"><u>New From Video to MP3 How to Download Instagram Audio Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-video-to-mp3-maintaining-audio-fidelity/"><u>New From Video to MP3 Maintaining Audio Fidelity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-voice-to-text-top-mac-apps-for-accurate-transcription-free-and-no-download/"><u>New From Voice to Text Top Mac Apps for Accurate Transcription Free & No Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-video-to-live-photo-expert-recommended-apps-and-guides/"><u>Updated From Video to Live Photo Expert-Recommended Apps and Guides</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-video-to-mp3-maintaining-audio-fidelity-made-easy/"><u>Updated From Video to MP3 Maintaining Audio Fidelity Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-views-to-leads-the-ideal-aspect-ratios-for-linkedin-video-ads/"><u>Updated From Views to Leads The Ideal Aspect Ratios for LinkedIn Video Ads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-webm-to-mp3-the-top-conversion-software-and-online-tools/"><u>Updated From WebM to MP3 The Top Conversion Software and Online Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-webm-to-mp4-the-top-10-conversion-tools-you-need/"><u>Updated From WebM to MP4 The Top 10 Conversion Tools You Need</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-android-video-editing-software-for-2024/"><u>Updated The Ultimate List of Free Android Video Editing Software for 2024</u></a></li>
+</ul></div>

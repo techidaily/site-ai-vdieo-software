@@ -1,7 +1,7 @@
 ---
 title: Edit MP4 Videos on Windows 8 A Simple Guide
-date: 2024-07-09T13:56:08.817Z
-updated: 2024-07-10T13:56:08.817Z
+date: 2024-07-16T00:01:30.946Z
+updated: 2024-07-17T00:01:30.946Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8
 
 # MP4 Editor for Windows 8: Easily Edit MP4 Files on PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -28,6 +31,9 @@ MP4 format is quite popular among computer users, therefore there are numerous v
 
 In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Windows 10/8/7/XP/Vista supported) is shared with you. This program enables you to create Hollywood-like home movies with titles, effects, and transitions from all regular videos, audio, and photos. Plus, it offers a free trial for you to evaluate. Just download the free trial of MP4 editor Windows 8 and follow below step by step guide.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Easily Edit MP4 Files on PC
@@ -38,6 +44,9 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -66,6 +75,9 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -74,10 +86,16 @@ In all, with this MP4 editor for Windows 8, everything is at your fingertips. If
 
 MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) for Windows 8 makes all things easier to export your created MP4 videos. If you want to watch your MP4 video on iPhone, iPad, or other portable device, you can click "Device" and choose the option. You can also save videos to your computer in various video format like WMV, AVI, MPEG, etc. In addition, you can upload your video to YouTube, or burn them to DVD for convenient watching your MP4 files on TV.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -96,3 +114,45 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-online-livestreams-from-a-single-source/"><u>[New] Crafting Compelling Online Livestreams From a Single Source</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tech-top-10-webcam-recorders-in-win-11-for-2024/"><u>[New] Essential Tech  Top 10 Webcam Recorders in Win 11 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-tiktok-data-10-must-have-metrics-explored/"><u>[New] In 2024, Mastering TikTok Data  10 Must-Have Metrics Explored</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-reliable-aspect-ratio-conversion-applications-for-2024/"><u>10 Reliable Aspect Ratio Conversion Applications for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review-for-2024/"><u>10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/11-exceptional-free-music-recording-programs-for-beginners-and-pros-for-2024/"><u>11 Exceptional Free Music Recording Programs for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/12-amazing-free-animation-programs-for-pc-and-mac-for-2024/"><u>12 Amazing Free Animation Programs for PC and Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/12-best-online-animation-makers-to-create-amazing-videos-for-2024/"><u>12 Best Online Animation Makers to Create Amazing Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>2024 Approved 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-royalty-free-image-websites-you-need-to-know/"><u>2024 Approved 10 Royalty-Free Image Websites You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-top-rated-open-source-video-editors-for-free/"><u>2024 Approved 10 Top-Rated Open-Source Video Editors for Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review/"><u>2024 Approved 10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10plus-video-editing-software-solutions-you-need-to-know/"><u>2024 Approved 10+ Video Editing Software Solutions You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10plus-video-editing-solutions-to-replace-windows-movie-maker/"><u>2024 Approved 10+ Video Editing Solutions to Replace Windows Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-12-audio-converters-that-will-change-your-music-experience-forever/"><u>2024 Approved 12 Audio Converters That Will Change Your Music Experience Forever</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-12-essential-animation-makers-to-elevate-your-video-content/"><u>2024 Approved 12 Essential Animation Makers to Elevate Your Video Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-savable-displays-tips-for-win-710-users-success-done/"><u>Ensuring Savable Displays: Tips for Win 7/10 Users' Success [Done]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-phone-without-password-by-drfone-android/"><u>How To Unlock Itel S23 Phone Without Password?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-top-notch-video-editing-software-for-mac-vegas-pro-alternatives/"><u>In 2024, 10 Top-Notch Video Editing Software for Mac Vegas Pro Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-11-amazing-free-animated-logo-generators-for-stunning-designs/"><u>In 2024, 11 Amazing Free Animated Logo Generators for Stunning Designs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-13-best-alternatives-to-windows-movie-maker/"><u>In 2024, 13 Best Alternatives to Windows Movie Maker</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-xr-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone XR Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-11r-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus 11R</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-drone-cinematography/"><u>In 2024, Best Practices for Drone Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-homes-with-suns-invisible-light-for-2024/"><u>Infusing Homes with Sun's Invisible Light for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>New 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-reliable-aspect-ratio-conversion-applications/"><u>New 10 Reliable Aspect Ratio Conversion Applications</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-simple-yet-effective-neon-text-generators-online/"><u>New 10 Simple Yet Effective Neon Text Generators Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-top-notch-video-editing-software-for-mac-vegas-pro-alternatives/"><u>New 10 Top-Notch Video Editing Software for Mac Vegas Pro Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-top-rated-vegas-pro-alternatives-for-mac-a-comprehensive-review/"><u>New 10 Top-Rated Vegas Pro Alternatives for Mac A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-11-best-free-music-recording-software-2024-reviews/"><u>New 11 Best Free Music Recording Software 2024 Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-12-best-online-animation-makers-to-create-amazing-videos/"><u>New 12 Best Online Animation Makers to Create Amazing Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-13-best-alternatives-to-windows-movie-maker/"><u>New 13 Best Alternatives to Windows Movie Maker</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-cutting-edge-pop-playlist-ideal-background-music-for-video-content-creation/"><u>New In 2024, Cutting-Edge Pop Playlist Ideal Background Music for Video Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/the-financial-backbone-of-microsofts-windows-11/"><u>The Financial Backbone of Microsoft's Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-reliable-aspect-ratio-conversion-applications/"><u>Updated 10 Reliable Aspect Ratio Conversion Applications</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10plus-video-editing-solutions-to-replace-windows-movie-maker/"><u>Updated 10+ Video Editing Solutions to Replace Windows Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-12-best-free-animation-programs-for-pc-and-mac-users/"><u>Updated 12 Best Free Animation Programs for PC and Mac Users</u></a></li>
+</ul></div>
