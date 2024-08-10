@@ -1,0 +1,336 @@
+---
+title: Top 10 Free Video Repeater Tools for Seamless Loops for 2024
+date: 2024-08-09T08:33:39.269Z
+updated: 2024-08-10T08:33:39.269Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Top 10 Free Video Repeater Tools for Seamless Loops for 2024
+excerpt: This Article Describes Top 10 Free Video Repeater Tools for Seamless Loops for 2024
+keywords: top 10 free video repeater tools for endless loops,top 10 free video repeater tools for seamless loops,free video looping websites top 10 picks for seamless repeats,top free video repeater tools,ai animation top 10 free video repeater tools for seamless loops,free video flipper tools top 10 picks for rotating footage,free gif maker tools for seamless loops 2023 update
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
+---
+
+## Top 10 Free Video Repeater Tools for Seamless Loops
+
+# Top 10 Free Online Video Loopers 2024
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+If you find a particular section of a video or an entire clip quite interesting and wish that you, your friends, or the target audience on your social networking account should also view that interesting part, again and again, it would be a good idea to play the footage in repeat mode. This is where the loopers come into play as they allow you to configure the **video loop** multiple times.
+
+Therefore, below is a list of **free video looper** web solutions that, as per their policies, allow you to set the segment of footage to play repeatedly.
+
+## Top 10 Free Online Video Loopers
+
+Note: Although the following list introduces the 10 best **video looper online** apps, each of them may vary in their nature, level of granularity they offer while setting up the loops, or the size of video they can accept in a single session.
+
+**1\.** **[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) \- \[Free Trial, for Windows or Mac Computer\]**
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/loop-video-timeline-filmora.jpg)
+
+If you need more powerful video looper, online tools may be not the first choice. You can have a try Filmora video editor. Filmora offers a unique balance between beginner-friendly video editing software and a feature-rich tool that even experts can edit on. This means anyone can use it to create any video editing project they like.
+
+Making a loop video with Filmora is as easy as spreading warm butter on toast. Just open the program, click on New Project, and follow these simple [steps to loop video on Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+### 2\. Clideo Loop Video
+
+Loop Video is not the only feature that Clideo offers, and the web portal can be used as a beginners’ gear to form a strong foundation for anyone who is planning to get a career in the post-production industry. When talking about the solution’s **video looper online** feature, the interface is well-balanced, with no distracting adverts to hinder your operations.
+
+#### How to loop video with Clideo?
+
+1. Launch any web browser and go to <https://clideo.com/editor/loop-video>
+2. Use your preferred method to upload the source video
+3. Choose an output format from the **Format** menu at the bottom-left corner of the new page that appears
+4. From the **Loop this clip** section on the right, choose how many times you want the video to loop
+5. Click **Loop** from the bottom-right corner of the page
+6. Wait while Clideo prepares your video
+7. Click **Download** (or choose your preferred download location) from the next page to obtain the clip once the process completes
+
+**Pros**
+
+* Lets you produce a looped video an unlimited number of times (at the cost of converting the clip to GIF format)
+* Lets you edit the videos post-processing for better output
+
+**Cons**
+
+* Requires a subscription plan to be purchased to remove the watermark from the output videos
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### 3\. Kapwing Loop Video
+
+Kapwing is another multipurpose multimedia and post-production solution that is also a **free video looper** with a couple of lucrative features. The web solution has a built-in video maker, meme maker, video resizer, GIF editor to add audio, video trimmer, and much more. The portal is trustworthy and is used by giants like Spotify, Amazon, Sony, etc.
+
+How to use Kapwing to loop video?
+
+1. Use your preferred web browser to go to <https://www.kapwing.com/tools/loop-video>
+2. Click **Upload** to upload or paste the YouTube URL of the source clip in the given field
+3. Click **Trim Video** from the top-left section of the right window (Optional)
+4. Choose the number of times the video should loop from the **Loop this clip** section present at the top of the left pane
+5. Click **CREATE** from the bottom-left corner
+6. Edit (optional) and/or download the processed clip from the next page
+
+**Pros**
+
+* Generates a unique URL that can be used to share with people or on social networking sites
+* Requires no registration as long as you are OK with the watermark. Registration is free
+
+**Cons**
+
+* Free users can upload videos of as long as up to 7 minutes with a file size of up to 250MB in a single session
+
+### 4. FileConverto Online Video Loop
+
+Offering a plethora of video and audio tools like compressor, joiner, trimmer, and much more, FileConverto is also an **MP4 looper** that can accept your files from your PC, and can easily loop them multiple times as needed. All the other tools, including the **video loop** offered with the online solution, are free to use.
+
+#### How to loop video with FileConverto?
+
+1. Go to <https://www.fileconverto.com/loop-repeat-video/> using your favorite web browser
+2. Click **Browse** on the webpage and upload the source video file
+3. From the available drop-down list, choose the number of times you want your video to loop
+4. Click **Submit Now**
+5. Wait while the portal processes the video
+6. Click **Download File** to save the output clip to your PC
+
+**Pros**
+
+* Requires no registration or paid subscription plan whatsoever
+* The entire process can be completed in 3 simple steps
+
+**Cons**
+
+* Doesn’t allow to trim the videos or choose their output format
+
+### 5. Animaker
+
+A decent and feature-equipped tool that not only allows you to loop your videos, it also enables you to add text effects, animated characters, background images and music, objects, and many other such elements to the clips in order to make them more interesting and engaging for the target audience.
+
+#### **How to loop video with Animaker Online?**
+
+1. Go to <https://app.animaker.com/dashboard> using any web browser of your choice
+2. Sign up for an account using your preferred method
+3. From the left pane, go to **Create** \> **Create a video** \> **Blank Page**
+4. Click **Upload** from the lower section of the navigation pane on the left
+5. Upload a clip from your PC
+6. Drag the clip from the Media bin to the Workspace at the center of the page
+7. Click the **Duplicate** button present at the bottom of the clip’s thumbnail in the right panel to add a **video loop**.
+
+**Note:** You can click the **Duplicate** button as many times as you want the clip to loop for
+
+1. Click **Publish** from the top-right corner
+2. Click **Download** to download the processed video to your PC. Alternatively, choose any other option to share the clip on your preferred social media platform
+
+**Pros**
+
+* Has plenty of robust and efficient tools to granularly prepare your videos
+* Allows you to add multiple elements to the clips before enabling loops
+
+**Cons**
+
+* A paid subscription is required to remove the watermark
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### 6. Rocketium
+
+A web solution for both indie professionals and teams, Rocketium still allows you to loop your footage for free. All you need to do is, upload the video to the portal, make the required adjustments as per your preferences, and download the processed clip to your PC without any hindrance.
+
+Process of looping video with Rocketium
+
+1. Go to <https://rocketium.com/is/video-looper/> on your web browser
+2. Click **Upload a file**
+3. Select and upload a clip from your PC
+4. Choose the number of loops for your video from the right section
+5. Click **Loop Video**
+6. Click **Download** to save the processed output on your computer
+
+**Pros**
+
+* Allows video loop at absolutely no cost
+* The entire process can be completed in 3 simple steps
+
+**Cons**
+
+* Registration is required to edit the videos
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 7. LoopTube
+
+LoopTube is an online YouTube **video loop** portal that lets you repeat the entire clip or its particular section an unlimited number of times. The best thing is, that the landing page itself has all the features and options, and the entire interface is extremely easy to use, even by those who have least or absolutely no knowledge about video editing or looping.
+
+#### How to use LoopTube to loop video?
+
+1. Launch a web browser on your computer and go to <https://looptube.io/>
+2. Paste the URL of the YouTube video in the available field at the top
+3. Click the **Search** button to allow LoopTube to search and access the clip
+4. Use the left and right handles from below the player window to select the segment in the video you want to loop for an unlimited number of times
+
+**Pros**
+
+* Absolutely free to use
+* Lets you select a segment of the video for infinite loop
+
+**Cons**
+
+* Doesn’t allow you to download or share the output video
+
+### 8. VEED.IO
+
+A complete online post-production tool for both beginners and professionals, VEED.IO is enriched with plenty of tools to make your source clips look much more engaging, interesting, and informative. While the subscriptions start from $0.00 USD to $24.00 USD per month, the videos can be uploaded, looped, and downloaded for free.
+
+#### How to loop video with Veed.io?
+
+1. Make sure to download the video you want to loop to your local hard drive
+2. Use a web browser to go to <https://www.veed.io/tools/video-looper>
+3. Click **Get Started Now**
+4. Use your preferred method to upload the source video
+5. Use the Playhead (Skimmer) in the Timeline at the bottom to go to a frame, and click **Split** to split the clip as needed
+6. Select the unwanted segment and press **Delete** on your keyboard to remove
+7. Drag the remaining part to place it in your preferred position
+8. Click **Add Video** to add the same clip to the portal again
+9. Repeat the above step as many times as you want the clip to loop for
+10. Click **Export** from the top-right corner, and wait while VEED.IO renders the uploaded video(s)
+11. Use your preferred method to download or share the output footage when done
+
+**Pros**
+
+* Free to use
+* Has several options to edit and decorate your footage before looping
+
+**Cons**
+
+* A paid subscription is needed to remove the watermark
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 9. WoFox Loop Video Tool
+
+A free solution for **video loop** and making other adjustments to your source footage, WoFox is a decent web app for graphic designing, animated designs, photo collages, logo creation, and much more. The tool can also create animated lyrics and video songs that could be used to impart information or practice singing.
+
+#### How to loop video with WoFox?
+
+1. On your Internet browser, go to <https://www.wofox.com/video-editing-tools/loop-video>
+2. Click Upload and select the number of loops from the **Loop video** section in the left pane
+3. Click **Download** from the top-right corner of the page
+
+**Pros**
+
+* Absolutely free to use
+* Is equipped with several other video editing tools
+
+**Cons**
+
+* Subscription plans are hefty if you ever plan to use the tool for business purposes
+* At the time of this writing, the tool doesn’t work with Mozilla Firefox
+
+### 10. Video Looper Chrome Extension
+
+A free tool that works with the Google Chrome web browser, Video Looper is a Chrome Extension that can be added and enabled in order to loop the videos that you play on YouTube. Post adding, the extension automatically gets enabled as soon as it detects an eligible YouTube video on Chrome. Once enabled, you can even detach the panel to use it independently.
+
+#### How to use the Chrome extension to loop video?
+
+1. Launch Google Chrome and go to <https://chrome.google.com/webstore/detail/video-looper/cakhljgchfghghfapljifddkaomfijcn>
+2. Click **Add to Chrome**, and then click **Add Extension** when the confirmation box pops up
+3. Close and then reopen Google Chrome
+4. Go to the YouTube’s clip URL that you want to **video loop**
+5. Click the **Video Looper** icon from the top-right corner of the browser
+6. Click **Create Repeat**
+7. Enter a value (the number of times you want to loop the video) in the **Repeat Times** field
+8. Optionally enter the relevant values in the **Start Time** and **End Time** fields to trim the footage
+9. Click **Create**
+10. Click **Start & Play** on the next box that appears to play the YouTube video for the number of times you specified
+
+**Pros**
+
+* Free to use
+* Can create an unlimited number of presets to play the videos in loops
+
+**Cons**
+
+* Doesn’t allow you to download the videos
+
+**Summary**
+
+Depending on your budget, frequency of **video loop** requirements, and the level of details you need while preparing a full-fledged video with repetitions, you can choose any of the tools explained above. However, if you need a comparatively better solution, Wondershare UniConverter would be your best bet as it is not merely a **free video looper**, it also offers several other features to get a complete output with quite granular edits.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-profitability-recent-guidelines/"><u>[New] Unlocking YouTube Profitability  Recent Guidelines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-find-the-perfect-blend-of-joy-and-sorrow-in-these-meme-feeds-for-2024/"><u>[Updated] Find the Perfect Blend of Joy and Sorrow in These Meme Feeds for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplified-guide-turning-videos-upside-down-with-vlc/"><u>[Updated] Simplified Guide  Turning Videos Upside Down with VLC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-synching-youtube-songs-to-video-frameworks/"><u>[Updated] Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-snapseed-starters-handbook-for-photo-editing/"><u>[Updated] The Snapseed Starter's Handbook for Photo Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-split-videos-in-windows-live-movie-maker/"><u>2024 Approved How to Split Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-best-free-online-glitch-effect-generators/"><u>2024 Approved The Best Free Online Glitch Effect Generators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-5-hand-drawing-whiteboard-animation-makers/"><u>2024 Approved Top 5 Hand Drawing Whiteboard Animation Makers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-essentials-must-have-apps-from-google-play/"><u>Android Essentials Must-Have Apps From Google Play</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animation-mastery-the-best-professional-software-for-macwindows/"><u>Animation Mastery The Best Professional Software for Mac/Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-green-screen-apps-for-android-and-ios/"><u>Best Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-no-cost-video-editors-for-side-by-side-videos-online-and-offline-for-2024/"><u>Best No-Cost Video Editors for Side-by-Side Videos Online & Offline for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/canon-camcorder-video-editing-for-beginners-a-comprehensive-guide-for-2024/"><u>Canon Camcorder Video Editing for Beginners A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/comcast-xfinity-vs-tivo-which-dvr-reigns-supreme-in-2024/"><u>Comcast Xfinity vs TiVo Which DVR Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-unforgettable-mac-slideshows-with-ezvids-easy-video-editor-for-2024/"><u>Create Unforgettable Mac Slideshows with Ezvids Easy Video Editor for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/customize-your-video-layout-tips-and-tricks-for-changing-shape/"><u>Customize Your Video Layout Tips and Tricks for Changing Shape</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-files-on-windows-8-with-ease-2023s-top-editor-for-2024/"><u>Edit AVI Files on Windows 8 with Ease 2023S Top Editor for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mov-files-for-free-top-10-video-editing-software-for-2024/"><u>Edit MOV Files for Free Top 10 Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-your-way-to-viral-best-vlog-video-editing-software-for-hot-platforms-for-2024/"><u>Edit Your Way to Viral Best Vlog Video Editing Software for Hot Platforms for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-mastering-lower-thirds-in-fcpx/"><u>Elevate Your Videos Mastering Lower Thirds in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/enhance-your-video-with-pro-audio-editing-in-fcp-for-2024/"><u>Enhance Your Video with Pro Audio Editing in FCP for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/evaluating-m1s-capabilities-for-heavy-duty-media-editing-for-2024/"><u>Evaluating M1's Capabilities for Heavy-Duty Media Editing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mpeg-video-splitter-roundup-top-picks-for-2024/"><u>Free MPEG Video Splitter Roundup Top Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mpeg-video-union-top-5-recommended-tools/"><u>Free MPEG Video Union Top 5 Recommended Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-split-screen-video-creators-web-based-and-desktop-options-for-2024/"><u>Free Split Screen Video Creators Web-Based and Desktop Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software-for-2024/"><u>From Sketch to Screen Mastering Animation Drawing with the Top 7 Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life-for-2024/"><u>Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gif-speed-boosters-top-online-and-mobile-apps/"><u>GIF Speed Boosters Top Online and Mobile Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/home-movie-mastery-ezvid-for-mac-makes-video-creation-a-breeze/"><u>Home Movie Mastery Ezvid for Mac Makes Video Creation a Breeze</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-live-stream-to-youtube-with-wirecast/"><u>In 2024, How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>In 2024, Seamless Transition  From Smartphones to PC & Mac Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-a78-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A78 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lgs-visionary-pursuit-deep-insights-into-the-31mu97-b-monitor-review-for-2024/"><u>LG's Visionary Pursuit  Deep Insights Into the 31MU97-B Monitor Review for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-free-reproduction-tools-for-switch-games/"><u>Superior Free Reproduction Tools for Switch Games</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
