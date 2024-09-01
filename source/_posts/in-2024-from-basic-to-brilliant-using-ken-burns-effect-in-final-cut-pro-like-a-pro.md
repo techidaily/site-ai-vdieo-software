@@ -1,0 +1,167 @@
+---
+title: In 2024, From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
+date: 2024-08-31T11:04:17.980Z
+updated: 2024-09-01T11:04:17.980Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes In 2024, From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
+excerpt: This Article Describes In 2024, From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
+keywords: from still to stunning how to use ken burns effect in final cut pro for maximum impact,how to make ken burns effect in final cut pro,unlock cinematic storytelling using ken burns effect in final cut pro,mastering the ken burns effect in final cut pro a step by step guide,from basic to brilliant mastering picture in picture in final cut pro,ken burns effect tutorial from basics to pro,from basic to brilliant using ken burns effect in final cut pro like a pro
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
+---
+
+## From Basic to Brilliant: Using Ken Burns Effect in Final Cut Pro Like a Pro
+
+# How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Those new to the Final Cut Pro or Pro X programs will be finding it a little challenging to [add effects](https://tools.techidaily.com/wondershare/filmora/download/) or edit videos. It’s a complex film editing software that takes a while to use. With our help, however, we can have you mastering the Ken Burns effect in Final Cut Pro. Do you want to know how to make ken burns effect in final cut pro? Listen closely.
+
+* [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
+* [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
+
+## Part 1: How to Make Ken Burns Effect Final Cut Pro
+
+To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
+
+First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
+
+### What is the Ken Burns Effect
+
+[Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
+
+The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
+
+Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+### Steps to Making the Ken Burns Effect Final Cut Pro
+
+Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
+
+**Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
+
+![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
+
+**Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
+
+**Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
+
+**Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Ken Burns Customization
+
+You can also customize the ken burns effects in Final Cut.
+
+**Step 1** – To transform from the Ken Burns Effect into customization mode, drag the green box in the viewer.
+
+**Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
+
+![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+**Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
+
+**Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Zoom in Final Cut Pro Using Keyframing
+
+Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
+
+You can use keyframing to zoom and pan. We will talk you through how you use it to zoom in, and you should be able to work out the rest from there.
+
+**Step 1** – Set the playhead at the start of the chosen clip. This is where you want the zoom effect to start from.
+
+**Step 2** – Click to select the effects menu. It should be at the bottom of the screen.
+
+**Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
+
+![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
+
+**Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
+
+**As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+## The Ken Burns Conclusion
+
+The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
+
+The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-webcam-recording-apps-in-windows-10-reviewed/"><u>[New] In 2024, Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-video-workflow-capture-save-refine-using-adobe-connect-for-2024/"><u>[New] Streamlining Video Workflow  Capture, Save, Refine Using Adobe Connect for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[New] Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-6-unparalleled-mac-apps-for-video-grabbing-for-2024/"><u>[Updated] 6 Unparalleled Mac Apps for Video Grabbing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-epic-comic-strip-crafting-app/"><u>[Updated] Epic Comic Strip Crafting App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-how-to-watch-videos-quickly-and-smoothly/"><u>[Updated] In 2024, Instagram  How to Watch Videos Quickly & Smoothly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cut-the-clutter-organizing-chatgpt-exchanges-through-folders/"><u>Cut the Clutter: Organizing ChatGPT Exchanges Through Folders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/discover-prime-sites-to-download-your-got-favorite-tunes/"><u>Discover Prime Sites to Download Your GoT Favorite Tunes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-6-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-filmora-13-editor-download-create-stunning-videos/"><u>In 2024, Free Filmora 13 Editor Download Create Stunning Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-implementing-closed-captions-on-social-video-platforms-snapchat/"><u>In 2024, Implementing Closed Captions on Social Video Platforms (Snapchat)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-funniest-meme-maker-apps-for-android-and-ios-users/"><u>In 2024, The Funniest Meme Maker Apps for Android and iOS Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c51frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C51FRP Lock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/low-cost-filmmaking-essentials-7-must-know-software-2023-update/"><u>Low-Cost Filmmaking Essentials 7 Must-Know Software 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-titles-in-fcpx-a-step-by-step-guide/"><u>Mastering Titles in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-magic-top-rated-apps-for-ios-and-android-phones/"><u>New Bokeh Magic Top-Rated Apps for iOS and Android Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-clean-audio-clear-message-removing-unwanted-sounds-in-fcpx/"><u>New Clean Audio, Clear Message Removing Unwanted Sounds in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vn-video-editor-for-mac-or-explore-alternative-options/"><u>New Download VN Video Editor for Mac or Explore Alternative Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-install-linux-on-chromebook/"><u>New How to Install Linux on Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quick-guide-how-to-save-final-cut-pro-project-for-2024/"><u>Quick Guide How to Save Final Cut Pro Project？ for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-frustration-easy-filmora-coupon-code-access/"><u>Say Goodbye to Frustration Easy Filmora Coupon Code Access</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-green-screen-apps-for-androidios-best-2023-for-2024/"><u>Top 10 Free Green Screen APPs for Android/iOS Best 2023 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-animation-tools-free-and-premium-options-compared/"><u>Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-wmv-video-joiner-programs/"><u>Top-Rated Free WMV Video Joiner Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-avs-video-editor-review-is-it-right-for-you/"><u>Unbiased AVS Video Editor Review Is It Right for You?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creativity-top-3d-animation-software-free-and-paid/"><u>Unlock Your Creativity Top 3D Animation Software Free and Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>Updated Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-essential-fcpx-plugins-free-and-paid-favorites/"><u>Updated Essential FCPX Plugins Free and Paid Favorites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-paid-3d-animation-solutions-a-comprehensive-review/"><u>Updated Free and Paid 3D Animation Solutions A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-video-editing-tips-tips-for-making-a-better-home-movie/"><u>Updated Video Editing Tips - Tips for Making a Better Home Movie</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pc-review-a-quick-overview/"><u>VN Video Editor PC Review A Quick Overview</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
