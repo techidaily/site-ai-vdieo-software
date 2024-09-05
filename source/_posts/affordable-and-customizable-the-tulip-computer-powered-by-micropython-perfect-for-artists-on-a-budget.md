@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2024-08-31T11:12:35.370Z
-updated: 2024-09-01T11:12:35.370Z
+date: 2024-09-04T13:16:23.639Z
+updated: 2024-09-05T13:16:23.639Z
 tags:
   - desktop
 categories:
@@ -146,5 +146,8 @@ __Ayaneo Retro Mini PC AM01 Specification__
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

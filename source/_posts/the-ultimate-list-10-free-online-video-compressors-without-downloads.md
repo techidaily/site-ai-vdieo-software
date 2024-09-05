@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List 10 Free Online Video Compressors Without Downloads
-date: 2024-08-31T11:05:59.461Z
-updated: 2024-09-01T11:05:59.461Z
+date: 2024-09-04T13:16:30.032Z
+updated: 2024-09-05T13:16:30.032Z
 tags: 
   - video editing software
   - video editing
@@ -61,10 +61,6 @@ After compression, you can upload and share the video to YouTube, Vimeo, Faceboo
 * Modest video compression features
 * A limited selection of output video file formats
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### 3. [AConvert](https://www.aconvert.com/video/)
 
 **Price:**  Free
@@ -74,7 +70,10 @@ Converting PDF files, word documents or videos with AConvert is a straightforwar
 ![aconvert online video compressor  ](https://images.wondershare.com/filmora/article-images/aconvert-online-video-compressor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 To start compressing a video with AConvert you have to navigate to the **Video window** and then import a video from your hard drive or from a file hosting service like Dropbox. The Target Format drop-down menu lets you **choose from a variety of output video file formats**, like AVI, MP4 or MOV. Afterward, you should select to **change Video Size, Bitrate, Frame Rate or Video Aspect settings** from the Options drop-down menu and proceed to select the new resolution from the Video Size menu. AConvert offers a huge selection of preset resolutions, and it lets you adjust the bitrate which can reduce the size of your video even further.
 
@@ -99,9 +98,6 @@ This is a simple video compressor that allows you to **reduce the size of audio,
 
 ![YouCompress  online video compressor  ](https://images.wondershare.com/filmora/article-images/youcompress-online-video-compressor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 You just have to import a video you’d like to compress from a folder on your computer into YouCompress and click on the **Upload File & Compress** button. This online video compressor doesn’t have a video file limit, so how long the file compression is going to last depends on the size of the original video file.
 
 **Pros**
@@ -125,7 +121,10 @@ In case you are looking for a video compressor that is both reliable and easy to
 ![onlineconverter  video compressor  ](https://images.wondershare.com/filmora/article-images/onlineconverter-compress-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Online Converter lets you **choose the final size of the video** you are compressing and it offers a number of audio quality options. You should keep in mind that reducing a file’s size too much can cause the compression process to fail, and avoid compressing videos more than you need to. In addition, you can use Online Converter’s Resize Video tool to reduce the size of your videos online.
 
@@ -143,7 +142,10 @@ Online Converter lets you **choose the final size of the video** you are compres
 * File size limits to 200MB
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 6. [PS2PDF Online MP4 Video Compressor](https://www.ps2pdf.com/compress-mp4)
 
@@ -153,6 +155,18 @@ Compressing a video file with this web-based video compressor can be completed i
 
 ![ps2pdf  online video compressor  ](https://images.wondershare.com/filmora/article-images/ps2pdf-online-mp4-video-compressor.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 There are several ways to reduce the size of a file with PS2PDF, so you can choose if you want to **shrink videos by percentage, preset quality, variable bitrate or by using the constant bitrate.** Opting for slower compression speeds will enable you to preserve the quality of a video while speeding up the compression process is going to save you time, but it may result in poor output video quality.
 
 **Pros**
@@ -168,9 +182,6 @@ There are several ways to reduce the size of a file with PS2PDF, so you can choo
 * No file sharing features
 * The quality of the output video depends on the speed of the compression process
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 7. [Zamzar](https://www.zamzar.com/)
 
 **Price:**  Free, pricing plans start at $9,00 per month
@@ -203,7 +214,10 @@ To compress a video file with Zamzar you just have to upload it to the platform 
 ![cloudconvert online video compressor  ](https://images.wondershare.com/filmora/article-images/cloudconvert-convert-video-to-compress.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 CloudConvert lets you change a v**ideo’s resolution, its aspect ratio, the number of frames per second and bitrate.** Moreover, you can adjust the audio settings for each video you compress, so you can either remove a video’s audio entirely or fine-tune its bitrate or frequency.
 
@@ -220,6 +234,12 @@ CloudConvert lets you change a v**ideo’s resolution, its aspect ratio, the num
 * You must purchase one of the pricing plans if you want to convert more than five files in a row
 * Prices of subscription models depend on conversion minutes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9. ConvertFiles Online File Converter
 
 **Price:**  Free
@@ -228,9 +248,6 @@ ConvertFiles isn’t the most powerful video compressor you can find on the mark
 
 ![convertfiles online video compressor  ](https://images.wondershare.com/filmora/article-images/convertfiles-online-file-converter-video-compressor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 To start converting a video file you just have to import it to the platform and then choose the output video file format you want. However, you won’t be able to convert or compress video files that are larger than 250MB with the ConvertFiles platform.
 
 **Pros**
@@ -246,9 +263,6 @@ To start converting a video file you just have to import it to the platform and 
 * The file conversion process is slow
 * Provides only basic file compression tools
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10. [Clideo](https://clideo.com/compress-video)
 
 **Price:**  Free, pricing plans start at $6,00 per month
@@ -257,6 +271,12 @@ Clideo is a web-based video editing app that lets you perform **basic video edit
 
 ![clideo online video compressor  ](https://images.wondershare.com/filmora/article-images/clideo-online-video-compressor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can then upload a video file from your computer, Google Drive, Dropbox or via URL and Clideo will set all the compression parameters automatically. The free version of Clideo **watermarks all videos you compress** with it, and you have to opt for a subscription plan if you want to edit your videos or remove watermarks from them after the compression process is completed.
 
 **Pros**
@@ -289,6 +309,18 @@ The size of a video you recorded with your digital camera or a Smartphone can so
 | Convert Files                      | 250MB          | MP4, DOCX, JPEG... | No                       | Yes       |
 | Clideo                             | 500MB          | MOV, MP4, AVI...   | No                       | Yes       |
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit and Compress Video Size with Wondershare Filmora Video Editor
 
 If you are using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)to edit video and want to [compress the video size](https://tools.techidaily.com/wondershare/filmora/download/) at export, you can adjust the frame rate, bit rate or resolution to compress the video size.
@@ -299,17 +331,26 @@ For Win 7 or later (64-bit)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
