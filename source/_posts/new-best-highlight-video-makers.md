@@ -1,7 +1,7 @@
 ---
 title: New Best Highlight Video Makers
-date: 2024-09-09T04:58:46.911Z
-updated: 2024-09-10T04:58:46.911Z
+date: 2024-09-13T07:37:07.102Z
+updated: 2024-09-14T22:27:18.934Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: best 3d video makers,best highlight video makers desktop mobile choice
 thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best of the Best: Highlight Video Makers for Every Platform
 
 # Best Highlight Video Makers
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -46,12 +34,6 @@ So, here are some of the best highlight video makers that you can use on Windows
 
 ## Part 2: Best Highlight Video Makers on Windows and Mac
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Wondershare Filmora Video Editor
 
 [Wondershare’s Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor is a simple yet powerful video highlight reel maker available for Mac and Windows. It offers the standard trimming, transitions, overlays, and effects that are great for [editing your videos](https://tools.techidaily.com/wondershare/filmora/download/) to make highlight videos to share on social media and show your friends. It has an intuitive interface and has a huge range of features. The interface has a drag and drop option enabling you to quickly arrange, trim, and edit various media elements making it a breeze to create highlight videos.
@@ -62,12 +44,6 @@ Filmora supports all the modern video formats as well as HD and 4K video editing
 
 ![ Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Pros**
 
 Simple and intuitive interface
@@ -83,6 +59,13 @@ Scene detection for cutting large video quickly
 Add-on feature pack is expensive
 
 Slightly slow AMD processor
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Windows 10 Photos App
 
@@ -108,18 +91,6 @@ Video highlight with soundtrack, text, and transitions
 
 Lacks geometry correction
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Hudl Premium Highlights
 
 If you are a high school athlete looking to get a scholarship for higher education, the best way to pitch to application boards and professional coaches is to send them a video that highlights your skills. You can easily create highlight videos with Hudle Premium Highlights. It is one of the best paid highlight video makers for sports and is compatible with Mac, Windows, iOS, and Android devices.
@@ -138,18 +109,6 @@ Various features to make highlight videos.
 
 Not enough customization available
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Vibby
 
 Vibby is a free lightweight web-based highlight video maker that allows you to easily highlight and show only parts of the video you want audiences to see. With this tool you can also add notes and comments on the selection portions, making the video more engaging.
@@ -171,11 +130,12 @@ Free to use
 No cons found
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Magisto
 
 Magisto is one of the best video highlight reel makers allowing marketers, business professionals, and individuals to create enticing videos. Available for Mac, Windows, iOS, and Android devices, it includes a licensed music library from independent artists. Magisto offers a free seven-day trial, but it requires you to enter the credit card details. In the trial, you get access to all the features. One of the best features is the video highlight where you can convert your memorable videos and pictures into an unforgettable video highlighting the special moments.
@@ -196,12 +156,6 @@ No phone support offered
 
 No feature to edit photos
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Highlight Video Maker App for iPhone and Android
 
 If you are looking for the best video highlight reel maker for iPhone and Android devices, then [Quik from GoPro](https://gopro.com/en/us/shop/quik-app-video-photo-editor) is the one. The previous editions of Quik were free, but the new version requires payment to unlock all the features. However, you get a free trial as well to know about the features. This highlight video maker can pull out any media stored on your phone or tablet as well as from your GoPro cloud storage and automatically highlight the video in seconds, complete with royalty-free music and filters.
@@ -228,58 +182,24 @@ You need to use proper equipment for the events to ensure the footage looks grea
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-much-do-you-earn-when-a-million-watch-youtube/"><u>[Updated] How Much Do You Earn When a Million Watch Youtube?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-lenovos-easy-pathway-to-screen-recording-for-2024/"><u>[Updated] Lenovo's Easy Pathway to Screen Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-live-stream-lifeline-high-quality-recorders-reviewed-in-obs-for-2024/"><u>[Updated] Live Stream Lifeline  High-Quality Recorders Reviewed in OBS for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u/"><u>2024 Approved  Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-prints-with-microsofts-edge-shield-windows-11/"><u>Activating Prints with Microsoft's Edge Shield (Windows 11)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/clearing-the-path-for-smooth-fb-stories-posting-and-playback/"><u>Clearing the Path for Smooth FB Stories Posting and Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-advanced-tracking-technology/"><u>Enhanced User Experience with Advanced Tracking Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-discrepancy-in-speed-why-is-chatgpt-4-not-as-fast-as-chatgpt-35/"><u>Exploring The Discrepancy in Speed: Why Is ChatGPT-4 Not As Fast as ChatGPT-3.5?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cities-skylines-2-not-launching/"><u>How to Fix Cities: Skylines 2 Not Launching</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-itel-p55-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Itel P55 is off? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>In 2024, Dial-Up Dominance  A Guide to Visual Podcast Identity</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-download-playback-streaming-youtube-videos-on-ios-securely-and-smoothly/"><u>In 2024, Download Playback  Streaming Youtube Videos on iOS Securely and Smoothly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-artists-guide-to-best-free-3d-psds/"><u>In 2024, Innovative Artists' Guide to Best Free 3D PSDs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-color-grading-employing-luts-from-cg-central/"><u>In 2024, The Art of Color Grading  Employing LUTs From CG Central</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-editors-edge-techniques-for-removing-background-noise-and-selective-muting-in-video-post-production/"><u>In 2024, The Editors Edge Techniques for Removing Background Noise and Selective Muting in Video Post-Production</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>In 2024, Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>ION's Innovation Showcased  Action Camera Review of Pro 3 Model</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-subtitle-edit-mac-alternative-here-are-the-best-options/"><u>Looking for Subtitle Edit Mac Alternative? Here Are the Best Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mediamolder-for-mac/"><u>MediaMolder for Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>New A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>New Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-avi-video-joiner-software-merge-clips-in-minutes/"><u>New Free AVI Video Joiner Software Merge Clips in Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-download-adobe-premiere-pro-cs6-for-mac-os/"><u>New Free Download Adobe Premiere Pro CS6 for Mac OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-get-creative-with-zero-cost-16-best-free-video-editing-software/"><u>New Get Creative with Zero Cost 16 Best Free Video Editing Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skype-symphony-a-roundup-of-high-quality-ringtones-for-2024/"><u>Skype Symphony  A Roundup of High-Quality Ringtones for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-5-top-reaction-video-creators/"><u>The Cream of the Crop 5 Top Reaction Video Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editors-2023-update/"><u>The Ultimate Guide to Free FLV Video Editors (2023 Update)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-proper-steps-to-refresh-your-dell-camera-driver/"><u>Ultimate Guide: Proper Steps to Refresh Your Dell Camera Driver</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-essential-video-metadata-editors-for-mac-users-updated-2023/"><u>Updated 8 Essential Video Metadata Editors for Mac Users (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-subtitle-editing-tools-for-mac-a-comprehensive-list-of-alternatives/"><u>Updated Best Subtitle Editing Tools for Mac A Comprehensive List of Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-webm-to-mp3-converters-for-fast-and-easy-file-conversion/"><u>Updated Best WebM to MP3 Converters for Fast and Easy File Conversion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-jaw-dropping-slow-mo-videos-with-these-top-10-editors/"><u>Updated Create Jaw-Dropping Slow Mo Videos with These Top 10 Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-title-effects-take-your-videos-to-the-next-level/"><u>Updated FCPX Title Effects Take Your Videos to the Next Level</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-flv-video-editor-for-windows-8-a-comprehensive-review/"><u>Updated FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-import-and-export-videos-in-adobe-premiere/"><u>Updated How to Import and Export Videos in Adobe Premiere</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-premier-free-mp3-harmonizer-software/"><u>Updated In 2024, Premier Free MP3 Harmonizer Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-ipad-video-editor-2024-updated/"><u>Updated Top 5 Best Ipad Video Editor 2024 Updated</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-for-pc-a-simplified-review-and-tutorial/"><u>VN Video Editor for PC A Simplified Review and Tutorial</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -287,3 +207,20 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-roguelike-vs-roguelite-debates-and-history-for-2024/"><u>[New] Roguelike Vs. Roguelite Debates and History for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>[Updated] 2024 Approved Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-ultimate-farming-tactics-in-valheim/"><u>[Updated] Unveiling the Ultimate Farming Tactics in Valheim</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-empowered-solutions-for-advanced-web-analytics-and-personalization/"><u>Cookiebot Empowered Solutions for Advanced Web Analytics and Personalization</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-f5-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco F5 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-metho/"><u>New Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cod-black-ops-cold-war-glitch-tips-for-handling-code-80070057/"><u>Solving Cod: Black Ops Cold War Glitch: Tips for Handling Code 80070057</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-online-tone-tools-for-easy-use/"><u>Top 5 Free Online Tone Tools for Easy Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>Updated 2024 Approved How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-apple-discontinued-final-cut-express-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>Why Apple Discontinued Final Cut Express? What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
+</ul></div>
+

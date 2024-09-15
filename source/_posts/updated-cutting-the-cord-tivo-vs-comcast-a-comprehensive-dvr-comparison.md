@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison
-date: 2024-09-09T04:58:48.067Z
-updated: 2024-09-10T04:58:48.067Z
+date: 2024-09-12T20:24:22.576Z
+updated: 2024-09-14T16:48:57.921Z
 tags: 
   - video editing software
   - video editing
@@ -48,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -64,12 +58,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -80,28 +68,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -111,11 +81,18 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
@@ -123,21 +100,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
@@ -145,11 +117,18 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
@@ -170,56 +149,23 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-complete-stardew-compendium-focus-on-ginger-isle/"><u>[New] 2024 Approved  The Complete Stardew Compendium  Focus on Ginger Isle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-cutting-edge-home-theater-top-10-players-in-24-for-2024/"><u>[New] Cutting-Edge Home Theater  Top 10 Players in '24 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-unique-characteristics-of-youtube-and-dailymention/"><u>[New] The Unique Characteristics of YouTube & DailyMention</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[New] Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[Updated] 2024 Approved  Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>2024 Approved  [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-constructing-unique-instagram-story-panels/"><u>2024 Approved  Constructing Unique Instagram Story Panels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fix-successful-non-operational-obs-camera/"><u>2024 Approved  Fix Successful  Non-Operational OBS Camera</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immerse-in-world-heritage-through-vr/"><u>2024 Approved  Immerse in World Heritage Through VR</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-hosting-solutions-10-best-options-for-individuals-and-businesses/"><u>In 2024, Free Video Hosting Solutions 10 Best Options for Individuals and Businesses</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-top-10-movies-crafted-with-final-cut-pro/"><u>In 2024, From Script to Screen Top 10 Movies Crafted with Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-this-article-we-will-introduce-you-vn-video-editor-windows-for-pc-and-give-a-brief-review-on-vn-video-editor-for-pc-free-download/"><u>In This Article, We Will Introduce You Vn Video Editor Windows for PC and Give a Brief Review on Vn Video Editor for PC Free Download</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovation-showdown-ai-triumphs-revealed/"><u>Innovation Showdown: AI Triumphs Revealed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/macbook-video-editing-download-and-set-up-videoleap-in-minutes/"><u>MacBook Video Editing Download and Set Up Videoleap in Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-power-user-master-these-20-shortcuts/"><u>New Adobe Premiere Pro Power User Master These 20 Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animated-video-magic-12-best-online-makers-to-try-now/"><u>New Animated Video Magic 12 Best Online Makers to Try Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-the-best-video-editor-for-mac-splice/"><u>New Download the Best Video Editor for Mac Splice</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-approved-stop-motion-animation-software-for-mac-and-pc/"><u>New Expert-Approved Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-express-yourself-but-better-the-advantages-of-final-cut-pro/"><u>New Express Yourself, But Better The Advantages of Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-face-blur-mastery-expert-video-editing-techniques/"><u>New Face Blur Mastery Expert Video Editing Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-face-generation-made-easy-free-online-tools-and-resources/"><u>New Face Generation Made Easy Free Online Tools and Resources</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-solutions-the-top-5-online-video-mergers/"><u>New Free Video Editing Solutions The Top 5 Online Video Mergers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-get-creative-with-slow-mo-top-video-editing-software-for-filmmakers/"><u>New Get Creative with Slow Mo Top Video Editing Software for Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-avchd-video-editing-software/"><u>New Top 5 AVCHD Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/online-movie-trailer-design-studios/"><u>Online Movie Trailer Design Studios</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-video-editing-essentials-tips-and-tricks-for-2024/"><u>OS X Mavericks Video Editing Essentials Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reversing-tiktok-videos-101-master-the-technique-with-this-ultimate-guide/"><u>Reversing TikTok Videos 101 Master the Technique with This Ultimate Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-edits-10-best-fcpx-plugins/"><u>Revolutionize Your Edits 10 Best FCPX Plugins</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/text-animation-made-easy-top-mobile-video-editing-apps/"><u>Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-free-and-paid-3d-animation-software-for-artists/"><u>The Best of Both Worlds Free and Paid 3D Animation Software for Artists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-free-and-paid-time-lapse-video-editors/"><u>The Best of Both Worlds Free and Paid Time-Lapse Video Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-os-x-mavericks-video-editing-handbook/"><u>The Ultimate OS X Mavericks Video Editing Handbook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-audio-experience-with-the-free-m-audio-fast-track-ultradriver-downloader/"><u>Ultimate Audio Experience with the Free M-Audio Fast Track UltraDriver Downloader</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-green-screen-apps-for-android-and-ios/"><u>Updated Best Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-gopro-studio-discover-the-best-video-editing-tools-for-your-action-cam/"><u>Updated Ditch GoPro Studio Discover the Best Video Editing Tools for Your Action Cam</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters/"><u>Updated Edit AVI Videos on the Go Best Mobile and Online Video Cutters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-reaction-videos-tips-and-tricks-using-filmora-2023-edition/"><u>Updated Effortless Reaction Videos Tips and Tricks Using Filmora 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-creating-engaging-picture-in-picture-effects/"><u>Updated Final Cut Pro Creating Engaging Picture-in-Picture Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-beginners-guide-to-profitable-animated-advertising-in-facebook/"><u>[New] 2024 Approved A Beginner's Guide to Profitable Animated Advertising in Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhance-your-tiktok-videos-with-expert-numeric-manipulation-skills-for-2024/"><u>[Updated] Enhance Your TikTok Videos with Expert Numeric Manipulation Skills for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-toshiba-bluetooth-chip-driver-now/"><u>Download the Latest Toshiba Bluetooth Chip Driver Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-growth-recipe-for-youtube-from-thousands-to-millions/"><u>In 2024, Rapid Growth Recipe for YouTube From Thousands to Millions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mov-video-orientation-changers-top-5-list/"><u>New Free MOV Video Orientation Changers Top 5 List</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/powershot-sx620-hs-the-ultimate-travel-companion/"><u>PowerShot SX620 HS: The Ultimate Travel Companion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/protect-your-videos-with-these-free-watermarking-tools-for-2024/"><u>Protect Your Videos with These Free Watermarking Tools for 2024</u></a></li>
+</ul></div>
+

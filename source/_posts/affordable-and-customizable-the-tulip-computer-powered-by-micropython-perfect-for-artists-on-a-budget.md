@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2024-09-09T04:58:45.880Z
-updated: 2024-09-10T04:58:45.880Z
+date: 2024-09-12T10:57:52.365Z
+updated: 2024-09-14T20:41:24.736Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/1c4a4d46a04bc65b65a32c086aba8a7780a0882996e03bd33c00c34f29d107d4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -52,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -66,18 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -86,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,67 +77,30 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-prime-time-top-10-methods-for-flawless-cricket-broadcasts-for-2024/"><u>[New] Prime Time  Top 10 Methods for Flawless Cricket Broadcasts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-voice-customization-made-simple-with-these-top-apps/"><u>[New] Voice Customization Made Simple with These Top Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-compreayers-guide-to-smooth-and-clear-xbox-screen-recordings/"><u>[Updated] 2024 Approved  A Compreayer’s Guide to Smooth and Clear Xbox Screen Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques-for-2024/"><u>[Updated] Creating Compelling Call-To-Actions  Utilizing Three Critical Copy Techniques for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-tutorial-implementing-a-clean-color-separation/"><u>[Updated] Instagram Tutorial  Implementing a Clean Color Separation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[Updated] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-increase-your-channels-reach-with-these-2-tricks/"><u>2024 Approved  Increase Your Channel's Reach with These 2 Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-12-video-grabber-online-to-download-any-video-you-like/"><u>2024 Approved  Top 12 Video Grabber Online to Download Any Video You Like</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cinematic-basics-a-list-of-essential-camera-movements/"><u>Cinematic Basics  A List of Essential Camera Movements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/explore-the-best-free-passport-picture-creation-services-online-for-2024/"><u>Explore the Best Free Passport Picture Creation Services Online for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-smart-7-hd-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Smart 7 HD</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-v29-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo V29 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s24plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S24+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-noisy-to-pro-how-to-eliminate-background-noise-in-fcpx/"><u>In 2024, From Noisy to Pro How to Eliminate Background Noise in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-flip-a-clip-in-final-cut-pro-with-4-steps/"><u>In 2024, How to Flip a Clip in Final Cut Pro with 4 Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-adobe-premiere-top-6-tricks-for-professional-grade-videos/"><u>Mastering Adobe Premiere Top 6 Tricks for Professional-Grade Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-free-video-editors-that-support-webm-format/"><u>New 10 Best Free Video Editors That Support WebM Format</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-10-free-4k-video-converter-tools/"><u>New Best of the Best Top 10 Free 4K Video Converter Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-design-your-dream-face-free-online-generators/"><u>New Design Your Dream Face Free Online Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>New Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-photography-top-vignette-apps-for-iphone-ipad-and-android/"><u>New Elevate Your Photography Top Vignette Apps for iPhone, iPad, and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-smoothers-our-top-picks/"><u>New Free Online Video Smoothers Our Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-wmv-video-cutter-top-picks/"><u>New Free WMV Video Cutter Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-titles-in-final-cut-pro-x-2023-edition/"><u>New The Ultimate Guide to Titles in Final Cut Pro X 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-3d-animation-tools-free-and-premium-options-compared/"><u>New Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/optimize-your-mac-a-step-by-step-guide-to-freeing-up-space-for-fcpx/"><u>Optimize Your Mac A Step-by-Step Guide to Freeing Up Space for FCPX</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-mfc71dll-is-unavailable-or-not-found-strategies-that-work/"><u>Overcoming 'MFC71.DLL' Is Unavailable or Not Found – Strategies That Work</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/retro-revival-achieve-vhs-style-in-final-cut-pro/"><u>Retro Revival Achieve VHS Style in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/split-wmv-videos-for-free-top-5-software-recommendations/"><u>Split WMV Videos for Free Top 5 Software Recommendations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/surging-up-the-search-listings-key-tips-for-optimizing-your-videos-for-2024/"><u>Surging Up the Search Listings  Key Tips for Optimizing Your Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp/"><u>Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-fast-and-the-curious-unveiling-the-pros-and-cons-of-the-oneplus-8ts-cameras/"><u>The Fast and the Curious: Unveiling the Pros and Cons of the OnePlus 8T's Cameras</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-chromecast-guide-streaming-any-video-file-type-made-easy/"><u>The Ultimate Chromecast Guide Streaming Any Video File Type Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-dvr-face-off-tivo-vs-comcast-xfinity-for-2024/"><u>The Ultimate DVR Face-Off TiVo vs Comcast Xfinity for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-4k-video-editing-software-for-2024/"><u>Top 4K Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-videos-into-animated-masterpieces-a-step-by-step-guide/"><u>Transform Your Videos Into Animated Masterpieces A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-playstation-4-hang-ups-a-detailed-walkthrough/"><u>Ultimate Guide: Resolving PlayStation 4 Hang-Ups - A Detailed Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptzero-the-ultimate-tool-for-identifying-artificers-prose/"><u>Understanding GPTZero: The Ultimate Tool for Identifying Artificer's Prose</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-stunning-transitions-top-10-premiere-pro-plugins/"><u>Unlock Stunning Transitions Top 10 Premiere Pro Plugins</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-cs6-mac-download-latest-update/"><u>Updated Adobe Premiere Pro CS6 Mac Download - Latest Update</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-power-user-master-these-20-shortcuts/"><u>Updated Adobe Premiere Pro Power User Master These 20 Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-video-editing-software-for-32-bit-windows/"><u>Updated Best Free Video Editing Software for 32-Bit Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-neon-font-generators-create-stunning-text-in-minutes/"><u>Updated Best Neon Font Generators Create Stunning Text in Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-beyond-adobe-top-4-premiere-rush-alternatives-for-creators/"><u>Updated Beyond Adobe Top 4 Premiere Rush Alternatives for Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>Updated Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-viewing-experience-top-rated-vr-video-conversion-software/"><u>Updated Elevate Your Viewing Experience Top-Rated VR Video Conversion Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-picks-best-text-animation-and-tracking-software-2023/"><u>Updated Expert Picks Best Text Animation and Tracking Software 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>Updated FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-filmora-download-without-viruses-or-malware-expert-advice/"><u>Updated Free Filmora Download without Viruses or Malware Expert Advice</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mp4-video-trimmers-top-picks/"><u>Updated Free MP4 Video Trimmers Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-for-gamers-the-best-options/"><u>Updated Free Video Editing for Gamers The Best Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>Updated From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-moving-to-still-a-simple-guide-to-freezing-frames-in-videos/"><u>Updated From Moving to Still A Simple Guide to Freezing Frames in Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-animated-videos-like-a-pro-top-online-tools-and-makers/"><u>Updated Make Animated Videos Like a Pro Top Online Tools and Makers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/videopad-2023-review-a-top-notch-video-editing-solution-or-not/"><u>Videopad 2023 Review A Top-Notch Video Editing Solution or Not?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/videopad-video-editor-review-features-pricing-and-verdict/"><u>Videopad Video Editor Review Features, Pricing, and Verdict</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-craft-compelling-fb-video-ads-free-toolkit-included-for-2024/"><u>[New] Craft Compelling FB Video Ads - Free Toolkit Included for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>[Updated] 2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-manufacture-memorable-visuals-on-giphy/"><u>[Updated] Manufacture Memorable Visuals on Giphy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>2024 Approved Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/future-of-logistics-exploring-ais-impact-on-supply-chains-insights-from-supplychainbrain/"><u>Future of Logistics: Exploring AI's Impact on Supply Chains | Insights From SupplyChainBrain</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-compre-written-by-daniel-kelley/"><u>In 2024, A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>In 2024, Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-techniques-to-upload-extended-videographics-on-instagram/"><u>In 2024, Techniques to Upload Extended Videographics on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>New Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-the-secrets-behind-the-apple-imacs-stunning-design-and-powerful-performance-a-thorough-215-4k-review/"><u>Unlocking the Secrets Behind the Apple iMac's Stunning Design and Powerful Performance: A Thorough 21.5 4K Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-powerful-video-editing-software-alternatives-to-final-cut-pro-x/"><u>Updated 10 Powerful Video Editing Software Alternatives to Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-to-download-top-rated-3d-animation-apps-for-mobile-devices/"><u>Updated Free to Download Top-Rated 3D Animation Apps for Mobile Devices</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

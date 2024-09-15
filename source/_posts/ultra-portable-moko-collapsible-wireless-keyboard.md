@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2024-09-09T04:58:51.258Z
-updated: 2024-09-10T04:58:51.258Z
+date: 2024-09-12T18:53:43.468Z
+updated: 2024-09-15T05:48:10.862Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -13,28 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/wHZ-ZuGaBn8D_tIZ9YtAursona4=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeffrey Daniel Chadwick
 
  What We Like
@@ -55,22 +37,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeffrey Daniel Chadwick
 
 [View On Amazon $100](https://www.amazon.com/Kensun-Performance-Portable-Compressor-Inflator/dp/B01J8Y91GC/?tag=lifewire-onsite-prod-20&ascsubtag=4776821%7Cn7137248c5e6f4b0b979879dcac87fc7908%7CB01J8Y91GC)
@@ -116,11 +86,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -147,16 +118,17 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -187,8 +159,6 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,51 +168,19 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capture-your-pc-hp-laptop-screen-recording-guide/"><u>[New] Capture Your PC  HP Laptop Screen Recording Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-visual-storytelling-key-strategies-for-solo-videos/"><u>[New] In 2024, Boost Your Visual Storytelling  Key Strategies for Solo Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-voice-transformers-top-7-android-audio-apps-for-2024/"><u>[Updated] Best Voice Transformers  Top 7 Android Audio Apps for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quintessential-ios-emulators-for-playstation-2/"><u>[Updated] Quintessential iOS Emulators for PlayStation 2</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-adding-audio-to-visual-content-for-facebook-sharing/"><u>[Updated] The Art of Adding Audio to Visual Content for Facebook Sharing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-budget-friendly-hd-desktop-recording-tools-roundup/"><u>2024 Approved  Budget-Friendly HD Desktop Recording Tools Roundup</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>2024 Approved  Instant Video Post  How to Turn MP3s Into YouTube Playables</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>2024 Approved  Jumpstart to Partner Elevation  Secure 10K Views in Minutes!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-fixes-essential-tips-to-survive-win11/"><u>2024 Approved  Quick Fixes  Essential Tips to Survive Win11</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-v30-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme V30? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out/"><u>GoPro’s Underwater Journey  Essential Tactics to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-find-x6-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Find X6 Is Unlocked</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V27 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-12-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus 12 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-lets-see-how-you-can-run-windows-and-mac-os-video-editing-apps-such-as-filmora-final-cut-pro-imovie-sony-vegas-pro-or-any-other-powerful-video-editi/"><u>In 2024, Lets See How You Can Run Windows and Mac OS Video Editing Apps, Such as Filmora, Final Cut Pro, iMovie, Sony Vegas Pro or Any Other Powerful Video Editing Software From Your Chromebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beginners-roadmap-to-a-thriving-youtube-channel/"><u>In 2024, The Beginner's Roadmap to a Thriving YouTube Channel</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-v30t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme V30T Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lullabies-for-your-mind-no-stress-pcs/"><u>Lullabies for Your Mind  No-Stress PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-video-editor-apps-you-need-to-know/"><u>New 10 Essential Video Editor Apps You Need to Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>New Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-create-stunning-home-dvds-with-the-best-video-editing-tools/"><u>New Easily Create Stunning Home DVDs with the Best Video Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-editing-troubleshooting-final-cut-pro-x/"><u>New Effortless Editing Troubleshooting Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-m4a-editor-downloads-top-5-options/"><u>New Free M4A Editor Downloads Top 5 Options</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process/"><u>New The Best Video Editing Apps for Mac Simplify Your Video Creation Process</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-mov-video-rotators/"><u>New Top 5 Free MOV Video Rotators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/official-announcement-filmora-x-now-supports-arm-for-2024/"><u>Official Announcement Filmora X Now Supports ARM for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-power-user-20-shortcuts-to-save-time/"><u>Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-canon-mg280-driver-downloads-compatible-with-windows-7-8-and-10-systems/"><u>Secure Your Canon MG280 Driver Downloads: Compatible with Windows 7, 8 & 10 Systems!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/should-you-buy-videopad-video-editor-our-honest-review-and-verdict/"><u>Should You Buy Videopad Video Editor? Our Honest Review and Verdict</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives-for-2024/"><u>Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-great-debate-sony-vegas-pro-vs-adobe-premiere-pro-for-professional-video-editing/"><u>The Great Debate Sony Vegas Pro vs Adobe Premiere Pro for Professional Video Editing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-free-dailymotion-converter-tool/"><u>The Ultimate Free Dailymotion Converter Tool</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile/"><u>The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Video Collage Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-12-ultimate-relaxing-pc-titles-for-2024/"><u>Top 12 Ultimate Relaxing PC Titles for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-16-best-free-avi-video-rotators-windows-mac-android-iphone-and-online/"><u>Top 16 Best Free AVI Video Rotators Windows, MAC, Android, iPhone, and Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-performance-gaming-tecno-x-and-geekom-mega-mini-g1-liquid-cooling-fish-tank-case-intel-core-i9-13900h-and-nvidia-rtx-4060-gpu/"><u>Unleash High-Performance Gaming: Tecno X and Geekom Mega Mini G1 - Liquid Cooling, Fish Tank Case, Intel Core I9-13900H & NVIDIA RTX 4060 GPU</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-10-2d-animation-tools-for-artists/"><u>Unleash Your Creativity Top 10 2D Animation Tools for Artists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-4k-video-editing-solutions/"><u>Updated Expert-Approved 4K Video Editing Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fantastic-the-best-flv-video-editors/"><u>Updated Free and Fantastic The Best FLV Video Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-hours-to-minutes-how-to-rapidly-cut-large-videos-on-mac/"><u>Updated From Hours to Minutes How to Rapidly Cut Large Videos on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>Updated No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-a-budget-free-software-for-32-bit-windows/"><u>Video Editing on a Budget Free Software for 32-Bit Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-pixel-ringtone-treasures-online/"><u>[New] Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-funimate-pro-apk-a-complete-guide-for-2024/"><u>[New] Funimate Pro APK A Complete Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6s-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 6s Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-basic-to-brilliant-using-ken-burns-effect-in-final-cut-pro-like-a-pro/"><u>In 2024, From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editor-reviews-find-the-perfect-tool-for-your-needs/"><u>Mac Video Editor Reviews Find the Perfect Tool for Your Needs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-your-wmv-videos-for-free-top-5-tools/"><u>Split Your WMV Videos for Free Top 5 Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial-for-2024/"><u>Step-by-Step to Smiles and Laughter Your Snapchat Gif Tutorial for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pace-of-change-in-todays-mmo-experience/"><u>The Pace of Change in Today’s MMO Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-best-free-avi-video-rotators-2023-update/"><u>Top 5 Best Free AVI Video Rotators-2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turn-your-videos-into-dvds-with-these-3-easy-methods/"><u>Turn Your Videos Into DVDs with These 3 Easy Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-boost-your-videos-by-using-the-best-intro-maker-for-pc-we-provide-you-with-tools-both-offline-and-online-to-choose-the-top-software-amongst-all/"><u>Updated Boost Your Videos by Using the Best Intro Maker for PC. We Provide You with Tools, Both Offline and Online, to Choose the Top Software Amongst All</u></a></li>
 </ul></div>
+

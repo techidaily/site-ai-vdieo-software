@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-09-09T04:58:47.270Z
-updated: 2024-09-10T04:58:47.270Z
+date: 2024-09-11T01:16:06.255Z
+updated: 2024-09-15T07:37:59.702Z
 tags: 
   - video editing software
   - video editing
@@ -14,18 +14,6 @@ keywords: from basic to brilliant adding effects in fcp x with 3 simple steps,ef
 thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From Basic to Brilliant: Adding Effects in FCP X in 3 Easy Steps
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
@@ -46,26 +34,8 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -87,28 +57,10 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
 To apply an effect, do one of two things:
@@ -126,12 +78,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
@@ -142,12 +88,6 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
@@ -172,58 +112,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-30plus-trending-youtube-shorts-hashtags-to-make-videos-go-viral/"><u>[New] 2024 Approved  30+ Trending YouTube Shorts Hashtags to Make Videos Go Viral</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-closing-credits-creations-affordable-premium-and-more/"><u>[New] In 2024, Closing Credits Creations  Affordable, Premium & More</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>[New] In 2024, Ultimate Guide to Bandicam  The 2023 Comprehensive Overview</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vanguard-websites-for-3d-letterforms/"><u>[Updated] 2024 Approved  Vanguard Websites for 3D Letterforms</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-activating-or-deactivating-user-feedback-on-videos/"><u>[Updated] Activating or Deactivating User Feedback on Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[Updated] In 2024, Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-clearer-chrome-tips-to-improve-facebook-playback/"><u>2024 Approved  Clearer Chrome  Tips to Improve Facebook Playback</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimal-screen-capture-chromeos-enhanced/"><u>2024 Approved  Optimal Screen Capture  ChromeOS Enhanced</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-screen-savvy-starting-point-deciphering-display-standards/"><u>2024 Approved  Screen-Savvy Starting Point  Deciphering Display Standards</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro+ in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-x5-frp-by-drfone-android/"><u>How Can We Bypass Poco X5 FRP?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>In 2024, From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-components-for-next-gen-streaming/"><u>In 2024, Premium Components for Next-Gen Streaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>In 2024, Unlocking Video Potential  The Crème De La Crème Browser Recorders</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-vn-video-editor-pc-edition-a-compact-review/"><u>In 2024, VN Video Editor PC Edition A Compact Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/neon-text-maker-9-easy-to-use-online-tools-for-custom-designs/"><u>Neon Text Maker 9 Easy-to-Use Online Tools for Custom Designs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-convert-mp4-to-mp3-best-apps-for-iphone-and-android/"><u>New 2024 Approved Convert MP4 to MP3 Best Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>New Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-conceal-faces-with-confidence-professional-video-editing-software/"><u>New Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-intros-on-your-pc-top-10-maker-tools/"><u>New Create Stunning Intros on Your PC Top 10 Maker Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-xml-essentials-unlocking-the-power-of-xml/"><u>New FCPX XML Essentials Unlocking the Power of XML</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-fabulous-the-5-best-online-tone-generators-out-there/"><u>New Free and Fabulous The 5 Best Online Tone Generators Out There</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-divx-video-editors-with-cutting-capability-2023-list/"><u>New Free Divx Video Editors with Cutting Capability (2023 List)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>New From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-edit-videos-with-quicktime-on-mac/"><u>New From Start to Finish How to Edit Videos with QuickTime on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reduce-video-size-for-free-10-top-online-compression-tools/"><u>Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-on-iphone-for-free-top-5-essential-tools/"><u>Rotate Videos on iPhone for Free Top 5 Essential Tools</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/seamlessly-integrate-text-in-your-tiktok-videos/"><u>Seamlessly Integrate Text in Your TikTok Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/should-you-buy-videopad-an-honest-review-and-recommendation/"><u>Should You Buy Videopad? An Honest Review and Recommendation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/simplify-your-workflow-10-essential-timecode-calculators-for-filmmakers/"><u>Simplify Your Workflow 10 Essential Timecode Calculators for Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-mpeg-video-stitching-software/"><u>The Best Free MPEG Video Stitching Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-video-editing-software-for-starters-free-paid-and-everything-in-between/"><u>The Best Video Editing Software for Starters Free, Paid, and Everything in Between</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-users-manual-to-mac-dvd-burning-for-2024/"><u>The Complete User's Manual to Mac DVD Burning for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-funniest-meme-creator-apps-for-android-and-ios-updated-2023/"><u>The Funniest Meme Creator Apps for Android and iOS (Updated 2023)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-outlook-refuses-to-start/"><u>Troubleshooting Steps When Outlook Refuses to Start</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-virtualdub-review-and-top-picks-for-alternative-video-editors/"><u>Unbiased Virtualdub Review and Top Picks for Alternative Video Editors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unmatched-portable-experience-with-top-gba-simulators-android-for-2024/"><u>Unmatched Portable Experience with Top GBA Simulators, Android for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-12-amazing-free-animation-programs-for-pc-and-mac/"><u>Updated 12 Amazing Free Animation Programs for PC and Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-avs-video-editor-review-and-rating/"><u>Updated A Closer Look at AVS Video Editor Review and Rating</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-review-the-good-the-bad-and-the-ugly/"><u>Updated AVS Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-tones-in-seconds-5-best-online-generators/"><u>Updated Create Tones in Seconds 5 Best Online Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-4k-video-editing-software/"><u>Updated The Ultimate Guide to 4K Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-app-review-editing-made-easy-on-android/"><u>VN Video Editor App Review Editing Made Easy on Android</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>[New] Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapshot-survival-guide-top-recorders-evaluated/"><u>[New] SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-blueprint-for-permanent-instagram-exit-strategy/"><u>[Updated] In 2024, The Ultimate Blueprint for Permanent Instagram Exit Strategy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-macos-experience-with-screenflow-reviewed/"><u>[Updated] In 2024, The Ultimate MacOS Experience with ScreenFlow Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme C55 Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>In 2024, Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>New Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-discord-app-refuses-to-start-up/"><u>Step-by-Step Fixes for When Your Discord App Refuses to Start Up</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-hack-skip-reddit-and-get-filmora-deals-here/"><u>The Ultimate Hack Skip Reddit and Get Filmora Deals Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-online-video-compression-tools-no-installation-required/"><u>Top 10 Free Online Video Compression Tools No Installation Required</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1723262384532-transform-your-tunes-with-our-newly-launched-open-source-tulip-creative-pc-running-micropython-all-for-only-59-dollars/"><u>Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

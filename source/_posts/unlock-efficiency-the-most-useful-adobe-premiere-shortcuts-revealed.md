@@ -1,7 +1,7 @@
 ---
 title: Unlock Efficiency The Most Useful Adobe Premiere Shortcuts Revealed
-date: 2024-09-09T04:58:47.235Z
-updated: 2024-09-10T04:58:47.235Z
+date: 2024-09-09T06:37:35.890Z
+updated: 2024-09-14T19:46:03.412Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -44,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
 
 #### 1Select Window
@@ -89,12 +77,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4 Timeline Panel
 
  In a similar vein to the Capture Panel, the Timeline Panel has a set of shortcuts specific to all its basic operations, and are essential for a faster workflow.
@@ -147,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition, turning on looping for this can help to fine tune edits.
 
 #### 9Toggle Audio During Scrubbing
@@ -193,12 +169,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 15Add the default Transition
 
  This option applies the default transition to all selected media. To do this use Shift+D.
@@ -231,80 +201,11 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>[New] 2024 Approved  Boosting Your YouTube Earnings  Strategies for Monetizing Short Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-evaluating-the-boundaries-of-hero5-sessions/"><u>[New] 2024 Approved  Evaluating the Boundaries of Hero5 Sessions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-a-blueprint-building-an-individualistic-tiktok-identifier/"><u>[New] In 2024, A Blueprint  Building an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-digital-classrooms-alternatives-to-udemys-model/"><u>[Updated] Premier Digital Classrooms  Alternatives to Udemy's Model</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-best-binge-worthy-series-on-twittersphere-for-2024/"><u>[Updated] The Best Binge-Worthy Series on Twittersphere for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ace-your-workout-routine-with-the-top-fitness-bracelets-of-2024/"><u>Ace Your Workout Routine with the Top Fitness Bracelets of 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creative-conceptions-selecting-the-finest-10-free-macdrawers/"><u>Creative Conceptions  Selecting the Finest 10 FREE MacDrawers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-lag-in-fortnite-a-comprehensive-solution-for-smoother-gameplay/"><u>Fixing Lag in Fortnite - A Comprehensive Solution for Smoother Gameplay</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-150-2023-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia 150 (2023) Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60x-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Realme Narzo 60x 5G Phone Without Password?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-video-finishing-touches-device-based-filters/"><u>In 2024, Professional Video Finishing Touches  Device-Based Filters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>In 2024, Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-moments-shine-top-highlight-video-editing-software/"><u>Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-videos-pop-with-music-top-mobile-editing-apps/"><u>Make Your Videos Pop with Music Top Mobile Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-slow-mo-a-step-by-step-guide-to-windows-live-movie-maker/"><u>Mastering Slow-Mo A Step-by-Step Guide to Windows Live Movie Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-capabilities-upgrading-to-macos-sierra-for-2024/"><u>Maximizing Capabilities  Upgrading to macOS Sierra for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-video-editor-apps-you-need-to-know/"><u>New 10 Essential Video Editor Apps You Need to Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-accelerate-your-footage-time-lapse-video-editing-in-final-cut-pro/"><u>New Accelerate Your Footage Time Lapse Video Editing in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-below-is-a-get-starting-guide-for-wevideo-follow-it-to-easily-create-videos-online/"><u>New Below Is a Get-Starting Guide for WeVideo. Follow It to Easily Create Videos Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-iphone-video-orientation-changers-5-free-options-for-2024/"><u>New Best iPhone Video Orientation Changers 5 Free Options for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-videos-freely-7-watermark-free-editors/"><u>New Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>New Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-spin-and-rotate-16-best-free-avi-video-rotators-for-all-devices/"><u>New Flip, Spin, and Rotate 16 Best Free AVI Video Rotators for All Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-animation-solutions-top-picks-for-windows-and-mac-computers/"><u>New Free Animation Solutions Top Picks for Windows and Mac Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-mac-video-editing-made-easy-a-quicktime-tutorial/"><u>New Mac Video Editing Made Easy A QuickTime Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/official-announcement-filmora-x-now-supports-arm-for-2024/"><u>Official Announcement Filmora X Now Supports ARM for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-xlb-documents-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xlb documents</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-power-user-20-shortcuts-to-save-time/"><u>Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reverse-engineering-a-step-by-step-guide-to-reversing-tiktok-videos/"><u>Reverse Engineering A Step-by-Step Guide to Reversing TikTok Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/steady-shots-the-best-free-online-video-stabilizers-reviewed/"><u>Steady Shots The Best Free Online Video Stabilizers Reviewed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamlining-tiktok-twitter-integration/"><u>Streamlining TikTok-Twitter Integration</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/system-requirements-for-running-premiere-pro-how-to-set-up-computer/"><u>System Requirements for Running Premiere Pro How to Set Up Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tackling-photo-app-errors-in-windows-11/"><u>Tackling Photo App Errors in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/g-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage-for-2024/"><u>Taking Off in Tutorials  The Beginner’s Guide to Fashionable Mac Footage for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-reaction-video-editing-apps/"><u>The Best of the Best Top Reaction Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/1723262388024-the-future-of-gaming-begins-with-asuss-launch-the-rog-nuc-amd-ryzen-9-cpu-plus-rtx-nvidia-gpu-for-a-steal-at-just-1629/"><u>The Future of Gaming Begins with Asus's Launch: The ROG NUC - AMD Ryzen 9 CPU + RTX nVidia GPU for a Steal at Just $1,629!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Video Collage Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-video-editing-apps-for-vloggers/"><u>The Ultimate List 10 Best Video Editing Apps for Vloggers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-windows-10-photos-replacements-you-need-to-try-for-2024/"><u>Top 10 Windows 10 Photos Replacements You Need to Try for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-video-dubbing-apps/"><u>Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-the-magic-top-lego-stop-motion-artists/"><u>Unleashing the Magic Top Lego Stop Motion Artists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-4-powerful-video-editing-software-options-beyond-adobe-premiere-rush/"><u>Updated 4 Powerful Video Editing Software Options Beyond Adobe Premiere Rush</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated Discover the Best Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-audio-quick-and-easy-voice-over-recording-in-fcp/"><u>Updated Elevate Your Audio Quick & Easy Voice Over Recording in FCP</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/vdr-screen-capture-compilation-extensive-guide-for-2024/"><u>VDR Screen Capture Compilation  Extensive Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-review-pros-cons-and-top-competitors-you-should-know/"><u>Virtualdub Review Pros, Cons, and Top Competitors You Should Know</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -312,3 +213,29 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>[New] 2024 Approved Maximizing Your iDevice's Screen Record Functionality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-downloading-vimeo-media-direct-conversion-to-mp3-format/"><u>[Updated] 2024 Approved Downloading Vimeo Media Direct Conversion to MP3 Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-freeze-whole-panel-of-content/"><u>[Updated] In 2024, Freeze Whole Panel of Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>[Updated] Quick Start Guide Easy Steps for Effective Video Calling on Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-your-airpods-back-to-life-with-our-expert-guide-on-nine-charging-solutions/"><u>Bring Your AirPods Back to Life with Our Expert Guide on Nine Charging Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-cartoons-to-life-top-mobile-animation-apps/"><u>New Bring Your Cartoons to Life Top Mobile Animation Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-import-to-export-working-with-xml-files-in-fcpx/"><u>New From Import to Export Working with XML Files in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>New The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-your-mpeg-videos-with-ease-5-free-tools-you-need-to-try/"><u>Split Your MPEG Videos with Ease 5 Free Tools You Need to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-on-the-house-enjoy-a-90-day-free-trial-today/"><u>Updated Final Cut Pro on the House Enjoy a 90-Day Free Trial Today</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>Updated From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
