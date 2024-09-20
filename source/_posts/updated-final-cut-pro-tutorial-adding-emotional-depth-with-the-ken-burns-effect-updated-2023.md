@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-09-09T08:30:36.387Z
-updated: 2024-09-14T18:29:10.043Z
+date: 2024-09-17T16:13:31.275Z
+updated: 2024-09-20T16:07:44.325Z
 tags: 
   - video editing software
   - video editing
@@ -68,16 +68,16 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -104,13 +104,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -118,6 +111,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,20 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-learning-legends-esteemed-ed-streams-online/"><u>[New] 2024 Approved Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-authenticating-your-youtube-username-and-email/"><u>[New] Authenticating Your YouTube Username & Email</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-no-fuss-tactics-for-saving-vimeo-footage/"><u>[New] No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-controlling-windows-11s-content-filter/"><u>Guide: Controlling Windows 11’S Content Filter</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fix-avidemux-audio-issues-latest-solutions/"><u>In 2024, Fix Avidemux Audio Issues Latest Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-mobile-video-editors-for-portrait-mode-videos/"><u>In 2024, Top Mobile Video Editors for Portrait Mode Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-new-to-video-editing-here-are-the-best-software-options/"><u>New New to Video Editing? Here Are the Best Software Options</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-zte-axon-40-lite-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of ZTE Axon 40 Lite on Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/smoother-skin-in-minutes-a-plugin-free-fcpx-editing-technique/"><u>Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-battle-of-apple-watches-how-does-the-gps-model-stack-up-against-the-cellular-version/"><u>The Battle of Apple Watches: How Does the GPS Model Stack Up Against the Cellular Version?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transforming-your-canon-footage-advanced-video-editing-techniques/"><u>Transforming Your Canon Footage Advanced Video Editing Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-sounds-on-your-windows-7-pc/"><u>Troubleshooting Non-Functioning Sounds on Your Windows 7 PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-filmora-for-free-no-hidden-fees-or-malware/"><u>Updated Get Filmora for Free No Hidden Fees or Malware</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-prowess-comparison-the-battle-between-cameras/"><u>Video Prowess Comparison The Battle Between Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ideal-6-economical-projector-brands-for-4k/"><u>[Updated] 2024 Approved Ideal 6 Economical Projector Brands for 4K</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>[Updated] 2024 Approved Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-camon-30-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Camon 30 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-8-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-gpeditmsc-access-on-your-windows-home-pc/"><u>How To Restore gpedit.msc Access on Your Windows Home PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oneplus-ace-3-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On OnePlus Ace 3 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-elite-list-of-youtube-player-applications/"><u>In 2024, The Elite List of YouTube Player Applications</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-cinematic-videos-the-ultimate-ken-burns-effect-guide/"><u>New Create Cinematic Videos The Ultimate Ken Burns Effect Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-users/"><u>New Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-download-splice-video-editor-for-mac/"><u>Updated Download Splice Video Editor for Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-subtitle-tutorial-how-to-add-captions-like-a-pro/"><u>Updated FCPX Subtitle Tutorial How to Add Captions Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-flaky-windows-apps/"><u>Winning Back Control: Fixing Flaky Windows Apps</u></a></li>
 </ul></div>
 

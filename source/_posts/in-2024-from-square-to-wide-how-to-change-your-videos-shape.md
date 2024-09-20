@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-09-09T04:58:52.278Z
-updated: 2024-09-10T04:58:52.278Z
+date: 2024-09-17T16:20:12.681Z
+updated: 2024-09-20T16:06:47.901Z
 tags: 
   - video editing software
   - video editing
@@ -14,30 +14,12 @@ keywords: how to change shape of video,from square to wide how to change your vi
 thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From Square to Wide: How to Change Your Video's Shape
 
 # How to Change Shape of a Video?
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -78,12 +60,6 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
 **Step 1: Import the Video and Get to the Crop and Zoom Window**
@@ -102,12 +78,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -116,12 +86,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -172,53 +136,11 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-to-your-subscription-statistics/"><u>[New] Navigating to Your Subscription Statistics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>[Updated] In 2024, Expert Tips for Efficient Internet Use  The 7 Finest Android Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-8-best-mirrorless-cameras-vloggers-should-know/"><u>2024 Approved  8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-discourse-on-flaws-the-top-8-concerns-in-gpt-dialogue/"><u>A Discourse on Flaws: The Top 8 Concerns in GPT Dialogue</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ace-your-workout-routine-with-the-top-fitness-bracelets-of-2024/"><u>Ace Your Workout Routine with the Top Fitness Bracelets of 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-l3150-printer-drivers-download-and-updates-for-windows-1087/"><u>Epson L3150 Printer Drivers: Download and Updates for Windows 10/8/7</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>In 2024, Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-drone-flight-q500-typhoon-review-for-2024/"><u>Innovative Drone Flight - Q500 Typhoon Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-moments-shine-top-highlight-video-editing-software/"><u>Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-videos-pop-with-music-top-mobile-editing-apps/"><u>Make Your Videos Pop with Music Top Mobile Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-below-is-a-get-starting-guide-for-wevideo-follow-it-to-easily-create-videos-online/"><u>New Below Is a Get-Starting Guide for WeVideo. Follow It to Easily Create Videos Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-videos-freely-7-watermark-free-editors/"><u>New Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>New Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-spin-and-rotate-16-best-free-avi-video-rotators-for-all-devices/"><u>New Flip, Spin, and Rotate 16 Best Free AVI Video Rotators for All Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-mac-video-editing-made-easy-a-quicktime-tutorial/"><u>New Mac Video Editing Made Easy A QuickTime Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reverse-engineering-a-step-by-step-guide-to-reversing-tiktok-videos/"><u>Reverse Engineering A Step-by-Step Guide to Reversing TikTok Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-address-avcodecdll-file-not-found-or-lost-mishaps/"><u>Step-by-Step Solutions to Address Avcodec.dll File Not Found or Lost Mishaps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/system-requirements-for-running-premiere-pro-how-to-set-up-computer/"><u>System Requirements for Running Premiere Pro How to Set Up Computer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-reaction-video-editing-apps/"><u>The Best of the Best Top Reaction Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/1723262388024-the-future-of-gaming-begins-with-asuss-launch-the-rog-nuc-amd-ryzen-9-cpu-plus-rtx-nvidia-gpu-for-a-steal-at-just-1629/"><u>The Future of Gaming Begins with Asus's Launch: The ROG NUC - AMD Ryzen 9 CPU + RTX nVidia GPU for a Steal at Just $1,629!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-video-editing-apps-for-vloggers/"><u>The Ultimate List 10 Best Video Editing Apps for Vloggers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-windows-10-photos-replacements-you-need-to-try-for-2024/"><u>Top 10 Windows 10 Photos Replacements You Need to Try for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-6-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 6 Plus? 5 Tips You Must Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-the-magic-top-lego-stop-motion-artists/"><u>Unleashing the Magic Top Lego Stop Motion Artists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-youtube-shorts-secrets/"><u>Unlocking YouTube Shorts Secrets</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-4-powerful-video-editing-software-options-beyond-adobe-premiere-rush/"><u>Updated 4 Powerful Video Editing Software Options Beyond Adobe Premiere Rush</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-review-pros-cons-and-top-competitors-you-should-know/"><u>Virtualdub Review Pros, Cons, and Top Competitors You Should Know</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -226,3 +148,31 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-stepwise-protocols-for-capturing-superior-vimeo-content/"><u>[New] Stepwise Protocols for Capturing Superior Vimeo Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fix-low-quality-footage-on-different-devices/"><u>[Updated] 2024 Approved Fix Low-Quality Footage on Different Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-new-heights-top-10-adventure-channels/"><u>[Updated] In 2024, Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-graphics-driver-supports-windows-11107/"><u>Get the Newest Nvidia Quadro RTX 8000 Graphics Driver - Supports Windows 11/10/7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-a60s-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel A60s Phone?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12 Pro 5G Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726026860789-mp3/"><u>MP3ファイル組み合わせに最適化された無料ソフトウェア - オンラインでの使用方法</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>New Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-game-capture-top-3-methods/"><u>New Easy Game Capture Top 3 Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-here-we-prepared-an-overview-of-the-best-split-screen-video-apps-for-ios-and-android-you-can-use-to-record-create-and-share-great-looking-multimedia-wit/"><u>New Here We Prepared an Overview of the Best Split Screen Video Apps for iOS and Android You Can Use to Record, Create, and Share Great-Looking Multimedia with Minimal Effort</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-flip-video-quickly-and-easily/"><u>New How to Flip Video Quickly and Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/steady-as-a-rock-how-to-stabilize-your-video-in-fcpx/"><u>Steady as a Rock How to Stabilize Your Video in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>Updated Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-to-download-top-rated-3d-animation-apps-for-mobile-devices/"><u>Updated Free to Download Top-Rated 3D Animation Apps for Mobile Devices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

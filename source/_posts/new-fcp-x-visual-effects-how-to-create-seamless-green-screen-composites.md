@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-09-13T21:42:31.479Z
-updated: 2024-09-15T00:09:33.090Z
+date: 2024-09-13T16:13:35.555Z
+updated: 2024-09-20T16:16:39.595Z
 tags: 
   - video editing software
   - video editing
@@ -135,6 +135,13 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -145,27 +152,20 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
 
@@ -182,18 +182,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-master-the-art-of-video-presentations-with-these-themes/"><u>[New] Master the Art of Video Presentations with These Themes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-transform-your-tiktok-videos-stunning-templates-at-hand/"><u>[New] Transform Your TikTok Videos Stunning Templates at Hand</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-deciphering-srt-cues-in-oses-with-ease/"><u>2024 Approved Deciphering SRT Cues in OSes with Ease</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boosting-user-interaction-mastering-hashtag-use-on-instagram/"><u>Boosting User Interaction Mastering Hashtag Use on Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-oculus-rift-a-step-by-step-approach-to-reestablish-runtime-connection/"><u>Fixing Oculus Rift: A Step-by-Step Approach to Reestablish Runtime Connection</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-premium-glitch-video-editors-a-comprehensive-review/"><u>In 2024, Free and Premium Glitch Video Editors A Comprehensive Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-master-the-art-of-mac-screen-record-via-shortcuts/"><u>In 2024, Master the Art of Mac Screen Record via Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-adobe-4-best-premiere-rush-competitors/"><u>New Beyond Adobe 4 Best Premiere Rush Competitors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-audio-techniques-mastering-l-cuts-j-cuts-and-beyond/"><u>New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>New Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/photographic-resurrection-a-safe-approach-to-restore-lost-images-on-an-iphone/"><u>Photographic Resurrection: A Safe Approach to Restore Lost Images on an iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-face-generator-websites-to-create-synthetic-identities/"><u>The Best Free Face Generator Websites to Create Synthetic Identities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-workplace-revolution-how-generative-ai-shapes-7-key-job-trends/"><u>The Future Workplace Revolution: How Generative AI Shapes 7 Key Job Trends</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[New] In 2024, Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-understanding-fps-making-a-choice-between-30-and-60-hertz-for-2024/"><u>[Updated] Understanding FPS Making a Choice Between 30 & 60 Hertz for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>2024 Approved Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nubia-z50-ultra-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Z50 Ultra Fingerprint Lock</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/churn-out-custom-internet-echo-jokes-for-2024/"><u>Churn Out Custom Internet Echo Jokes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-basics-to-pro-a-comprehensive-guide-to-picture-in-picture-editing-in-final-cut-pro/"><u>In 2024, From Basics to Pro A Comprehensive Guide to Picture-in-Picture Editing in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-accelerate-your-gifs-top-speed-changer-tools-and-apps/"><u>New Accelerate Your GIFs Top Speed Changer Tools and Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-video-trailer-creators-for-mac-and-pc/"><u>Top Video Trailer Creators for Mac and PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-bings-intelligent-search-on-your-ios-and-android-devices/"><u>Unlock Bing's Intelligent Search on Your iOS and Android Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-mpeg2-the-secret-to-smaller-faster-video-files/"><u>VirtualDub MPEG2 The Secret to Smaller, Faster Video Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-09-13T19:43:41.586Z
-updated: 2024-09-15T07:09:32.769Z
+date: 2024-09-16T16:20:23.444Z
+updated: 2024-09-20T16:08:41.613Z
 tags: 
   - video editing software
   - video editing
@@ -67,13 +67,6 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
@@ -92,18 +85,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -112,6 +105,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -128,17 +128,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-banish-zoo-call-audio-glitches-simple-fixes/"><u>[New] Banish Zoo Call Audio Glitches Simple Fixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-precision-screensaver-for-chromebooks/"><u>[New] In 2024, Precision Screensaver for Chromebooks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premier-youtube-standards-for-all-viewers/"><u>[Updated] Premier YouTube Standards for All Viewers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/discover-the-6-premier-free-software-solutions-for-splitting-avi-files-on-pcs-and-macs-plus-web-based-alternatives/"><u>Discover the 6 Premier Free Software Solutions for Splitting AVI Files on PCs and Macs, Plus Web-Based Alternatives</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-whatsapp-on-macos-tips-and-tricks-for-effortless-messaging/"><u>Navigating WhatsApp on macOS: Tips & Tricks for Effortless Messaging</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-divx-files-updated-2023/"><u>New Best Free Video Cutting Software for Divx Files (Updated 2023)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-definitive-guide-to-hyperx-soundcard-driver-improvements/"><u>The Definitive Guide to HyperX Soundcard Driver Improvements</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-compression-on-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Free Video Compression on iPhone and iPad for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-vob-video-editing-tools/"><u>The Ultimate Guide to Free VOB Video Editing Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unleash-high-efficiency-compression-transforming-h265-videos-into-h264-format-without-exceeding-storage-capacity/"><u>Unleash High-Efficiency Compression: Transforming H.265 Videos Into H.264 Format without Exceeding Storage Capacity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-premier-pro-blueprints-exclusive-free-2023-collection/"><u>[New] In 2024, Premier Pro Blueprints - Exclusive FREE 2023 Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-mac-mouse-not-working-driver-easy/"><u>[Solved] Mac Mouse Not Working – Driver Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-step-by-step-journey-clearing-images-with-picsart/"><u>[Updated] 2024 Approved A Step-By-Step Journey Clearing Images with Picsart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-convert-aiff-to-mp4-at-no-cost-using-the-official-movavi-tool/"><u>Download and Convert AIFF to MP4 at No Cost - Using the Official Movavi Tool!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-wireless-bluetooth-driver-compatible-with-windows-710-secure-and-updated-version/"><u>Download and Install Lenovo Wireless Bluetooth Driver: Compatible with Windows 7/10 - Secure & Updated Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-acer-predator-xb271hu-up-and-running-fast-download-of-latest-drivers/"><u>Get Your Acer Predator XB271HU Up and Running - Fast Download of Latest Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-when-siri-stops-responding-on-your-apple-device/"><u>How to Fix When Siri Stops Responding on Your Apple Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oneplus-12-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your OnePlus 12 Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-game-video-editing-software-top-picks/"><u>New Free Game Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-top-tier-best-4k8k-video-editing-software-for-professionals/"><u>The Top Tier Best 4K/8K Video Editing Software for Professionals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcp-xs-power-adding-effects-in-just-3-clicks/"><u>Unlock FCP Xs Power Adding Effects in Just 3 Clicks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vlc-trimming-software-for-mac-no-quality-loss-guaranteed/"><u>Updated Best VLC Trimming Software for Mac No Quality Loss Guaranteed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-like-a-pro-64-bit-software-for-windows-8-and-up/"><u>Updated Edit Videos Like a Pro 64-Bit Software for Windows 8 and Up</u></a></li>
 </ul></div>
 

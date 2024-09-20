@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Adjust Video Shape
-date: 2024-09-09T04:58:52.484Z
-updated: 2024-09-10T04:58:52.484Z
+date: 2024-09-14T16:14:49.898Z
+updated: 2024-09-20T16:20:17.856Z
 tags: 
   - video editing software
   - video editing
@@ -14,30 +14,12 @@ keywords: from square to wide how to change your videos shape,from square to wid
 thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From Square to Wide: How to Adjust Video Shape
 
 # How to Change Shape of a Video?
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -72,24 +54,12 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
 **Step 1: Import the Video and Get to the Crop and Zoom Window**
@@ -108,12 +78,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -172,77 +136,11 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-simplified-blue-screen-usage-guide/"><u>[New] Simplified Blue Screen Usage Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-mac-tools-for-screen-capture-discovering-the-top-5-for-2024/"><u>[Updated] Essential Mac Tools for Screen Capture, Discovering the Top 5 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lg-redefines-reality-with-its-latest-virtual-gaming-device/"><u>[Updated] LG Redefines Reality with Its Latest Virtual Gaming Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-your-sounds-on-pc-with-x-recorder/"><u>2024 Approved  Capture Your Sounds on PC with X-Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-5-tech-solutions-for-capturing-video-calls/"><u>2024 Approved  Innovative 5 Tech Solutions for Capturing Video Calls</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>2024 Approved  Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978585133-enhance-gaming-experience-with-newest-rtx-2080-drivers-compatible-with-windows-10-and-11-download-here/"><u>Enhance Gaming Experience with Newest RTX 2080 Drivers Compatible with Windows 10 and 11 – Download Here!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-techniques-for-ps3-gameplay-screencasts-for-2024/"><u>Essential Techniques for PS3 Gameplay Screencasts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-ideal-internet-filters-and-routers-for-families/"><u>Expert Picks: Ideal Internet Filters and Routers for Families</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fix-missing-fb-watch-icon-quick-guide/"><u>Fix Missing FB Watch Icon - Quick Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-drivers-here-windows-11-to-8-support-included/"><u>Get the Latest NVIDIA Drivers Here: Windows 11 to 8 Support Included</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-12-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 12 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-fabulous-the-best-fcpx-plugins-you-need/"><u>In 2024, Free and Fabulous The Best FCPX Plugins You Need</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android/"><u>In 2024, Gaming on a Budget Top 10 Free Game Download Sites for PC and Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-revolutionizing-live-streams-discover-top-5-innovations/"><u>In 2024, Revolutionizing Live Streams  Discover Top 5 Innovations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-with-more-people-using-iphone-as-video-cameras-one-of-the-bigger-issues-is-not-noticing-the-proper-orientation-of-the-video-here-we-provide-a-list-o/"><u>In 2024, With More People Using iPhone as Video Cameras, One of the Bigger Issues Is Not Noticing the Proper Orientation of the Video. Here We Provide a List of Free Tools that You Can Easily Correct the Orien</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975047362-install-epson-ds-530-printer-drivers-on-your-windows-10-x64-pc-get-them-here/"><u>Install Epson DS-^530 Printer Drivers on Your Windows 10 (X64) PC - Get Them Here!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/lip-sync-videos-are-a-great-source-of-fun-and-producing-them-doesnt-require-you-to-have-a-professional-video-or-sound-equipment-in-this-article-we-are-going/"><u>Lip Sync Videos Are a Great Source of Fun, and Producing Them Doesnt Require You to Have a Professional Video or Sound Equipment. In This Article, We Are Going to Introduce You to some of the Best Li</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-ace-3-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Ace 3 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/narrative-skies-and-landscapes-in-a-snapshot/"><u>Narrative Skies and Landscapes in a Snapshot</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-converting-mp4-video-file-to-an-mp3-file-format-is-a-simple-process-read-on-if-you-would-like-to-learn-more-about-the-best-mp4-to-mp3-converters-you-can/"><u>New Converting MP4 Video File to an MP3 File Format Is a Simple Process. Read on if You Would Like to Learn More About the Best MP4 to MP3 Converters You Can Use Online or on PC and Mac Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-a-digital-doppelganger-free-online-generators/"><u>New Create a Digital Doppelganger Free Online Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>New Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-paid-time-lapse-video-editors-a-comparative-analysis/"><u>New Free & Paid Time-Lapse Video Editors A Comparative Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-4k-video-converter-roundup-the-best/"><u>New Free 4K Video Converter Roundup The Best</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/skip-the-hunt-exclusive-filmora-coupon-codes-inside/"><u>Skip the Hunt Exclusive Filmora Coupon Codes Inside</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-editing-to-the-next-level-5-final-cut-pro-hacks/"><u>Take Your Editing to the Next Level 5 Final Cut Pro Hacks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcp-project-saving-cheat-sheet/"><u>The Ultimate FCP Project Saving Cheat Sheet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-making-reaction-videos-on-your-phone-for-2024/"><u>The Ultimate Guide to Making Reaction Videos on Your Phone for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-screen-recording-with-filmora-scrn-best-practices-and-more/"><u>The Ultimate Guide to Screen Recording with Filmora Scrn Best Practices and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/toms-tech-review-comprehensive-guide-to-latest-gadgets-and-hardware/"><u>Tom's Tech Review - Comprehensive Guide to Latest Gadgets and Hardware</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>Top 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/track-your-every-move-best-motion-tracking-apps-reviewed/"><u>Track Your Every Move Best Motion Tracking Apps Reviewed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-footage-a-beginners-guide-to-flipping-clips-in-fcp/"><u>Transform Your Footage A Beginners Guide to Flipping Clips in FCP</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-footage-top-rated-1080p-video-editing-software/"><u>Transform Your Footage Top-Rated 1080P Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-mac-video-editing-programs-for-creators-in/"><u>Updated Best Mac Video Editing Programs for Creators In</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-10-webm-to-mp4-converters-for-easy-conversion/"><u>Updated Best of the Best 10 WebM to MP4 Converters for Easy Conversion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-top-10-free-4k-video-converter-tools/"><u>Updated Best of the Best Top 10 Free 4K Video Converter Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-photos-to-life-8-essential-animation-software/"><u>Updated Bring Photos to Life 8 Essential Animation Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-animations-the-top-tools-for-professionals-and-newbies-alike/"><u>Updated Create Stunning Animations The Top Tools for Professionals and Newbies Alike</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-dvd-mastery-choosing-the-right-movie-making-software-for-beginners/"><u>Updated DVD Mastery Choosing the Right Movie Making Software for Beginners</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-footage-expert-advice-for-stunning-home-videos/"><u>Updated Elevate Your Footage Expert Advice for Stunning Home Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-essentials-reversing-video-clips-in-minutes/"><u>Updated Final Cut Pro Essentials Reversing Video Clips in Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-tutorial-l-cuts-and-j-cuts/"><u>Updated Final Cut Pro X Tutorial L-Cuts and J-Cuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-concept-to-reality-the-10-best-music-video-agencies/"><u>Updated From Concept to Reality The 10 Best Music Video Agencies</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -250,3 +148,31 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-top-6-virtual-reality-vr-gloves-to-check-out/"><u>[New] Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unearthly-utility-top-five-terrafirma-maps-for-2024/"><u>[Updated] Unearthly Utility Top Five Terrafirma Maps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>2024 Approved Closing the Distance Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-connection-woes-with-your-ps4-gamepad-practical-methods-and-strategies/"><u>Fixing Connection Woes with Your PS4 Gamepad: Practical Methods & Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebook-video-editing-software-top-10-online-options/"><u>New Chromebook Video Editing Software Top 10 Online Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-installing-kinemaster-on-a-mac-for-2024/"><u>The Ultimate Guide to Installing KineMaster on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>Unleash Potential Superior Strategies for Personalized Facebook Profiles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-invitations-to-life-best-video-apps-for-ios-and-android/"><u>Updated Bring Your Invitations to Life Best Video Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-wmv-video-merger-software-top-picks/"><u>Updated Free WMV Video Merger Software Top Picks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
