@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Free Stock Image Websites
-date: 2024-09-16T16:03:20.147Z
-updated: 2024-09-20T16:06:47.391Z
+date: 2024-09-25T17:12:13.398Z
+updated: 2024-09-26T16:32:56.725Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  It is of utmost importance to check if an image is within the public domain before you use it publicly in order to avoid potential legal complications.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How and Where to Find Public Domain Images?
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 1. [Pexels](https://www.pexels.com/public-domain-images/)
 
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
@@ -96,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
 
@@ -199,13 +220,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -226,10 +240,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -245,5 +259,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] 2024 Approved Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro/"><u>[Updated] Revive Faded iPhone HDRI Select 4 Effective Methods in Premiere Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-xcover-7-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-apps-for-windows-10-pcs-and-laptops-for-2024/"><u>Best Video Editing Apps for Windows 10 PCs and Laptops for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-best-animated-text-apps-for-mobile/"><u>Bring Your Videos to Life Best Animated Text Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-4k-videos-for-free-top-10-tools/"><u>Convert 4K Videos for Free Top 10 Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-best-video-special-effects-apps/"><u>FREE Best Video Special Effects Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-fcp-to-vhs-effortless-ways-to-add-retro-flair-for-2024/"><u>From FCP to VHS Effortless Ways to Add Retro Flair for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android/"><u>Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-v2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic V2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-steam-network-connection-issues/"><u>Troubleshooting Guide: Resolving Steam Network Connection Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-full-screen-potential-on-youtube-videos-for-2024/"><u>Unlock Full Screen Potential on YouTube Videos for 2024</u></a></li>
+</ul></div>
 

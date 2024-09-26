@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Launches for Thaumaturge Software on Computers
-date: 2024-09-18T16:11:37.141Z
-updated: 2024-09-20T16:18:49.954Z
+date: 2024-09-25T16:13:37.866Z
+updated: 2024-09-26T17:03:07.368Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ Once the process is completed, try launching the game again.
 
 If the issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  The game not launching issue could indicate that you’re using a faulty or outdated graphics driver. To fix the potential problem, you should make sure your graphics driver is up to date.
@@ -86,10 +93,10 @@ If the issue persists, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
@@ -110,15 +117,22 @@ If the issue persists, move on to the next fix.
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update Visual C++ Redistributables
@@ -147,10 +161,10 @@ If this fix doesn’t work for you, proceed to the next one.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
@@ -160,10 +174,10 @@ If this fix doesn’t work for you, proceed to the next one.
 4. Checkmark both**Private** and**Public** settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**OK** .
@@ -195,6 +209,13 @@ If this fix doesn’t work for you, proceed to the next one.
 
 If it doesn’t, try the last fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  The Age of Empires IV may not launch if you’re running software that interferes with Steam and your game. To see if that’s the case, you can perform a clean boot. Here’s how:
@@ -203,23 +224,17 @@ If it doesn’t, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
@@ -251,5 +266,20 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-10-effortless-tips-for-amplifying-video-engagement-on-facebook/"><u>[New] In 2024, 10 Effortless Tips for Amplifying Video Engagement on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>[Updated] 2024 Approved Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-text-overlays-on-photos-in-windows-10s-photos-app-for-2024/"><u>[Updated] Mastering Text Overlays on Photos in Windows 10'S Photos App for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-side-splitting-scripts-crafting-7-hilarious-youtube-scenes/"><u>[Updated] Side-Splitting Scripts Crafting 7 Hilarious YouTube Scenes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-viewers-experience-best-youtube-end-screens/"><u>[Updated] Transforming Viewers' Experience Best Youtube End Screens</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-screen-to-share-3-easy-video-game-recording-methods/"><u>2024 Approved From Screen to Share 3 Easy Video Game Recording Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-vlog-editor-apps-ios-and-android/"><u>Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-premiere-rush-top-alternative-video-editing-software-for-2024/"><u>Ditch Premiere Rush Top Alternative Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-audio-workflow-streamlining-your-video-post-production-process-for-2024/"><u>FCP Audio Workflow Streamlining Your Video Post-Production Process for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fixing-noisy-audio-issues-in-cctv-feeds/"><u>Fixing Noisy Audio Issues in CCTV Feeds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-videos-with-top-10-free-srt-converters-for-2024/"><u>Revolutionize Your Videos with Top 10 Free SRT Converters for 2024</u></a></li>
+</ul></div>
 

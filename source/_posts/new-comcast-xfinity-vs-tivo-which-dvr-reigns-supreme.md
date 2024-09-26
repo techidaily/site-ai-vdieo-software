@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2024-09-18T16:18:12.809Z
-updated: 2024-09-20T16:12:00.548Z
+date: 2024-09-22T17:23:47.239Z
+updated: 2024-09-26T16:40:57.590Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -68,9 +75,23 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -81,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
@@ -98,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -115,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -130,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -150,5 +164,20 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-easy-path-to-professional-looking-youtube-shorts/"><u>[New] In 2024, The Easy Path to Professional-Looking YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skyline-pixel-boost-pro-windowsmac-suite/"><u>[New] Skyline Pixel Boost Pro Windows/Mac Suite</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-syncing-your-browser-with-auto-play-feature-in-facebook/"><u>[Updated] In 2024, Syncing Your Browser with Auto-Play Feature in Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sound-savings-guide-youtubers-selection-of-affordable-mics/"><u>[Updated] Sound Savings Guide Youtuber's Selection of Affordable Mics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-evolution-of-gaming-logging-beyond-fbx-limits/"><u>2024 Approved Evolution of Gaming Logging Beyond FBX Limits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-transforming-videos-into-immersive-experiences-top-vr-converters/"><u>2024 Approved Transforming Videos Into Immersive Experiences Top VR Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-vs-sony-vegas-pro-a-side-by-side-comparison-for-2024/"><u>Adobe Premiere Pro vs Sony Vegas Pro A Side-by-Side Comparison for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-mkv-cutting-tools-2023-edition-no-cost-for-2024/"><u>Best MKV Cutting Tools 2023 Edition (No Cost!) For 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/educational-animation-made-easy-top-10-software-for-2024/"><u>Educational Animation Made Easy Top 10 Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fast-forward-your-video-editing-time-lapse-techniques-in-final-cut-pro-for-2024/"><u>Fast Forward Your Video Editing Time Lapse Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-for-mac-at-no-cost-2023-update-for-2024/"><u>Get Adobe Premiere Pro CS6 for Mac at No Cost 2023 Update for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>In 2024, The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-strategies-for-error-0xc10100be-in-videos/"><u>Unlocking Fix Strategies for Error 0XC10100be in Videos</u></a></li>
+</ul></div>
 

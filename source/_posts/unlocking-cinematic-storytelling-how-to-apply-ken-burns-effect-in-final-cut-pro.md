@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-09-14T16:06:35.309Z
-updated: 2024-09-20T16:18:51.337Z
+date: 2024-09-21T17:15:05.125Z
+updated: 2024-09-26T16:55:23.613Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -51,11 +58,25 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -68,10 +89,10 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -91,13 +112,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
@@ -126,5 +140,24 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>[New] In 2024, Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-boosting-engagement-profits-with-animated-ad-success-tactics-on-fb/"><u>2024 Approved Boosting Engagement, Profits with Animated Ad Success Tactics on FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-avoiding-mistakes-in-display-shopping/"><u>Expert Advice on Avoiding Mistakes in Display Shopping</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handbrake-compatibility-issue-why-it-fails-to-convert-mkv-files/"><u>HandBrake Compatibility Issue: Why It Fails to Convert MKV Files</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13t-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13T Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-leading-cartoon-video-editing-apps-for-smartphones/"><u>In 2024, 10 Leading Cartoon Video Editing Apps for Smartphones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-avs-video-editor-2023-features-performance-and-value/"><u>In 2024, A Closer Look at AVS Video Editor 2023 Features, Performance, and Value</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animate-your-memories-best-tools-for-easy-photo-animation/"><u>In 2024, Animate Your Memories Best Tools for Easy Photo Animation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023/"><u>In 2024, AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop/"><u>In 2024, Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-blur-faces-or-backgrounds-in-videos-best-apps-for-ios-and-android/"><u>In 2024, Blur Faces or Backgrounds in Videos Best Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-x-green-screen-masterclass-from-basics-to-advanced/"><u>In 2024, FCP X Green Screen Masterclass From Basics to Advanced</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sleep-mode-stuck-keyboard-mouse-fix-for-win1011/"><u>Sleep Mode Stuck: Keyboard, Mouse Fix for Win10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-repairing-a-500-internal-server-mishap/"><u>Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap</u></a></li>
+</ul></div>
 

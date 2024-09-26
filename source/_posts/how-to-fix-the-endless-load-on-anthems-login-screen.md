@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2024-09-14T16:07:33.359Z
-updated: 2024-09-20T16:07:18.179Z
+date: 2024-09-22T16:21:56.345Z
+updated: 2024-09-26T16:38:02.852Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -53,10 +60,10 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Delete Rewired\_DirectInput.dll file
@@ -75,13 +82,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -97,10 +97,24 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -124,5 +138,20 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-10-best-moba-games-for-android/"><u>[New] 10 Best MOBA Games For Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-footage-to-dvd-mastering-home-video-production/"><u>2024 Approved From Footage to DVD Mastering Home Video Production</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/6-top-notch-free-mov-video-editing-software/"><u>6 Top-Notch Free MOV Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/accelerate-your-footage-time-lapse-video-editing-in-final-cut-pro-for-2024/"><u>Accelerate Your Footage Time Lapse Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y27s-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y27s? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/experience-the-future-top-4k-video-demos-you-wont-want-to-miss-for-2024/"><u>Experience the Future Top 4K Video Demos You Wont Want to Miss for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-rainbow-six-siege-lagging-issues/"><u>Fix: Rainbow Six Siege Lagging Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-between-vlc-and-mx-for-video-enjoyment/"><u>In 2024, Choosing Between VLC and MX for Video Enjoyment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-5-innovative-multimedia-collaboration-services/"><u>Top 5 Innovative Multimedia Collaboration Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-audio-skills-using-audacity-professionally-for-2024/"><u>Transforming Audio Skills Using Audacity Professionally for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-best-practices-for-instagram-story-screenshots-for-2024/"><u>Unveiling the Best Practices for Instagram Story Screenshots for 2024</u></a></li>
+</ul></div>
 

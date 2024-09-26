@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-09-19T16:10:49.037Z
-updated: 2024-09-20T16:03:07.123Z
+date: 2024-09-23T17:21:35.539Z
+updated: 2024-09-26T17:19:46.079Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 5. [Download and install file from Github](https://tools.techidaily.com/drivereasy/download/)
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game files
 
  Verifying game files is always the first thing to try as corrupted and missing files would cause Stray crashing, freezing, or other game issues.
@@ -49,6 +56,14 @@ If it doesn’t work, move to the next fix.
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
@@ -57,10 +72,10 @@ If it doesn’t work, move to the next fix.
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
@@ -71,6 +86,14 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
@@ -98,14 +121,14 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -117,42 +140,37 @@ If it doesn’t work, move to the next fix.
 2. Download**dxvk-1.10.2.tar.gz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -175,5 +193,22 @@ If it doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[New] The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sony-x1000-video-excellence-detailed-product-evaluation-for-2024/"><u>[Updated] Sony X1000 Video Excellence Detailed Product Evaluation for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-gopro-video-on-mac-for-2024/"><u>How to Edit GoPro Video on Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-webm-video-compressors/"><u>In 2024, Best Online WebM Video Compressors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-stop-motion-animation-tools-for-mac-and-pc/"><u>In 2024, Best Stop Motion Animation Tools for Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-enhancement-in-final-cut-pro-a-step-by-step-guide/"><u>In 2024, Color Enhancement in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-videos-with-these-top-split-screen-apps/"><u>In 2024, Create Engaging Videos with These Top Split Screen Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-movies-online-for-free-top-9-options/"><u>In 2024, Create Stunning Movies Online for Free Top 9 Options</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-z-fold-5-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy Z Fold 5 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-top-10-storyboarding-software/"><u>New In 2024, Top 10 Storyboarding Software</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>New Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-of-vbox-in-your-windows-environment/"><u>Seamless Integration of VBox in Your Windows Environment</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-performance-issues-in-wsappx-techniques-to-reduce-high-disk-and-cpu-usage/"><u>Solving Performance Issues in WSAPPX: Techniques to Reduce High Disk and CPU Usage</u></a></li>
+</ul></div>
 

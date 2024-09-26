@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Video Effects Handbook Tips and Tricks
-date: 2024-09-16T16:09:25.075Z
-updated: 2024-09-20T16:06:31.154Z
+date: 2024-09-19T16:58:40.363Z
+updated: 2024-09-26T16:00:29.348Z
 tags: 
   - video editing software
   - video editing
@@ -54,6 +54,13 @@ Install and launch Wondershare Filmora. Click New Project and then click the “
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2 Add cool effects to your video
 
 Now it's time to add cool effects to your video. Just drop the video and audio files from the media library to the corresponding timelines. Then click the “Effect” button in the toolbar to switch to the “Effect” tab. Here you will see filters and overlays effects for you to choose.
@@ -65,6 +72,13 @@ You can also right click your favorite effect and select apply. You will see the
 Detailed information about how to add a split-screen effect video, check our [guide about how to make a split screen video here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For steps of compositing a green screen video, check this video tutorial below:
 
@@ -84,9 +98,23 @@ Filmora features more than 300 video effects, elements and motion effects and 10
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -103,12 +131,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-thriving-on-the-grid-maximizing-your-telegram-impact/"><u>[New] Thriving on the Grid Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>2024 Approved Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-beat-bringers-guide-integrating-melody-into-vimeo-videos/"><u>2024 Approved The Beat Bringers' Guide Integrating Melody Into Vimeo Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activate-chatgpt-widget-for-android-ease/"><u>Activate ChatGPT Widget for Android Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-top-rated-2d-animation-programs-for-beginners-and-pros/"><u>Best Top-Rated 2D Animation Programs for Beginners and Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-adobe-top-4-premiere-rush-alternatives-for-creators-for-2024/"><u>Beyond Adobe Top 4 Premiere Rush Alternatives for Creators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-lumafusion-for-mac-top-alternatives-included/"><u>Download Lumafusion for Mac Top Alternatives Included</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-combine-photos-and-videos-best-online-collage-generators-for-2024/"><u>Easily Combine Photos and Videos Best Online Collage Generators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-with-wevideos-online-video-editor-for-2024/"><u>Elevate Your Storytelling with WeVideos Online Video Editor for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/essential-fcpx-add-ons-top-10-free-and-paid-plugins-you-need/"><u>Essential FCPX Add-Ons Top 10 Free and Paid Plugins You Need</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/everything-you-want-to-know-about-kapwing-video-translation/"><u>Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mpeg-video-assembly-top-5-programs/"><u>Free MPEG Video Assembly Top 5 Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-concept-to-reality-10-best-music-video-making-platforms-for-2024/"><u>From Concept to Reality 10 Best Music Video Making Platforms for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-how-to-resolve-non-functional-discord-call-audio-features/"><u>Solution Found: How to Resolve Non-Functional Discord Call Audio Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamline-your-education-mac-audio-recording-best-practices-for-2024/"><u>Streamline Your Education Mac Audio Recording Best Practices for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-updating-d-link-drivers-a-comprehensive-tutorial-for-windows-users/"><u>Troubleshooting and Updating D-Link Drivers: A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>Updated In 2024, 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes
-date: 2024-09-13T16:13:45.154Z
-updated: 2024-09-20T16:11:41.060Z
+date: 2024-09-19T16:19:56.762Z
+updated: 2024-09-26T16:02:32.485Z
 tags: 
   - video editing software
   - video editing
@@ -86,6 +86,13 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -120,6 +127,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
@@ -132,6 +146,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -181,6 +202,13 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -208,12 +236,20 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-rated-desktops-for-peak-performance/"><u>[New] In 2024, Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-create-a-signature-code-that-resonates-on-tiktok/"><u>[Updated] In 2024, How to Create a Signature Code That Resonates on TikTok</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-edit-mp4-videos-on-mac-mavericks-a-step-by-step-guide/"><u>2024 Approved How to Edit MP4 Videos on Mac Mavericks A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-closer-look-at-virtualdub-review-benefits-and-top-alternatives/"><u>A Closer Look at Virtualdub Review, Benefits, and Top Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-update-from-intel-on-microcode-patch-to-resolve-processor-instability-and-crash-issues-ensures-slight-performance-hit-exempts-next-gen-models.10/"><u>Comprehensive Update From Intel on Microcode Patch to Resolve Processor Instability and Crash Issues - Ensures Slight Performance Hit, Exempts Next-Gen Models</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discount-alert-4-ways-to-get-cheap-filmora-subscriptions/"><u>Discount Alert! 4 Ways to Get Cheap Filmora Subscriptions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/face-swap-frenzy-the-best-mobile-apps-to-try/"><u>Face Swap Frenzy The Best Mobile Apps to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-basic-to-brilliant-mastering-picture-in-picture-in-final-cut-pro-for-2024/"><u>From Basic to Brilliant Mastering Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-samsung-monitor-driver-on-a-windows-computer/"><u>How to Update Samsung Monitor Driver on a Windows Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-gt-5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme GT 5 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-the-causes-for-assassins-creed-valhalla-launch-postponement/"><u>Unveiling the Causes for Assassin's Creed: Valhalla Launch Postponement</u></a></li>
+</ul></div>
 

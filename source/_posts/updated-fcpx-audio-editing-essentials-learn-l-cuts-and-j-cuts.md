@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2024-09-13T16:11:31.638Z
-updated: 2024-09-20T16:22:30.226Z
+date: 2024-09-25T17:25:23.054Z
+updated: 2024-09-26T17:22:37.748Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ When you look at the above interface, you will see the basic phenomenon behind t
 
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -68,6 +75,13 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 
 When you look at the transition closely, you can see that it resembles the letter J.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -91,10 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,10 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -123,5 +137,18 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discover-the-innovations-in-iphone-xs-imaging-system/"><u>[Updated] 2024 Approved Discover the Innovations in iPhone X's Imaging System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-corsair-h80i-series-v2-gpu-fans-management-software/"><u>Download and Install the Corsair H80i Series V2 GPU Fans Management Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-your-portal-to-youtubes-video-mastery-hub/"><u>Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/grandes-ofertas-con-cupones-de-descuento-en-movavi-ahorro-para-su-nueva-camara/"><u>Grandes Ofertas Con Cupones De Descuento en Movavi: Ahorro Para Su Nueva Cámara</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20with/without a PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-create-animation-drawing-with-7-best-software/"><u>How to Create Animation Drawing with 7 Best Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-a05s-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy A05s to Another | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-use-compressor-in-final-cut-pro-x-in-2024/"><u>How to Use Compressor in Final Cut Pro X, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-achieving-cinematic-color-in-final-cut-pro/"><u>In 2024, Achieving Cinematic Color in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-affordable-video-editing-solutions-for-creators/"><u>In 2024, Affordable Video Editing Solutions for Creators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mastering-animation-drawing-the-7-best-software-solutions/"><u>New In 2024, Mastering Animation Drawing The 7 Best Software Solutions</u></a></li>
+</ul></div>
 

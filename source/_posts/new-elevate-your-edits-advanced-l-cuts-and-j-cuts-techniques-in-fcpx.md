@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2024-09-17T16:15:24.007Z
-updated: 2024-09-20T16:06:23.112Z
+date: 2024-09-24T16:56:50.778Z
+updated: 2024-09-26T16:34:47.575Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ When you look at the above interface, you will see the basic phenomenon behind t
 
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -68,6 +75,13 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 
 When you look at the transition closely, you can see that it resembles the letter J.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -91,10 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,10 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -123,5 +137,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-soundtrack-top-10-music-videos-on-facebook/"><u>[New] 2024 Approved Social Soundtrack Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-recording-captivate-videos-for-2024/"><u>[New] Essential Steps for Recording Captivate Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-up-your-film-game-on-instagram-with-border-tips/"><u>[New] Step up Your Film Game on Instagram with Border Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-simple-guide-making-your-windows-computer-speak-like-a-fish-for-2024/"><u>[Updated] The Simple Guide Making Your Window's Computer Speak Like a Fish for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-easy-guide-transforming-your-ebooks-from-vitalsource-to-pdf-format/"><u>1. Easy Guide: Transforming Your eBooks From VitalSource to PDF Format</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-cutting-mp4-files/"><u>In 2024, Best Free Video Editing Software for Cutting MP4 Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-breaking-free-from-g/"><u>In 2024, Breaking Free From G</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>In 2024, Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-distort-disrupt-and-delight-the-best-free-online-glitch-tools/"><u>In 2024, Distort, Disrupt, and Delight The Best Free Online Glitch Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>In 2024, Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-simple-troubleshooting-tips/"><u>Stop Modern Warfare 3 From Crashing on Your PC with Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-rpc-server-not-found-errors-in-microsoft-windows-systems/"><u>Troubleshooting RPC Server Not Found Errors in Microsoft Windows Systems</u></a></li>
+</ul></div>
 

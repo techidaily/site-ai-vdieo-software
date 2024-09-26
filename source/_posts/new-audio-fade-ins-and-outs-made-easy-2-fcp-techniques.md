@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-09-14T16:13:29.336Z
-updated: 2024-09-20T16:00:01.748Z
+date: 2024-09-24T16:51:28.667Z
+updated: 2024-09-26T16:30:08.484Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -80,11 +87,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,12 +140,19 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-ios-screenshots-and-recordings/"><u>[Updated] 2024 Approved Mastering iOS Screenshots & Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-synthesizing-creativity-a-brainstormers-toolkit-for-names/"><u>[Updated] In 2024, Synthesizing Creativity A Brainstormer’s Toolkit for Names</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>2024 Approved A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-install-videoleap-video-editor-on-your-macbook/"><u>2024 Approved How to Install Videoleap Video Editor on Your MacBook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mastering-audio-transitions-2-methods-in-final-cut-pro/"><u>2024 Approved Mastering Audio Transitions 2 Methods in Final Cut Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-pixeled-play-log-audit/"><u>2024 Approved Pixeled Play Log Audit</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/audio-and-video-in-harmony-syncing-in-final-cut-pro-x-2024/"><u>Audio and Video in Harmony Syncing in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-for-mac-video-editing-tool-for-mac-mountain-lion-included/"><u>AVS Video Editor for Mac Video Editing Tool for Mac (Mountain Lion Included)</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-the-cutting-edge-engine-behind-customized-user-experiences-online/"><u>Cookiebot: The Cutting-Edge Engine Behind Customized User Experiences Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dub-like-a-pro-top-6-video-dubbing-apps-for-comedy-and-creativity-for-2024/"><u>Dub Like a Pro Top 6 Video Dubbing Apps for Comedy & Creativity for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-versus-chromecast-unraveling-the-best-streaming-device-on-the-market/"><u>Roku versus Chromecast - Unraveling the Best Streaming Device on the Market</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-nvidia-graphics-driver-setup-for-latest-os/"><u>Successful Nvidia Graphics Driver Setup for Latest OS</u></a></li>
+</ul></div>
 

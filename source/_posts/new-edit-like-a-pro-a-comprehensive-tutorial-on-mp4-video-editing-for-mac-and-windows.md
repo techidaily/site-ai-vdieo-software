@@ -1,7 +1,7 @@
 ---
 title: New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows
-date: 2024-09-15T16:04:43.728Z
-updated: 2024-09-20T16:06:48.399Z
+date: 2024-09-22T16:37:13.349Z
+updated: 2024-09-26T17:22:34.463Z
 tags: 
   - video editing software
   - video editing
@@ -58,6 +58,13 @@ It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 1. Cut MP4 Video
@@ -67,6 +74,19 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -79,6 +99,13 @@ If you want to make the joined videos look like a really intact movie, just add 
 If you don't want to choose the transition one by one, let the software choose the transition randomly by right clicking and selecting "Random to All" option.
 
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -120,6 +147,13 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -137,12 +171,21 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[New] Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-youtubes-central-hub-for-video-crafting-for-2024/"><u>[Updated] Unlocking YouTube's Central Hub for Video Crafting for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v29-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-best-quicktime-mov-movie-editors/"><u>2024 Approved Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-animated-explainer-tools-for-pc-and-mac-2024-update/"><u>Best Free Animated Explainer Tools for PC and Mac (2024 Update)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-hp-deskjet-2n755e-printer-software-bundle-download-guide-for-windows-users/"><u>Complete HP DeskJet 2N755e Printer Software Bundle: Download Guide for Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-video-to-photo-a-step-by-step-guide-with-10-best-tools-for-2024/"><u>Convert Video to Photo A Step-by-Step Guide with 10 Best Tools for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/curing-game-crashes-effective-remedies-for-the-persistent-issues-of-solved-the-ascent-on-pc/"><u>Curing Game Crashes: Effective Remedies for the Persistent Issues of [SOLVED] 'The Ascent' On PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dysfonctionnement-de-handbrake-sur-windows-11-conseils-pour-trouver-un-remede-et-dautres-options-disponibles/"><u>Dysfonctionnement De Handbrake Sur Windows 11 : Conseils Pour Trouver Un Remède Et D'autres Options Disponibles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-top-10-4k-video-converters-you-need-for-2024/"><u>Free and Fabulous The Top 10 4K Video Converters You Need for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-gif-maker-tools-the-ultimate-list/"><u>Free GIF Maker Tools The Ultimate List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-free-realtek-bluetooth-drivers-available-now-compatible-with-windows-11-and-windows-10/"><u>Newest Free RealTek Bluetooth Drivers Available Now: Compatible with Windows 11 & Windows 10</u></a></li>
+</ul></div>
 

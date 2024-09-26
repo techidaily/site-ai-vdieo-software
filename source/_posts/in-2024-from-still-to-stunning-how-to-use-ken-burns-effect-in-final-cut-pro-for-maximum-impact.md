@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact
-date: 2024-09-14T16:13:03.125Z
-updated: 2024-09-20T16:03:08.192Z
+date: 2024-09-25T16:22:14.608Z
+updated: 2024-09-26T16:50:06.446Z
 tags: 
   - video editing software
   - video editing
@@ -57,13 +57,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -74,9 +67,23 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -93,10 +100,16 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -104,6 +117,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -126,5 +146,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-apeak-soft-recording-performance-and-reliability-assessed/"><u>[New] 2024 Approved Apeak Soft Recording Performance and Reliability Assessed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-incorporating-vimeo-videos-seamlessly-in-microsoft-slides/"><u>[New] In 2024, Incorporating Vimeo Videos Seamlessly in Microsoft Slides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-connectivity-and-convenience-integrating-zoom-into-your-xbox-experience/"><u>[Updated] Connectivity & Convenience Integrating Zoom Into Your Xbox Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-selecting-the-right-video-recorder-for-teaching/"><u>[Updated] In 2024, Selecting the Right Video Recorder for Teaching</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-art-of-close-up-meetings-in-ms-teams-for-2024/"><u>[Updated] The Art of Close-Up Meetings in MS Teams for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-syma-s111g-remote-control-helicopter-in-depth-assessment-and-user-experience/"><u>Budget-Friendly Syma S111G Remote Control Helicopter - In-Depth Assessment and User Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dissecting-youtube-revenue-how-much-do-you-earning-from-adsense-per-kv-in-2024/"><u>Dissecting YouTube Revenue How Much Do You Earning From AdSense per KV, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-enhancing-your-pets-gaze-in-photographs/"><u>Expert Techniques for Enhancing Your Pets' Gaze in Photographs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-videos-in-windows-live-movie-maker/"><u>How to Edit Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-stabilize-your-video-for-better-impressions-in-fcpx-in-2024/"><u>How to Stabilize Your Video for Better Impressions in FCPX, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-9-best-free-video-cutting-software-for-mp4-format/"><u>In 2024, 9 Best Free Video Cutting Software for MP4 Format</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-pro-secrets-20-shortcuts-to-supercharge-your-editing/"><u>In 2024, Adobe Premiere Pro Secrets 20 Shortcuts to Supercharge Your Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-gopro-quik-alternatives-for-desktop-and-laptop-users/"><u>In 2024, Best GoPro Quik Alternatives for Desktop and Laptop Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-stop-motion-software-a-comprehensive-review/"><u>In 2024, Best Online Stop Motion Software A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-combine-videos-freely-7-watermark-free-editors/"><u>In 2024, Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-videos-best-collage-makers-for-ios-devices/"><u>In 2024, Create Stunning Videos Best Collage Makers for iOS Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crop-trim-and-refine-mastering-image-editing-in-fcpx/"><u>In 2024, Crop, Trim, and Refine Mastering Image Editing in FCPX</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-art-of-fast-internet-sharing-using-d-links-powerline-technology-your-step-by-step-guide/"><u>Master the Art of Fast Internet Sharing Using D-Link's Powerline Technology - Your Step by Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-strategies-for-bitcoin-and-altcoin-trading-with-chatgpt/"><u>Unlocking New Strategies for Bitcoin and Altcoin Trading with ChatGPT</u></a></li>
+</ul></div>
 

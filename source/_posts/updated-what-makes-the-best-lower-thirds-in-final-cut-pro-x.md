@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-09-16T16:09:51.019Z
-updated: 2024-09-20T16:14:33.553Z
+date: 2024-09-20T16:08:12.648Z
+updated: 2024-09-26T17:16:13.736Z
 tags: 
   - video editing software
   - video editing
@@ -59,6 +59,13 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. **Motion effect**
 
 Thrill your audience by inserting movements with the lower third elements. When you add some motion effect to this module, it adds flavors to your video. Work on this feature in-depth and observe whether the lower third’s motion effect excites the audience. Customize the animation time, style, and the way it flashes on the screen.
@@ -84,6 +91,13 @@ Position the element at the perfect place on the screen to ensure its visibility
 Proper alignment and the best coordinates on the screen make the lower third module shine better in your video. Proper placement of this element decides the impact on it.
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
@@ -115,6 +129,13 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -128,10 +149,10 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -151,13 +172,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advanced-6-apps-to-translate-film-content/"><u>[New] 2024 Approved Advanced 6 Apps to Translate Film Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance-for-2024/"><u>[New] Beam It Up A Step-By-Step Approach to YouTube Video Luminance for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-tackling-live-broadcasts-the-intersection-of-obs-and-zoom/"><u>[New] In 2024, Tackling Live Broadcasts The Intersection of OBS and Zoom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/college-students-dream-simple-tips-for-a-homemade-wireless-entertainment-retreat/"><u>College Student's Dream: Simple Tips for a Homemade Wireless Entertainment Retreat</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/im-going-to-show-you-the-top-5-avchd-video-editing-software-commonly-used-by-many-people/"><u>Im Going to Show You the Top 5 Avchd Video Editing Software Commonly Used by Many People</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-online-face-creation-tools-for-fictional-characters/"><u>In 2024, 10 Best Online Face Creation Tools for Fictional Characters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 13 mini How to Bypass?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-adobe-top-4-video-editing-solutions-you-need-to-know/"><u>In 2024, Beyond Adobe Top 4 Video Editing Solutions You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-animation-software-for-newbies-and-pros/"><u>In 2024, Bring Your Ideas to Life Top Animation Software for Newbies and Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-comcast-xfinity-vs-tivo-which-dvr-reigns-supreme/"><u>In 2024, Comcast Xfinity vs TiVo Which DVR Reigns Supreme?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-animation-software-for-education/"><u>In 2024, Discover the Best Animation Software for Education</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easiest-video-metadata-editing-software-for-mac-users-2023-update/"><u>In 2024, Easiest Video Metadata Editing Software for Mac Users 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>In 2024, Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-video-editing-software/"><u>In 2024, Edit MOV Files for Free Top 10 Video Editing Software</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-instant-sharing-convert-tweets-to-snaps-users/"><u>In 2024, Instant Sharing Convert Tweets to Snaps Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-why-your-ps4-controllers-arent-charging-and-how-to-get-them-back-on-track/"><u>Mastering the Fix: Why Your PS4 Controllers Aren't Charging (and How to Get Them Back on Track)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unpacking-apps-the-az-screenshotter-approach-for-2024/"><u>Unpacking Apps - The AZ Screenshotter Approach for 2024</u></a></li>
+</ul></div>
 
