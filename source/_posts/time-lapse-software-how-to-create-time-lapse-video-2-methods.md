@@ -1,7 +1,7 @@
 ---
 title: Time Lapse Software How to Create Time Lapse Video 2 Methods
-date: 2024-08-31T11:00:56.709Z
-updated: 2024-09-01T11:00:56.709Z
+date: 2024-09-27T16:34:19.821Z
+updated: 2024-10-01T18:28:31.530Z
 tags: 
   - video editing software
   - video editing
@@ -85,6 +85,13 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -99,11 +106,25 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -117,13 +138,18 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,6 +157,21 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/solved-unexpected-kernel-mode-trap-bsod-error-in-windows-11/"><u>[SOLVED] UNEXPECTED KERNEL MODE TRAP BSOD Error in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-atk0110-bios-and-acpi-control-panel-programs-free-download-today/"><u>ASUS ATK0110 BIOS & ACPI Control Panel Programs Free Download Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-jim-carreys-masterpieces-the-ultimate-movie-watchlist/"><u>Discover Jim Carrey's Masterpieces: The Ultimate Movie Watchlist</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-breaking-new-ground-top-6-platforms-for-digital-artistry/"><u>In 2024, Breaking New Ground Top 6 Platforms for Digital Artistry</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-listening-techniques-for-students-with-macs/"><u>Innovative Listening Techniques for Students with Macs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/loop-repeat-and-relax-top-10-free-video-looping-services/"><u>Loop, Repeat, and Relax Top 10 Free Video Looping Services</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-novice-to-pro-the-top-animation-maker-tools-you-need-to-know/"><u>New From Novice to Pro The Top Animation Maker Tools You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>New From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/three-digital-dreamers-one-creative-quest/"><u>Three Digital Dreamers, One Creative Quest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Steps: Reactivating Your Device's Bluetooth Functionality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-si/"><u>Updated In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-15-free-video-editing-software-for-beginners-easy-to-use/"><u>Updated Top 15 Free Video Editing Software for Beginners Easy to Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-you-dont-need-professional-camera-equipment-if-you-want-to-create-time-lapse-videos-you-can-share-on-your-social-media-accounts-because-there-are-pl/"><u>Updated You Dont Need Professional Camera Equipment if You Want to Create Time-Lapse Videos You Can Share on Your Social Media Accounts because There Are Plenty of Apps that Let You Create These Types of Vid</u></a></li>
+</ul></div>
+

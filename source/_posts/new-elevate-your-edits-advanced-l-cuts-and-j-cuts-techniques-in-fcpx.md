@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2024-09-24T16:56:50.778Z
-updated: 2024-09-26T16:34:47.575Z
+date: 2024-09-28T17:54:00.443Z
+updated: 2024-10-01T17:50:52.543Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,10 +105,16 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,10 +124,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -139,18 +145,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-soundtrack-top-10-music-videos-on-facebook/"><u>[New] 2024 Approved Social Soundtrack Top 10 Music Videos on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-recording-captivate-videos-for-2024/"><u>[New] Essential Steps for Recording Captivate Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-up-your-film-game-on-instagram-with-border-tips/"><u>[New] Step up Your Film Game on Instagram with Border Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-simple-guide-making-your-windows-computer-speak-like-a-fish-for-2024/"><u>[Updated] The Simple Guide Making Your Window's Computer Speak Like a Fish for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-easy-guide-transforming-your-ebooks-from-vitalsource-to-pdf-format/"><u>1. Easy Guide: Transforming Your eBooks From VitalSource to PDF Format</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 8 Plus How to Bypass?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-cutting-mp4-files/"><u>In 2024, Best Free Video Editing Software for Cutting MP4 Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-breaking-free-from-g/"><u>In 2024, Breaking Free From G</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>In 2024, Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-distort-disrupt-and-delight-the-best-free-online-glitch-tools/"><u>In 2024, Distort, Disrupt, and Delight The Best Free Online Glitch Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>In 2024, Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-simple-troubleshooting-tips/"><u>Stop Modern Warfare 3 From Crashing on Your PC with Simple Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-rpc-server-not-found-errors-in-microsoft-windows-systems/"><u>Troubleshooting RPC Server Not Found Errors in Microsoft Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-steps-for-exporting-videos-from-youtube-to-dailymotion-for-2024/"><u>[New] Easy Steps for Exporting Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-dvd-top10/"><u>「Windows 11 DVD コピーを簡単に!無料のベストツール集Top10掲載」</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro/"><u>2024 Approved From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-create-a-sports-highlight-video-a-simple-guide/"><u>2024 Approved How to Create a Sports Highlight Video - a Simple Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-edit-mp4-videos-on-mac-mavericks-a-step-by-step-guide/"><u>2024 Approved How to Edit MP4 Videos on Mac Mavericks A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/6-best-explainer-video-software/"><u>6 Best Explainer Video Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-closer-look-at-virtualdub-review-benefits-and-top-alternatives/"><u>A Closer Look at Virtualdub Review, Benefits, and Top Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723012050919-bringing-zombies-alive-with-excitement-the-ultimate-insight-into-7-days-to-die-day-by-day-and-platform-by-platform/"><u>Bringing Zombies Alive with Excitement: The Ultimate Insight Into '7 Days to Die,' Day by Day and Platform by Platform</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-free-flv-video-editing-software/"><u>Cutting-Edge Free FLV Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/face-swap-frenzy-the-best-mobile-apps-to-try/"><u>Face Swap Frenzy The Best Mobile Apps to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-avi-video-editing-top-5-software-choices-for-2024/"><u>Free and Easy AVI Video Editing Top 5 Software Choices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-basic-to-brilliant-mastering-picture-in-picture-in-final-cut-pro-for-2024/"><u>From Basic to Brilliant Mastering Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpt-satirical-gifs-via-giphy/"><u>In 2024, Sculpt Satirical Gifs via Giphy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-move-over-virtualdub-exploring-the-latest-video-editing-innovations/"><u>New 2024 Approved Move Over Virtualdub Exploring the Latest Video Editing Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-privacy-a-step-by-step-guide-to-exiting-chatgpt/"><u>Protecting Your Privacy: A Step-by-Step Guide to Exiting ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-list-facebooks-top-10-vids-for-2024/"><u>The Ultimate List Facebook's Top 10 Vids for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-50-unmissable-television-promotions-for-baby-boomers-during-the-2024-labor-day-celebration-insights-from-zdnet/"><u>Top 50 Unmissable Television Promotions for Baby Boomers During the 2024 Labor Day Celebration - Insights From ZDNet</u></a></li>
 </ul></div>
 

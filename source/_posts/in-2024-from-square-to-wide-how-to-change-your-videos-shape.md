@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-09-24T16:28:55.279Z
-updated: 2024-09-26T16:59:04.033Z
+date: 2024-09-30T18:51:37.201Z
+updated: 2024-10-01T19:49:19.263Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -93,10 +93,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -108,10 +108,16 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -179,17 +185,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-apex-creations-workspace-assessment/"><u>[Updated] Apex Creations Workspace Assessment</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-vimeo-playback-velocity-guide-for-2024/"><u>[Updated] Enhancing Vimeo Playback Velocity Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-designing-intriguing-instagram-post-thumbnails/"><u>[Updated] In 2024, Designing Intriguing Instagram Post Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-enhance-your-digital-viewing-experience-in-hd-with-android/"><u>[Updated] In 2024, Enhance Your Digital Viewing Experience in Hd with Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>[Updated] SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a05s-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A05s Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-and-convenient-amazon-basics-tablet-support-system-analysis/"><u>Compact and Convenient Amazon Basics Tablet Support System Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-to-animate-text-in-video-on-phone/"><u>In 2024, Best Apps To Animate Text In Video On Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-rated-video-animation-software-for-smartphones-and-tablets/"><u>In 2024, Best Top-Rated Video Animation Software for Smartphones and Tablets</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-3gp-videos-like-a-pro-cutting-trimming-and-more/"><u>In 2024, Edit 3GP Videos Like a Pro Cutting, Trimming, and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-hack-how-to-create-a-vhs-aesthetic-in-minutes/"><u>In 2024, FCP Hack How to Create a VHS Aesthetic in Minutes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-movavi-video-editor-plus-update-2024/"><u>The Ultimate Guide to Movavi Video Editor Plus Update 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[New] Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>[Updated] In 2024, MP3 Upload Process Stream, Convert & Share on YouTube Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decouvrez-les-plus-puissants-programmes-vedette-de-montage-video-compatibles-avec-windows-11/"><u>Découvrez Les Plus Puissants Programmes Vedette De Montage Vidéo Compatibles Avec Windows 11 !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-preventing-and-fixing-infinite-warfare-battleship-pc-malfunctions/"><u>Essential Tips for Preventing and Fixing Infinite Warfare Battleship PC Malfunctions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-powerful-photo-management-tools-to-replace-windows-10-photos/"><u>In 2024, 8 Powerful Photo Management Tools to Replace Windows 10 Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avchd-video-editing-software-top-recommendations/"><u>In 2024, AVCHD Video Editing Software Top Recommendations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-deciphering-the-codex-of-meta-and-omni-worlds/"><u>In 2024, Deciphering the Codex of Meta and Omni Worlds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>In 2024, Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/perfecting-youtube-videos-editing-tips-using-imovie/"><u>Perfecting YouTube Videos Editing Tips Using iMovie</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-intels-nvme-drivers-for-optimal-performance/"><u>Step-by-Step Tutorial on Downloading Intel's NVMe Drivers for Optimal Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-se-2022-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone SE (2022)</u></a></li>
 </ul></div>
 

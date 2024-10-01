@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-09-21T17:15:05.125Z
-updated: 2024-09-26T16:55:23.613Z
+date: 2024-09-26T18:06:21.851Z
+updated: 2024-10-01T19:43:31.323Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,13 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -42,13 +49,6 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -59,10 +59,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -72,10 +72,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -87,13 +87,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -119,6 +112,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -142,22 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>[New] In 2024, Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-boosting-engagement-profits-with-animated-ad-success-tactics-on-fb/"><u>2024 Approved Boosting Engagement, Profits with Animated Ad Success Tactics on FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-advice-on-avoiding-mistakes-in-display-shopping/"><u>Expert Advice on Avoiding Mistakes in Display Shopping</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/handbrake-compatibility-issue-why-it-fails-to-convert-mkv-files/"><u>HandBrake Compatibility Issue: Why It Fails to Convert MKV Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13t-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13T Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-leading-cartoon-video-editing-apps-for-smartphones/"><u>In 2024, 10 Leading Cartoon Video Editing Apps for Smartphones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-avs-video-editor-2023-features-performance-and-value/"><u>In 2024, A Closer Look at AVS Video Editor 2023 Features, Performance, and Value</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animate-your-memories-best-tools-for-easy-photo-animation/"><u>In 2024, Animate Your Memories Best Tools for Easy Photo Animation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023/"><u>In 2024, AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop/"><u>In 2024, Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-blur-faces-or-backgrounds-in-videos-best-apps-for-ios-and-android/"><u>In 2024, Blur Faces or Backgrounds in Videos Best Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-x-green-screen-masterclass-from-basics-to-advanced/"><u>In 2024, FCP X Green Screen Masterclass From Basics to Advanced</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sleep-mode-stuck-keyboard-mouse-fix-for-win1011/"><u>Sleep Mode Stuck: Keyboard, Mouse Fix for Win10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-repairing-a-500-internal-server-mishap/"><u>Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-apps-for-windows-10-pcs-and-laptops-for-2024/"><u>Best Video Editing Apps for Windows 10 PCs and Laptops for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-perfection-in-final-cut-pro-2023-tips-and-techniques-for-2024/"><u>Color Perfection in Final Cut Pro 2023 Tips and Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-4k-videos-for-free-top-10-tools/"><u>Convert 4K Videos for Free Top 10 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/creative-chaos-top-video-dubbing-tools-for-humorous-edits/"><u>Creative Chaos Top Video Dubbing Tools for Humorous Edits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-audio-editing-software-top-8-picks/"><u>Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-detection-issue-wd-my-passport-ultra-and-windows-compatibility-woes/"><u>Fixing the Detection Issue: WD My Passport Ultra and Windows Compatibility Woes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-best-video-special-effects-apps/"><u>FREE Best Video Special Effects Apps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-up-storage-on-your-linux-virtualbox-efficient-solutions-to-prevent-running-out-of-disk-space/"><u>Free Up Storage on Your Linux VirtualBox: Efficient Solutions to Prevent Running Out of Disk Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-fcp-to-vhs-effortless-ways-to-add-retro-flair-for-2024/"><u>From FCP to VHS Effortless Ways to Add Retro Flair for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android/"><u>Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-and-download-4k-video-in-mp4-format/"><u>How to Convert and Download 4K Video in MP4 Format</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y100-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y100 Is Unlocked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-building-podcast-rss/"><u>In 2024, The Ultimate Guide to Building Podcast RSS</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimal-performance-finding-the-right-graphics-drivers-for-your-gtx-1080-with-windows-7/"><u>Optimal Performance: Finding the Right Graphics Drivers for Your GTX 1080 with Windows 7</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy A QuickTime Tutorial
-date: 2024-08-27T06:23:47.704Z
-updated: 2024-08-28T06:23:47.704Z
+date: 2024-09-25T17:19:11.844Z
+updated: 2024-10-01T18:22:10.745Z
 tags: 
   - video editing software
   - video editing
@@ -49,9 +49,23 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
@@ -61,9 +75,6 @@ Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -76,9 +87,6 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -91,9 +99,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -111,29 +116,32 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +149,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-easy-techniques-for-archiving-group-discussions/"><u>[New] 2024 Approved Easy Techniques for Archiving Group Discussions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>2024 Approved 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-amazing-greeting-card-design-tools-top-picks-for-free-and-pay-as-you-go-services/"><u>Discover Amazing Greeting Card Design Tools - Top Picks for Free & Pay As You Go Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hero5-vs-yi-4k-updated-battle-for-best-action-cam/"><u>Hero5 Vs. Yi 4K Updated Battle for Best Action Cam</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>In 2024, Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sideways-to-right-side-up-how-to-flip-videos-quickly/"><u>In 2024, From Sideways to Right-Side Up How to Flip Videos Quickly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>In 2024, Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-tutorial-reversing-video-clips-made-easy/"><u>New Final Cut Pro Tutorial Reversing Video Clips Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/slow-motion-mastery-the-top-10-video-players-you-need/"><u>Slow Motion Mastery The Top 10 Video Players You Need</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition-for-2024/"><u>Top 5 Ultimate Camera & Video Recording Apps IPhone/Android Edition for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/troubleshooting-failed-launches-for-thaumaturge-software-on-computers/"><u>Troubleshooting Failed Launches for Thaumaturge Software on Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-audio-editors-for-m4a-files-2024-edition/"><u>Updated Best Free Audio Editors for M4A Files (2024 Edition)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
+</ul></div>
+

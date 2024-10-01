@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-09-19T16:13:52.081Z
-updated: 2024-09-26T16:53:23.632Z
+date: 2024-09-30T18:50:07.292Z
+updated: 2024-10-01T17:11:37.152Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,16 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -194,16 +188,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-making-mp3s-from-your-facebook-videos-with-ease-for-2024/"><u>[Updated] Making MP3s From Your Facebook Videos with Ease for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-your-creative-potential-top-7-hidden-tiktok-emojis/"><u>[Updated] Unlock Your Creative Potential Top 7 Hidden TikTok Emojis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-instagram-selfies-the-validation-handbook/"><u>2024 Approved Decoding Instagram Selfies The Validation Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blueprint-for-an-intriguing-videography-script/"><u>Blueprint for an Intriguing Videography Script</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/creer-des-medias-multiformes-avec-facilite-via-les-outils-movavi/"><u>Créer Des Médias Multiformes Avec Facilité via Les Outils Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-get-filmora-for-free-without-crack-100-truthful/"><u>How to Get Filmora for Free without Crack (100 Truthful)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-image-to-video-makers-online-free-and-paid/"><u>In 2024, 10 Best Image to Video Makers Online Free & Paid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>In 2024, Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-cinematography-a-beginners-guide-to-making-movies/"><u>In 2024, Easy Cinematography A Beginners Guide to Making Movies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mix-like-a-pro-with-20-no-cost-luts-from-dji-devices/"><u>In 2024, Mix Like a Pro with 20 No-Cost LUTs From DJI Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-spark-10-4g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Spark 10 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer/"><u>[New] The Ultimate Guide to Selecting a Premier FB Cover Photo Designer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>[Updated] Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expert-techniques-implementing-luts-in-adobe-ae/"><u>2024 Approved Expert Techniques Implementing LUTs in Adobe AE</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-customization-enhancing-user-experience/"><u>Cookiebot-Driven Customization: Enhancing User Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-sonys-xperia-5-big-features-in-a-small-frame/"><u>Expert Insight on Sony's Xperia 5 - Big Features in a Small Frame</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-gopro-video-on-mac-for-2024/"><u>How to Edit GoPro Video on Mac for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-n53-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-tracking-movement-on-your-smartphone-or-tablet/"><u>In 2024, Best Apps for Tracking Movement on Your Smartphone or Tablet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-chromecast-mastery-playing-any-video-file-type-with-ease-2023-update/"><u>In 2024, Chromecast Mastery Playing Any Video File Type with Ease (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-enhancement-in-final-cut-pro-a-step-by-step-guide/"><u>In 2024, Color Enhancement in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-movies-online-for-free-top-9-options/"><u>In 2024, Create Stunning Movies Online for Free Top 9 Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-inclusivity-in-tech-the-expert-take-on-easeus/"><u>In 2024, Inclusivity in Tech The Expert Take on EaseUS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-woes-heres-how-to-fix-your-wrath-of-the-righteous-keyboard-problems/"><u>Pathfinder Woes? Here’s How to Fix Your Wrath of the Righteous Keyboard Problems!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
-date: 2024-08-27T06:26:11.796Z
-updated: 2024-08-28T06:26:11.796Z
+date: 2024-09-30T16:50:17.431Z
+updated: 2024-10-01T18:11:59.069Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -55,17 +52,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -76,9 +74,23 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -94,18 +106,12 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -115,15 +121,17 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +139,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-resolve-airdrop-hurdles-on-any-apple-device/"><u>[New] How to Resolve Airdrop Hurdles on Any Apple Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-budget-friendly-high-fidelity-webm-players/"><u>2024 Approved The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 11 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-tablet-sizes-your-comprehensive-guide-to-lighter-more-compact-options/"><u>Decoding Tablet Sizes: Your Comprehensive Guide to Lighter, More Compact Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-your-favorite-vimeo-songs-as-mp3-without-paying-a-penny/"><u>Download Your Favorite Vimeo Songs as MP3 Without Paying a Penny!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-advanced-video-editing-techniques/"><u>Ken Burns Effect in Final Cut Pro A Beginners Guide to Advanced Video Editing Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-issues-leveraging-the-power-of-apples-in-house-support-software/"><u>Navigating iPhone Issues: Leveraging the Power of Apple’s In-House Support Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-movie-trailer-apps-for-ios-devices/"><u>New Best Movie Trailer Apps for iOS Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-approved-highlight-video-makers-for-any-device/"><u>New Expert-Approved Highlight Video Makers for Any Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin/"><u>New FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-its-down-or-your-connection-is-the-issue/"><u>Roblox Server Status: Checking if It's Down or Your Connection Is the Issue</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-compressor-tutorial-from-basics-to-advanced-techniques/"><u>Updated FCPX Compressor Tutorial From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vignette-perfection-discover-the-best-apps-for-ios-and-android/"><u>Vignette Perfection Discover the Best Apps for iOS and Android</u></a></li>
+</ul></div>
+

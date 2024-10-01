@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Ken Burns Effect A Step-by-Step Guide
-date: 2024-08-27T06:27:07.192Z
-updated: 2024-08-28T06:27:07.192Z
+date: 2024-09-25T17:48:23.669Z
+updated: 2024-10-01T19:27:14.487Z
 tags: 
   - video editing software
   - video editing
@@ -114,6 +114,13 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -124,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -139,8 +150,18 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -152,15 +173,17 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,3 +191,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engage-audiences-writing-magical-youtube-description-templates-for-higher-views-for-2024/"><u>[New] Engage Audiences Writing Magical YouTube Description Templates for Higher Views for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>[New] In 2024, Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-realms-6-effective-ways-to-document-minecraft/"><u>[Updated] 2024 Approved Recording Realms 6 Effective Ways to Document Minecraft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>[Updated] The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-critical-look-at-itop-for-tech-enthusiasts-for-2024/"><u>A Critical Look at ITop for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-civi-3-disney-100th-anniversary-edition-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Civi 3 Disney 100th Anniversary Edition? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotation-software-top-picks/"><u>In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mpeg-video-splitter-downloads-top-5-picks/"><u>New Free MPEG Video Splitter Downloads Top 5 Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-stabilizer-roundup-the-best-options/"><u>New Free Video Stabilizer Roundup The Best Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3-steps-to-add-a-countdown-timer-in-final-cut-pro-x/"><u>Updated 3 Steps to Add a Countdown Timer in Final Cut Pro X</u></a></li>
+</ul></div>
+

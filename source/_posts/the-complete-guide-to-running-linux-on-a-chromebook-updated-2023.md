@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Running Linux on a Chromebook (Updated 2023)
-date: 2024-09-19T16:08:52.106Z
-updated: 2024-09-26T16:15:49.258Z
+date: 2024-09-29T19:39:35.605Z
+updated: 2024-10-01T19:23:00.420Z
 tags: 
   - video editing software
   - video editing
@@ -43,10 +43,10 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
@@ -60,10 +60,16 @@ The first step of the process is to reboot your system, while your Chromebook is
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Installing Chroot
@@ -71,13 +77,6 @@ The first step of the process is to reboot your system, while your Chromebook is
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
 
@@ -105,18 +104,18 @@ Once the installation is completed, restart your Chromebook to finalize the proc
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3. Uninstall ChrUbuntu
 
 Removing ChrUbuntu is a relatively painless process that can be completed with just a few simple commands. If the OS is stored locally the only way to erase it is to perform a full system recovery. While all your data located on the cloud will re-sync with your Chromebook, the data stored locally will be deleted, which is why it is important to backup all the important files before starting a system recovery process. The fastest and easiest way to perform a system recovery is by creating a recovery disk from your device. Insert 'chrome://imageburner' in your browser's address bar, and carefully read and follow the instructions.
 
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
@@ -139,6 +138,13 @@ If you choose to install Gallium OS through Chrome OS command line using Chrx th
 Each of the options to install a Linux OS on your Chromebook we described has its advantages and disadvantages. It is our opinion that the Crouton method is the easiest and the fastest. Furthermore, this method enables you to switch between your primary and secondary OS without the need to reboot the device and the Downloads folder makes working in both environments much easier.
 
 On the other hand, other methods require more knowledge about the Linux OS installation process and switching between OS' is not that simple. If you are looking for an easy way to dual-boot your Chromebook that best way to do it is to install Linux as a Chroot using Crouton.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: Recommended Linux Video Editing Software: Lightworks
 
@@ -169,20 +175,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-efficiently-change-zip-to-srt-file-format/"><u>[New] In 2024, Efficiently Change ZIP to SRT File Format</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] 2024 Approved Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-precision-gameplay-with-proximity-focus-in-roblox/"><u>2024 Approved Precision Gameplay with Proximity Focus in Roblox</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-20-free-adobe-premiere-intro-templates-for-2024/"><u>Best 20 Free Adobe Premiere Intro Templates for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-apps-to-animate-text-in-video-on-phone-for-2024/"><u>Best Apps To Animate Text In Video On Phone for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/capture-every-move-top-motion-tracking-apps-for-android-and-ios-for-2024/"><u>Capture Every Move Top Motion Tracking Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-videos-on-mac-try-vn-video-editor-or-these-alternatives-for-2024/"><u>Editing Videos on Mac? Try VN Video Editor or These Alternatives for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-view-converting-standard-videos-to-vr-masterpieces/"><u>Elevate Your View Converting Standard Videos to VR Masterpieces</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-windows-memory-safeguard-breach/"><u>Insights Into ftdibus.sys: Windows' Memory Safeguard Breach</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 6s Properly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/must-have-upgrades-for-your-iphone-find-the-perfect-extras-here/"><u>Must-Have Upgrades for Your iPhone: Find the Perfect Extras Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/pathfinder-game-crash-woes-no-more-overcoming-recent-stability-glitches-in-wrath-of-the-righteous/"><u>Pathfinder Game Crash Woes No More: Overcoming Recent Stability Glitches in Wrath of the Righteous</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outubes-music-magic-best-free-tools-for-wav-conversion/"><u>[New] YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-footage-with-fast-and-flawless-trims-in-windows-11/"><u>[Updated] Transform Your Footage with Fast & Flawless Trims in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/countdown-magic-in-fcpx-a-3-step-tutorial-for-beginners/"><u>Countdown Magic in FCPX A 3-Step Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-a-viral-hit-10-best-music-video-producers-for-2024/"><u>Create a Viral Hit 10 Best Music Video Producers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-steps-for-troubleshooting-the-propsysdll-not-found-error/"><u>Essential Steps for Troubleshooting the 'PropSys.dll Not Found' Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flv-video-editor-for-windows-8-a-comprehensive-review/"><u>FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-age-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Age with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-mystery-of-youtubes-viewer-count-puzzle-for-2024/"><u>The Mystery of YouTube's Viewer Count Puzzle for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-superiority-of-apple-watch-series-4-a-game-changer-in-smartwatches/"><u>Unveiling the Superiority of Apple Watch Series 4: A Game Changer in Smartwatches</u></a></li>
 </ul></div>
 

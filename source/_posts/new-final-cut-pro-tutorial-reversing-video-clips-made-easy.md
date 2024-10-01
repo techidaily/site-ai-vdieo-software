@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Tutorial Reversing Video Clips Made Easy
-date: 2024-09-21T16:00:48.351Z
-updated: 2024-09-26T17:16:48.713Z
+date: 2024-09-29T16:49:13.111Z
+updated: 2024-10-01T18:47:37.220Z
 tags: 
   - video editing software
   - video editing
@@ -96,13 +96,6 @@ Drag the retiming handler to adjust the speed as per need.
 
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Step 4:**
 
 Play the clip to view editing effects.
@@ -113,19 +106,39 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
@@ -134,20 +147,19 @@ Play the clip to view editing effects.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -165,16 +177,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-5-facebook-video-grabbers-for-2024/"><u>[Updated] 5 Facebook Video Grabbers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-stealth-watch-instagram-stories-without-profile-links-pc-android-ios/"><u>[Updated] In 2024, Mastering Stealth Watch Instagram Stories Without Profile Links [PC, Android, iOS]</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-editor-for-windows-8-latest-2023-update-for-seamless-editing-for-2024/"><u>AVI Video Editor for Windows 8 Latest 2023 Update for Seamless Editing for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-and-economical-a-comprehensive-look-at-the-lenovo-chromebook-duet/"><u>Compact and Economical: A Comprehensive Look at the Lenovo Chromebook Duet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-8-windows-10-photos-alternatives/"><u>Discover the Best 8 Windows 10 Photos Alternatives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973223743-essential-driver-update-for-your-msi-gs65-under-windows-download-here/"><u>Essential Driver Update for Your MSI GS65 Under Windows – Download Here</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-adding-emotional-depth-with-the-ken-burns-effect-updated-2023/"><u>Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-for-old-pcs-32-bit-windows-compatibility/"><u>Free Video Editing Software for Old PCs 32-Bit Windows Compatibility</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo K11 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>Light Up the Screen Techniques for Stunning YouTube Visuals</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-and-tricks-optimizing-your-pc-by-reducing-svchostexes-impact-on-cpu-usage-windows-11/"><u>Tips & Tricks: Optimizing Your PC by Reducing svchost.exe's Impact on CPU Usage (Windows 11)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-add-on-effectiveness-implementing-end-cuts-on-vimeo-for-2024/"><u>[New] Add-On Effectiveness Implementing End Cuts on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-recording-tech-the-leaders-choice/"><u>[Updated] In 2024, Innovative Recording Tech The Leaders' Choice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories-for-2024/"><u>[Updated] Leveraging Likes and Comments Enhancing Engagement on Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-launching-google-meet-on-youtube/"><u>[Updated] Step-by-Step Launching Google Meet on YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-16-best-free-movie-makers-easy-to-use/"><u>2024 Approved Top 16 Best Free Movie Makers Easy to Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-stress-reduction-leveraging-chatgpt-to-improve-your-wellbeing/"><u>AI-Assisted Stress Reduction: Leveraging ChatGPT to Improve Your Wellbeing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-instantly-with-iphone-timelapse-techniques-for-2024/"><u>Capturing Instantly with iPhone Timelapse Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-hacks-installing-linux-for-enhanced-productivity/"><u>Chromebook Hacks Installing Linux for Enhanced Productivity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/do-you-have-a-gopro-and-would-like-to-manage-or-edit-your-videos-then-get-to-know-about-the-gopro-quik-macbook-application-and-its-best-alternative-here-for/"><u>Do You Have a GoPro and Would Like to Manage or Edit Your Videos? Then Get to Know About the GoPro Quik MacBook Application and Its Best Alternative Here for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-wisdom-without-paying-lesson-by-lesson/"><u>Embrace Wisdom Without Paying Lesson by Lesson</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-splitters-top-picks-for-you-for-2024/"><u>Free MOV Video Splitters Top Picks for You for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-magic-top-special-effects-apps-for-mobile-devices/"><u>Free Video Editing Magic Top Special Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/head-to-head-showdown-final-cut-pro-or-lumafusion-for-video-editing/"><u>Head-to-Head Showdown Final Cut Pro or LumaFusion for Video Editing?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-spot-and-avoid-the-dangerous-trio-of-fake-chatgpt-viruses-compromising-user-privacy/"><u>How to Spot and Avoid the Dangerous Trio of Fake ChatGPT Viruses Compromising User Privacy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-framing-making-an-effective-youtube-introductory-vids-for-2024/"><u>The Art of Framing Making an Effective YouTube Introductory Vids for 2024</u></a></li>
 </ul></div>
 

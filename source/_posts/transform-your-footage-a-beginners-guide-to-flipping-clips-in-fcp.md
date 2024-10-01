@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Beginners Guide to Flipping Clips in FCP
-date: 2024-08-27T06:27:18.221Z
-updated: 2024-08-28T06:27:18.221Z
+date: 2024-09-28T18:58:27.399Z
+updated: 2024-10-01T17:27:10.480Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Flipping the whole video:**
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
@@ -110,6 +117,13 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * _Exporting the flip video:_
 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
@@ -120,11 +134,25 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -134,14 +162,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>[New] 2024 Approved Ultimate List Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-top-ringtones-for-pixel-devices/"><u>[New] Explore Top Ringtones for Pixel Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-make-a-video-best-fits-snapchat-size-on-mac/"><u>[Updated] How to Make a Video Best Fits Snapchat Size on Mac?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-techniques-to-preserve-and-store-mov-files-on-windows-pcs/"><u>[Updated] Top Techniques to Preserve and Store Mov Files on Windows PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M34 FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-reno-11-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo Reno 11 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-your-photos-move-the-10-best-animation-tools-for-beginners/"><u>Make Your Photos Move The 10 Best Animation Tools for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-smooth-scrolling-expert-advice-for-a-broken-logitech-mouse-wheel/"><u>Restoring Smooth Scrolling: Expert Advice for a Broken Logitech Mouse Wheel</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-top-iphone-apps-reviewed/"><u>The Cream of the Crop Top iPhone Apps , Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcpx-troubleshooting-resource-2023-edition/"><u>The Ultimate FCPX Troubleshooting Resource 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-editing-on-32-bit-windows-for-2024/"><u>The Ultimate Guide to Free Video Editing on 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-digital-learning-environments-for-educators/"><u>Top Digital Learning Environments for Educators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3gp-cutter-how-to-cut-3gp-files/"><u>Updated 3GP Cutter How to Cut 3GP Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-metadata-made-simple-8-top-rated-mac-editor-tools/"><u>Video Metadata Made Simple 8 Top-Rated Mac Editor Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best-logo-animation-/"><u>Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
+</ul></div>
+

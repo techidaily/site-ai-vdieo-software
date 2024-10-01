@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-09-23T17:21:35.539Z
-updated: 2024-09-26T17:19:46.079Z
+date: 2024-09-26T20:02:26.535Z
+updated: 2024-10-01T18:12:35.071Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 5. [Download and install file from Github](https://tools.techidaily.com/drivereasy/download/)
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify game files
 
  Verifying game files is always the first thing to try as corrupted and missing files would cause Stray crashing, freezing, or other game issues.
@@ -42,10 +35,25 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Stray** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. Click **the LOCAL FILES tab** , then click **Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Put commands in the launch option
 
@@ -54,14 +62,28 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
@@ -72,10 +94,10 @@ If it doesn’t work, move to the next fix.
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
@@ -88,10 +110,10 @@ If it doesn’t work, move to the next fix.
 3. Back to Steam and click**Play** to launch Stray.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. You should be able to play the game.
@@ -124,10 +146,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,26 +163,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
@@ -195,20 +203,22 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[New] The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-sony-x1000-video-excellence-detailed-product-evaluation-for-2024/"><u>[Updated] Sony X1000 Video Excellence Detailed Product Evaluation for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-gopro-video-on-mac-for-2024/"><u>How to Edit GoPro Video on Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-webm-video-compressors/"><u>In 2024, Best Online WebM Video Compressors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-stop-motion-animation-tools-for-mac-and-pc/"><u>In 2024, Best Stop Motion Animation Tools for Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-enhancement-in-final-cut-pro-a-step-by-step-guide/"><u>In 2024, Color Enhancement in Final Cut Pro A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-videos-with-these-top-split-screen-apps/"><u>In 2024, Create Engaging Videos with These Top Split Screen Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-movies-online-for-free-top-9-options/"><u>In 2024, Create Stunning Movies Online for Free Top 9 Options</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-z-fold-5-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy Z Fold 5 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-top-10-storyboarding-software/"><u>New In 2024, Top 10 Storyboarding Software</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>New Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-integration-of-vbox-in-your-windows-environment/"><u>Seamless Integration of VBox in Your Windows Environment</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-performance-issues-in-wsappx-techniques-to-reduce-high-disk-and-cpu-usage/"><u>Solving Performance Issues in WSAPPX: Techniques to Reduce High Disk and CPU Usage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[Updated] Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-endless-memories-free-saving-on-instagram-stories/"><u>2024 Approved Endless Memories FREE Saving on Instagram Stories</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-windows-video-editing-made-easy-a-step-by-step-guide/"><u>2024 Approved Windows Video Editing Made Easy A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-z-flip-5-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-lightweight-ultrabook-microsoft-surface-laptop-go-review/"><u>Affordable, Lightweight Ultrabook - Microsoft Surface Laptop Go Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-mpeg-video-concatenation-software-for-2024/"><u>Best Free MPEG Video Concatenation Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chroma-keying-mastery-advanced-fcp-x-tutorials-for-professionals-for-2024/"><u>Chroma Keying Mastery Advanced FCP X Tutorials for Professionals for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-top-vignette-creator-apps-for-iphone-and-android/"><u>Discover the Top Vignette Creator Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotation-tools-top-picks-for-windows-mac-android-and-iphone-for-2024/"><u>Free AVI Video Rotation Tools Top Picks for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mod-video-editing-solutions-expert-approved-choices/"><u>Free MOD Video Editing Solutions Expert-Approved Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-beginner-to-pro-mastering-jump-cuts-in-fcpx-for-2024/"><u>From Beginner to Pro Mastering Jump Cuts in FCPX for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-acers-wi-fi-driver-software-quickly-with-a-complimentary-download/"><u>How to Get Acer's Wi-Fi Driver Software Quickly with a Complimentary Download</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-essential-10-mods-in-terraria/"><u>In 2024, Masterclass Essential 10 Mods in Terraria</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-and-tricks-for-shrinking-video-files-by-90-without-compromising-visual-fidelity/"><u>Tips and Tricks for Shrinking Video Files by 90% Without Compromising Visual Fidelity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726221300789-mp4/"><u>영구성 가격의 MP4 파일을 원시 코드로 변환하는 방법 - 모바이비</u></a></li>
 </ul></div>
 

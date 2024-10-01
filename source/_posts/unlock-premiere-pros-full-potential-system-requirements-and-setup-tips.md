@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-09-22T16:45:16.452Z
-updated: 2024-09-26T17:18:52.763Z
+date: 2024-09-24T17:52:37.230Z
+updated: 2024-10-01T18:34:51.228Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -55,13 +62,6 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
@@ -69,10 +69,10 @@ Checking the specification on your Mac is easy, just click the **Apple icon** in
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
@@ -108,15 +108,28 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -129,13 +142,6 @@ The sequence dialogue has three tabs, Sequence Presets, Settings and Tracks
 The Preset Tab makes setting up a new sequence much simpler. Choosing a preset enables Premiere to choose the settings that best match the chosen video and audio format. There are a wide range of presets available to suit the most commonly used media types, they are organized based on camera formats. Within each group there are numerous settings and configurations to choose from based around frame sizes and interlacing. Whilst choosing the correct preset can be a little daunting to the uninitiated, ensuring the number of frames per second, the frame size and codec are correct is all that is required.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
@@ -166,14 +172,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-16-best-free-movie-makers-easy-to-use/"><u>2024 Approved Top 16 Best Free Movie Makers Easy to Use</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-free-video-splitting-tools/"><u>Expert-Approved Free Video Splitting Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-online-face-creator-no-registration-needed-for-2024/"><u>Free Online Face Creator No Registration Needed for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-raw-footage-to-final-cut-the-art-of-online-video-editing/"><u>From Raw Footage to Final Cut The Art of Online Video Editing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-x50i-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor X50i Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027962693-pc/"><u>PC向けに効果的なスポーツチャンネルの録画ガイド</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ranking-the-top-gaming-machines-dominating-2024/"><u>Ranking the Top Gaming Machines Dominating 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-microsofts-rumored-portable-xbox-could-revolutionize-gaming-the-compelling-reasons-you-should-support-this-idea/"><u>Why Microsoft’s Rumored Portable Xbox Could Revolutionize Gaming: The Compelling Reasons You Should Support This Idea</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-today-ultimate-compatibility-guide-qualcomm-and-atheros-bluetooth-30-ar3011-driver/"><u>[Download Today] Ultimate Compatibility Guide: Qualcomm & Atheros Bluetooth 3.0 AR3011 Driver</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-innovative-facebook-enhancement-using-letterbox-technique-for-2024/"><u>[New] Innovative Facebook Enhancement Using Letterbox Technique for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-background-editing-in-google-meet-chats/"><u>[Updated] Simplified Background Editing in Google Meet Chats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-selection-of-free-streaming-options-reviewed/"><u>2024 Approved Ultimate Selection of Free Streaming Options Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/9-secrets-to-unlocking-the-full-potential-of-window-11/"><u>9 Secrets to Unlocking the Full Potential of WINDOW 11</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-wmv-video-editors-a-comprehensive-review-for-2024/"><u>Best Zero-Cost WMV Video Editors A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users-for-2024/"><u>Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/choosing-the-right-green-screen-tool-for-your-mac/"><u>Choosing the Right Green Screen Tool for Your Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-unplayable-master-the-ultimate-troubleshooters-guide-to-resolve-launch-errors/"><u>PUBG 2024 Unplayable? Master the Ultimate Troubleshooter's Guide to Resolve Launch Errors</u></a></li>
 </ul></div>
 

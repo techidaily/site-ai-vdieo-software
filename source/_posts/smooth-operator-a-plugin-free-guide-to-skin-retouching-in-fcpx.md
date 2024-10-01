@@ -1,7 +1,7 @@
 ---
 title: Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX
-date: 2024-08-27T06:24:47.523Z
-updated: 2024-08-28T06:24:47.523Z
+date: 2024-09-24T19:51:55.540Z
+updated: 2024-10-01T16:59:00.428Z
 tags: 
   - video editing software
   - video editing
@@ -55,6 +55,19 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
@@ -111,17 +124,16 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
@@ -129,14 +141,6 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
@@ -144,8 +148,12 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: How to smooth skin in Adobe Pro?
 
 Given below are simple steps to create a face matter, control the skin smoothing, adjust color correction, and correct the skin glow in Adobe Pro by using the Beauty Studio Effect:
@@ -167,15 +175,17 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -183,3 +193,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-symphony-of-well-being-learn-from-asmr/"><u>[Updated] In 2024, The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-best-gba-emulators-for-android-you-can-find/"><u>2024 Approved 10 Best GBA Emulators for Android You Can Find</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-innovative-video-content-for-budding-vloggers/"><u>2024 Approved Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-youtube-video-download-formats-of-2020-maximizing-quality-and-compatibility/"><u>Best YouTube Video Download Formats of 2020: Maximizing Quality and Compatibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-snapping-pictures-of-your-desktop-in-windowsmac-os/"><u>Easy Techniques for Snapping Pictures of Your Desktop in Windows/Mac OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-a-kids-journey-in-movie-making/"><u>In 2024, From Script to Screen A Kids Journey in Movie Making</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-90-gt-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor 90 GT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-portable-media-players-uncovered/"><u>In 2024, Top Portable Media Players Uncovered</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/merge-videos-without-logos-7-best-software-options/"><u>Merge Videos Without Logos 7 Best Software Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avs-video-editor-a-comprehensive-review-and-analysis/"><u>New AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-mkv-files-for-free-top-10-editor-recommendations/"><u>New Cut MKV Files for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-to-use-the-top-10-public-domain-image-sites/"><u>New Free to Use The Top 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-making-lip-sync-videos-with-the-best-apps/"><u>The Ultimate Guide to Making Lip Sync Videos with the Best Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-video-editing-apps-like-powerdirector-for-mobile-devices-for-2024/"><u>Top Video Editing Apps Like PowerDirector for Mobile Devices for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A1 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-high-res-sky-scenes-with-mi-drone-for-2024/"><u>Unveiling the High-Res Sky Scenes with Mi Drone for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-unforgettable-mac-slideshows-with-ezvids-easy-video-editor/"><u>Updated Create Unforgettable Mac Slideshows with Ezvids Easy Video Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-to-audio-converters-for-mobile-devices/"><u>Updated Top Video to Audio Converters for Mobile Devices</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Lower Thirds 101 A Beginners Guide to Success
-date: 2024-08-31T11:01:58.035Z
-updated: 2024-09-01T11:01:58.035Z
+date: 2024-09-25T18:49:57.122Z
+updated: 2024-10-01T19:28:48.895Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -105,9 +109,18 @@ Features of Final Cut Pro X to design lower third module element
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -122,9 +135,6 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -132,8 +142,12 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
@@ -141,8 +155,12 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -161,9 +179,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -178,11 +193,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-youtube-financial-framework-for-content-creators/"><u>[New] 2024 Approved The Ultimate YouTube Financial Framework for Content Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>[New] 2024 Approved Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-guide-to-premiere-pro-full-screen-preview/"><u>Full Guide to Premiere Pro Full Screen Preview</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-lava-blaze-2-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Lava Blaze 2 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-episodes-for-auditory-drama/"><u>In 2024, Exemplary Episodes for Auditory Drama</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-which-green-screen-software-for-mac-to-choose/"><u>In 2024, Which Green Screen Software for Mac to Choose?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-village-troubleshooting-guide-fixing-mouse-control-problems/"><u>Resident Evil Village: Troubleshooting Guide - Fixing Mouse Control Problems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-cartoonization-apps-for-mobile-devices/"><u>Top 10 Cartoonization Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-stock-photo-sites/"><u>Top 10 Free Stock Photo Sites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-pro-quality-sound-top-10-audio-editing-software-tools/"><u>Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>Updated From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-equivalent-10-video-editing-tools-you-need-to-know/"><u>VirtualDub Equivalent 10 Video Editing Tools You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whats-new-in-avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>Whats New in AVS Video Editor 2023? A Comprehensive Review and Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028061863-dvd/"><u>クラウド上にDVDファイルを安全に保管する効果的な方法</u></a></li>
+</ul></div>
+

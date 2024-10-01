@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2024-09-25T17:18:29.546Z
-updated: 2024-09-26T16:44:50.366Z
+date: 2024-09-28T19:32:11.753Z
+updated: 2024-10-01T16:24:16.858Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -38,15 +38,22 @@ Lifewire / Jeffrey Daniel Chadwick
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -70,13 +77,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -98,6 +98,13 @@ Lifewire / Jeffrey Daniel Chadwick
  When you do finally get it wrapped up, the pump fits nicely in its included carrying case. It’s made of gore-tex, a fairly durable material, so it can take the punishment of being stored long-term in your trunk, and it’s compact enough that it won’t take up much room.
 
  Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: T-minus one minute**
 
@@ -130,10 +137,10 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -149,13 +156,6 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,20 +182,18 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-virtual-visions-versus-tangible-tools-in-streaming/"><u>[New] 2024 Approved Virtual Visions Versus Tangible Tools in Streaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-your-photography-with-polarrs-enhanced-features/"><u>2024 Approved Maximizing Your Photography with Polarr's Enhanced Features</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>2024 Approved Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-boundaries-understanding-the-concept-of-limits/"><u>Exploring Boundaries: Understanding the Concept of Limits</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/get-premium-features-in-a-wallet-friendly-package-discover-the-lg-2amotv-24lh4830-model/"><u>Get Premium Features in a Wallet-Friendly Package: Discover the LG 2amoTV 24LH4830 Model</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/imovie-alternative/"><u>IMovie Alternative</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-video-combiner-software/"><u>In 2024, Best Free MOV Video Combiner Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-a-heartfel/"><u>In 2024, Create a Heartfel</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-digitalize-your-dvds-a-beginners-guide-to-video-conversion/"><u>In 2024, Digitalize Your DVDs A Beginners Guide to Video Conversion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-edit-and-publish-the-essential-online-video-editing-guide/"><u>In 2024, Download, Edit, and Publish The Essential Online Video Editing Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-plugin-powerhouse-top-10-free-and-paid-options/"><u>In 2024, FCPX Plugin Powerhouse Top 10 Free and Paid Options</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphones-visual-upgrades-in-ios-11-explored-for-2024/"><u>IPhone's Visual Upgrades in iOS 11 Explored for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1724766132438-iphone/"><u>IPhoneでデータ移行、バックアップ、同期を行う効果的な方法</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-google-pixel-8-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Google Pixel 8 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-drone-purchase-landmines-what-you-should-consider/"><u>Navigating Drone Purchase Landmines What You Should Consider</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-efficient-methods-for-youtube-video-preservation/"><u>[New] In 2024, Efficient Methods for YouTube Video Preservation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-screen-time-find-your-must-have-7-android-blockers/"><u>[Updated] Master Screen Time Find Your Must-Have 7 Android Blockers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-audio-troubleshooting-quick-solutions/"><u>In 2024, Avidemux Audio Troubleshooting Quick Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>In 2024, DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easter-treat-for-creators-special-filmora-promo-code-offer/"><u>In 2024, Easter Treat for Creators Special Filmora Promo Code Offer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-editing-nikon-videos-like-a-pro-software-and-techniques/"><u>In 2024, Editing Nikon Videos Like a Pro Software and Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-editing-videos-like-a-pro-with-quicktime-on-mac/"><u>In 2024, Editing Videos Like a Pro with QuickTime on Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-ultimate-zoom-setup-playbook/"><u>In 2024, The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/peervid-grabber-fb-live-for-2024/"><u>PeerVid Grabber FB Live for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60x 5G Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-mix-fold-3-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Mix Fold 3? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

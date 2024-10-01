@@ -1,7 +1,7 @@
 ---
 title: Updated Designing Effective Lower Thirds in Final Cut Pro X
-date: 2024-08-27T06:26:53.072Z
-updated: 2024-08-28T06:26:53.072Z
+date: 2024-09-26T16:50:30.792Z
+updated: 2024-10-01T18:15:33.135Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -86,8 +93,12 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -112,27 +123,12 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -146,12 +142,19 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -178,16 +181,11 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -195,3 +193,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[New] 2024 Approved Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-live-streamed-gaming-sessions/"><u>[New] In 2024, Mastering Live-Streamed Gaming Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tune-into-tomorrow-fbs-free-downloads/"><u>[New] Tune Into Tomorrow FB's Free Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-perfectly-timed-video-loops-on-ig-for-2024/"><u>[Updated] Step-by-Step Guide to Perfectly Timed Video Loops on IG for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-success-the-power-of-magix-samplitude/"><u>[Updated] Synthesizing Success The Power of Magix Samplitude</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-boost-your-sites-personalization-and-analytics/"><u>Cookiebot-Enhanced: Boost Your Site's Personalization and Analytics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862683704-enter-the-arena-dominate-your-favorite-games-on-a-budget-with-the-899-legion-slim-5-by-lenovo-featuring-an-rtx-4060-gpu/"><u>Enter the Arena! Dominate Your Favorite Games on a Budget With The $899 Legion Slim 5 by Lenovo, Featuring an RTX 4060 GPU</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-video-magic-top-5-effect-tools/"><u>Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-flexible-the-top-10-online-video-editors-without-watermark/"><u>In 2024, Free and Flexible The Top 10 Online Video Editors without Watermark</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/microsoft-video-editor-tutorial-simplify-your-video-editing-experience/"><u>Microsoft Video Editor Tutorial Simplify Your Video Editing Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-animation-makers-for-every-skill-level/"><u>New Bring Your Ideas to Life Top Animation Makers for Every Skill Level</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-black-screen-conundrum-now-solved-with-these-effective-strategies/"><u>The Black Screen Conundrum - Now Solved with These Effective Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-animation-software-roundup-top-picks-for-every-budget/"><u>Updated 3D Animation Software Roundup Top Picks for Every Budget</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-android-essentials-must-have-apps-for-your-device/"><u>Updated Android Essentials Must-Have Apps for Your Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-metadata-made-easy-8-best-mac-editors/"><u>Video Metadata Made Easy 8 Best Mac Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vloggers-paradise-14-best-video-editing-software-for-hot-platforms/"><u>Vloggers Paradise 14 Best Video Editing Software for Hot Platforms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro/"><u>Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro</u></a></li>
+</ul></div>
+
