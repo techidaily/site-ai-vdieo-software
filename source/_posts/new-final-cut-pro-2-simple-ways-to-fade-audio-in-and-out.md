@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro 2 Simple Ways to Fade Audio In and Out
-date: 2024-08-27T06:18:42.365Z
-updated: 2024-08-28T06:18:42.365Z
+date: 2024-09-30T17:58:47.681Z
+updated: 2024-10-06T23:03:37.658Z
 tags: 
   - video editing software
   - video editing
@@ -81,8 +81,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhancing-detail-in-minecraft-worlds/"><u>[New] 2024 Approved Enhancing Detail in Minecraft Worlds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-to-create-the-best-video-editors-for-any-project/"><u>In 2024, Free to Create The Best Video Editors for Any Project</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-a38-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo A38 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-picture-deformation-on-streamed-videos/"><u>In 2024, Overcoming Picture Deformation on Streamed Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-5-hd-high-definition-video-editing-software/"><u>In 2024, Top 5 HD (High-Definition) Video Editing Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-podcast-production-with-garageband-tools-for-2024/"><u>Mastering Podcast Production with GarageBand Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-file-editor-for-windows-8-quick-and-easy-video-editing/"><u>MP4 File Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915258477-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refine-your-apple-photo-collection-by-correcting-incorrectly-tagged-individuals/"><u>Refine Your Apple Photo Collection by Correcting Incorrectly Tagged Individuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-for-mac-free-download-and-start-creating/"><u>Splice Video Editor for Mac Free Download and Start Creating</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-best-free-webm-video-editors/"><u>Top 10 Best Free WebM Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-wevideos-intuitive-video-creation-platform/"><u>Unleash Your Creativity WeVideos Intuitive Video Creation Platform</u></a></li>
+</ul></div>
+

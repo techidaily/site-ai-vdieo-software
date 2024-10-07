@@ -1,7 +1,7 @@
 ---
 title: New From Start to Finish How to Edit Videos with QuickTime on Mac
-date: 2024-08-27T06:22:44.782Z
-updated: 2024-08-28T06:22:44.782Z
+date: 2024-10-05T20:25:44.149Z
+updated: 2024-10-07T01:46:26.305Z
 tags: 
   - video editing software
   - video editing
@@ -57,13 +57,30 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -77,8 +94,18 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -91,9 +118,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -111,11 +135,12 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
@@ -124,16 +149,11 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +161,27 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-traveling-back-in-social-media-years-a-practical-fb-guide/"><u>[New] 2024 Approved Traveling Back in Social Media Years A Practical FB Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigate-youtubes-studio-editor-to-master-videography/"><u>[Updated] In 2024, Navigate YouTube's Studio Editor to Master Videography</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>2024 Approved A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/easy-extraction-of-social-media-videos-with-chrome-plugs/"><u>Easy Extraction of Social Media Videos with Chrome Plugs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c22-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-vivas-video-app-a-complete-analysis-for-2024/"><u>Inside Viva's Video App A Complete Analysis for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-maker-professional-video-editing-software-for-2024/"><u>Mac Video Maker Professional Video Editing Software for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>New Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-slow-mo-videos-with-windows-live-movie-maker-updated-2023/"><u>New Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/seamless-video-editing-the-top-5-free-online-video-merging-platforms/"><u>Seamless Video Editing The Top 5 Free Online Video Merging Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/star-trek-chronicles-a-step-by-step-guide-to-enjoying-all-movies-back-to-back/"><u>Star Trek Chronicles: A Step-by-Step Guide to Enjoying All Movies Back-to-Back</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-7-best-video-merger-software-with-no-watermarks/"><u>The 7 Best Video Merger Software with No Watermarks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-web-based-video-editors-for-chrome-os/"><u>The Best Web-Based Video Editors for Chrome OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-nikon-d7500/"><u>Unveiling the Power of Nikon D7500</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-best-free-online-video-stabilizers/"><u>Updated 8 Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>Updated Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easter-sale-wondershare-filmora-coupon-code-mar-2024/"><u>Updated Easter Sale Wondershare Filmora Coupon Code - Mar 2024</u></a></li>
+</ul></div>
+

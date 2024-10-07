@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Glitch Video Editors Free, Paid, and Online Options
-date: 2024-09-25T18:10:18.109Z
-updated: 2024-10-01T19:39:41.919Z
+date: 2024-09-29T20:05:22.446Z
+updated: 2024-10-06T22:02:32.736Z
 tags: 
   - video editing software
   - video editing
@@ -44,18 +44,24 @@ If you are using Filmora X V10.5 and the later versions, you can now find the gl
 
 ![Filmora Glitch transitions ](https://images.wondershare.com/filmora/article-images/filmora-glitch-transitions.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 However, there are no glitch transitions in Filmora’s transition library if you are running versions before V10.5, you can use the Chromatic Aberration effect for this purpose.
 
 All you need to do is to place two different video clips onto the timeline and then go to the Effects tab. Expand the Filters menu and click on the Distortion submenu. The Chromatic Aberration effect is located near the top of the tab, so just drag and drop it to the video track that is directly above the one to which you added the footage.
 
 ![Filmora Glitch  effects ](https://images.wondershare.com/filmora/article-images/filmora9-chromatic-aberration-glitch-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You should then reduce the effect’s duration to six or eight frames, and you can enlarge the timeline to perform this task with more precision. Once you’ve adjusted the duration of the effect, you should place it above the cut, so that it covers the last four frames of the ending video clip and the first two frames of the video clip that is starting.
 
@@ -67,13 +73,6 @@ Want to make a VHS video including glitch effect? See this article: [Easy Ways t
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. How to add the glitch effect to text in Filmora?
 
 The process of adding a glitch effect to text is simple, although you need to go through several different steps. You should start by choosing one of the available titles from Filmora’s Title tab and placing it on the timeline.
@@ -81,6 +80,19 @@ The process of adding a glitch effect to text is simple, although you need to go
 Double-click on the title you added, then click on the Advanced button and insert the text into the textbox. Proceed to set the text color to white, adjust its size and select a new font and then make sure that the No Animation option is selected in the Animation tab.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click OK to confirm the changes you’ve made, then lock the video track on which the title is located, copy the title to the video track above and unlock the video track you locked. Once you’ve created the second title, you should double-click on the first title and change the text color to black.
 
@@ -100,13 +112,6 @@ If you are using the Filmora V10.5 and later version, you can add the Human Glit
 
 ![Filmora AI Portrait Human Glitch  effects ](https://images.wondershare.com/filmora/article-images/human-glitch-effect-ai-portrait.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [iMovie](https://www.apple.com/imovie/)
 
 **Price:** Free
@@ -116,6 +121,13 @@ If you are using the Filmora V10.5 and later version, you can add the Human Glit
 Unfortunately, iMovie doesn’t have any preset glitch effects in its effects library, but you can still use it to create a glitch effect from scratch. The Video Overlay settings, Clip Filter options as well as the Split Screen feature enable you to overlay video clips and simulate the glitch effect.
 
 Creating a glitch effect with iMovie requires you to have excellent video editing skills, and quite a bit of creativity as you have to plan the entire effect in advance. Even so the video editing tools you will have at your disposal are going to be limited so you shouldn’t expect to achieve breathtaking results. Adding an audio effect that accompanies the glitch effect may make this effect look more realistic.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. [Veed.io](https://www.veed.io/)
 
@@ -128,10 +140,10 @@ Veed.io is an online photo and video editor aimed at social media content produc
 As soon as the upload is completed, you will be taken to the editor window where you can adjust the video’s settings, add text overlays or change the video’s playback speed. Click on the Effects tab that is located in the Filters menu and then proceed to choose between VHS, Glitch, and RGB Split effects. All you need to do in order to apply one of these glitch effects is to click on it and you can see the results immediately in the Preview window. However, all videos you create with the free version of Veed.io are going to be watermarked.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4. [Photo Mosh](https://photomosh.com/)
@@ -144,13 +156,6 @@ This online platform is entirely dedicated to the creation of glitch videos. Bes
 
 Bad TV, Duo Tone, or Pixelate are just a few among numerous glitch effects you can choose from. Simply expand the effect and click on the ON checkbox to apply an effect and then proceed to adjust its settings. Optionally, you can click on the Mosh button that is located below the Preview Screen if you want to combine two or more random glitch effects. The only downside is that you can only save your creations as JPEG, GIF, or WEBM files, and the videos you record in the WEBM format can last for a few seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5. [Biteable](https://biteable.com/)
 
 **Price:** Free, pricing plans start at $19.00 per month
@@ -161,13 +166,6 @@ Bitable is an online content creation platform that helps digital marketers and 
 
 Unsurprisingly, Bitable features a Glitch template that is composed out of eight scenes that can be used to promote a concert or a nightclub. This template is customizable which enables you to upload the images you want to use and your tailored promotional message or alter the theme colors. You can also choose the soundtrack for the glitch video by simply uploading the song you want to use. However, if you opt for Biteable’s Starter pack you won’t be able to export more than one video per month.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6. [Renderforest](https://www.renderforest.com/)
 
 **Price:** Free, pricing options start at $9.99 per month
@@ -177,6 +175,13 @@ Unsurprisingly, Bitable features a Glitch template that is composed out of eight
 In case you are looking for an online platform that enables you to build websites, edit videos, create animations, and design logos, then Renderforest is the right choice for you. Like Biteable, Renderforest grants you access to a huge collection of video templates you can use to create videos quickly.
 
 The Glitch Slideshow template can be used for video portfolios, party highlights, or virtually any other occasion. You just have to upload the footage you want to include in the glitch slideshow, add the text and choose the song for the soundtrack and Renderforest will generate the new video for you. You can only create three-minute videos at 360p resolution if you decide to use the free version of this platform, and all videos you export from Renderforest are going to be watermarked if you don’t purchase one of the available subscriptions models.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7. [Shotcut](https://shotcut.org/)
 
@@ -214,6 +219,13 @@ Glitch effects have become very popular in the last few years, which is the reas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -229,17 +241,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>[New] Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x/"><u>[Updated] In 2024, The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-seamless-techniques-for-saving-facetime-chats-live/"><u>2024 Approved Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-popularity-of-video-content-on-social-media-networks-has-been-soaring-in-the-last-couple-of-years-and-it-is-only-reasonable-to-expect-this/"><u>2024 Approved The Popularity of Video Content on Social Media Networks Has Been Soaring in the Last Couple of Years, and It Is only Reasonable to Expect This Trend to Continue. Thats the Reason Why in This Article</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y100i-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y100i Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-and-split-wmv-videos-with-these-top-free-tools-for-2024/"><u>Cut and Split WMV Videos with These Top Free Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-jump-cuts-masterclass-learn-from-the-pros-for-2024/"><u>Final Cut Pro X Jump Cuts Masterclass Learn From the Pros for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-game-error-expert-guide-to-fixing-and-preventing-sudden-shutdowns/"><u>Football Manager 2020 Game Error: Expert Guide to Fixing and Preventing Sudden Shutdowns</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-without-watermark-for-2024/"><u>Free Video Editing Software Without Watermark for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-tips-on-converting-webm-footage-into-engaging-animated-gifs/"><u>Quick Tips on Converting WebM Footage Into Engaging Animated GIFs</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-collage-on-iphone/"><u>[New] How to Make a Collage on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-streaming-with-integrated-local-channels-future-edition/"><u>[New] Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-your-youtube-srt-a-three-pronged-plan/"><u>[Updated] Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-dji-phantom-4-complete-review/"><u>2024 Approved DJI Phantom 4 Complete Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-video-transfer-dvd-making-on-mac/"><u>2024 Approved Streamlining Video Transfer DVD Making on Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-avi-video-editing-software/"><u>Best Free AVI Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-memories-to-life-how-to-make-a-dvd-with-movie-making-software-for-2024/"><u>Bring Your Memories to Life How to Make a DVD with Movie Making Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/burning-videos-to-dvd-a-quick-and-easy-guide-for-windows-and-mac-for-2024/"><u>Burning Videos to DVD A Quick and Easy Guide for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/do-vhs-effect-with-final-cut-pro-in-the-right-way-for-2024/"><u>Do VHS Effect with Final Cut Pro in the Right Way for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dont-miss-out-the-most-astounding-4k-video-samples-available-for-2024/"><u>Dont Miss Out The Most Astounding 4K Video Samples Available for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-game-top-rated-4k8k-editing-software/"><u>Elevate Your Video Game Top-Rated 4K/8K Editing Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/everything-you-need-to-know-before-upgrading-to-windows-10-for-2024/"><u>Everything You Need To Know Before Upgrading To Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-advantages-of-switching-to-macos-11-big-sur/"><u>Explore the Advantages of Switching to macOS 11 Big Sur</u></a></li>
+<li><a href="https://win-able.techidaily.com/win-a-free-wonderfox-dvd-video-converter-in-our-2015-summer-heat-beating-challenge/"><u>Win a Free WonderFox DVD Video Converter in Our 2015 Summer Heat-Beating Challenge!</u></a></li>
 </ul></div>
 

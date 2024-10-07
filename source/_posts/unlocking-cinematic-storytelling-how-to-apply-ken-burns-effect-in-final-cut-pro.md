@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-09-26T18:06:21.851Z
-updated: 2024-10-01T19:43:31.323Z
+date: 2024-10-03T03:14:44.536Z
+updated: 2024-10-06T16:51:30.263Z
 tags: 
   - video editing software
   - video editing
@@ -35,13 +35,6 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -49,6 +42,13 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -59,10 +59,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -72,10 +72,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -112,13 +112,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -126,6 +119,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,24 +142,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-apps-for-windows-10-pcs-and-laptops-for-2024/"><u>Best Video Editing Apps for Windows 10 PCs and Laptops for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/color-perfection-in-final-cut-pro-2023-tips-and-techniques-for-2024/"><u>Color Perfection in Final Cut Pro 2023 Tips and Techniques for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/convert-4k-videos-for-free-top-10-tools/"><u>Convert 4K Videos for Free Top 10 Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/creative-chaos-top-video-dubbing-tools-for-humorous-edits/"><u>Creative Chaos Top Video Dubbing Tools for Humorous Edits</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-audio-editing-software-top-8-picks/"><u>Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-detection-issue-wd-my-passport-ultra-and-windows-compatibility-woes/"><u>Fixing the Detection Issue: WD My Passport Ultra and Windows Compatibility Woes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-best-video-special-effects-apps/"><u>FREE Best Video Special Effects Apps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-up-storage-on-your-linux-virtualbox-efficient-solutions-to-prevent-running-out-of-disk-space/"><u>Free Up Storage on Your Linux VirtualBox: Efficient Solutions to Prevent Running Out of Disk Space</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-fcp-to-vhs-effortless-ways-to-add-retro-flair-for-2024/"><u>From FCP to VHS Effortless Ways to Add Retro Flair for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android/"><u>Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-and-download-4k-video-in-mp4-format/"><u>How to Convert and Download 4K Video in MP4 Format</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y100-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y100 Is Unlocked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-building-podcast-rss/"><u>In 2024, The Ultimate Guide to Building Podcast RSS</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimal-performance-finding-the-right-graphics-drivers-for-your-gtx-1080-with-windows-7/"><u>Optimal Performance: Finding the Right Graphics Drivers for Your GTX 1080 with Windows 7</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-efficiency-at-play-reducing-youtube-video-length-for-2024/"><u>[New] Efficiency at Play Reducing YouTube Video Length for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-essential-ios-strategy-for-instagram-saving/"><u>[New] In 2024, The Essential iOS Strategy for Instagram Saving</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gearing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-i/"><u>[Updated] Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-we-will-be-discussing-6-video-mergers-without-watermark-and-the-way-we-can-use-them-the-tools-and-features-they-offer-and-how-we-can-get-the-b/"><u>2024 Approved We Will Be Discussing 6 Video Mergers without Watermark, and the Way We Can Use Them – the Tools and Features They Offer, and How We Can Get the Best Out of Them</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-alternatives-to-virtualdub-video-processing-software-compared-for-2024/"><u>Best Alternatives to VirtualDub Video Processing Software Compared for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/converting-mp4-video-file-to-an-mp3-file-format-is-a-simple-process-read-on-if-you-would-like-to-learn-more-about-the-best-mp4-to-mp3-converters-you-can-use/"><u>Converting MP4 Video File to an MP3 File Format Is a Simple Process. Read on if You Would Like to Learn More About the Best MP4 to MP3 Converters You Can Use Online or on PC and Mac Computers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing-for-2024/"><u>Engage, Enchant, Excel The Quintessential 5 Strategies for YouTube Marketing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/for-efficient-workflow-the-keyboard-shortcuts-cannot-be-beaten-so-here-i-list-top-20-adobe-premiere-shortcuts-you-will-use-when-editing-video-for-2024/"><u>For Efficient Workflow, the Keyboard Shortcuts Cannot Be Beaten. So Here I List Top 20 Adobe Premiere Shortcuts You Will Use when Editing Video for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-video-and-photo-upload-from-pc-to-iphone/"><u>In 2024, Seamless Video & Photo Upload From PC to iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secrets-to-seamless-layers-and-structural-integrity-in-additive-manufacturing/"><u>Secrets to Seamless Layers & Structural Integrity in Additive Manufacturing</u></a></li>
 </ul></div>
 

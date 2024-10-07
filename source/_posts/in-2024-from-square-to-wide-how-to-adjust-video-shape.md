@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Adjust Video Shape
-date: 2024-09-29T19:32:59.927Z
-updated: 2024-10-01T19:21:17.703Z
+date: 2024-10-01T01:01:36.147Z
+updated: 2024-10-06T22:10:17.193Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -93,10 +93,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -158,10 +158,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,24 +179,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-aplus-powerpoint-to-cinema-suites-for-2024/"><u>[New] A+ PowerPoint to Cinema Suites for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>[New] The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-demystifying-youtubes-seo-a-keyword-research-guide/"><u>[Updated] 2024 Approved Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[Updated] Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/analyzing-time-of-playback-in-a-20mb-film-for-2024/"><u>Analyzing Time of Playback in a 20Mb Film for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-nubia-red-magic-9-proplus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nubia Red Magic 9 Pro+ Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-windows-10-photos-8-excellent-image-viewing-options/"><u>In 2024, Beyond Windows 10 Photos 8 Excellent Image Viewing Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-burning-videos-to-dvd-a-beginners-guide-for-windows-and-mac/"><u>In 2024, Burning Videos to DVD A Beginners Guide for Windows and Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-costs-not-quality-get-final-cut-pro-with-education-discounts/"><u>In 2024, Cut Costs, Not Quality Get Final Cut Pro with Education Discounts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-free-divx-video-editors-top-6/"><u>In 2024, Cutting-Edge Free Divx Video Editors Top 6</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mp4-files-with-ease-best-windows-8-video-editor/"><u>In 2024, Edit MP4 Files with Ease Best Windows 8 Video Editor</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-without-limits-the-top-10-free-online-video-editors/"><u>In 2024, Edit Without Limits The Top 10 Free Online Video Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-production-adobe-premiere-pro-on-mac/"><u>In 2024, Elevate Your Video Production Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>In 2024, FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-savings-hacks-4-expert-approved-methods-to-get-discounts/"><u>In 2024, Filmora Savings Hacks 4 Expert-Approved Methods to Get Discounts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-vrijetijdige-m4a-naar-eenvoudig-3gp-omzetten-met-movavi-bevinden-jullie-het-toppakket/"><u>Online Vrijetijdige M4A Naar Eenvoudig 3GP Omzetten Met Movavi: Bevinden Jullie Het Toppakket?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-reading-pdfs-with-chatgpt-using-these-4-effective-strategies/"><u>Streamline Reading PDFs with ChatGPT Using These 4 Effective Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-dealing-with-missing-comctl32dll-errors-in-windows/"><u>The Ultimate Fix: Dealing with Missing Comctl32.dll Errors in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-nord-3-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Nord 3 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-presence-setting-up-an-instagram-company/"><u>[Updated] 2024 Approved Elevate Your Presence Setting Up an Instagram Company</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-skype-soundtrack-hub-finding-the-right-tones-online/"><u>[Updated] In 2024, Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shadows-and-subtleties-iphone-nocturnal-guides/"><u>2024 Approved Shadows & Subtleties IPhone Nocturnal Guides</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-understanding-seconds-for-a-20mb-movie/"><u>2024 Approved Understanding Seconds for a 20MB Movie</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-leading-software-solutions-for-regaining-deleted-iphone-contacts/"><u>Expert Picks: Leading Software Solutions for Regaining Deleted iPhone Contacts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-reverse-a-video-in-final-cut-pro/"><u>How to Reverse A Video in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-4-detailed-steps-to-flip-a-clip-in-final-cut-pro/"><u>In 2024, 4 Detailed Steps to Flip a Clip in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-vision-to-life-wevideos-user-friendly-video-maker/"><u>In 2024, Bring Your Vision to Life WeVideos User-Friendly Video Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>In 2024, Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-extracting-still-images-from-videos-10-reliable-converters/"><u>In 2024, Extracting Still Images From Videos 10 Reliable Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>In 2024, FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-coupon-hunters-guide-7-essential-tips/"><u>In 2024, Filmora Coupon Hunters Guide 7 Essential Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>In 2024, Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transform-your-igtv-visuals-with-updated-covers/"><u>In 2024, Transform Your IGTV Visuals with Updated Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites-for-2024/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites for 2024</u></a></li>
 </ul></div>
 

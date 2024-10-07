@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect in Final Cut Pro A Beginners Guide to Advanced Video Editing Techniques
-date: 2024-08-27T06:20:15.271Z
-updated: 2024-08-28T06:20:15.271Z
+date: 2024-10-03T21:49:02.450Z
+updated: 2024-10-06T18:01:28.274Z
 tags: 
   - video editing software
   - video editing
@@ -43,10 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -56,8 +52,12 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -74,16 +74,17 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -99,13 +100,24 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -115,16 +127,11 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +139,24 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-superior-sites-for-selecting-storied-soundtracks/"><u>[New] 2024 Approved Superior Sites for Selecting Storied Soundtracks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[New] 2024 Approved Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>2024 Approved Glacial Glory Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-gtfo-application-crashes/"><u>Effective Strategies for Resolving GTFO Application Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-p60-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for P60?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-your-listening-experience-on-windows-11-the-ultimate-equalizer-tweaks/"><u>Improve Your Listening Experience on Windows 11: The Ultimate Equalizer Tweaks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/master-the-art-of-animation-top-tools-and-software-for-beginners-pros-and-everyone-in-between/"><u>Master the Art of Animation Top Tools and Software for Beginners, Pros, and Everyone in Between</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-a-timer-in-minutes-a-quick-fcpx-tutorial/"><u>New Add a Timer in Minutes A Quick FCPX Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animate-on-the-move-best-3d-animation-apps-for-android-iphone-and-ipad/"><u>New Animate on the Move Best 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming/"><u>New Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>New Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-explainer-video-is-important-for-business-do-you-know-what-is-the-best-explainer-video-software-to-make-it-in-this-article-we-will-introduce-you-6-best-/"><u>New Explainer Video Is Important for Business. Do You Know What Is the Best Explainer Video Software to Make It? In This Article, We Will Introduce You 6 Best Explainer Video Software. Check It Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-persistent-zoom-issues-on-windows-11-and-10-for-enhanced-2024-productivity/"><u>Ultimate Guide to Fixing Persistent Zoom Issues on Windows 11 & 10 for Enhanced 2024 Productivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-screen-mirroring-android-to-fire-stick-streaming-made-simple/"><u>Unlock the Power of Screen Mirroring: Android to Fire Stick Streaming Made Simple</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cinematic-converter-turn-humble-footage-into-breathtaking-films/"><u>Updated Cinematic Converter Turn Humble Footage Into Breathtaking Films</u></a></li>
+</ul></div>
+

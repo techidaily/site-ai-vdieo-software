@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-09-30T18:51:37.201Z
-updated: 2024-10-01T19:49:19.263Z
+date: 2024-10-02T16:10:02.856Z
+updated: 2024-10-06T16:27:15.690Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -92,13 +92,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -108,16 +101,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -170,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -185,18 +179,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[New] Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>[Updated] In 2024, MP3 Upload Process Stream, Convert & Share on YouTube Quickly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/decouvrez-les-plus-puissants-programmes-vedette-de-montage-video-compatibles-avec-windows-11/"><u>Découvrez Les Plus Puissants Programmes Vedette De Montage Vidéo Compatibles Avec Windows 11 !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-for-preventing-and-fixing-infinite-warfare-battleship-pc-malfunctions/"><u>Essential Tips for Preventing and Fixing Infinite Warfare Battleship PC Malfunctions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-powerful-photo-management-tools-to-replace-windows-10-photos/"><u>In 2024, 8 Powerful Photo Management Tools to Replace Windows 10 Photos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avchd-video-editing-software-top-recommendations/"><u>In 2024, AVCHD Video Editing Software Top Recommendations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-deciphering-the-codex-of-meta-and-omni-worlds/"><u>In 2024, Deciphering the Codex of Meta and Omni Worlds</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>In 2024, Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/perfecting-youtube-videos-editing-tips-using-imovie/"><u>Perfecting YouTube Videos Editing Tips Using iMovie</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-intels-nvme-drivers-for-optimal-performance/"><u>Step-by-Step Tutorial on Downloading Intel's NVMe Drivers for Optimal Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-se-2022-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-best-8-value-video-communication-programs-for-pc-and-mac-for-2024/"><u>[Updated] The Best 8 Value Video Communication Programs for PC and MAC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-video-vaults-for-science-buffs-online/"><u>[Updated] Top 15 Video Vaults for Science Buffs Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>Chill & Thrills Highlighting Olympic Snowboard Cross Winners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/critical-considerations-for-selecting-a-high-quality-fitness-monitor-device/"><u>Critical Considerations for Selecting a High-Quality Fitness Monitor Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-remove-filmora-watermark-withwithout-paying-in-2024/"><u>How to Remove Filmora Watermark With/Without Paying, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-stop-iphone-apps-from-continuously-failing/"><u>How to Troubleshoot and Stop iPhone Apps From Continuously Failing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-4k-is-getting-popular-these-days-while-in-this-article-introduces-top-10plus-free-4k-video-converters-for-windows-and-mac-in-case-that-you-have-limi/"><u>In 2024, 4K Is Getting Popular These Days, While in This Article Introduces Top 10+ Free 4K Video Converters for Windows and Mac in Case that You Have Limited Access to 4K Video Playing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-free-online-video-stabilizers/"><u>In 2024, 8 Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-converter-how-to-convert-and-download-4k-video-in-mp4-format/"><u>In 2024, Best Converter How to Convert and Download 4K Video in MP4 Format</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>In 2024, Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>In 2024, Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-videos-with-these-top-split-screen-apps/"><u>In 2024, Create Engaging Videos with These Top Split Screen Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-eliminate-the-shake-pro-level-video-stabilization-techniques-in-fcpx/"><u>In 2024, Eliminate the Shake Pro-Level Video Stabilization Techniques in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-13-free-download-the-ultimate-video-editing-software/"><u>In 2024, Filmora 13 Free Download The Ultimate Video Editing Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-12-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme 12 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi 13C Phone Without Password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screen-recorder-showdown-apoyser-vs-emerging-alternatives-review/"><u>Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-smoother-gameplay-addressing-lag-issues-in-guilty-gear-strive/"><u>Solutions for Smoother Gameplay: Addressing Lag Issues in Guilty Gear Strive</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-address-minecraft-launcher-failure-0x803f8001-error/"><u>Steps to Address Minecraft Launcher Failure: 0X803F8001 Error</u></a></li>
 </ul></div>
 

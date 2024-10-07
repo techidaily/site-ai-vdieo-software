@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro
-date: 2024-08-27T06:22:16.143Z
-updated: 2024-08-28T06:22:16.143Z
+date: 2024-09-30T23:47:14.476Z
+updated: 2024-10-07T00:10:48.387Z
 tags: 
   - video editing software
   - video editing
@@ -81,8 +81,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,9 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -107,15 +121,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +139,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-ad-elimination-select-7-android-adblockers/"><u>[Updated] 2024 Approved Efficient Ad Elimination Select 7 Android AdBlockers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[Updated] Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chart-topping-storytellers-to-follow-on-youtube-this-year-for-2024/"><u>Chart-Topping Storytellers to Follow on YouTube This Year for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/galaxy-showdown-in-depth-review-of-samsung-s24-ultra-vs-s23-ultra/"><u>Galaxy Showdown: In-Depth Review of Samsung S24 Ultra Vs. S23 Ultra</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-frame-by-frame-a-beginners-guide-to-converting-videos-to-photos-10-converters/"><u>In 2024, Frame by Frame A Beginners Guide to Converting Videos to Photos 10 Converters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>New How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>New How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editing/"><u>The Ultimate Guide to Free FLV Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-audio-transitions-in-fcpx-l-cuts-and-j-cuts-explained/"><u>Updated Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained</u></a></li>
+</ul></div>
+

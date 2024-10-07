@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Hacks Create a Vintage VHS Look
-date: 2024-09-25T19:22:31.663Z
-updated: 2024-10-01T16:23:29.038Z
+date: 2024-10-04T20:31:15.580Z
+updated: 2024-10-06T18:22:22.907Z
 tags: 
   - video editing software
   - video editing
@@ -86,13 +86,6 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -100,6 +93,13 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
@@ -116,10 +116,16 @@ To do VHS effects quickly, follow these steps:
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -134,6 +140,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
@@ -147,19 +160,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -168,13 +168,6 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -192,6 +185,13 @@ Search for **Chromatic Aberration effect**.
 You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
@@ -244,19 +244,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] 2024 Approved Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-online-cropping-made-simple-step-by-step-processes/"><u>[New] Online Cropping Made Simple - Step by Step Processes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-the-art-of-video-clarity-with-version-22-vce-for-2024/"><u>[Updated] Mastering the Art of Video Clarity with Version 2.2 VCE for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-creative-with-slow-mo-top-video-editing-software-for-filmmakers/"><u>2024 Approved Get Creative with Slow Mo Top Video Editing Software for Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-split-screen-video-editor-online-and-offline/"><u>Best Split Screen Video Editor Online & Offline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-pro-merits-vs-costs/"><u>ChatGPT Pro: Merits Vs. Costs?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-color-correction-from-basics-to-advanced-for-2024/"><u>Final Cut Pro Color Correction From Basics to Advanced for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-the-best-online-tone-generator-sites/"><u>Free and Easy The Best Online Tone Generator Sites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-game-downloads-the-top-10-websites-you-need-to-know-for-2024/"><u>Free Game Downloads The Top 10 Websites You Need to Know for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-filmora-for-free-the-authorized-and-authentic-way/"><u>Get Filmora for Free The Authorized and Authentic Way</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-guide-for-crafting-the-unique-awkward-potion-in-minecraft/"><u>Quick Guide for Crafting the Unique Awkward Potion in Minecraft</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-5-time-lapse-screen-recorders/"><u>Top 5 Time-Lapse Screen Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-from-rgb-to-srgb-for-2024/"><u>Transitioning From Rgb to Srgb for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-5-free-software-options/"><u>AVI Video Rotation Made Easy Top 5 Free Software Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-video-cutting-and-joining-solutions-for-new-users/"><u>Best Zero-Cost Video Cutting and Joining Solutions for New Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-flv-videos-like-a-pro-top-5-free-tools/"><u>Edit FLV Videos Like a Pro Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>Edit Like a Pro Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-barriers-in-nvidia-deployment/"><u>Eliminating Barriers in NVIDIA Deployment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s Plus From Your Apple ID</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-instructors-handbook-on-video-assisted-pedagogy/"><u>In 2024, The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-blurring-the-line-between-work-and-distractions/"><u>Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
 </ul></div>
 

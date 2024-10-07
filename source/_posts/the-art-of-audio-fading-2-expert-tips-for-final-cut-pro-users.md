@@ -1,7 +1,7 @@
 ---
 title: The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users
-date: 2024-08-27T06:17:38.768Z
-updated: 2024-08-28T06:17:38.768Z
+date: 2024-09-30T22:54:58.439Z
+updated: 2024-10-07T01:14:37.931Z
 tags: 
   - video editing software
   - video editing
@@ -81,8 +81,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,17 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-novice-to-expert-navigating-telegram-web/"><u>[New] In 2024, From Novice to Expert Navigating Telegram Web</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quickest-online-platforms-transforming-gif-into-video/"><u>2024 Approved Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok/"><u>2024 Approved Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-frostpunk-stability-end-crashes-for-good/"><u>Mastering Frostpunk Stability: End Crashes for Good</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animations-in-the-classroom-top-picks/"><u>New Animations in the Classroom Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>New Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>New Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-video-editing-software-that-outshine-adobe-premiere-elements/"><u>Top 10 Video Editing Software That Outshine Adobe Premiere Elements</u></a></li>
+</ul></div>
+

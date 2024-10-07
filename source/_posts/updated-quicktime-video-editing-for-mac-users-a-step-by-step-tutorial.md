@@ -1,7 +1,7 @@
 ---
 title: Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial
-date: 2024-09-25T17:29:26.535Z
-updated: 2024-10-01T16:24:48.220Z
+date: 2024-10-03T19:22:09.669Z
+updated: 2024-10-06T21:28:08.661Z
 tags: 
   - video editing software
   - video editing
@@ -50,16 +50,10 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
@@ -70,22 +64,22 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -112,13 +106,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -141,6 +128,13 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -158,18 +152,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/chieving-financial-independence-through-youtube-and-adsense/"><u>[New] Achieving Financial Independence Through YouTube and AdSense</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-video-snapper-for-your-chromebook/"><u>[New] In 2024, Ideal Video Snapper For Your Chromebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-key-to-viral-posts-on-instagram-unveiled/"><u>[New] In 2024, The Key to Viral Posts on Instagram Unveiled</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-and-split-wmv-videos-with-these-top-free-tools/"><u>Cut and Split WMV Videos with These Top Free Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-code-alert-no-need-to-scour-reddit/"><u>Filmora Promo Code Alert No Need to Scour Reddit</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-vs-paid-the-best-3d-animation-software-for-creators/"><u>Free Vs. Paid The Best 3D Animation Software for Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-f23-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo F23 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-step-by-step-guide-to-fix-the-windows-11-reset-error/"><u>Mastering PC Restoration: Step-by-Step Guide to Fix the Windows 11 Reset Error</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-show-your-love-how-to-create-a-beautiful-valentines-day-video-montage/"><u>Updated 2024 Approved Show Your Love How to Create a Beautiful Valentines Day Video Montage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-seamlessly-on-your-mac-device-step-by-step-instructions/"><u>Utilizing ChatGPT Seamlessly on Your Mac Device: Step-by-Step Instructions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-making-the-most-of-your-phones-camera-in-video-production-for-2024/"><u>[New] Making the Most of Your Phone's Camera in Video Production for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-camera-techniques-for-quality-shots/"><u>[Updated] 2024 Approved IPhone Camera Techniques for Quality Shots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration/"><u>[Updated] Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-view-victory-hashes-that-help-your-youtube-shorts-go-mainstream-for-2024/"><u>[Updated] View Victory Hashes That Help Your YouTube Shorts Go Mainstream for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-filmora-without-spending-a-dime-100-legal-methods/"><u>2024 Approved Get Filmora Without Spending a Dime 100 Legal Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-cs6-mac-download-latest-update-for-2024/"><u>Adobe Premiere Pro CS6 Mac Download - Latest Update for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas-for-2024/"><u>Best Video Editing Software for Windows Beyond Sony Vegas for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-videos-without-breaking-the-bank-5-best-free-ios-apps/"><u>Compress Videos Without Breaking the Bank 5 Best Free iOS Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling-for-2024/"><u>Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level/"><u>Final Cut Pro X Jump Cuts Take Your Editing to the Next Level</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-forward-to-reverse-the-ultimate-tiktok-video-editing-guide-2023-update/"><u>From Forward to Reverse The Ultimate TikTok Video Editing Guide 2023 Update</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nubia-z50s-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nubia Z50S Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-adjust-video-size-effectively-without-sacrificing-clarity-top-10-techniques-no-watermarks/"><u>How to Adjust Video Size Effectively without Sacrificing Clarity - Top 10 Techniques [No Watermarks]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-threat-tweaks-for-personalized-win11-preferences/"><u>Triple-Threat Tweaks for Personalized Win11 Preferences</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-epson-xp-640-printer-drivers-for-windows-operating-system/"><u>Update Epson XP-640 Printer Drivers for Windows Operating System</u></a></li>
 </ul></div>
 

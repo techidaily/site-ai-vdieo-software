@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Free Stock Image Websites
-date: 2024-09-25T18:14:21.377Z
-updated: 2024-10-01T18:44:27.253Z
+date: 2024-10-04T02:23:59.384Z
+updated: 2024-10-06T16:22:35.352Z
 tags: 
   - video editing software
   - video editing
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Websites for Downloading Public Domain Images
 
  We’ve searched the Internet and we utilized our results to compile a collection of the most reliable websites that grant its users access to vast numbers of public domain images. Let’s take a look at some of the best websites that let you download public domain images.
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
 **Pros:**
@@ -89,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
@@ -116,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
 
@@ -199,10 +186,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
@@ -232,6 +219,19 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 * Search tools are far from perfect
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Cite Public Domain Images Properly?
 
@@ -267,21 +267,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-video-upload-made-easy-a-comprehensive-guide-for-mac-and-pc-tiktok/"><u>[New] In 2024, Video Upload Made Easy A Comprehensive Guide for Mac & PC (TikTok)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[Updated] 2024 Approved Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-20-free-adobe-premiere-intro-templates-for-2024/"><u>Best 20 Free Adobe Premiere Intro Templates for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-orientation-correction-tools-for-iphone/"><u>Best Free Video Orientation Correction Tools for iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-mkv-cutting-tools-2023-edition-no-cost/"><u>Best MKV Cutting Tools 2023 Edition (No Cost!)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-animations-5-top-online-stop-motion-makers-for-2024/"><u>Create Stunning Animations 5 Top Online Stop Motion Makers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-videos-on-mac-try-vn-video-editor-or-these-alternatives-for-2024/"><u>Editing Videos on Mac? Try VN Video Editor or These Alternatives for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-view-converting-standard-videos-to-vr-masterpieces/"><u>Elevate Your View Converting Standard Videos to VR Masterpieces</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-20-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 20 Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-13-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 13 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-lowest-priced-cloud-vendors/"><u>In 2024, Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-performance-problems-with-star-wars-jedi-fallen-order-pc-edition/"><u>Solving Performance Problems with Star Wars Jedi: Fallen Order - PC Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dark-side-of-ai-in-mental-wellness-uncovering-the-9-main-dangers-of-tech-based-therapy-solutions/"><u>The Dark Side of AI in Mental Wellness: Uncovering the 9 Main Dangers of Tech-Based Therapy Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-finding-your-niche-in-the-snapchat-economy/"><u>[New] 2024 Approved Finding Your Niche in the Snapchat Economy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-of-the-incredible-tools-hidden-under-final-cut-pro-x-we-bring-final-cut-pro-l-cuts-and-j-cuts-in-todays-article-learn-what-is-a-j-cut-in-final/"><u>2024 Approved Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-view-ahead-8-methods-to-correct-blue-distortion-on-your-television-display/"><u>Clear View Ahead: 8 Methods to Correct Blue Distortion on Your Television Display</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fix-avidemux-audio-issues-step-by-step-guide/"><u>Fix Avidemux Audio Issues Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-mastering-wax-free-video-editor-for-2024/"><u>From Zero to Hero Mastering Wax Free Video Editor for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-windows-11-when-it-fails-to-detect-your-usb-drive-guide/"><u>How to Fix Windows 11 When It Fails to Detect Your USB Drive (Guide)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-poco-f5-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Poco F5 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/qualitatsbewahrt-avchd-zu-mp4-konvertierung-top-methoden-fur-professionelle-videokonvertierungen/"><u>Qualitätsbewahrt AVCHD Zu MP4 Konvertierung - Top-Methoden Für Professionelle Videokonvertierungen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-enabling-high-dynamic-range-auto-hdr-on-windows-11-for-2024/"><u>Step-by-Step Guide to Enabling High Dynamic Range (Auto HDR) on Windows 11 for 2024</u></a></li>
 </ul></div>
 

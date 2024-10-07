@@ -1,7 +1,7 @@
 ---
 title: "Next Level Processing Power: Russia Prepares to Implement 128 Cores in Their Supercomputer Infrastructure"
-date: 2024-08-27T06:21:25.338Z
-updated: 2024-08-28T06:21:25.338Z
+date: 2024-09-30T00:20:12.890Z
+updated: 2024-10-07T02:43:32.165Z
 tags:
   - desktop
 categories:
@@ -55,14 +55,11 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +68,33 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>[New] 2024 Approved History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-visual-mastery-crop-and-edit-videos-like-pros/"><u>[Updated] Instagram Visual Mastery Crop and Edit Videos Like Pros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-superior-choices-top-5-sd-cards-for-gopro-hero-cameras-8-7/"><u>[Updated] Superior Choices Top 5 SD Cards for GoPro Hero Cameras (8, 7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-youtube-to-mpeg-transformation-hacks-you-need-for-2024/"><u>[Updated] YouTube-to-MPEG Transformation Hacks You Need for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-monetary-mastery-for-your-social-media-channel-fb-video-wisdom/"><u>2024 Approved Monetary Mastery for Your Social Media Channel FB Video Wisdom</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-hot-30i-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Hot 30i</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001420468-dota-ns-crash-woes-here-are-top-troubleshooting-steps/"><u>Dota N's Crash Woes? Here Are Top Troubleshooting Steps!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>In 2024, Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-splice-for-mac-os-and-unleash-your-creativity/"><u>New Download Splice for Mac OS and Unleash Your Creativity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-experience-best-quality-enhancement-software/"><u>New Elevate Your Video Experience Best Quality Enhancement Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>New The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-free-online-video-compression-tools-no-software-required/"><u>New Top 10 Free Online Video Compression Tools No Software Required</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-free-flv-video-editors/"><u>New Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pitfalls-to-avoid-when-not-to-trust-chatgpt-with-your-health/"><u>Pitfalls to Avoid: When Not to Trust ChatGPT with Your Health</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enable-offline-accessibility-on-your-youtube-content/"><u>Step-by-Step Tutorial: Enable Offline Accessibility on Your YouTube Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-best-5-free-mpeg-video-joiners/"><u>Top Best 5 Free MPEG Video Joiners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-with-free-and-paid-versions/"><u>Unleash Your Creativity Top 3D Video Makers with Free and Paid Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-reinstall-hp-deskjet-2700-drivers-step-by-step-guide-to-the-latest-version/"><u>Update or Reinstall HP DeskJet 2700 Drivers: Step-by-Step Guide to the Latest Version</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-capture-to-cut-a-comprehensive-guide-to-editing-sony-camcorder-footage/"><u>Updated From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

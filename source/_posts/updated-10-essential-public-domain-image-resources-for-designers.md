@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Essential Public Domain Image Resources for Designers
-date: 2024-08-22T13:58:42.905Z
-updated: 2024-08-23T13:58:42.905Z
+date: 2024-10-05T16:34:15.340Z
+updated: 2024-10-06T18:17:53.919Z
 tags: 
   - video editing software
   - video editing
@@ -49,12 +49,12 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
 **Pros:**
@@ -120,9 +120,6 @@ No advertising on the website.
 
 ![Unsplash public domain image  ](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
 **Pros:**
@@ -152,8 +149,12 @@ No advertising on the website.
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
 **Pros:**
@@ -185,8 +186,12 @@ No advertising on the website.
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
 **Pros**
@@ -215,9 +220,6 @@ No advertising on the website.
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -238,15 +240,17 @@ No advertising on the website.
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -254,3 +258,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] 2024 Approved Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-from-the-grave-to-gameplay-top-8-zombies-unleashed/"><u>2024 Approved From the Grave to Gameplay Top 8 Zombies Unleashed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-insightful-cloud-costs-price-comparison-and-recommendations/"><u>2024 Approved Insightful Cloud Costs Price, Comparison & Recommendations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-g310-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia G310 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-verdict-on-data-restoration/"><u>Customer Verdict on Data Restoration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring-for-2024/"><u>Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-dailymotion-video-conversion-without-registration/"><u>In 2024, Free Dailymotion Video Conversion without Registration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-avi-file-editing-easy-ways-to-trim-cut-and-split-videos-2023-update/"><u>Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-novice-to-pro-mastering-wax-free-video-editor-in/"><u>New From Novice to Pro Mastering Wax Free Video Editor In</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-video-invitation-apps-for-mobile/"><u>New The Ultimate Guide to Video Invitation Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-war-thunder-breakdowns-proven-techniques-for-a-smooth-2024-gaming-experience/"><u>Say Goodbye to War Thunder Breakdowns: Proven Techniques for a Smooth 2024 Gaming Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx/"><u>Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-15-best-apps-to-create-cartoon-avatars-on-mobile/"><u>The Ultimate List 15 Best Apps to Create Cartoon Avatars on Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-3-mkv-trimmer-for-mac-2023/"><u>Top 3 MKV Trimmer for Mac 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-anker-powercore-plus-email-protected-mah-charger-cube-bundle-review-design-functionality-and-efficiency/"><u>Ultimate Guide to the Anker PowerCore + ([Email Protected] mAh) Charger Cube Bundle Review – Design, Functionality and Efficiency</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-12-free-animation-software-for-windows-and-mac/"><u>Updated Best 12 Free Animation Software for Windows and Mac</u></a></li>
+</ul></div>
+

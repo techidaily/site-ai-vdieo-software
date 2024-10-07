@@ -1,7 +1,7 @@
 ---
 title: Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro
-date: 2024-09-29T16:04:08.304Z
-updated: 2024-10-01T16:47:56.718Z
+date: 2024-10-05T16:42:10.543Z
+updated: 2024-10-06T23:37:44.850Z
 tags: 
   - video editing software
   - video editing
@@ -98,13 +98,6 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Flipping the whole video:**
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
@@ -112,16 +105,16 @@ When you double-click on the video, the editing panel appears on the screen, and
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * _Flipping only a single part of the video:_
@@ -131,10 +124,10 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * _Exporting the flip video:_
@@ -148,15 +141,22 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -177,24 +177,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-transcript-generator/"><u>[Updated] Visual Transcript Generator</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/5-best-free-online-video-editors-similar-to-imovie-updated-2023/"><u>5 Best Free Online Video Editors Similar to iMovie (Updated 2023)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-s23-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy S23 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-fed-up-with-viewing-static-and-stagnant-pictures-captured-in-your-memorable-moments-you-can-present-the-historical-moments-of-your-life-creatively-b/"><u>Are You Fed up with Viewing Static and Stagnant Pictures Captured in Your Memorable Moments? You Can Present the Historical Moments of Your Life Creatively by Adding the Ken Burns Effect. You Might Be Wondering How, Here Is the Solution</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-gaming-sites-top-picks-for-downloading-games/"><u>Best Gaming Sites Top Picks for Downloading Games</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/capture-your-screen-a-beginners-guide-to-recording-with-filmora-scrn-for-2024/"><u>Capture Your Screen A Beginners Guide to Recording with Filmora Scrn for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-organization-on-mac-top-8-metadata-editors/"><u>Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721427447705-emoji-cleared-tweets-linuss-leaks-revealed-trojan-truths-told-and-chatgpt-problems-unpacked/"><u>Emoji Cleared Tweets, Linus's Leaks Revealed, Trojan Truths Told, & ChatGPT Problems Unpacked</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/essential-fcpx-add-ons-top-10-free-and-paid-plugins-you-need-for-2024/"><u>Essential FCPX Add-Ons Top 10 Free and Paid Plugins You Need for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-torrent-download-100-safe-and-free-method-for-2024/"><u>Filmora Torrent Download 100 Safe and Free Method for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-wmv-video-merger-software-top-picks/"><u>Free WMV Video Merger Software Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-amateur-to-pro-the-top-10-video-editing-software-for-all-levels-for-2024/"><u>From Amateur to Pro The Top 10 Video Editing Software for All Levels for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-perfect-match-msi-z370-a-pro-driver-pack-for-optimal-functioning/"><u>Get the Perfect Match: MSI Z370-A Pro Driver Pack for Optimal Functioning</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A54 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-fcpx-shortcut-bible-40-essential-commands-to-know/"><u>New In 2024, The FCPX Shortcut Bible 40 Essential Commands to Know</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/why-testimonial-videos-boost-brand-credibility-for-2024/"><u>Why Testimonial Videos Boost Brand Credibility for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boosting-your-channel-a-guide-to-gaining-viewers/"><u>[New] 2024 Approved Boosting Your Channel A Guide to Gaining Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-insight-into-simple-high-dynamic-range-capture/"><u>[New] Comprehensive Insight Into Simple High-Dynamic Range Capture</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-convert-tweety-movies-to-audible-files/"><u>[Updated] Convert Tweety Movies to Audible Files</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>[Updated] In 2024, Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-analytics-with-cookiebot-integration-power-your-web-presence/"><u>Enhance Analytics with Cookiebot Integration – Power Your Web Presence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cold-wars-loading-problem-expert-advice-for-pc-gamers-and-console-enthusiasts/"><u>Fixing Cold War's Loading Problem: Expert Advice for PC Gamers and Console Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-wmv-videos-for-free-top-5-tools/"><u>New Combine WMV Videos for Free Top 5 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-wmv-video-cutter-tools-top-picks/"><u>New Free WMV Video Cutter Tools Top Picks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2010-content-related-error-stellar-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2010 Content related error | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-avs-video-editor-review-what-to-expect/"><u>Unbiased AVS Video Editor Review What to Expect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-chaos-the-best-free-online-glitch-effect-makers/"><u>Unleash the Chaos The Best Free Online Glitch Effect Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-emotional-depth-with-the-ken-burns-effect-updated-2023/"><u>Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/wmv-file-splitter-top-5-free-solutions-this-year/"><u>WMV File Splitter Top 5 Free Solutions This Year</u></a></li>
 </ul></div>
 

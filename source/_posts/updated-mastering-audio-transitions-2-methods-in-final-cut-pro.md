@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Audio Transitions 2 Methods in Final Cut Pro
-date: 2024-08-27T06:23:07.304Z
-updated: 2024-08-28T06:23:07.304Z
+date: 2024-10-02T02:50:54.763Z
+updated: 2024-10-06T16:43:31.343Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,8 +88,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +108,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -105,16 +127,11 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>[New] Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-action-triumphs-the-top-games-compilation/"><u>[Updated] Essential Action Triumphs The Top Games Compilation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-visual-feats-7-innovative-uses-for-vision-ai/"><u>ChatGPT Visual Feats: 7 Innovative Uses for Vision AI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-computer-imagery-like-a-pro-for-2024/"><u>Combine Computer Imagery Like a Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-solution-how-to-fix-godfall-game-crashes-on-your-computer-full-tutorial/"><u>Complete Solution: How to Fix Godfall Game Crashes on Your Computer - Full Tutorial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-14-pro-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 14 Pro You Should Try Out</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-alternative-video-editing-software-to-powerdirector-for-smartphone-users/"><u>New Alternative Video Editing Software to PowerDirector for Smartphone Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-capture-perfection-top-rated-webcam-recording-software-for-windows-10/"><u>New Capture Perfection Top-Rated Webcam Recording Software for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-ipad-video-editing-made-easy-top-5-apps/"><u>New IPad Video Editing Made Easy Top 5 Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users/"><u>New Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/recording-voice-overs-like-a-pro-top-tips-for-final-cut-pro-users/"><u>Recording Voice Overs Like a Pro Top Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unsuited-audio-device-stopped-in-windows-errors/"><u>Solutions for 'Unsuited Audio Device Stopped' In Windows Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-made-easy-top-20-free-youtube-playlist-savers/"><u>Streaming Made Easy Top 20 Free YouTube Playlist Savers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-splitter-and-merger-tools-for-beginners-top-picks/"><u>Updated Free Video Splitter and Merger Tools for Beginners Top Picks</u></a></li>
+</ul></div>
+

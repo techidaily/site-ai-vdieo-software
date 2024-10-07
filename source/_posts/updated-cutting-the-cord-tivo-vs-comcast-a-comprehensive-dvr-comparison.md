@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison
-date: 2024-09-25T16:16:19.523Z
-updated: 2024-10-01T19:05:08.160Z
+date: 2024-09-30T00:22:56.296Z
+updated: 2024-10-06T20:38:07.584Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -48,16 +55,22 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -66,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
@@ -82,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -101,25 +114,11 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -130,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -160,24 +172,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling/"><u>[Updated] 2024 Approved Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturecrafter-your-ultimate-guide-to-screen-recording/"><u>[Updated] CaptureCrafter Your Ultimate Guide to Screen Recording</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-here-is-a-list-of-some-of-the-best-slow-motion-video-editing-software-in-the-market-today-keep-reading-and-tell-us-which-video-editor-you-are-/"><u>2024 Approved Here Is a List of some of the Best Slow Motion Video Editing Software in the Market Today. Keep Reading and Tell Us Which Video Editor You Are Using to Make a Slow Motion Video</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-thumbnails-guide-what-size-yields-success/"><u>2024 Approved The Ultimate Thumbnails Guide What Size Yields Success?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-kinemaster-meme-wizard/"><u>Become a KineMaster Meme Wizard</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-made-easy-top-picks/"><u>Chromebook Video Editing Made Easy Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-loops-best-free-gif-software-for-2024/"><u>Create Stunning Loops Best Free GIF Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-top-10-free-4k-video-converters-for-pc-and-mac-for-2024/"><u>Discover the Best Top 10 Free 4K Video Converters for PC and Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-vertical-video-apps-for-mobile-devices-for-2024/"><u>Edit Like a Pro Top Vertical Video Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-audio-editing-made-easy-a-tutorial-for-creators-for-2024/"><u>FCP Audio Editing Made Easy A Tutorial for Creators for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/flash/"><u>Flash映像ファイルのプレーンアップ：ブラウザと専用ビューワで見る方法</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-htc-u23-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your HTC U23 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-3gp-video-rotator-review-top-rated-options-for-2024/"><u>Free 3GP Video Rotator Review Top-Rated Options for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-stunning-how-to-use-ken-burns-effect-in-final-cut-pro-for-maximum-impact/"><u>From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/full-guide-how-to-free-up-space-for-fcpx/"><u>Full Guide How to Free Up Space for FCPX?</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-htc-u23-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset HTC U23 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-movie-recording-strategies-across-desktops-and-handhents/"><u>In 2024, Efficient Movie Recording Strategies Across Desktops and Handhents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-crypto-trades-with-chatgpt-unveil-5-revolutionary-techniques-for-investment-success/"><u>Mastering Crypto Trades with ChatGPT: Unveil 5 Revolutionary Techniques for Investment Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/step-by-step-inserting-tracks-in-youtube-playlists-for-2024/"><u>Step-by-Step Inserting Tracks in YouTube Playlists for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-memetic-masterpieces-behind-the-scenes/"><u>[New] Memetic Masterpieces Behind the Scenes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-the-world-of-desktop-capturing-a-sprout-review/"><u>[Updated] 2024 Approved Exploring the World of Desktop Capturing - A Sprout Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-videopad-video-editor-review-and-buying-recommendation/"><u>2024 Approved Videopad Video Editor Review and Buying Recommendation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-c50-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco C50 PC | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats/"><u>DVD to Digital How to Convert DVD to Digital Video File Formats?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dvr-wars-tivo-and-comcast-go-head-to-head/"><u>DVR Wars TiVo and Comcast Go Head-to-Head</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-new-gadgets-with-toms-electronics-hub/"><u>Exploring New Gadgets with Tom's Electronics Hub</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-hot-40-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Hot 40 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 
