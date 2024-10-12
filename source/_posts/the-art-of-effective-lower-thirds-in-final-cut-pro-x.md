@@ -1,7 +1,7 @@
 ---
 title: The Art of Effective Lower Thirds in Final Cut Pro X
-date: 2024-10-05T22:03:42.750Z
-updated: 2024-10-06T23:54:43.696Z
+date: 2024-10-08T19:21:59.384Z
+updated: 2024-10-12T18:16:58.215Z
 tags: 
   - video editing software
   - video editing
@@ -85,20 +85,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -123,18 +109,18 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -147,6 +133,13 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -167,16 +160,16 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
+<span id="1993652">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,6 +179,13 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -202,24 +202,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-windows-10-must-have-techniques/"><u>[New] Navigating Windows 10 Must-Have Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-digital-content-arena-competing-titans-vimeo-youtube-dailymotion-for-2024/"><u>[Updated] Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog/"><u>[Updated] Launchpad for Newcomers Creating a Successful Product Evaluation Vlog</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-why-are-social-media-suggested-videos-evanescent-in-2024/"><u>[Updated] Why Are Social Media Suggested Videos Evanescent, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/animation-mastery-8-elite-software-options-for-mac-and-windows-users-for-2024/"><u>Animation Mastery 8 Elite Software Options for Mac and Windows Users for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/blurring-faces-with-best-video-editing-software-for-2024/"><u>Blurring Faces with Best Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/breathtaking-4k-videos-you-wont-want-to-miss-for-2024/"><u>Breathtaking 4K Videos You Wont Want to Miss for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/debating-the-need-for-itop-screencasting-for-2024/"><u>Debating the Need for ITop Screencasting for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-video-dubbing-software-for-pc-free-trials/"><u>Discover the Best Video Dubbing Software for PC - Free Trials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-for-free-top-software-without-watermarks-this-year/"><u>Edit Videos for Free Top Software Without Watermarks This Year</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficiently-shifting-huge-video-files-from-iphone-to-mac/"><u>Efficiently Shifting Huge Video Files From iPhone to Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-best-text-animation-and-tracking-software-2023-for-2024/"><u>Expert Picks Best Text Animation and Tracking Software 2023 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-working-try-this-simple-reset-fix-for-2024/"><u>FCPX Not Working? Try This Simple Reset Fix for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/find-the-best-sony-vegas-alternative-for-windows/"><u>Find the Best Sony Vegas Alternative for Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/full-guide-how-to-add-a-skin-smoother-effect-with-final-cut-pro/"><u>Full Guide How to Add a Skin Smoother Effect with Final Cut Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovative-videography-for-sims-playtime-for-2024/"><u>Innovative Videography for Sims Playtime for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-method-for-seamless-volume-dialing-down-in-audacity/"><u>The Method for Seamless Volume Dialing Down in Audacity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-revel-in-richness-of-ranks-the-top-25-instagram-titans-unveiled/"><u>[Updated] 2024 Approved Revel in Richness of Ranks The Top 25 Instagram Titans Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-5-best-live-stream-video-conference-recorders/"><u>[Updated] 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-real-time-revelations-does-software-trump-hardware/"><u>[Updated] Real-Time Revelations Does Software Trump Hardware?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-s17e-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo S17e Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac/"><u>In 2024, Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-green-screen-in-fcp-x-a-step-by-step-guide/"><u>In 2024, Mastering Green Screen in FCP X A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-android-and-iphones-finest-video-creators-with-music-integration/"><u>New Android and iPhones Finest Video Creators with Music Integration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-rated-free-mpeg-video-splitting-tools/"><u>New Best of the Best Top-Rated Free MPEG Video Splitting Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-premiere-rush-top-alternative-video-editing-software/"><u>New Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>New Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-2024-mastering-audio-video-sync-for-seamless-edits/"><u>New Final Cut Pro X 2024 Mastering Audio-Video Sync for Seamless Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-linksys-ae2500s-newest-driver-update/"><u>Quick Guide to Downloading and Installing Linksys AE2500's Newest Driver Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/through-the-lens-through-editing-pro-secrets-of-stunning-art-for-2024/"><u>Through the Lens, Through Editing Pro Secrets of Stunning Art for 2024</u></a></li>
 </ul></div>
 

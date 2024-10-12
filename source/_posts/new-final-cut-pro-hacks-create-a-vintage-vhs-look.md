@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Hacks Create a Vintage VHS Look
-date: 2024-10-04T20:31:15.580Z
-updated: 2024-10-06T18:22:22.907Z
+date: 2024-10-08T16:29:14.822Z
+updated: 2024-10-12T18:43:06.443Z
 tags: 
   - video editing software
   - video editing
@@ -94,16 +94,16 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -116,16 +116,10 @@ To do VHS effects quickly, follow these steps:
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -135,16 +129,23 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
@@ -185,13 +186,6 @@ Search for **Chromatic Aberration effect**.
 You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
@@ -244,15 +238,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-5-free-software-options/"><u>AVI Video Rotation Made Easy Top 5 Free Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-video-cutting-and-joining-solutions-for-new-users/"><u>Best Zero-Cost Video Cutting and Joining Solutions for New Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-flv-videos-like-a-pro-top-5-free-tools/"><u>Edit FLV Videos Like a Pro Top 5 Free Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>Edit Like a Pro Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-barriers-in-nvidia-deployment/"><u>Eliminating Barriers in NVIDIA Deployment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s Plus From Your Apple ID</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-instructors-handbook-on-video-assisted-pedagogy/"><u>In 2024, The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-blurring-the-line-between-work-and-distractions/"><u>Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tag-friends-listen-to-this-podcast-story/"><u>[New] Tag Friends Listen to This Podcast Story</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-videos-with-the-right-dimension-proportions/"><u>[New] Transform Your Videos with the Right Dimension Proportions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-interactive-media-adding-audio-to-visual-narratives/"><u>2024 Approved Interactive Media Adding Audio to Visual Narratives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-rapid-methods-for-capturing-digital-conference-sessions/"><u>2024 Approved Rapid Methods for Capturing Digital Conference Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-camera-driver-software-on-your-pc-windows-11-to-7-installation-tutorial/"><u>Get the Latest Camera Driver Software on Your PC - Windows 11 to 7 Installation Tutorial</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 4G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-free-music-production-tools-expert-reviews/"><u>In 2024, Top 10 Free Music Production Tools Expert Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animated-logo-magic-11-free-tools-and-pro-design-tips/"><u>New Animated Logo Magic 11 Free Tools and Pro Design Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-orientation-changer-best-options/"><u>New Free Online Video Orientation Changer Best Options</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-nt-os-print-error-speed-up-responsiveness/"><u>Overcome NT OS Print Error: Speed Up Responsiveness</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-rated-animation-makers-for-all-users/"><u>The Best of the Best Top-Rated Animation Makers for All Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-4k-video-conversion-software-2023s-best-picks/"><u>Top-Rated 4K Video Conversion Software 2023S Best Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-1080p-video-editing-programs/"><u>Unleash Your Creativity Top 1080P Video Editing Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-subtitle-edit-replacements-for-mac-users/"><u>Updated Best Subtitle Edit Replacements for Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>Updated DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 

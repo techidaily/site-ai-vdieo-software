@@ -1,7 +1,7 @@
 ---
 title: Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows
-date: 2024-10-04T01:00:27.713Z
-updated: 2024-10-06T22:07:00.035Z
+date: 2024-10-06T17:41:03.782Z
+updated: 2024-10-12T18:37:33.088Z
 tags: 
   - video editing software
   - video editing
@@ -69,10 +69,10 @@ After that, move the red marker to the end of the scene, and repeat this again t
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ####
@@ -101,6 +101,13 @@ Just highlight your MP4 video, right click and choose "Audio Detach". The audio 
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 4. Add 300+ Effects to Touch Up MP4 Video
@@ -113,13 +120,6 @@ Besides the basic video editing functions, Video Editor also provides various st
 * More special effects like PIP, Jump Cut, Face Off, Tilt-shift for you to try!
 
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ####
 
@@ -134,23 +134,23 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -167,20 +167,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-under-the-surface-sound-savers-top-6-stealthy-recorders-iosandroid/"><u>[New] Under-the-Surface Sound Savers Top 6 Stealthy Recorders (iOS/Android)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>[Updated] In 2024, Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot/"><u>[Updated] The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>2024 Approved Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-14-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 14 Plus? How to Fix it?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-dailymotion-video-converters-online/"><u>Best Free DailyMotion Video Converters Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/budget-friendly-filmmaking-essentials-software-you-need-for-2024/"><u>Budget-Friendly Filmmaking Essentials Software You Need for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker-for-2024/"><u>Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/crop-resize-and-refine-mastering-video-editing-with-avidemux-for-2024/"><u>Crop, Resize, and Refine Mastering Video Editing with Avidemux for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/decoding-editing-excellence-can-pickup-outshine-the-competition-on-android/"><u>Decoding Editing Excellence Can PickUp Outshine the Competition on Android?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-achieve-pro-level-video-stability/"><u>FCPX Essentials How to Achieve Pro-Level Video Stability</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-watermark-removal-free-and-paid-methods-for-2024/"><u>Filmora Watermark Removal Free and Paid Methods for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-webm-to-mp3-top-10-converter-options/"><u>How to Convert WebM to MP3 Top 10 Converter Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-win11-ui-with-enlarged-icons/"><u>Transform Your Win11 UI with Enlarged Icons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-engage-and-learn-students-choice-of-best-historical-youtubes/"><u>[Updated] In 2024, Engage & Learn Students' Choice of Best Historical YouTubes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[Updated] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-destiny-warzone-memory-error-xboxpc-code-0-1766-a-step-by-step-fix-guide/"><u>Defeat the Destiny Warzone Memory Error (Xbox/PC, Code 0-1766): A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/huntings-top-5-best-video-recorders-for-2024/"><u>Hunting's Top 5 Best Video Recorders for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>In 2024, From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>In 2024, Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visionmeter-recording-suite/"><u>In 2024, VisionMeter Recording Suite</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks/"><u>New Free Green Screen Software for Android and iOS Top Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-apex-legends-challenge-fix-your-game-with-error-code-leaf-solution/"><u>Solving Apex Legends Challenge: Fix Your Game with Error Code Leaf Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-sound-10-best-professional-audio-editing-programs/"><u>Updated Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
 </ul></div>
 

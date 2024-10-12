@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-10-02T20:25:41.710Z
-updated: 2024-10-06T17:45:30.202Z
+date: 2024-10-09T17:56:52.468Z
+updated: 2024-10-12T18:11:23.965Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -50,13 +57,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
@@ -75,21 +75,22 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -106,10 +107,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -117,13 +118,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -148,18 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-sweeping-visual-upgrades-with-instagrams-chroma-key-tooling-for-2024/"><u>[New] Sweeping Visual Upgrades with Instagram’s Chroma Key Tooling for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-capturing-the-whole-picture-not-just-slices-of-it-for-2024/"><u>[Updated] Capturing the Whole Picture, Not Just Slices of It for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>2024 Approved From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screensnap-chromecast-quick-video-capture/"><u>2024 Approved ScreenSnap Chromecast Quick Video Capture</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-color-and-create-top-video-editing-software-for-vloggers-for-2024/"><u>Cut, Color, and Create Top Video Editing Software for Vloggers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-how-to-activate-and-deactivate-subtitles-for-a-better-disneyplus-experience/"><u>Discover How to Activate and Deactivate Subtitles for a Better Disney+ Experience</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebooks-prime-video-hits-the-best-of-five/"><u>Facebook's Prime Video Hits - The Best of Five</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-to-download-top-rated-3d-animation-apps-for-mobile-devices-for-2024/"><u>Free to Download Top-Rated 3D Animation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-syncing-audio-and-video-in-final-cut-pro-x-2024/"><u>From Clips to Masterpiece Syncing Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-11-pro-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 11 Pro Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets-t17239718720377/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astery-in-youtube-ads-thumbnails-and-banners/"><u>[New] Mastery in YouTube Ads Thumbnails & Banners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-to-fire-stick-from-an-android-phone/"><u>How to Cast to Fire Stick From an Android Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-htc-u23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked HTC U23 Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-fix-the-endless-load-on-anthems-login-screen/"><u>How to Fix the Endless Load on Anthem's Login Screen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-you-cannot-just-copy-and-paste-the-data-from-a-dvd-or-blu-ray-to-a-computer-since-you-need-a-file-conversion-software-in-order-to-change-the-format-/"><u>In 2024, You Cannot Just Copy and Paste the Data From a DVD or Blu-Ray to a Computer Since You Need a File Conversion Software in Order to Change the Format of a Video File. In This Article, We Are Going to Ta</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205290979-lost-in-no-sense-fix-your-sd-card/"><u>Lost in No-Sense: Fix Your SD Card!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-features-of-the-linksys-ea8300-router-for-optimal-device-performance-and-security/"><u>Navigating the Features of the Linksys EA8300 Router for Optimal Device Performance and Security</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mkv-clipper-software-top-10-recommendations/"><u>New Free MKV Clipper Software Top 10 Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-level-video-production-made-simple-a-step-by-step-guide/"><u>Pro-Level Video Production Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-play-7t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Play 7T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/streamline-your-windows-pc-stellar-file-eraser-5-for-automatic-cleanup/"><u>Streamline Your Windows PC - Stellar File Eraser 5 for Automatic Cleanup</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-the-lg-gram-17-how-this-lightweight-wonder-delivers-top-notch-efficiency/"><u>Unboxing the LG Gram 17: How This Lightweight Wonder Delivers Top-Notch Efficiency</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-efficiency-the-most-useful-adobe-premiere-shortcuts-revealed/"><u>Unlock Efficiency The Most Useful Adobe Premiere Shortcuts Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-screen-recorder-potential-beyond-cyberlink-for-2024/"><u>Unlocking Screen Recorder Potential Beyond Cyberlink for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-beyond-windows-10-photos-8-excellent-image-viewing-options/"><u>Updated Beyond Windows 10 Photos 8 Excellent Image Viewing Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
 </ul></div>
 

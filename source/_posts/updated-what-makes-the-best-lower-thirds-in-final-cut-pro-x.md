@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-10-01T22:21:03.540Z
-updated: 2024-10-06T17:03:15.116Z
+date: 2024-10-09T17:34:04.966Z
+updated: 2024-10-12T19:26:12.727Z
 tags: 
   - video editing software
   - video editing
@@ -59,6 +59,19 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. **Motion effect**
 
 Thrill your audience by inserting movements with the lower third elements. When you add some motion effect to this module, it adds flavors to your video. Work on this feature in-depth and observe whether the lower third’s motion effect excites the audience. Customize the animation time, style, and the way it flashes on the screen.
@@ -85,6 +98,13 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -101,6 +121,13 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -116,10 +143,10 @@ In the home screen, import the video that requires the edits and then tap the �
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
@@ -128,25 +155,11 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -165,13 +178,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +202,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harnessing-hashtag-magic-for-more-followers/"><u>[Updated] 2024 Approved Harnessing Hashtag Magic for More Followers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-how-to-find-and-add-free-sound-effects-to-your-final-cut-pro-projects/"><u>2024 Approved From Zero to Hero How to Find and Add Free Sound Effects to Your Final Cut Pro Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-on-a-budget-your-go-to-guide-for-coupon-codes-and-discounts-2024/"><u>Filmora on a Budget Your Go-To Guide for Coupon Codes and Discounts 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-essentials-tips-tricks-and-best-practices/"><u>Final Cut Pro Time Lapse Essentials Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-divx-video-cutting-solutions-expert-recommendations-for-2024/"><u>Free Divx Video Cutting Solutions Expert Recommendations for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-80-pro-straight-screen-edition-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor 80 Pro Straight Screen Edition Phone that is Locked?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-xr-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone XR</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-phone-free-perfection-recording-snapchat-videos/"><u>In 2024, Phone-Free Perfection Recording Snapchat Videos</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-review-of-lazlive-live-selling-platform-with-guide-for-2024/"><u>Updated Review of LazLive Live Selling Platform With Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-push-the-boundaries-of-imagery-with-photo-distortions/"><u>[New] Push the Boundaries of Imagery with Photo Distortions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-the-full-potential-of-your-reels-with-these-6-essentials/"><u>[New] Unlock the Full Potential of Your Reels with These 6 Essentials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>2024 Approved Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-virtual-realms-in-retroperusia-facebooks-image-inversion/"><u>2024 Approved Navigating Virtual Realms in Retroperusia Facebook's Image Inversion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-grading-101-unifying-your-video-clips-in-powerdirector/"><u>Color Grading 101 Unifying Your Video Clips in PowerDirector</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature-for-2024/"><u>Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/film-like-a-pro-a-beginners-guide-to-high-quality-video-production/"><u>Film Like a Pro A Beginners Guide to High-Quality Video Production</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-sound-design-how-to-source-free-sound-effects-online-for-2024/"><u>Final Cut Pro Sound Design How to Source Free Sound Effects Online for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-boring-to-brilliant-10-animated-text-converters-youll-love/"><u>From Boring to Brilliant 10 Animated Text Converters Youll Love</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-creating-a-countdown-timer-in-fcpx-for-2024/"><u>From Zero to Hero Creating a Countdown Timer in FCPX for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-copyright-free-game-audio-repositories/"><u>In 2024, Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-graphics-driver-issues-on-oculus-headset/"><u>Resolved: Fixing Graphics Driver Issues on Oculus Headset</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/why-cant-i-play-understanding-the-stream-not-available-error-in-kodi-and-how-to-fix-it/"><u>Why Can't I Play: Understanding the 'Stream Not Available' Error in Kodi & How to Fix It</u></a></li>
 </ul></div>
 

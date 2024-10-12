@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-04T22:22:43.765Z
-updated: 2024-10-06T21:24:23.384Z
+date: 2024-10-08T16:20:44.839Z
+updated: 2024-10-12T17:36:11.915Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,10 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +121,16 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,19 +148,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-full-potential-of-video-tags-in-youtube-for-2024/"><u>[New] Harness the Full Potential of Video Tags in YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-full-spectrum-alliance-an-mcn-decision-blueprint/"><u>[New] The Full Spectrum Alliance An MCN Decision Blueprint</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>[Updated] Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-solved-final-cut-pro-x-keeps-crashing/"><u>2024 Approved Solved Final Cut Pro X Keeps Crashing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beginners-guide-to-free-video-editing-cutting-and-joining-made-simple/"><u>Beginners Guide to Free Video Editing Cutting and Joining Made Simple</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-green-screen-apps-for-mobile-devices-updated-2023-for-2024/"><u>Best Free Green Screen Apps for Mobile Devices (Updated 2023) for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-reducers-for-iphone-and-ipad-top-5-picks-for-2024/"><u>Best Free Video Reducers for iPhone and iPad Top 5 Picks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-details-contrasting-free-and-paid-hulu-plans/"><u>Dive Into the Details: Contrasting Free and Paid Hulu Plans</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-graphic-issues-in-modern-windows-environments-win1110/"><u>Effective Solutions for Fixing Graphic Issues in Modern Windows Environments (Win11/10)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-scrn-tutorial-how-to-record-your-computer-screen-like-a-pro-for-2024/"><u>Filmora Scrn Tutorial How to Record Your Computer Screen Like a Pro for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-x50-gt-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my X50 GT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-13-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 13 5G Phone Network-Ready</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-slow-motion-video-editing-top-10-software/"><u>New In 2024, The Ultimate Guide to Slow Motion Video Editing Top 10 Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-incompatibilities-fixing-unsupported-device-alerts-in-idt-software-systems/"><u>Overcoming Incompatibilities: Fixing Unsupported Device Alerts in IDT Software Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-examining-wirecasts-features-against-competitors/"><u>[New] In 2024, Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cinematic-capture-top-picks-from-video-experts-for-2024/"><u>[Updated] Cinematic Capture Top Picks From Video Experts for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>Chill Bites Analysis In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/is-it-possible-to-extract-and-convert-a-drm-protected-dvd-with-handbrake-learn-the-methods-here/"><u>Is It Possible to Extract and Convert a DRM-Protected DVD with HandBrake? Learn the Methods Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-epic-trailers-best-software-for-mac-and-pc-2023-review/"><u>New Create Epic Trailers Best Software for Mac and PC (2023 Review)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-video-editing-software/"><u>New Free Filmora 13 Download Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/step-by-step-save-movs-on-windows-10/"><u>Step-by-Step Save MOVs on Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews/"><u>The Cream of the Crop Best iPhone Apps with In-Depth Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-animation-mastery-the-10-best-2d-software-for-creators-free-and-paid/"><u>Updated Animation Mastery The 10 Best 2D Software for Creators Free & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-windows-live-movie-maker-slow-motion-effect/"><u>Updated How to Use Windows Live Movie Maker Slow Motion Effect</u></a></li>
 </ul></div>
 

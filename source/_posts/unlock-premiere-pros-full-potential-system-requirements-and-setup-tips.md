@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-10-05T21:53:24.146Z
-updated: 2024-10-06T20:33:46.494Z
+date: 2024-10-08T19:19:26.665Z
+updated: 2024-10-12T20:08:55.162Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -55,31 +62,11 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -114,15 +101,22 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -136,6 +130,13 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
 Because the presets do such a good job it is not really necessary to adjust anything in the settings tab, and unless you are trying to do something very specific.
@@ -143,13 +144,6 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,17 +166,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-launching-professional-instagram-starting-an-enterprise-account-for-2024/"><u>[New] Launching Professional Instagram Starting an Enterprise Account for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs-for-2024/"><u>[New] Live on Air How to Broadcast on YouTube & Twitch Using OBS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] 2024 Approved How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>2024 Approved Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-videoleap-for-macbook-but-cant-seem-to-find-any-solution-here-is-a-detailed-guide-on-how-to-download-and-install-videoleap-for-mac-for-2/"><u>Are You Looking for Videoleap for MacBook, but Cant Seem to Find Any Solution? Here Is a Detailed Guide on How to Download and Install Videoleap for Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-mastery-the-top-8-professional-editing-software-solutions-for-2024/"><u>Audio Mastery The Top 8 Professional Editing Software Solutions for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-obtaining-and-installing-the-newest-windows-drivers-for-your-epson-wf-3520-printer/"><u>Easy Update Guide - Obtaining & Installing the Newest Windows Drivers for Your Epson WF 3520 Printer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-webm-to-mp4-the-top-10-conversion-tools-you-need-for-2024/"><u>From WebM to MP4 The Top 10 Conversion Tools You Need for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screencaptureelite-the-5-star-apeaksoft-evaluation-for-2024/"><u>ScreenCaptureElite – The 5-Star Apeaksoft Evaluation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tempo-treasure-trove-compiling-the-best-dj-visuals-download/"><u>[New] Tempo Treasure Trove Compiling the Best DJ Visuals Download</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-5-ways-to-fix-obs-black-screen-game-capture/"><u>[Updated] 2024 Approved 5 Ways to Fix OBS Black Screen Game Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>[Updated] 2024 Approved How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>[Updated] In 2024, Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tactical-co-creation-youtube-and-brand-joint-efforts/"><u>[Updated] In 2024, Tactical Co-Creation YouTube and Brand Joint Efforts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-2-written-by-robert-littell/"><u>[Updated] Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-resolving-undetected-headphones-on-playback-options-in-windows-11/"><u>Guide: Resolving Undetected Headphones on Playback Options in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-3-no-longer-crashes-a-comprehensive-fix-guide/"><u>Halo 3 No Longer Crashes: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turbocharged-triumphs-the-leading-10-srt-upgrades-for-os-x-and-windows/"><u>In 2024, Turbocharged Triumphs The Leading 10 SRT Upgrades for OS X & Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-video-editing-easy-download-videoleap-on-your-macbook-now/"><u>Make Video Editing Easy Download Videoleap on Your MacBook Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>New Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-game-capture-top-3-methods/"><u>New Easy Game Capture Top 3 Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-here-we-prepared-an-overview-of-the-best-split-screen-video-apps-for-ios-and-android-you-can-use-to-record-create-and-share-great-looking-multimedia-wit/"><u>New Here We Prepared an Overview of the Best Split Screen Video Apps for iOS and Android You Can Use to Record, Create, and Share Great-Looking Multimedia with Minimal Effort</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-flip-video-quickly-and-easily/"><u>New How to Flip Video Quickly and Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/steady-as-a-rock-how-to-stabilize-your-video-in-fcpx/"><u>Steady as a Rock How to Stabilize Your Video in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>Updated Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>Updated Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-to-download-top-rated-3d-animation-apps-for-mobile-devices/"><u>Updated Free to Download Top-Rated 3D Animation Apps for Mobile Devices</u></a></li>
 </ul></div>
 

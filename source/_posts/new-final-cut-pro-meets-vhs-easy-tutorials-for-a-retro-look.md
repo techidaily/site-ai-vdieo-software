@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Meets VHS Easy Tutorials for a Retro Look
-date: 2024-08-22T13:55:43.968Z
-updated: 2024-08-23T13:55:43.968Z
+date: 2024-10-07T16:07:48.302Z
+updated: 2024-10-12T16:44:35.678Z
 tags: 
   - video editing software
   - video editing
@@ -94,9 +94,23 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -124,6 +138,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -160,8 +181,12 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -184,9 +209,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -201,16 +223,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-subtitles-made-simple-top-10-zero-cost-downloaders/"><u>[New] 2024 Approved Subtitles Made Simple Top 10 Zero-Cost Downloaders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-boosting-engagement-the-art-of-sharing-videos-on-instagram/"><u>2024 Approved Boosting Engagement The Art of Sharing Videos on Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-prompt-writing-techniques-for-fitness-aficionados-using-chatgpt/"><u>Effective Prompt Writing Techniques for Fitness Aficionados Using ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-asus-rog-phone-7-by-drfone-android/"><u>How to Bypass FRP on Asus ROG Phone 7?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-like-a-pro-5-expert-tips-to-elevate-your-edits/"><u>In 2024, Final Cut Pro Like a Pro 5 Expert Tips to Elevate Your Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-instant-designing-techniques-for-fortnite-images/"><u>In 2024, Instant Designing Techniques for Fortnite Images</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-video-editing-made-easy-top-free-cutters/"><u>MP4 Video Editing Made Easy Top Free Cutters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cinematic-storytelling-with-fcpx-tips-and-techniques-for-stunning-videos/"><u>New Cinematic Storytelling with FCPX Tips and Techniques for Stunning Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-enhancing-your-lower-thirds-in-fcpx/"><u>New From Basic to Brilliant Enhancing Your Lower Thirds in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-script-to-screen-a-kids-adventure-in-movie-making/"><u>New From Script to Screen A Kids Adventure in Movie Making</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/protect-your-live-streams-the-periscope-video-howto-for-2024/"><u>Protect Your Live Streams The Periscope Video HowTo for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synergy-strategies-for-ig-and-tiktok-for-2024/"><u>Synergy Strategies for IG & TikTok for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-resource-for-free-sound-effects-a-guide-for-final-cut-pro-editors/"><u>The Ultimate Resource for Free Sound Effects A Guide for Final Cut Pro Editors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-free-video-calls-on-pcmac-os-for-easy-online-meetings/"><u>Top Free Video Calls on PC/Mac OS for Easy Online Meetings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>Updated From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-compression-made-easy-top-5-free-iphone-and-ipad-apps/"><u>Video Compression Made Easy Top 5 Free iPhone and iPad Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visual-bedtime-plays-reviewed-for-2024/"><u>Visual Bedtime Plays Reviewed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/yosemite-video-editing-essentials-tips-and-tricks/"><u>Yosemite Video Editing Essentials Tips and Tricks</u></a></li>
+</ul></div>
+

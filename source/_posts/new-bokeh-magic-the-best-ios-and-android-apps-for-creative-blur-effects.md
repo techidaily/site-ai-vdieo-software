@@ -1,7 +1,7 @@
 ---
 title: New Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects
-date: 2024-09-30T01:45:53.713Z
-updated: 2024-10-07T00:40:42.968Z
+date: 2024-10-10T17:41:14.750Z
+updated: 2024-10-12T17:59:32.695Z
 tags: 
   - video editing software
   - video editing
@@ -54,29 +54,36 @@ To create the Bokeh effect in Focos:
 
 ![add bokeh effects with Focos app](https://images.wondershare.com/filmora/article-images/best-bokeh-effect-app-focos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. To add more Bokeh effects, select the star Effect feature in the bottom right of the screen.
 
 ![add more bokeh effects with Focos app](https://images.wondershare.com/filmora/article-images/add-more-bokeh-effect-focos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Photo Editor Pro - [Android](https://play.google.com/store/apps/details?id=com.baiwang.instabokeh&hl=en%5FUS)\- FREE
 
 ![add more bokeh effects with Photo Editor Pro app](https://images.wondershare.com/filmora/article-images/photo-editor-pro-bokeh-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Photo Editor Pro is a free application that allows users to achieve the Bokeh effect with 4 different camera modes. Users can also adjust the transparency of the bokeh effect chosen.
 
@@ -110,18 +117,31 @@ To create the Bokeh effect in SnapSeed:
 
 ![add filters with SnapSeed app](https://images.wondershare.com/filmora/article-images/add-filter-snapseed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. After selecting your filter, choose **Tools** and select the **Lens Blur Option** **,** and adjust your blur strength accordingly**;**
 
 ![add  bokeh effects with SnapSeed app](https://images.wondershare.com/filmora/article-images/add-lens-blur-bokeh-effect.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Export and save to camera roll or upload to a third-party site.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\.  AfterFocus -[iOS](https://apps.apple.com/us/app/afterfocus/id506271165) & [Android -](https://play.google.com/store/apps/details?id=com.motionone.afterfocus&hl=en%5FUS) $0.99
 
@@ -129,19 +149,25 @@ AfterFocus helps users achieve the Bokeh effect by letting you define the focal 
 
 ![add  bokeh effects with AfterFocus app](https://images.wondershare.com/filmora/article-images/afterfocus-bokeh-effects-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To create the Bokeh effect in AfterFocus:
 
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Once you’ve selected your image, the app will prompt you to select whether you want to manually select the focus area or if you want their software to detect it for you;
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
 
@@ -167,10 +193,10 @@ To create the Bokeh effect in Bokeh Lens:
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
@@ -178,13 +204,6 @@ To create the Bokeh effect in Bokeh Lens:
 Blur photo uses a one click method to achieve auto blurred backgrounds to help you achieve the Bokeh effect. It also allows you to manually adjust the settings to your own liking. Users can increase or decrease the blur effect, add filters to photos, and add emojis and text.
 
 ![add bokeh effects with  Blur Photo app](https://images.wondershare.com/filmora/article-images/blur-photo-editor-bokeh-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To create the Bokeh effect in Blur Photo:
 
@@ -208,13 +227,6 @@ Although this app is the most expensive on the list, it also offers some of the 
 
 ![add bokeh effects with Tadaa SLR app](https://images.wondershare.com/filmora/article-images/tadaa-slr-bokeh-effect-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To create the Bokeh effect in Tadaa SLR:
 
 1. Download the app and allow the app access to your camera and camera roll, and then select the image given your options (camera, camera roll);
@@ -234,19 +246,19 @@ To achieve the Bokeh effect through Portrait Mode, you must:
 
 ![add bokeh effects with Portrait Mode on iPhone](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Portrait mode will then allow you to choose your focal point, and do the rest of the work when it comes to blurring the background to create the Bokeh effect;
 2. The different modes offered will allow users to achieve different types of blur.
 
 Note: If you want to add the bokeh effect to video on the desktop computer, you should try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which provides tilt-shift circle and tilt-shift linear effects for creating the bokeh effect, as well as some bokeh effect overlay. For more details, you can check [how to add bokeh effects to the video](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
 
 [![Download Filmora  Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora   Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Takeaway**
 
@@ -269,19 +281,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[New] 2024 Approved The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-counterclockwise-content-youtube-replay-methods-for-2024/"><u>[Updated] Counterclockwise Content YouTube Replay Methods for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-recording-game-with-nvidias-tools/"><u>[Updated] In 2024, Elevate Your Recording Game with NVIDIA's Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/experience-final-cut-pro-for-free-90-day-trial-offer/"><u>Experience Final Cut Pro for Free 90-Day Trial Offer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-recommended-4k-video-converters-free-trial-and-paid-options-for-2024/"><u>Expert-Recommended 4K Video Converters (Free Trial & Paid Options) for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fast-and-free-webm-video-compression-online/"><u>Fast and Free WebM Video Compression Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-concept-to-reality-best-stop-motion-apps-for-ios-and-android-devices/"><u>From Concept to Reality Best Stop Motion Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gopro-quik-for-computer-top-picks-and-alternatives/"><u>GoPro Quik for Computer Top Picks and Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/here-is-best-video-slideshow-maker-to-make-video-with-still-photos-and-music-to-share-lifes-memorable-moments-in-an-unforgettable-way/"><u>Here Is Best Video Slideshow Maker to Make Video with Still Photos and Music to Share Lifes Memorable Moments in an Unforgettable Way</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Bootloader Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-gpt-and-dall-e-tech-for-crafting-your-own-dungeons-and-dragons-heroes/"><u>Leverage GPT and DALL-E Tech for Crafting Your Own Dungeons & Dragons Heroes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-for-mac-quick-installation-tips-for-2024/"><u>Snapchat for MAC Quick Installation Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audience-accumulation-expedition-tutorials-1mplus-milestone/"><u>[New] Audience Accumulation Expedition Tutorial's 1M+ Milestone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-cross-media-sharing-power-twitterfacebook/"><u>[Updated] In 2024, Unlocking Cross-Media Sharing Power (Twitter/Facebook)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/building-a-secure-seamless-user-journey-innovative-approaches-for-fraud-prevention-in-governmental-aid-programs/"><u>Building a Secure, Seamless User Journey: Innovative Approaches for Fraud Prevention in Governmental Aid Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exciting-updates-gimp-introduces-advanced-gradient-capabilities-ahead-of-the-30-update/"><u>Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-display-a-comprehensive-walkthrough-of-7-widespread-problems-and-remedies/"><u>Fix Your iPhone's Display: A Comprehensive Walkthrough of 7 Widespread Problems and Remedies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-often-should-you-upload-videos-to-youtube-to-get-more-views-for-2024/"><u>How Often Should You Upload Videos to YouTube to Get More Views for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotation-software-top-picks/"><u>In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-quicktime-video-editing-on-mac-a-beginners-guide-for-2024/"><u>Mastering QuickTime Video Editing on Mac A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-to-create-top-14-watermark-free-video-editing-software-and-beyond/"><u>New Free to Create Top 14 Watermark-Free Video Editing Software and Beyond</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001750818-rainbow-six-siege-black-display-problem-on-pc-heres-how-to-fix-it/"><u>Rainbow Six Siege Black Display Problem on PC? Here's How to Fix It</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-best-free-iphone-video-rotators/"><u>Top 5 Best Free iPhone Video Rotators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-on-the-power-again-strategies-for-diagnosing-and-fixing-code-10-error-causes/"><u>Turn On the Power Again: Strategies for Diagnosing and Fixing Code 10 Error Causes</u></a></li>
+<li><a href="https://facebook.techidaily.com/unavailable-zones-the-3-countries-without-facebook/"><u>Unavailable Zones: The 3 Countries Without Facebook</u></a></li>
 </ul></div>
 

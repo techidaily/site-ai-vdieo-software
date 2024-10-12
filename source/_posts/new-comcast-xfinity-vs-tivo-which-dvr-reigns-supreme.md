@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2024-10-02T16:11:35.463Z
-updated: 2024-10-07T02:53:42.830Z
+date: 2024-10-09T18:55:33.485Z
+updated: 2024-10-12T17:21:57.341Z
 tags: 
   - video editing software
   - video editing
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  TiVo interface
 
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
@@ -66,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
@@ -85,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -111,18 +103,18 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -131,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -143,7 +135,21 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,24 +166,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz/"><u>[New] 2024 Approved Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-permanent-video-preservation-units/"><u>[New] 2024 Approved Permanent Video Preservation Units</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-your-own-google-vr-glasses/"><u>[Updated] 2024 Approved Crafting Your Own Google VR Glasses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-selective-software-optimal-blu-ray-players-free-to-pay/"><u>[Updated] Selective Software Optimal Blu-Ray Players (Free to Pay)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-dealing-with-event-id-1000-in-windows-operating-systems-7-8-and-10/"><u>Comprehensive Guide to Dealing with Event ID 1000 in Windows Operating Systems: 7, 8 & 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-visual-stories-best-online-collage-software-for-2024/"><u>Create Stunning Visual Stories Best Online Collage Software for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-edge-video-tools-opt-for-studio-or-latest-beta-version/"><u>Cutting-Edge Video Tools Opt for Studio or Latest Beta Version</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/design-your-own-fake-faces-with-these-free-online-generators-for-2024/"><u>Design Your Own Fake Faces with These Free Online Generators for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easily-animate-your-photos-the-9-best-online-tools-for-2024/"><u>Easily Animate Your Photos The 9 Best Online Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques-for-2024/"><u>Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac-for-2024/"><u>Elevate Your Storytelling Easy Video Creation with Ezvid on Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-10-public-domain-image-websites-for-2024/"><u>Free and Fabulous 10 Public Domain Image Websites for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-video-editing-a-microsoft-tutorial-for-windows-10-8-and-7/"><u>Get Started with Video Editing A Microsoft Tutorial for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quickly-troubleshoot-and-correct-the-lack-of-sound-during-your-skype-conversations/"><u>Quickly Troubleshoot and Correct the Lack of Sound During Your Skype Conversations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/snap-and-save-the-ultimate-list-of-top-8-free-android-recorders/"><u>Snap & Save The Ultimate List of Top 8 Free Android Recorders</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-editors-alchemy-transforming-raw-to-radiant-pictures/"><u>The Editor's Alchemy Transforming Raw to Radiant Pictures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-journey-to-freedom-with-free-movie-player-os-x-and-windows/"><u>[New] Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>2024 Approved Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automatic-pc-fix-solutions-on-windows-11/"><u>Automatic PC Fix Solutions on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/digital-illumination-reviving-old-school-vhs-graphics/"><u>Digital Illumination Reviving Old-School VHS Graphics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-fold-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel Fold Lock Screen Password?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-yosemite-edition/"><u>Mac Video Editing Made Easy Yosemite Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mts-video-editors-top-picks-and-reviews/"><u>New Best MTS Video Editors Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-photos-to-videos-10-best-online-creators-free-and-paid/"><u>New From Photos to Videos 10 Best Online Creators Free & Paid</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/range-of-fb-video-width-height-ratios/"><u>Range of FB Video Width-Height Ratios</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-kobo-nia-an-e-reader-that-gives-amazon-kindle-a-run-for-its-money/"><u>Unveiling the Kobo Nia: An E-Reader That Gives Amazon Kindle a Run for Its Money</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
 

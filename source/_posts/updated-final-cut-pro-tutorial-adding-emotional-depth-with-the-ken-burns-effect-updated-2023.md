@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-10-02T21:56:40.190Z
-updated: 2024-10-07T02:34:44.028Z
+date: 2024-10-09T20:01:48.017Z
+updated: 2024-10-12T20:14:52.770Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -58,18 +58,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -82,10 +82,10 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -112,6 +112,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -119,13 +126,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,20 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-6-ingenious-sites-brimming-with-customizable-youtube-themes/"><u>[New] In 2024, 6 Ingenious Sites Brimming With Customizable YouTube Themes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-saving-parts-of-youtube-a-comprehensive-tutorial/"><u>[Updated] Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>2024 Approved Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/amplify-youtube-performance-rapid-video-rendering-guide/"><u>Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-samsungs-latest-tablet-galaxy-tab-s7-tailored-for-true-android-admirers/"><u>Comprehensive Review of Samsung's Latest Tablet, Galaxy Tab S7 – Tailored for True Android Admirers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-way-to-replace-qualcomm-network-drivers/"><u>Efficient Way to Replace Qualcomm Network Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-honor-magic-5-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Honor Magic 5 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/labor-day-bargain-alert-uncover-the-reasons-behind-my-top-pick-apple-watch-ultra-2-insider-tips-on-wearables/"><u>Labor Day Bargain Alert! Uncover the Reasons Behind My Top Pick: Apple Watch Ultra 2 | Insider Tips on Wearables</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-game-video-editing-software-top-picks/"><u>New Free Game Video Editing Software Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcp-xs-power-adding-effects-in-just-3-clicks/"><u>Unlock FCP Xs Power Adding Effects in Just 3 Clicks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vlc-trimming-software-for-mac-no-quality-loss-guaranteed/"><u>Updated Best VLC Trimming Software for Mac No Quality Loss Guaranteed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-animations-on-the-go-top-free-3d-apps-for-mobile/"><u>Updated Create Stunning Animations On-the-Go Top Free 3D Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-like-a-pro-64-bit-software-for-windows-8-and-up/"><u>Updated Edit Videos Like a Pro 64-Bit Software for Windows 8 and Up</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-nft-creation-with-minimal-fuss/"><u>[New] Learn NFT Creation with Minimal Fuss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-vr-bikes-to-check-out/"><u>[Updated] Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-12-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi 12 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-practices-and-essential-software-for-protecting-your-videos-with-copyright/"><u>Best Practices and Essential Software for Protecting Your Videos with Copyright</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fugetek-ft-568-selfie-stick-analysis-unveiling-the-premium-quality/"><u>Comprehensive Fugetek FT-568 Selfie Stick Analysis: Unveiling the Premium Quality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-follow-easy-steps-below-to-create-your-masterpiece-now/"><u>In 2024, Follow Easy Steps Below to Create Your Masterpiece Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-guide-to-pinnacle-studio-alternatives-for-mac/"><u>In 2024, The Ultimate Guide to Pinnacle Studio Alternatives for Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-g-pro-driver-software-available-here-compatible-with-windows-111087/"><u>Latest Logitech G Pro Driver Software Available Here - Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-avi-video-editor-reviews-our-top-picks/"><u>New Free AVI Video Editor Reviews Our Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-hosting-sites-for-online-publishing/"><u>The Ultimate List of Free Video Hosting Sites for Online Publishing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/today-we-are-going-to-explore-some-of-the-top-tools-that-you-can-use-as-a-dailymotion-converter-so-lets-start-with-our-first-contender/"><u>Today, We Are Going to Explore some of the Top Tools that You Can Use as a Dailymotion Converter. So, Lets Start with Our First Contender</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-avi-video-trimming-software-for-windows-mac-android-iphone-and-online/"><u>Top AVI Video Trimming Software for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-wi-fi-signal-boosters-the-ultimate-guide/"><u>Top Wi-Fi Signal Boosters : The Ultimate Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-free-animation-top-software-for-windows-and-mac/"><u>Unlock Free Animation Top Software for Windows and Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-allure-of-teac-pd-301s-style-and-sound/"><u>Unveiling the Allure of Teac PD-301's Style & Sound</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-compressor-in-final-cut-pro-x/"><u>Updated How to Use Compressor in Final Cut Pro X?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-editing-software-for-windows-10/"><u>Updated Top Video Editing Software for Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-tricks-switching-on-and-off-the-built-in-on-screen-typing-tool/"><u>Windows 10 Tricks: Switching On and Off the Built-In On-Screen Typing Tool</u></a></li>
 </ul></div>
 
