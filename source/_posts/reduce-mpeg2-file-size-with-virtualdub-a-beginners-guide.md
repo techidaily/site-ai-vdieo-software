@@ -1,7 +1,7 @@
 ---
 title: Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-08-15T05:38:23.463Z
-updated: 2024-08-16T05:38:23.463Z
+date: 2024-10-12T17:46:06.925Z
+updated: 2024-10-18T17:50:22.188Z
 tags: 
   - video editing software
   - video editing
@@ -30,44 +30,46 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -85,7 +87,21 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -93,11 +109,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-we-will-be-discussing-6-video-mergers-without-watermark-and-the-way-we-can-use-them-the-tools-and-features-they-offer-and-how-we-can-get-the-b/"><u>2024 Approved We Will Be Discussing 6 Video Mergers without Watermark, and the Way We Can Use Them – the Tools and Features They Offer, and How We Can Get the Best Out of Them</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-secrets-20-shortcuts-to-supercharge-your-editing/"><u>Adobe Premiere Pro Secrets 20 Shortcuts to Supercharge Your Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-alternatives-to-virtualdub-video-processing-software-compared-for-2024/"><u>Best Alternatives to VirtualDub Video Processing Software Compared for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-to-dvd-burners-get-video-to-dvd-on-windows-mac-maveric-for-2024/"><u>Best Video to DVD Burners - Get Video to DVD on Windows / Mac (Maveric) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-old-file-management-interface/"><u>Bringing Back Old File Management Interface</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/calculate-timecodes-like-a-pro-9-essential-tools/"><u>Calculate Timecodes Like a Pro 9 Essential Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/converting-mp4-video-file-to-an-mp3-file-format-is-a-simple-process-read-on-if-you-would-like-to-learn-more-about-the-best-mp4-to-mp3-converters-you-can-use/"><u>Converting MP4 Video File to an MP3 File Format Is a Simple Process. Read on if You Would Like to Learn More About the Best MP4 to MP3 Converters You Can Use Online or on PC and Mac Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-conversion-from-mpeg4-to-mp3-a-comprehensive-guide-for-no-charge/"><u>Effortless Conversion From MPEG4 to MP3: A Comprehensive Guide for No Charge.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-footage-the-art-of-video-stabilization-in-fcpx/"><u>Elevate Your Footage The Art of Video Stabilization in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/for-efficient-workflow-the-keyboard-shortcuts-cannot-be-beaten-so-here-i-list-top-20-adobe-premiere-shortcuts-you-will-use-when-editing-video-for-2024/"><u>For Efficient Workflow, the Keyboard Shortcuts Cannot Be Beaten. So Here I List Top 20 Adobe Premiere Shortcuts You Will Use when Editing Video for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>In 2024, Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/stream-to-file-conversion-effortless-archive-creation/"><u>Stream-to-File Conversion Effortless Archive Creation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-compreeved-compendium-downloading-vimeo-content-pros-way/"><u>The Compreeved Compendium Downloading Vimeo Content Pro's Way</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-finest-open-world-games-to-engage-with-for-2024/"><u>The Finest Open World Games to Engage With for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/tutorial-passo-passo-creazione-di-copie-sicure-del-tuo-sistema-in-windows-11-utilizzando-due-ottimi-soluzioni-gratuite/"><u>Tutorial Passo-Passo: Creazione Di Copie Sicure Del Tuo Sistema in Windows 11 Utilizzando Due Ottimi Soluzioni Gratuite!</u></a></li>
+</ul></div>
+

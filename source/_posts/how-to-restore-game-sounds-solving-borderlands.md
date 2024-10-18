@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Game Sounds: Solving Borderlands"
-date: 2024-09-29T18:14:41.441Z
-updated: 2024-10-01T17:29:30.325Z
+date: 2024-10-15T18:53:12.697Z
+updated: 2024-10-18T18:45:39.087Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 8. **[Change your default device to the stereo mix](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Borderlands 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before getting started
 
  Whenever the sound is not working in Borderlands 3, you can try to save quitting or going to the menu. Restarting the game entirely can always fix the issue.  
@@ -38,13 +45,6 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
  If there are just no weapon sounds, just**switch weapons** and it may go back to normal. Your sound issue might be temporary.  
   
  However, if it keeps giving you the silent treatment, you can try the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your default output device
 
@@ -60,6 +60,14 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 6. Go to**Settings > System > Sound** , then click**App volume and device preferences** under**Advanced sound options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanded-sounds-1.jpg)
 7. You’ll see all apps currently using audio and their sound levels. Make sure there’s no**x** symbol for**Borderlands 3** and move the volume slider of Borderlands 3 up and down to ensure it’s working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your Borderlands 3 to test the sound.
 
 **For PS4 users** :  
@@ -70,19 +78,6 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 
 If the sound issue still persists, then head on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off Spatial sound
 
  Many Borderlands players find Spatial sound is always the culprit of their Borderlands 3 no sound issue. To fix it, you need to turn off Spatial sound both in your Windows settings and in-game settings.
@@ -91,30 +86,10 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/audio-device-properties-1.jpg)
 2. Choose the**Spatial sound** tab. Then select**Windows Sonic for Headphones** and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-on-1.jpg)
 3. Choose**None** to turn it back off and click**Apply** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-off-1.png)
 4. In Borderlands 3, go to**Sound** settings and set**Spatial Sound** to**Disabled** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your game and see if this fixes your sound not working issue.
 
@@ -130,6 +105,13 @@ If the sound issue still persists, then head on to the next fix.
 3. Restart your game and check if the sound is coming back now.
 4. If this fix doesn’t work for you, then uncheck both**Allow applications to take exclusive control of this device** and**Give exclusive mode applications priority** .
 5. Run your Borderlands 3 again to check your sound issues.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the audio driver
 
@@ -167,6 +149,13 @@ If the sound issue still persists, then head on to the next fix.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Turn off Social Notification Frequency
 
  If the issue still bugs you after updating your audio driver, then you can try to turn off Social Notification Frequency to reduce input lag. Here is how to do it:
@@ -174,6 +163,14 @@ If the sound issue still persists, then head on to the next fix.
 1. Open Borderlands 3 and go to Network & Social.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/network-and-social-Borderlands-3.jpg)
 2. Turn off**Notification Frequency** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your game and test the issue.
 
 ### Fix 6: Run as administrator
@@ -183,13 +180,6 @@ If the sound issue still persists, then head on to the next fix.
 1. Right click your game launcher (Epic Games) and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-2.jpg)
 2. Go to the**Compatibility** tab and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/epic-games-run-as-admin.jpg)
 3. Navigate to where your Borderlands 3 is installed (C:\\Program Files\\Epic Games\\Borderlands 3).  
@@ -201,20 +191,6 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/borderlands-exe.-compatibility-modeadmin.jpg)
 6. Launch your Borderlands 3 to see if the sound issue still persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the integrity of game files
 
  Verify your Borderlands 3 game files in case any corrupt files prevent the sound from working properly.
@@ -224,16 +200,10 @@ If the sound issue still persists, then head on to the next fix.
 2. Click**Verify** .  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/verify-boderlands-3-game-files-1.jpg)
@@ -246,6 +216,14 @@ If the sound issue still persists, then head on to the next fix.
 2. Under the**Playback** tab, select your default device and click**Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/configure.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/speaker-set-up.jpg)
 4. Check the**Front left and right** box. Then click**Next** .
 5. Click**Finish** to save changes.
@@ -254,6 +232,13 @@ If the sound issue still persists, then head on to the next fix.
 7. Click**Apply** .
 8. Launch your Borderlands 3 again to test the sound issue.
 9. If the issue still persists, you can change the audio channel to**5.1 Surround** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Borderlands 3
 
@@ -287,24 +272,21 @@ If the sound issue still persists, then head on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[New] Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] 2024 Approved Capturing Your Laptop Simple Lenovo Steps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-address-incompatible-facebook-videos-on-ios/"><u>2024 Approved Address Incompatible Facebook Videos on iOS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comprehensive-breakdown-of-polarr-photo-editors-features-for-2024/"><u>Comprehensive Breakdown of Polarr Photo Editor's Features for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/explore-and-exploit-mondly-to-perfection/"><u>Explore and Exploit Mondly to Perfection</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-instagram-integration-with-youtube-video-sharing/"><u>In 2024, Instagram Integration with YouTube Video Sharing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-most-cost-effective-video-editing-tools/"><u>In 2024, The Most Cost-Effective Video Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-compress-videos-for-free-top-windows-10-tools/"><u>New Compress Videos for Free Top Windows 10 Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-your-movies-how-to-convert-dvds-to-digital-video-formats/"><u>New Free Your Movies How to Convert DVDs to Digital Video Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rumored-details-for-the-next-gen-foldable-iphone-anticipated-costs-and-specs-revealed/"><u>Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iphone/"><u>The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-definition-videos-best-editing-software-2023/"><u>Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-advanced-video-editing-techniques-and-effects/"><u>Unleash Your Creativity Advanced Video Editing Techniques and Effects</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-the-secret-of-affordable-video-ad-creation-on-youtube-for-2024/"><u>Unveiling the Secret of Affordable Video Ad Creation on YouTube for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-m/"><u>Updated Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>Updated From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-8-best-animation-maker-for-beginners-and-pros/"><u>Updated Top 8 Best Animation Maker for Beginners and Pros</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-before-investing-in-a-video-acquisition-device/"><u>What You Need to Know Before Investing in a Video Acquisition Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-time-saving-strategies-for-gotomeeting-audiovideo-logging/"><u>[New] In 2024, Time-Saving Strategies for GoToMeeting Audio/Video Logging</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-business-mastery-through-youtubes-top-ten-channels/"><u>[Updated] Business Mastery Through YouTube's Top Ten Channels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-art-of-virtual-environments-in-cinema/"><u>[Updated] In 2024, The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-eveo-bluetooth-device-driver-now/"><u>Get the Latest EVEO Bluetooth Device Driver Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970884024-improve-gaming-and-music-playback-secure-free-sound-blaster-audigy-drivers-here/"><u>Improve Gaming and Music Playback - Secure Free Sound Blaster Audigy Drivers Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>In 2024, Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mts-video-editing-software-5-top-rated-options/"><u>MTS Video Editing Software 5 Top-Rated Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-mp4-files/"><u>New Best Free Video Cutting Software for MP4 Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>New Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-video-editing-top-online-solutions-ranked/"><u>No-Cost Video Editing Top Online Solutions Ranked</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfect-cone-view-mounts-vr-for-2024/"><u>Perfect Cone View Mounts VR for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-audio-editors-for-m4a-files/"><u>S Best Free Audio Editors for M4A Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/spices-although-not-traditionally-used-in-large-amounts-in-portuguese-cuisine-spices-like-cinnamon-and-nutmeg-have-been-incorporated-into-sweet-pastries-suc456/"><u>Spices: Although Not Traditionally Used in Large Amounts in Portuguese Cuisine, Spices Like Cinnamon and Nutmeg Have Been Incorporated Into Sweet Pastries (Such as Folar) or Savory Stews to Add Warmth and Depth of Flavor.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-alternatives-to-powerdirector-top-mobile-video-editing-software/"><u>Updated Alternatives to PowerDirector Top Mobile Video Editing Software</u></a></li>
 </ul></div>
 

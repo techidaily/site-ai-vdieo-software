@@ -1,7 +1,7 @@
 ---
 title: New Follow the Simple Steps Below to Flip, Crop, Resize or Move Clips with Final Cut Pro
-date: 2024-09-24T16:39:08.287Z
-updated: 2024-10-01T18:27:37.022Z
+date: 2024-10-16T17:21:12.738Z
+updated: 2024-10-18T16:33:46.775Z
 tags: 
   - video editing software
   - video editing
@@ -90,6 +90,13 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Flipping the clips more easily in Wondershare Filmora:
 
 **Step1: Importing the original video clip:**
@@ -98,31 +105,24 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Flipping the whole video:**
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * _Flipping only a single part of the video:_
 
 Wondershare Filmora also allows you to flip a few parts of the video instead of whole. Just move the play head towards the position where you want the split. Click on the icon of **Scissors** in the menu.
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * _Exporting the flip video:_
 
@@ -134,25 +134,25 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -171,22 +171,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-chromes-best-5-sites-to-download-fb-videos-for-2024/"><u>[Updated] Chrome's Best 5 Sites to Download FB Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-filmographys-finest-shots-the-best-camera-and-lighting-tips/"><u>2024 Approved Filmography's Finest Shots The Best Camera & Lighting Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>2024 Approved Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-contenders-in-code-quest-the-battle-between-chatgpt-and-gemini-unveiled/"><u>AI Contenders in Code Quest: The Battle Between ChatGPT and Gemini Unveiled</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>In 2024, 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adding-subtitles-in-fcpx-a-beginners-tutorial/"><u>In 2024, Adding Subtitles in FCPX A Beginners Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-with-these-12-free-animation-software-options/"><u>In 2024, Bring Your Ideas to Life with These 12 Free Animation Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crash-no-more-solutions-for-final-cut-pro-x-stability-issues/"><u>In 2024, Crash No More Solutions for Final Cut Pro X Stability Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crop-like-a-pro-mastering-video-editing-with-avidemux/"><u>In 2024, Crop Like a Pro Mastering Video Editing with Avidemux</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-data-delivery-guide-top-5-methods-to-get-files-on-your-pc/"><u>In 2024, Data Delivery Guide Top 5 Methods to Get Files on Your PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-vignette-creator-apps-for-iphone-and-android/"><u>In 2024, Discover the Top Vignette Creator Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effects-mastery-transform-your-videos-with-cutting-edge-techniques/"><u>In 2024, Effects Mastery Transform Your Videos with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-essential-adobe-premiere-plugins-for-creators-top-picks-free-and-premium/"><u>In 2024, Essential Adobe Premiere Plugins for Creators Top Picks (Free & Premium)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-mini-versus-ipad-air-a-detailed-comparison-guide/"><u>IPad Mini Versus iPad Air: A Detailed Comparison Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-your-meme-on-top-10-apps-for-creating-viral-content/"><u>New In 2024, Get Your Meme On Top 10 Apps for Creating Viral Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/start-streaming-the-simple-method-for-mac-book-air-recording-for-2024/"><u>Start Streaming The Simple Method for Mac Book Air Recording for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A70 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-10-gif-maker-services-transforming-jpgs-at-no-cost/"><u>[New] Prime 10 GIF Maker Services Transforming JPGs at No Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-revolutionize-your-ig-feed-with-these-elite-grid-creation-apps-for-2024/"><u>[New] Revolutionize Your IG Feed with These Elite Grid Creation Apps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spin-renegade-suite/"><u>[New] Spin Renegade Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>[Updated] Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2s-beyond-light-bugs-fixed-stability-improvements-on-pc/"><u>Destiny 2'S Beyond Light Bugs Fixed - Stability Improvements on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-htc-u23-by-fonelab-android-recover-data/"><u>How to retrieve lost files from HTC U23?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lip-sync-videos-are-a-great-source-of-fun-and-producing-them-doesnt-require-you-to-have-a-professional-video-or-sound-equipment-in-this-article-we-are-going/"><u>Lip Sync Videos Are a Great Source of Fun, and Producing Them Doesnt Require You to Have a Professional Video or Sound Equipment. In This Article, We Are Going to Introduce You to some of the Best Li</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-adjusting-video-aspect-ratios-tips-and-techniques/"><u>Mastering the Art of Adjusting Video Aspect Ratios: Tips and Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-a-digital-doppelganger-free-online-generators/"><u>New Create a Digital Doppelganger Free Online Generators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>New Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-paid-time-lapse-video-editors-a-comparative-analysis/"><u>New Free & Paid Time-Lapse Video Editors A Comparative Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-verdict-on-hps-budget-notebook-can-its-cost-effective-amd-engine-handle-your-tasks-smoothly/"><u>The Verdict on HP's Budget Notebook: Can Its Cost-Effective AMD Engine Handle Your Tasks Smoothly?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>Top 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/track-your-every-move-best-motion-tracking-apps-reviewed/"><u>Track Your Every Move Best Motion Tracking Apps Reviewed</u></a></li>
 </ul></div>
 

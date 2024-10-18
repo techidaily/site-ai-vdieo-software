@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-10-10T18:25:20.346Z
-updated: 2024-10-12T18:38:33.069Z
+date: 2024-10-11T18:09:01.101Z
+updated: 2024-10-18T18:01:53.161Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 5. [Download and install file from Github](https://tools.techidaily.com/drivereasy/download/)
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game files
 
  Verifying game files is always the first thing to try as corrupted and missing files would cause Stray crashing, freezing, or other game issues.
@@ -35,13 +42,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Stray** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. Click **the LOCAL FILES tab** , then click **Verify integrity of game files…**  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
@@ -64,20 +64,13 @@ If it doesn’t work, move to the next fix.
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
@@ -88,6 +81,13 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. You should be able to play the game.
 
@@ -119,13 +119,20 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -136,39 +143,32 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
@@ -198,18 +198,18 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>[New] Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-megadron-mastery-industrys-top-heavy-loaders/"><u>[Updated] Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-pro-level-jump-cuts-in-final-cut-pro-x-tips-and-tricks/"><u>2024 Approved Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-dvd-playback-options-for-windows-10-updated-2023-for-2024/"><u>Best Free DVD Playback Options for Windows 10 (Updated 2023) for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/convert-webm-to-mp3-best-tools-for-the-job-for-2024/"><u>Convert WebM to MP3 Best Tools for the Job for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-game-best-free-online-video-enhancement-software/"><u>Elevate Your Video Game Best Free Online Video Enhancement Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/experience-final-cut-pro-for-free-90-day-trial-offer/"><u>Experience Final Cut Pro for Free 90-Day Trial Offer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android/"><u>Free and Fabulous Best Video Special Effects Apps for iPhone and Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-decoding-the-divergence-360-film-vs-virtual-reality/"><u>In 2024, Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/say-goodbye-to-shaky-cam-fcpx-video-stabilization-made-easy-for-2024/"><u>Say Goodbye to Shaky Cam FCPX Video Stabilization Made Easy for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-exporting-your-video-as-a-mov-file-from-adobe-premiere-pro/"><u>Step-by-Step Guide: Exporting Your Video as a MOV File From Adobe Premiere Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-f25-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo F25 Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-5-best-sites-for-quick-templates-on-youtube-for-2024/"><u>[Updated] 5 Best Sites for Quick Templates on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unraveling-why-imovie-alters-video-borders/"><u>[Updated] In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-traffic-with-these-top-11-facebook-video-tactics/"><u>2024 Approved Elevate Traffic with These Top 11 Facebook Video Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-prime-captures-of-apples-hd-video-screenshots-under-156-chars/"><u>2024 Approved Prime Captures of Apple's HD Video Screenshots (Under 156 Chars)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>In 2024, Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Tecno Spark 10 5G Phone Without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-creativity-the-leading-chrome-drawing-apps/"><u>In 2024, Mastering Creativity The Leading Chrome Drawing Apps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-showdown-feature-analysis-of-the-new-iphone-15-plus-and-pro-max/"><u>IPhone Showdown: Feature Analysis of the New iPhone 15 Plus and Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-savings-alert-our-favorite-premium-samsung-tv-cuts-price-by-43-exclusive-zdnet-find/"><u>Labor Day Savings Alert: Our Favorite Premium Samsung TV Cuts Price by 43% – Exclusive ZDNET Find!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mp4-video-editor-roundup-top-10-options/"><u>New Free MP4 Video Editor Roundup Top 10 Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-animation-artists-toolkit-7-best-drawing-software-for-exceptional-results/"><u>The Animation Artists Toolkit 7 Best Drawing Software for Exceptional Results</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-creating-stop-motion-videos-for-instagram/"><u>The Ultimate Guide to Creating Stop Motion Videos for Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-and-trim-3gp-files-with-ease-updated-2023/"><u>Updated Cut and Trim 3GP Files with Ease Updated 2023</u></a></li>
 </ul></div>
 

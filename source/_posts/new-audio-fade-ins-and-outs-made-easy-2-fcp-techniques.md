@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-08T16:20:44.839Z
-updated: 2024-10-12T17:36:11.915Z
+date: 2024-10-12T18:29:32.766Z
+updated: 2024-10-18T19:47:51.164Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,16 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,16 +127,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,18 +148,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-examining-wirecasts-features-against-competitors/"><u>[New] In 2024, Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cinematic-capture-top-picks-from-video-experts-for-2024/"><u>[Updated] Cinematic Capture Top Picks From Video Experts for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>Chill Bites Analysis In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/is-it-possible-to-extract-and-convert-a-drm-protected-dvd-with-handbrake-learn-the-methods-here/"><u>Is It Possible to Extract and Convert a DRM-Protected DVD with HandBrake? Learn the Methods Here</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-epic-trailers-best-software-for-mac-and-pc-2023-review/"><u>New Create Epic Trailers Best Software for Mac and PC (2023 Review)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-video-editing-software/"><u>New Free Filmora 13 Download Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/step-by-step-save-movs-on-windows-10/"><u>Step-by-Step Save MOVs on Windows 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews/"><u>The Cream of the Crop Best iPhone Apps with In-Depth Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-animation-mastery-the-10-best-2d-software-for-creators-free-and-paid/"><u>Updated Animation Mastery The 10 Best 2D Software for Creators Free & Paid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-windows-live-movie-maker-slow-motion-effect/"><u>Updated How to Use Windows Live Movie Maker Slow Motion Effect</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>[New] Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-boosting-creativity-a-compreehensive-guide-to-enhanced-obs-edits/"><u>[New] In 2024, Boosting Creativity A Compreehensive Guide to Enhanced OBS Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[Updated] 2024 Approved The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expert-tips-the-finest-7-wet-proof-recorders/"><u>[Updated] Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>2024 Approved Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/blocking-anonymous-incoming-calls-iphone-users-handbook-for-privacy-protection/"><u>Blocking Anonymous Incoming Calls: IPhone User's Handbook for Privacy Protection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-a15-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy A15 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-windows-drivers-for-your-msi-gs65-graphics-card-today/"><u>Get the Newest Windows Drivers for Your MSI GS65 Graphics Card Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-nubia-z60-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Nubia Z60 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/instant-neon-magic-8-easy-to-use-online-text-generators-this-year/"><u>Instant Neon Magic 8 Easy-to-Use Online Text Generators This Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>New From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-windows-10-photos-here-are-8-better-options/"><u>Unhappy with Windows 10 Photos? Here Are 8 Better Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-fcpx-goodness-10-must-have-plugins/"><u>Updated Free FCPX Goodness 10 Must-Have Plugins</u></a></li>
 </ul></div>
 

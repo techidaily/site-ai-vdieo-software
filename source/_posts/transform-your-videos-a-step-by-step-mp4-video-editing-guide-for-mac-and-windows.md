@@ -1,7 +1,7 @@
 ---
 title: Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows
-date: 2024-10-06T17:41:03.782Z
-updated: 2024-10-12T18:37:33.088Z
+date: 2024-10-12T19:08:36.567Z
+updated: 2024-10-18T17:23:46.627Z
 tags: 
   - video editing software
   - video editing
@@ -68,13 +68,6 @@ After that, move the red marker to the end of the scene, and repeat this again t
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ####
 
 #### 2. Join MP4 Video
@@ -86,6 +79,19 @@ If you want to make the joined videos look like a really intact movie, just add 
 If you don't want to choose the transition one by one, let the software choose the transition randomly by right clicking and selecting "Random to All" option.
 
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -101,13 +107,6 @@ Just highlight your MP4 video, right click and choose "Audio Detach". The audio 
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ####
 
 #### 4. Add 300+ Effects to Touch Up MP4 Video
@@ -120,6 +119,13 @@ Besides the basic video editing functions, Video Editor also provides various st
 * More special effects like PIP, Jump Cut, Face Off, Tilt-shift for you to try!
 
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -137,19 +143,19 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -167,16 +173,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-engage-and-learn-students-choice-of-best-historical-youtubes/"><u>[Updated] In 2024, Engage & Learn Students' Choice of Best Historical YouTubes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[Updated] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-the-destiny-warzone-memory-error-xboxpc-code-0-1766-a-step-by-step-fix-guide/"><u>Defeat the Destiny Warzone Memory Error (Xbox/PC, Code 0-1766): A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/huntings-top-5-best-video-recorders-for-2024/"><u>Hunting's Top 5 Best Video Recorders for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>In 2024, From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>In 2024, Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visionmeter-recording-suite/"><u>In 2024, VisionMeter Recording Suite</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks/"><u>New Free Green Screen Software for Android and iOS Top Picks</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-apex-legends-challenge-fix-your-game-with-error-code-leaf-solution/"><u>Solving Apex Legends Challenge: Fix Your Game with Error Code Leaf Solution</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-sound-10-best-professional-audio-editing-programs/"><u>Updated Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts/"><u>[New] In 2024, Harness the Power of Video Editing Cropping to Perfect Instagram Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mend-error-non-playing-vids-in-chrome/"><u>[Updated] 2024 Approved Mend Error Non-Playing Vids in Chrome</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-conquering-cinematic-recording-a-guide-to-windowsmacosios-for-2024/"><u>[Updated] Conquering Cinematic Recording A Guide to Windows/macOS/iOS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simple-paths-to-start-recording-on-hp-computers/"><u>[Updated] In 2024, Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unlock-fcp-xs-power-adding-effects-in-just-3-steps/"><u>In 2024, Unlock FCP Xs Power Adding Effects in Just 3 Steps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ios-15-ready-heres-how-to-achieve-it/"><u>IOS 15 Ready? Here's How to Achieve It</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-the-best-high-quality-game-download-sites-in-this-article-youll-find-10-great-sites-in-the-most-popular-genres/"><u>Looking for the Best High-Quality Game Download Sites? In This Article, Youll Find 10 Great Sites in the Most Popular Genres</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>New Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-to-hp-840-g3-compatibility-latest-drive-software-downloads/"><u>Quick Start to HP 840 G3 Compatibility: Latest Drive Software Downloads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-invitation-apps-for-iphone-and-android-for-2024/"><u>The Ultimate Guide to Video Invitation Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-iphone-16-and-16-pro-case-in-202amoji/"><u>Ultimate Guide to Choosing the Perfect iPhone 16 and 16 Pro Case in 202Amoji</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vsdc-video-editor-substitutes-for-macos/"><u>Updated Best VSDC Video Editor Substitutes for macOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-master-fcp-x-effects-in-minutes-a-3-step-guide/"><u>Updated Master FCP X Effects in Minutes A 3-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-bother-with-reddit-get-the-best-filmora-deals-right-here/"><u>Why Bother with Reddit? Get the Best Filmora Deals Right Here</u></a></li>
 </ul></div>
 

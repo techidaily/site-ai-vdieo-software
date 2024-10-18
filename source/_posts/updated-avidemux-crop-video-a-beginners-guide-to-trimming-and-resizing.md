@@ -1,7 +1,7 @@
 ---
 title: Updated Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-10-05T16:29:46.565Z
-updated: 2024-10-06T20:42:06.883Z
+date: 2024-10-15T16:42:17.358Z
+updated: 2024-10-18T16:40:01.636Z
 tags: 
   - video editing software
   - video editing
@@ -108,63 +108,57 @@ One of the key things to remember with Avidemux is that you apply all of your fi
 
 Avidemux is a great piece of software, it lacks the polish of some of its commercial rivals of course, but behind the sometimes clunky interface there is a very broad range of features that allow you to accomplish more or less any editing task you may want. In terms of free programs this is about as good as it gets, and the output is, without a doubt, great quality. For anyone looking for a free solution to video editing problems, and who do not mind a learning process Avidemux provides a useful tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## An Easier Way to Crop a Video with Filmora
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful program that allows you to create stunning video clips in only a few clicks. This video editing software provides users with a variety of tools for editing videos. It also includes a user-friendly interface for editing home films on Windows PCs, Macs, and Linux devices. To crop a video, these are to follow:
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -181,19 +175,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-5-effective-tricks-for-youtube-subscriber-surges-for-2024/"><u>[New] 5 Effective Tricks for YouTube Subscriber Surges for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[New] In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-rapid-revamp-top-8-video-speed-enhancers-for-android/"><u>[Updated] In 2024, Rapid Revamp Top 8 Video Speed Enhancers for Android</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>2024 Approved Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-tasks-initiating-administrative-powershell-on-win11/"><u>Elevate Your Tasks: Initiating Administrative PowerShell on Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-top-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Top Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cross-platform-video-editing-mastery-using-chromebook-with-windows-and-mac-apps/"><u>In 2024, Cross-Platform Video Editing Mastery Using Chromebook with Windows and Mac Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-avi-trimmers-top-software-for-windows-mac-and-android-devices/"><u>In 2024, Cutting-Edge AVI Trimmers Top Software for Windows, MAC, and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-wmv-files-for-free-top-5-video-editor-options/"><u>In 2024, Edit WMV Files for Free Top 5 Video Editor Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ezvid-for-mac-create-slideshows-and-home-videos-easily-in-mac-os/"><u>In 2024, Ezvid for Mac Create Slideshows and Home Videos Easily in Mac OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-success-escaping-the-loop-of-fortnites-load-screen-glitches/"><u>Troubleshooting Success: Escaping the Loop of Fortnite's Load Screen Glitches</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-xbox-live-top-four-recording-techniques-for-2024/"><u>[Updated] Mastering Xbox Live Top Four Recording Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-reactive-content-unveiled/"><u>[Updated] Twitter's Reactive Content Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a15-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A15 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-securitaire-modifier-le-partitionnement-dans-lenvironnement-de-sauvegarde-de-windows/"><u>Guide Sécuritaire : Modifier Le Partitionnement Dans L'environnement De Sauvegarde De Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>In 2024, From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-start-leading-free-video-openers-listed/"><u>In 2024, Perfect Start Leading Free Video Openers Listed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>New Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneer-the-future-of-youtube-content-with-tubebuddy-for-2024/"><u>Pioneer the Future of YouTube Content with TubeBuddy for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pumpkin-carving-rituals-from-everywhere/"><u>Pumpkin Carving Rituals From Everywhere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-regain-zoom-audio-on-windows-or-mac-computers/"><u>Quick Fixes to Regain Zoom Audio on Windows or Mac Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-mpeg-video-stitching-software/"><u>The Best Free MPEG Video Stitching Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-avs-video-editor-review-and-rating/"><u>Updated A Closer Look at AVS Video Editor Review and Rating</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-tones-in-seconds-5-best-online-generators/"><u>Updated Create Tones in Seconds 5 Best Online Generators</u></a></li>
 </ul></div>
 

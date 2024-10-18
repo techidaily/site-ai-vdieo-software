@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-10-02T16:10:02.856Z
-updated: 2024-10-06T16:27:15.690Z
+date: 2024-10-16T19:13:13.561Z
+updated: 2024-10-18T16:00:42.786Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +68,16 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -101,10 +107,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -158,10 +164,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,24 +185,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-best-8-value-video-communication-programs-for-pc-and-mac-for-2024/"><u>[Updated] The Best 8 Value Video Communication Programs for PC and MAC for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-video-vaults-for-science-buffs-online/"><u>[Updated] Top 15 Video Vaults for Science Buffs Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>Chill & Thrills Highlighting Olympic Snowboard Cross Winners</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/critical-considerations-for-selecting-a-high-quality-fitness-monitor-device/"><u>Critical Considerations for Selecting a High-Quality Fitness Monitor Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-remove-filmora-watermark-withwithout-paying-in-2024/"><u>How to Remove Filmora Watermark With/Without Paying, In 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-stop-iphone-apps-from-continuously-failing/"><u>How to Troubleshoot and Stop iPhone Apps From Continuously Failing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-4k-is-getting-popular-these-days-while-in-this-article-introduces-top-10plus-free-4k-video-converters-for-windows-and-mac-in-case-that-you-have-limi/"><u>In 2024, 4K Is Getting Popular These Days, While in This Article Introduces Top 10+ Free 4K Video Converters for Windows and Mac in Case that You Have Limited Access to 4K Video Playing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-free-online-video-stabilizers/"><u>In 2024, 8 Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-converter-how-to-convert-and-download-4k-video-in-mp4-format/"><u>In 2024, Best Converter How to Convert and Download 4K Video in MP4 Format</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>In 2024, Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>In 2024, Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-videos-with-these-top-split-screen-apps/"><u>In 2024, Create Engaging Videos with These Top Split Screen Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-eliminate-the-shake-pro-level-video-stabilization-techniques-in-fcpx/"><u>In 2024, Eliminate the Shake Pro-Level Video Stabilization Techniques in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-13-free-download-the-ultimate-video-editing-software/"><u>In 2024, Filmora 13 Free Download The Ultimate Video Editing Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-12-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme 12 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi 13C Phone Without Password?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screen-recorder-showdown-apoyser-vs-emerging-alternatives-review/"><u>Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-smoother-gameplay-addressing-lag-issues-in-guilty-gear-strive/"><u>Solutions for Smoother Gameplay: Addressing Lag Issues in Guilty Gear Strive</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-address-minecraft-launcher-failure-0x803f8001-error/"><u>Steps to Address Minecraft Launcher Failure: 0X803F8001 Error</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-backwards-play-iphones-unique-reverse-feature/"><u>[Updated] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-c50-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco C50 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728496547856-hddssd/"><u>逐步操作：完美地複製你現有系統的啟動硬碟到其他HDD或SSD上</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-motorola-moto-g84-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-ai-mastery-googles-palm-2-and-bard-collaboration/"><u>Enhancing AI Mastery: Google's PaLM 2 & Bard Collaboration</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>In 2024, Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-struggling-with-app-installations-discover-these-10-effective-fixes/"><u>IPhone Struggling with App Installations? Discover These 10 Effective Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-videos-freely-7-watermark-free-editors/"><u>New Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>New Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-dota-2-for-seamless-gaming-solutions-for-fps-drop-woes-in-windows-11-and-10/"><u>Optimize Dota 2 for Seamless Gaming: Solutions for FPS Drop Woes in Windows 11 and 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-reaction-video-editing-apps/"><u>The Best of the Best Top Reaction Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1723262388024-the-future-of-gaming-begins-with-asuss-launch-the-rog-nuc-amd-ryzen-9-cpu-plus-rtx-nvidia-gpu-for-a-steal-at-just-1629/"><u>The Future of Gaming Begins with Asus's Launch: The ROG NUC - AMD Ryzen 9 CPU + RTX nVidia GPU for a Steal at Just $1,629!</u></a></li>
 </ul></div>
 

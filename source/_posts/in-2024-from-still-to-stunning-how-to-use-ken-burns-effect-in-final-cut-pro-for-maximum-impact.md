@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact
-date: 2024-10-01T02:09:50.293Z
-updated: 2024-10-06T23:22:52.589Z
+date: 2024-10-15T19:37:22.151Z
+updated: 2024-10-18T16:16:40.611Z
 tags: 
   - video editing software
   - video editing
@@ -51,18 +51,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -77,13 +77,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -100,10 +93,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -111,6 +104,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -121,10 +121,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,21 +142,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-what-is-virtual-reality-video/"><u>[Updated] 2024 Approved What Is Virtual Reality Video?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-becoming-a-pro-at-using-zoom-on-win10-systems/"><u>[Updated] In 2024, Becoming a Pro at Using Zoom on WIN10 Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fb-story-downloads-decoded-a-quick-and-convenient-guide-for-all-users-for-2024/"><u>FB Story Downloads Decoded A Quick & Convenient Guide for All Users for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-uninstall-copilot-in-windows-11/"><u>How to Uninstall Copilot in Windows 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-tutorial-importing-and-exporting-videos-like-a-pro/"><u>In 2024, Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-video-editing-apps-for-young-creators-free-and-paid-editions/"><u>In 2024, Best Video Editing Apps for Young Creators Free and Paid Editions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ditch-pinnacle-studio-top-mac-video-editing-software-you-need-to-know/"><u>In 2024, Ditch Pinnacle Studio Top Mac Video Editing Software You Need to Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>In 2024, Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-vlc-trimming-on-mac-no-compression-no-loss/"><u>In 2024, Effortless VLC Trimming on Mac No Compression, No Loss</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortlessly-blur-video-footage-on-iphone-and-android-devices/"><u>In 2024, Effortlessly Blur Video Footage on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-audio-quick-and-easy-voice-over-recording-in-fcp/"><u>In 2024, Elevate Your Audio Quick & Easy Voice Over Recording in FCP</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-gamer-income-tactics/"><u>In 2024, Gamer Income Tactics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-stretched-display-phenomena-in-win10/"><u>Rectifying Stretched Display Phenomena in Win10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-monetization-unlocking-partnerships-without-limits/"><u>[Updated] Maximizing Monetization Unlocking Partnerships Without Limits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-gaming-mouse-software-compatible-with-windows-7-8-and-10/"><u>Download Logitech Gaming Mouse Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-30i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 30i Phone Screen?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-picks/"><u>In 2024, Free WebM Video Editing Software Top Picks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-playtime-perfection-the-kiddo-gamer-guide/"><u>In 2024, Playtime Perfection The Kiddo Gamer Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>New An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-gta-5-wont-startup/"><u>Resolved: Fixes for 'GTA 5 Won't Startup'</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-arma-3-disruptions-comprehensive-troubleshooting-tips-for-the-latest-updates/"><u>Stop Arma 3 Disruptions: Comprehensive Troubleshooting Tips for the Latest Updates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-and-paid-3d-animation-programs/"><u>Updated Discover the Best Free and Paid 3D Animation Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-edit-videos-shot-by-sony-digital-camcorder/"><u>Updated How to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-2023-review/"><u>Video Editing Showdown Sony Vegas vs Adobe Premiere Pro 2023 Review</u></a></li>
 </ul></div>
 

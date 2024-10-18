@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Videos Mastering Lower Thirds in FCPX
-date: 2024-10-08T19:41:19.015Z
-updated: 2024-10-12T20:01:02.856Z
+date: 2024-10-14T16:14:13.000Z
+updated: 2024-10-18T17:20:31.350Z
 tags: 
   - video editing software
   - video editing
@@ -47,19 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -98,13 +85,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -121,6 +101,14 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
+
+**1Step 1: Download the tool**
+
+You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
+
+![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
+
 <!-- affiliate ads begin -->
 <span id="1531882">
 					<video width="864" height="1536" style="cursor:pointer"
@@ -133,14 +121,6 @@ Features of Final Cut Pro X to design lower third module element
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
-
-**1Step 1: Download the tool**
-
-You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
-
-![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 **2Step 2: Add the Title**
 
@@ -159,6 +139,19 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -179,10 +172,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -192,6 +185,13 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -208,24 +208,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>[New] Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-idleness-tranquil-phone-game-recommendations/"><u>[Updated] 2024 Approved Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>2024 Approved Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambia-webm-ai-tuoi-file-audio-converti-online-in-formati-aac-and-mp3-con-freeconvert/"><u>Cambia Webm Ai Tuoi File Audio: Converti Online in Formati AAC & MP3 Con FreeConvert</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-keep-your-windows-11-devices-running-smoothly-by-updating-drivers-with-revouninstaller/"><u>How to Keep Your Windows 11 Devices Running Smoothly by Updating Drivers with RevoUninstaller</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 15 | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-lets-see-how-you-can-run-windows-and-mac-os-video-editing-apps-such-as-filmora-final-cut-pro-imovie-sony-vegas-pro-or-any-other-powerful-video-editi/"><u>In 2024, Lets See How You Can Run Windows and Mac OS Video Editing Apps, Such as Filmora, Final Cut Pro, iMovie, Sony Vegas Pro or Any Other Powerful Video Editing Software From Your Chromebook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-best-21-hdmi-screens-side-by-side-review/"><u>In 2024, Unveiling the Best 2.1 HDMI Screens Side-By-Side Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>New Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-create-stunning-home-dvds-with-the-best-video-editing-tools/"><u>New Easily Create Stunning Home DVDs with the Best Video Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-mov-video-rotators/"><u>New Top 5 Free MOV Video Rotators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-applying-color-grading-and-keying-for-2024/"><u>Step-by-Step Applying Color Grading and Keying for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-performance-gaming-tecno-x-and-geekom-mega-mini-g1-liquid-cooling-fish-tank-case-intel-core-i9-13900h-and-nvidia-rtx-4060-gpu/"><u>Unleash High-Performance Gaming: Tecno X and Geekom Mega Mini G1 - Liquid Cooling, Fish Tank Case, Intel Core I9-13900H & NVIDIA RTX 4060 GPU</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-4k-video-editing-solutions/"><u>Updated Expert-Approved 4K Video Editing Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>Updated No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-mac-screen-recorder-options-not-bandicam/"><u>[New] Superior Mac Screen Recorder Options, Not Bandicam</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-5-best-toy-drones/"><u>[Updated] In 2024, 5 Best Toy Drones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-newbie-vlogger-tips-simple-video-concepts/"><u>[Updated] Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta-for-2024/"><u>10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/authentic-acclaim-client-filmed-reviews/"><u>Authentic Acclaim: Client-Filmed Reviews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-avatar-design-in-the-metaverse-explained/"><u>In 2024, Simplified Avatar Design in the Metaverse Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-change-with-conversational-ai-in-medicine/"><u>Pioneering Change with Conversational AI in Medicine</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources/"><u>The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/update-alert-star-wars-jedi-fallen-orders-technical-problems-addressed-on-pc-platform/"><u>Update Alert: Star Wars Jedi: Fallen Order's Technical Problems Addressed on PC Platform</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>Updated Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>Updated How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-slow-motion-video-editing-software/"><u>Updated Top 10+ Slow Motion Video Editing Software</u></a></li>
 </ul></div>
 

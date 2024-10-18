@@ -1,7 +1,7 @@
 ---
 title: Transform Your Video Footage Shape, Size, and More
-date: 2024-08-15T05:35:27.028Z
-updated: 2024-08-16T05:35:27.028Z
+date: 2024-10-11T17:35:08.232Z
+updated: 2024-10-18T19:27:34.606Z
 tags: 
   - video editing software
   - video editing
@@ -55,17 +55,17 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -86,12 +86,12 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -99,8 +99,12 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -152,8 +156,12 @@ A) In Filmora, Image Mask allows you to use an image (or any available preset) f
 A) At the time of this writing, Wondershare Filmora has around 40 image mask presets. In addition, it also allows you to add custom images from your PC for more dynamic approach.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -162,11 +170,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>[New] In 2024, A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>[New] Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[Updated] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premier-movie-sneak-peeks-ensemble-for-2024/"><u>[Updated] Premier Movie Sneak Peeks Ensemble for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotator-apps-for-iphone-expert-recommendations/"><u>In 2024, Free Video Rotator Apps for iPhone Expert Recommendations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-your-content-on-facebook-after-algorithms-change/"><u>In 2024, Mastering Your Content on Facebook After Algorithms Change</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-free-3d-animation-apps-for-mobile-phones/"><u>New Bring Your Ideas to Life Top Free 3D Animation Apps for Mobile Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-crack-free-filmora-discover-the-safe-and-legal-way-to-get-it/"><u>New Crack-Free Filmora Discover the Safe and Legal Way to Get It</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>New Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-free-top-mpeg-video-splitter-programs/"><u>The Best of Free Top MPEG Video Splitter Programs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-6-substitutes-best-periscope-rivals-on-mobile-devices/"><u>Top 6 Substitutes Best Periscope Rivals on Mobile Devices</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo A79 5G.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creative-potential-how-to-make-stunning-home-dvds-with-ease/"><u>Unlock Your Creative Potential How to Make Stunning Home DVDs with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-10-best-free-android-video-editors-freeandpaid/"><u>Updated 2024 Approved Top 10 Best Free Android Video Editors Free&Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-subtitles-in-fcpx-a-beginners-tutorial/"><u>Updated Adding Subtitles in FCPX A Beginners Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>Updated In 2024, Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-10-09T17:56:52.468Z
-updated: 2024-10-12T18:11:23.965Z
+date: 2024-10-13T16:21:01.564Z
+updated: 2024-10-18T17:16:29.041Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,13 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -44,10 +51,10 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -74,23 +81,9 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -106,18 +99,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -126,6 +119,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,22 +142,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/astery-in-youtube-ads-thumbnails-and-banners/"><u>[New] Mastery in YouTube Ads Thumbnails & Banners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-to-fire-stick-from-an-android-phone/"><u>How to Cast to Fire Stick From an Android Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-htc-u23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked HTC U23 Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-fix-the-endless-load-on-anthems-login-screen/"><u>How to Fix the Endless Load on Anthem's Login Screen</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-you-cannot-just-copy-and-paste-the-data-from-a-dvd-or-blu-ray-to-a-computer-since-you-need-a-file-conversion-software-in-order-to-change-the-format-/"><u>In 2024, You Cannot Just Copy and Paste the Data From a DVD or Blu-Ray to a Computer Since You Need a File Conversion Software in Order to Change the Format of a Video File. In This Article, We Are Going to Ta</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205290979-lost-in-no-sense-fix-your-sd-card/"><u>Lost in No-Sense: Fix Your SD Card!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-features-of-the-linksys-ea8300-router-for-optimal-device-performance-and-security/"><u>Navigating the Features of the Linksys EA8300 Router for Optimal Device Performance and Security</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mkv-clipper-software-top-10-recommendations/"><u>New Free MKV Clipper Software Top 10 Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pro-level-video-production-made-simple-a-step-by-step-guide/"><u>Pro-Level Video Production Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-honor-play-7t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Play 7T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/streamline-your-windows-pc-stellar-file-eraser-5-for-automatic-cleanup/"><u>Streamline Your Windows PC - Stellar File Eraser 5 for Automatic Cleanup</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-lg-gram-17-how-this-lightweight-wonder-delivers-top-notch-efficiency/"><u>Unboxing the LG Gram 17: How This Lightweight Wonder Delivers Top-Notch Efficiency</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-efficiency-the-most-useful-adobe-premiere-shortcuts-revealed/"><u>Unlock Efficiency The Most Useful Adobe Premiere Shortcuts Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-screen-recorder-potential-beyond-cyberlink-for-2024/"><u>Unlocking Screen Recorder Potential Beyond Cyberlink for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-beyond-windows-10-photos-8-excellent-image-viewing-options/"><u>Updated Beyond Windows 10 Photos 8 Excellent Image Viewing Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-how-to-find-facebook-recently-watched-videos/"><u>[Updated] 2024 Approved 2023 | How to Find Facebook Recently Watched Videos?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-clearer-connections-a-comprehensive-guide-to-crop-and-share-on-instagram/"><u>[Updated] In 2024, Clearer Connections A Comprehensive Guide to Crop and Share on Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-xperia-10-v-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Xperia 10 V Phone When You Forget the Password</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-activer-avec-succes-movavi-sur-votre-ordinateur-un-tutoriel-detaille-pour-windows-users/"><u>Comment Activer Avec Succès Movavi Sur Votre Ordinateur - Un Tutoriel Détaillé Pour Windows Users.</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/coupe-video-premium-free-pour-windows-et-macos-supprimer-efficacement-les-sequences-inutiles/"><u>Coupe-Vidéo Premium Free Pour Windows Et macOS : Supprimer Efficacement Les Séquences Inutiles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-in-pc-gear-with-toms-hardware-guides/"><u>Exploring the Latest in PC Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-5-fantastic-free-video-watermark-removers-and-adders/"><u>New 5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-shooting-videos-in-high-resolutions-can-help-you-create-visually-impressive-content-your-followers-on-social-media-are-going-to-adore-in-this-article-we/"><u>New Shooting Videos in High Resolutions Can Help You Create Visually Impressive Content Your Followers on Social Media Are Going to Adore. In This Article We Are Going to Take You Through the 10 Best Vid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-video-compression-apps-for-ios-devices/"><u>New Top 5 Free Video Compression Apps for iOS Devices</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/strategies-de-sauvegarde-des-fichiers-de-jeu-pour-pc-gerer-les-backups-avec-steam-epic-games-et-autres-details/"><u>Stratégies De Sauvegarde Des Fichiers De Jeu Pour PC - Gérer Les Backups Avec Steam, Epic Games Et Autres Détails</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-split-screen-video-editor-online-and-offline/"><u>Updated Best Free Split Screen Video Editor Online & Offline</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-the-top-8-animation-software-for-mac-and-windows/"><u>Updated Bring Your Ideas to Life The Top 8 Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-hand-drawing-whiteboard-animation-creators/"><u>Updated Discover the Best Hand Drawing Whiteboard Animation Creators</u></a></li>
 </ul></div>
 

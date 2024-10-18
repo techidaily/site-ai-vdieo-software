@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison
-date: 2024-10-07T18:20:04.586Z
-updated: 2024-10-12T19:59:37.724Z
+date: 2024-10-16T19:27:29.977Z
+updated: 2024-10-18T16:19:31.429Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -57,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
 
@@ -80,29 +100,22 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -111,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -130,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -143,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -166,15 +172,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-30-hot-tiktok-amazon-finds-you-must-know/"><u>[New] 30 Hot TikTok Amazon Finds You Must Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/reen-blueprint-planning-for-a-resilient-urban-future/"><u>[New] Green Blueprint Planning for a Resilient Urban Future</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>[New] In 2024, From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-speed-control-for-instagram-stories-tempo/"><u>[Updated] Boost Speed Control for Instagram Stories Tempo</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creative-potential-a-detailed-breakdown-of-photoshops-background-eraser-feature/"><u>In 2024, Unleash Creative Potential A Detailed Breakdown of Photoshop's Background Eraser Feature</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>New Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-video-rotators-for-3gp-files-expert-recommendations/"><u>S Best Free Video Rotators for 3GP Files Expert Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-rest-10-final-cut-pro-x-alternatives-for-video-editors/"><u>The Best of the Rest 10 Final Cut Pro X Alternatives for Video Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10plus-best-free-mkv-cutters/"><u>Top 10+ Best Free MKV Cutters</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-facilita-online-converti-foto-jpg-png-e-formati-diversi/"><u>Trasforma Le Tue Immagini Con Facilità Online - Converti Foto JPG, PNG E Formati Diversi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] In 2024, The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-shortcuts-for-efficient-mac-screen-recording/"><u>[Updated] 2024 Approved Essential Shortcuts for Efficient Mac Screen Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>[Updated] Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-3-strategies-converting-pinner-visuals-to-audio/"><u>[Updated] Top 3 Strategies Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expertly-curated-selections-leading-htpcs-that-elevate-your-home-entertainment-in-234/"><u>Expertly Curated Selections: Leading HTPCs that Elevate Your Home Entertainment in 2^34</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials-for-2024/"><u>Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13/Windows/Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-10-free-webm-video-editors-this-year/"><u>New Best of the Best Top 10 Free WebM Video Editors This Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-reaction-video-editing-apps-for-ios-and-android-users/"><u>New Best Reaction Video Editing Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-job-search-the-best-video-resume-makers-free-templates/"><u>New Elevate Your Job Search The Best Video Resume Makers (Free Templates)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-clear-top-websites-for-public-domain-video-downloads/"><u>New Free and Clear Top Websites for Public Domain Video Downloads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-photos-to-film-how-to-create-an-unforgettable-video/"><u>New From Photos to Film How to Create an Unforgettable Video</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-halt-fb-wa-and-ig-services-disrupted/"><u>Social Media Halt: FB, WA & IG Services Disrupted</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>Updated Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-transform-pictures-into-cartoons-online/"><u>Updated Transform Pictures Into Cartoons Online</u></a></li>
 </ul></div>
 

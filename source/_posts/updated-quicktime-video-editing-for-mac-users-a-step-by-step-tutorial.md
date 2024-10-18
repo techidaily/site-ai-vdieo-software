@@ -1,7 +1,7 @@
 ---
 title: Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial
-date: 2024-10-10T19:26:34.970Z
-updated: 2024-10-12T18:51:04.552Z
+date: 2024-10-14T18:08:24.600Z
+updated: 2024-10-18T18:23:00.934Z
 tags: 
   - video editing software
   - video editing
@@ -49,6 +49,19 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
@@ -56,13 +69,6 @@ Step2: Click here to edit > trim from the menu bar.
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4: When you have done, click on “Trim”.
 
@@ -81,10 +87,10 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
@@ -98,13 +104,6 @@ Step2: Select the clip by going to View > Show Clips.
 Step3: Choose to rotate the clip left or right, or flip it horizontally or vertically, from the Edit menu.
 
 Step4: When you're done, click Done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
@@ -123,10 +122,10 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -134,6 +133,13 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -152,19 +158,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-navigating-the-technicalities-recording-and-saving-your-role-play-experieninas-on-apple-devices/"><u>[Updated] In 2024, Navigating the Technicalities Recording & Saving Your Role-Play Experieninas on Apple Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/comprehensive-powerdirector-24-analysis-and-tutorial/"><u>Comprehensive PowerDirector '24 Analysis and Tutorial</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deciding-between-gmail-and-outlook-an-in-depth-review-of-which-is-better-for-you/"><u>Deciding Between Gmail & Outlook - An In-Depth Review of Which Is Better For You</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-stability-problems-with-escape-from-tarkov-on-your-personal-computer/"><u>Expert Advice: Overcoming Stability Problems with 'Escape From Tarkov' On Your Personal Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-13t-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi 13T</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-download-videoleap-on-macbook/"><u>In 2024, How to Download Videoleap on MacBook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-play-40c-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Play 40C? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-wmv-video-stitching-tools-expert-recommendations/"><u>New Free WMV Video Stitching Tools Expert Recommendations</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-perfecting-the-sound-the-process-of-equalizing-audio-in-davinci-resolve-for-2024/"><u>New Perfecting the Sound The Process of Equalizing Audio in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-value-video-editing-software/"><u>The Best Value Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-free-video-special-effects-apps-for-ios-and-android/"><u>The Ultimate List Best Free Video Special Effects Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-animation-software-for-bringing-photos-to-life/"><u>Top 10 Animation Software for Bringing Photos to Life</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download/"><u>Updated Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download)</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-use-of-notes-on-modern-windows-systems/"><u>Efficient Use of Notes on Modern Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-most-engaging-sandbox-gaming-titles/"><u>In 2024, The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-essentials-top-5-splitter-tools/"><u>New Free Video Editing Essentials Top 5 Splitter Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ppt-presentations-merging-audio-and-imagery-fluently/"><u>PPT Presentations Merging Audio & Imagery Fluently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-tips-for-sharpening-your-iphone-photos/"><u>Top 7 Tips for Sharpening Your iPhone Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-9-best-online-video-quality-enhancer-for-free-for-2024/"><u>Top 9 Best Online Video Quality Enhancer for FREE for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whats-the-best-green-screen-app-for-mac-weve-got-the-answer/"><u>Whats the Best Green Screen App for Mac? Weve Got the Answer</u></a></li>
 </ul></div>
 

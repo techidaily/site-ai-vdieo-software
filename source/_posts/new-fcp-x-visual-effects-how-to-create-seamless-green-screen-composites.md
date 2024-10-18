@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-10-08T20:10:55.023Z
-updated: 2024-10-12T17:41:30.712Z
+date: 2024-10-14T19:19:00.256Z
+updated: 2024-10-18T17:38:20.627Z
 tags: 
   - video editing software
   - video editing
@@ -58,13 +58,6 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
@@ -84,26 +77,26 @@ Your key should look better immediately. Most of the time, you can probably stop
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click the **Matte** button to display your key as a white foreground on a black background.
 
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
@@ -116,16 +109,10 @@ Then, click and drag a line from the foreground to the background in the Canvas.
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
@@ -147,7 +134,21 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you are done, you have a great looking key!
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clean up the Image with a Garbage Mask
 
@@ -159,24 +160,18 @@ Once you pull the key – which is film-speak for creating a green-screen shot, 
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
 
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
@@ -192,13 +187,6 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -206,10 +194,10 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -229,24 +217,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-automating-meeting-times-a-google-meet-essential/"><u>[Updated] Automating Meeting Times A Google Meet Essential</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cross-platform-players-top-10-open-source-selections/"><u>[Updated] In 2024, Cross-Platform Players Top 10 Open Source Selections</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-cash-creation-101-the-snapchat-edition/"><u>2024 Approved Cash Creation 101 The Snapchat Edition</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-linguistic-ai-chatgpt-vs-google-translate-who-leads-in-accuracy-and-fluency/"><u>Comparing Linguistic AI: ChatGPT Vs. Google Translate - Who Leads in Accuracy and Fluency?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/easy-guide-transforming-your-avi-videos-into-mp4-online-without-spending-a-penny/"><u>Easy Guide: Transforming Your AVI Videos Into MP4 Online Without Spending a Penny</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-meizu-21-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Meizu 21 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/macbook-video-editing-download-and-set-up-videoleap-in-minutes/"><u>MacBook Video Editing Download and Set Up Videoleap in Minutes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animated-video-magic-12-best-online-makers-to-try-now/"><u>New Animated Video Magic 12 Best Online Makers to Try Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-the-best-video-editor-for-mac-splice/"><u>New Download the Best Video Editor for Mac Splice</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-face-blur-mastery-expert-video-editing-techniques/"><u>New Face Blur Mastery Expert Video Editing Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/online-movie-trailer-design-studios/"><u>Online Movie Trailer Design Studios</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reversing-tiktok-videos-101-master-the-technique-with-this-ultimate-guide/"><u>Reversing TikTok Videos 101 Master the Technique with This Ultimate Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-free-and-paid-3d-animation-software-for-artists/"><u>The Best of Both Worlds Free and Paid 3D Animation Software for Artists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters/"><u>Updated Edit AVI Videos on the Go Best Mobile and Online Video Cutters</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-upgrade-new-gtx-970-graphics-drivers/"><u>Windows 10 Upgrade - New GTX 970 Graphics Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-minecraft-branding-tools-download/"><u>[New] In 2024, Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-haptic-feedback-devices-providers/"><u>[Updated] Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-80-pro-straight-screen-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 80 Pro Straight Screen Edition to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-high-definition-top-mirrorless-under-(1k/"><u>In 2024, Affordable High Definition - Top Mirrorless Under <$1K</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ipmac-discovery-on-windows-ps-style/"><u>Mastering IP/MAC Discovery on Windows, PS Style</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>New From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-shaky-footage-8-free-online-video-stabilization-solutions/"><u>Say Goodbye to Shaky Footage 8 Free Online Video Stabilization Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-dailymotion-converter-online/"><u>Updated Best Free Dailymotion Converter Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-reversal-top-online-solutions/"><u>Updated Easy Video Reversal Top Online Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-troubleshooting-guide-fix-errors-fast/"><u>Updated Final Cut Pro X Troubleshooting Guide Fix Errors Fast</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms/"><u>Updated Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mp4-video-editing-software-top-10-picks/"><u>Updated Free MP4 Video Editing Software Top 10 Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-tivo-vs-comcast-who-wins-the-dvr-battle/"><u>Updated TiVo vs Comcast, Who Wins the DVR Battle?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>Updated Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
 </ul></div>
 

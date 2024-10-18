@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-10-09T20:01:48.017Z
-updated: 2024-10-12T20:14:52.770Z
+date: 2024-10-13T19:45:52.878Z
+updated: 2024-10-18T16:11:07.118Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -58,18 +58,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -80,13 +80,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -106,6 +99,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -113,10 +113,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -142,24 +142,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-learn-nft-creation-with-minimal-fuss/"><u>[New] Learn NFT Creation with Minimal Fuss</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-vr-bikes-to-check-out/"><u>[Updated] Top VR Bikes to Check Out</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-12-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi 12 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-practices-and-essential-software-for-protecting-your-videos-with-copyright/"><u>Best Practices and Essential Software for Protecting Your Videos with Copyright</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-fugetek-ft-568-selfie-stick-analysis-unveiling-the-premium-quality/"><u>Comprehensive Fugetek FT-568 Selfie Stick Analysis: Unveiling the Premium Quality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-follow-easy-steps-below-to-create-your-masterpiece-now/"><u>In 2024, Follow Easy Steps Below to Create Your Masterpiece Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-guide-to-pinnacle-studio-alternatives-for-mac/"><u>In 2024, The Ultimate Guide to Pinnacle Studio Alternatives for Mac</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-g-pro-driver-software-available-here-compatible-with-windows-111087/"><u>Latest Logitech G Pro Driver Software Available Here - Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-avi-video-editor-reviews-our-top-picks/"><u>New Free AVI Video Editor Reviews Our Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-hosting-sites-for-online-publishing/"><u>The Ultimate List of Free Video Hosting Sites for Online Publishing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/today-we-are-going-to-explore-some-of-the-top-tools-that-you-can-use-as-a-dailymotion-converter-so-lets-start-with-our-first-contender/"><u>Today, We Are Going to Explore some of the Top Tools that You Can Use as a Dailymotion Converter. So, Lets Start with Our First Contender</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-avi-video-trimming-software-for-windows-mac-android-iphone-and-online/"><u>Top AVI Video Trimming Software for Windows, MAC, Android, iPhone, and Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-wi-fi-signal-boosters-the-ultimate-guide/"><u>Top Wi-Fi Signal Boosters : The Ultimate Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-free-animation-top-software-for-windows-and-mac/"><u>Unlock Free Animation Top Software for Windows and Mac</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-allure-of-teac-pd-301s-style-and-sound/"><u>Unveiling the Allure of Teac PD-301's Style & Sound</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-compressor-in-final-cut-pro-x/"><u>Updated How to Use Compressor in Final Cut Pro X?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-editing-software-for-windows-10/"><u>Updated Top Video Editing Software for Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-tricks-switching-on-and-off-the-built-in-on-screen-typing-tool/"><u>Windows 10 Tricks: Switching On and Off the Built-In On-Screen Typing Tool</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-enhancing-playback-speed-in-tiktok-videos/"><u>[New] 2024 Approved Enhancing Playback Speed in TikTok Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ailymotion-vs-youtubes-revenue-battle-analysis/"><u>[New] Dailymotion vs YouTubes Revenue Battle Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[Updated] Enhancing Content Reach IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>[Updated] The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-use-of-obs-with-zoom-video-platform/"><u>Efficient Use of OBS with Zoom Video Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-breaking-glitches-in-dragoner-dogma-2-for-pc-players/"><u>Fixing Game-Breaking Glitches in Dragon'er Dogma 2 for PC Players</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-fantastic-top-10-webm-video-editors/"><u>In 2024, Free and Fantastic Top 10 WebM Video Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-incor-writings-on-the-best-practices-for-youtube-commentary/"><u>In 2024, Incor Writings on the Best Practices for YouTube Commentary</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animation-made-easy-a-beginners-guide-to-the-top-7-software/"><u>New Animation Made Easy A Beginners Guide to the Top 7 Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-face-or-background-in-videos-top-iphone-and-android-apps/"><u>New Blur Face or Background in Videos Top iPhone and Android Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between/"><u>The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-trailer-creation-apps-for-mac-and-windows-computers/"><u>Top-Rated Trailer Creation Apps for Mac and Windows Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-video-how-to-flip-a-clip-in-final-cut-pro/"><u>Transform Your Video How to Flip a Clip in Final Cut Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/transforming-midi-files-into-wav-format-discover-the-simple-methods/"><u>Transforming MIDI Files Into WAV Format: Discover the Simple Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-animation-magic-top-8-photo-animation-tools/"><u>Unlock Animation Magic Top 8 Photo Animation Tools</u></a></li>
 </ul></div>
 

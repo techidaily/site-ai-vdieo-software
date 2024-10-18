@@ -1,7 +1,7 @@
 ---
 title: Updated Capture Your Screen A Beginners Guide to Filmora Scrn Desktop Recording
-date: 2024-09-26T17:43:55.030Z
-updated: 2024-10-01T18:04:17.735Z
+date: 2024-10-12T16:48:14.040Z
+updated: 2024-10-18T18:30:30.019Z
 tags: 
   - video editing software
   - video editing
@@ -75,22 +75,15 @@ Right after pushing the "Get Started" tab, the "Setup" interface will load up. Y
 
 ![screen](https://images.wondershare.com/filmora/screen.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Audio** – Under this section, specify the preferred audio source for your video, either from Computer or Microphone or both. By default, it is set on both.
 
 ![audio](https://images.wondershare.com/filmora/scrn3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Camera** – If you have a webcam installed, you can record video via your webcam along with capturing your screen. Get into this section and select your camera, preferred resolution and frame rate.
@@ -100,6 +93,13 @@ Right after pushing the "Get Started" tab, the "Setup" interface will load up. Y
 **Advanced** – Here in this section, you can set the path for your recorded video, enable or disable GPU acceleration and setup hot keys for your convenience.
 
 ![advanced](https://images.wondershare.com/filmora/advanced%201.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once finished with customization, hit on "Capture" to launch the recording console.
 
@@ -118,17 +118,17 @@ When you’re done, export the final file to your local storage and enjoy.
 ![export](https://images.wondershare.com/filmora/export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Filmora Scrn – Best Desktop Recorder
@@ -165,24 +165,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-12-tactics-to-reveal-facebook-videos-not-displaying-2023-edition/"><u>[New] 12 Tactics to Reveal Facebook Videos Not Displaying, 2023 Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-broadcast-iptv-across-platforms-for-2024/"><u>[New] Broadcast IPTV Across Platforms for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rom-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[New] From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-economical-embellishments-free-youtube-template-packs/"><u>[Updated] 2024 Approved Economical Embellishments FREE YouTube Template Packs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-automatic-amd-graphics-drivers/"><u>Easy Installation: Automatic AMD Graphics Drivers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/end-the-attempting-data-recovery-loop-tips-for-restarting-your-iphone/"><u>End the 'Attempting Data Recovery' Loop – Tips for Restarting Your iPhone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/essential-steps-for-top-tier-tiktok-intros-mac-edition-for-2024/"><u>Essential Steps for Top-Tier TikTok Intros - Mac Edition for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-vip-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mac-video-editing-programs-for-creators-in/"><u>New Best Mac Video Editing Programs for Creators In</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-slice-and-dice-mastering-video-splitting-in-windows-live-movie-maker/"><u>New Cut, Slice, and Dice Mastering Video Splitting in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-dual-view-video-recording-top-apps-for-iphone-and-android/"><u>New Dual-View Video Recording Top Apps for iPhone and Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/new-world-troubleshooting-how-to-fix-persistent-connection-errors-effectively/"><u>New World Troubleshooting: How to Fix Persistent Connection Errors Effectively</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/nikon-video-file-editing-a-comprehensive-guide/"><u>Nikon Video File Editing A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/repeat-this-process-for-your-dvd-drive-by-expanding-the-disk-drives-section-in-device-manager/"><u>Repeat This Process for Your DVD Drive by Expanding the Disk Drives Section in Device Manager.</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-free-and-easy-way-to-edit-gopro-hd-videos-for-2024/"><u>The Free and Easy Way to Edit GoPro HD Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-reaction-video-hack-streamline-your-process-with-filmora/"><u>The Ultimate Reaction Video Hack Streamline Your Process with Filmora</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-dvd-playback-options-for-windows-10-users-updated-2023/"><u>Updated Best Free DVD Playback Options for Windows 10 Users Updated 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-trim-and-edit-avi-videos-with-the-best-tools-windows-mac-android-iphone-online/"><u>Updated Cut, Trim, and Edit AVI Videos with the Best Tools Windows, MAC, Android, iPhone, Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-imovie-to-hollywood-mastering-movie-making-on-mac/"><u>Updated From iMovie to Hollywood Mastering Movie Making on Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-compact-cinematic-story-guide/"><u>[Updated] 2024 Approved Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>[Updated] 2024 Approved Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-google-meet-entry-on-computersmobile-phones/"><u>[Updated] 2024 Approved Google Meet Entry On Computers/Mobile Phones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/"><u>In 2024, Shine a Light The 12 Ultimate Fixes for Making Facebook Videos Visible Again</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-professional-audio-editing-software-is-a-powerful-tool-for-us-to-make-an-amazing-video-in-this-article-you-will-learn-the-8-best-professional-audio-edit/"><u>New Professional Audio Editing Software Is a Powerful Tool for Us to Make an Amazing Video. In This Article, You Will Learn the 8 Best Professional Audio Editing Software. Check This Article to Find More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/soluzione-al-problema-dellhard-disk-esterno-seagate-scomparso-la-mia-esperienza-e-risposta-positiva/"><u>Soluzione Al Problema Dell'hard Disk Esterno Seagate Scomparso: La Mia Esperienza E Risposta Positiva!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-best-free-game-download-sites-pc-and-android/"><u>Top 10 Best Free Game Download Sites PC & Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-secrets-6-time-saving-tips-for-better-video-edits/"><u>Updated Adobe Premiere Pro Secrets 6 Time-Saving Tips for Better Video Edits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Updated Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-programs-to-edit-mp4-video-tags/"><u>Updated Best Programs to Edit MP4 Video Tags</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-should-you-reimagine-your-fb-presence/"><u>When Should You Reimagine Your FB Presence?</u></a></li>
 </ul></div>
 

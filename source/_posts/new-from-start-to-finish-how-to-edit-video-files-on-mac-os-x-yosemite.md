@@ -1,7 +1,7 @@
 ---
 title: New From Start to Finish How to Edit Video Files on Mac OS X Yosemite
-date: 2024-08-15T05:36:15.382Z
-updated: 2024-08-16T05:36:15.382Z
+date: 2024-10-16T16:01:27.776Z
+updated: 2024-10-18T17:32:17.831Z
 tags: 
   - video editing software
   - video editing
@@ -37,8 +37,12 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -48,9 +52,6 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -63,8 +64,12 @@ If you want to add an additional audio file as the background music to the video
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -72,18 +77,23 @@ This app also allows you to add cool transitions and other effects to your video
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -92,11 +102,30 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-foundations-top-youtube-skincare-routines-for-2024/"><u>[New] Flawless Foundations Top YouTube Skincare Routines for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-techniques-for-captivating-visual-fb-ads/"><u>[New] Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>[Updated] 2024 Approved Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10plus-best-free-online-video-trimmers-to-edit-videos-quickly/"><u>In 2024, 10+ Best Free Online Video Trimmers to Edit Videos Quickly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-video-editing-software-top-picks/"><u>In 2024, Best Free MOV Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editors-for-webm-files-2023-edition/"><u>In 2024, Best Free Video Editors for WebM Files 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-professional-looking-animations-with-these-12-online-makers/"><u>In 2024, Create Professional-Looking Animations with These 12 Online Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-video-editing-on-mac-the-top-software-of/"><u>In 2024, Cutting-Edge Video Editing on Mac The Top Software Of</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-and-play-the-best-websites-for-pc-games/"><u>In 2024, Download and Play The Best Websites for PC Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-video-editors/"><u>In 2024, Edit MOV Files for Free Top 10 Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-effortlessly-blur-your-conference-backgrounds-on-teams/"><u>In 2024, Effortlessly Blur Your Conference Backgrounds on Teams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-drone-options-for-gopro-hd-imaging/"><u>In 2024, Optimal Drone Options for GoPro HD Imaging</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-wont-play-on-my-p60-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my P60</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-connecting-your-dualshock-controller/"><u>Step-by-Step Instructions on Connecting Your DualShock Controller</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/techniques-rapides-pour-recouvrer-des-clips-elus-de-votre-camescope/"><u>Techniques Rapides Pour Recouvrer Des Clips Elus De Votre Caméscope</u></a></li>
+</ul></div>
+

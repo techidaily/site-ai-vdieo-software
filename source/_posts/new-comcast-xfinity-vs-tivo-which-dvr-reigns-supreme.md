@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2024-10-09T18:55:33.485Z
-updated: 2024-10-12T17:21:57.341Z
+date: 2024-10-11T16:26:26.705Z
+updated: 2024-10-18T16:26:52.809Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -59,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
@@ -84,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -110,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -123,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -135,21 +143,7 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -166,18 +160,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-journey-to-freedom-with-free-movie-player-os-x-and-windows/"><u>[New] Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>2024 Approved Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automatic-pc-fix-solutions-on-windows-11/"><u>Automatic PC Fix Solutions on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/digital-illumination-reviving-old-school-vhs-graphics/"><u>Digital Illumination Reviving Old-School VHS Graphics</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-fold-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel Fold Lock Screen Password?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-yosemite-edition/"><u>Mac Video Editing Made Easy Yosemite Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mts-video-editors-top-picks-and-reviews/"><u>New Best MTS Video Editors Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-photos-to-videos-10-best-online-creators-free-and-paid/"><u>New From Photos to Videos 10 Best Online Creators Free & Paid</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/range-of-fb-video-width-height-ratios/"><u>Range of FB Video Width-Height Ratios</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-kobo-nia-an-e-reader-that-gives-amazon-kindle-a-run-for-its-money/"><u>Unveiling the Kobo Nia: An E-Reader That Gives Amazon Kindle a Run for Its Money</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-macpros-screenflow-insight-a-comprehensive-guide/"><u>[New] In 2024, MacPro's ScreenFlow Insight A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-7-best-voice-changer-recorder-apps/"><u>[Updated] 2024 Approved Top 7 Best Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-best-tools-to-create-stunning-igtv-video-edits/"><u>2024 Approved Best Tools to Create Stunning IGTV Video Edits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-black-ops-cold-war-stutter-solution-a-comprehensive-guide-to-smooth-gaming-performance/"><u>Call of Duty: Black Ops Cold War Stutter Solution: A Comprehensive Guide to Smooth Gaming Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cost-effective-options-top-10-free-high-quality-desktop-recorders-for-2024/"><u>Cost-Effective Options Top 10 Free, High-Quality Desktop Recorders for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-steelseries-arctis-1-headset-microphone-isnt-functional/"><u>Fixing the Issue: Why Your SteelSeries Arctis 1 Headset Microphone Isn't Functional</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-to-resurrect-windows-photo-viewer-on-windows-11/"><u>In 2024, Quick Tips to Resurrect Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-editing-mp4-videos-on-mac-and-windows-a-complete-guide-for-all-levels/"><u>New Editing MP4 Videos on Mac and Windows A Complete Guide for All Levels</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/regular-to-revolutionary-how-to-convert-videos-for-vr/"><u>Regular to Revolutionary How to Convert Videos for VR</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715701090865-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/switching-gears-in-computing-my-real-experience-with-microsofts-surface-duo-and-laptop-is-it-time-to-part-ways-with-the-macbook-digitaltrends/"><u>Switching Gears in Computing: My Real Experience with Microsoft's Surface Duo and Laptop - Is It Time to Part Ways with the MacBook? | DigitalTrends</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-16-free-movie-makers-no-experience-needed/"><u>The Best of the Best 16 Free Movie Makers (No Experience Needed)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/"><u>Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-video-watermark-software/"><u>Top 5 Free Video Watermark Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-4k-videos-with-ease-top-picks/"><u>Updated Convert 4K Videos with Ease Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-editing-top-free-cutters-and-joiners-for-starters/"><u>Updated Easy Video Editing Top Free Cutters and Joiners for Starters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect/"><u>Updated From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-10-10T17:34:51.784Z
-updated: 2024-10-12T16:41:27.505Z
+date: 2024-10-11T19:29:59.582Z
+updated: 2024-10-18T17:48:29.265Z
 tags: 
   - video editing software
   - video editing
@@ -43,13 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -64,6 +57,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -74,22 +74,15 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -106,6 +99,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -113,16 +113,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -148,24 +142,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>[New] 2024 Approved Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[New] Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-make-videos-play-swiftly-for-2024/"><u>[New] Instagram Make Videos Play Swiftly for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-swivel-techniques-vlcs-video-flipping-mastery-for-2024/"><u>[Updated] Quick-Swivel Techniques VLC's Video Flipping Mastery for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-creation-a-closer-look-at-magix-video-pro-x/"><u>[Updated] Seamless Creation A Closer Look at Magix Video Pro X</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/slice-editor-for-2024/"><u>ImageSlice Editor for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-find-n3-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo Find N3 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-mp4-files/"><u>New Best Free Video Cutting Software for MP4 Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>New Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-video-editing-top-online-solutions-ranked/"><u>No-Cost Video Editing Top Online Solutions Ranked</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/reinitialiser-facilement-votre-lecteur-de-recuperation-sous-windows-10-et-11-un-guide-rapide/"><u>Réinitialiser Facilement Votre Lecteur De Récupération Sous Windows 10 Et 11 : Un Guide Rapide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-audio-editors-for-m4a-files/"><u>S Best Free Audio Editors for M4A Files</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-large-archiving-tasks-with-windows-powershell-tips/"><u>Simplifying Large Archiving Tasks with Windows PowerShell Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/spices-although-not-traditionally-used-in-large-amounts-in-portuguese-cuisine-spices-like-cinnamon-and-nutmeg-have-been-incorporated-into-sweet-pastries-suc456/"><u>Spices: Although Not Traditionally Used in Large Amounts in Portuguese Cuisine, Spices Like Cinnamon and Nutmeg Have Been Incorporated Into Sweet Pastries (Such as Folar) or Savory Stews to Add Warmth and Depth of Flavor.</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-effective-lower-thirds-in-final-cut-pro-x/"><u>The Art of Effective Lower Thirds in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-alternatives-to-powerdirector-top-mobile-video-editing-software/"><u>Updated Alternatives to PowerDirector Top Mobile Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-filmora-free-no-cost-no-malware-no-worries/"><u>Updated Get Filmora Free No Cost, No Malware, No Worries</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/upgrading-gpus-for-peak-performance-on-laptops/"><u>Upgrading GPUs for Peak Performance on Laptops</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>[Updated] 2024 Approved How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-tips-for-audio-addition-to-powerpoint-decks/"><u>[Updated] Innovative Tips for Audio Addition to PowerPoint Decks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/collaborate-with-winxdvd-a-strategic-alliance/"><u>Collaborate with WinXDVD: A Strategic Alliance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-v27-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo V27 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC Phone FRP Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lenovo ThinkPhone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-trim-and-merge-videos-for-free-the-ultimate-beginners-toolset/"><u>New Cut, Trim, and Merge Videos for Free The Ultimate Beginners Toolset</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-reversal-top-online-solutions/"><u>New Easy Video Reversal Top Online Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-editing-a-step-by-step-guide-to-gopro-quik-on-macbook/"><u>New Effortless Video Editing A Step-by-Step Guide to GoPro Quik on MacBook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wwe-2k-battlegrounds-directx-11-fixing-feature-level-100-issues/"><u>Resolving WWE 2K Battlegrounds DirectX 11 - Fixing Feature Level 10.0 Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-video-players-for-slow-motion/"><u>Top 10 Video Players for Slow Motion</u></a></li>
 </ul></div>
 

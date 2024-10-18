@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Subtitle Tutorial How to Add Captions Like a Pro
-date: 2024-10-01T17:28:39.756Z
-updated: 2024-10-07T02:33:07.887Z
+date: 2024-10-13T18:59:22.443Z
+updated: 2024-10-18T17:12:17.182Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,13 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -79,10 +86,17 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
@@ -115,13 +129,6 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * **Use the keyboard shortcut keys**
@@ -131,16 +138,10 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -148,13 +149,6 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -171,20 +165,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-celestial-sphere-prodesks-ultra-hd-integrated-panels/"><u>[New] Celestial Sphere ProDesks Ultra HD Integrated Panels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-master-the-art-of-live-content-utilizing-wirecast-for-fb/"><u>[New] Master the Art of Live Content Utilizing Wirecast for FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-overcoming-gopro-distorted-images-a-guide/"><u>[New] Overcoming GoPro Distorted Images A Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-top-ios-emulators-for-playing-psp-games-for-2024/"><u>[Updated] Explore Top iOS Emulators for Playing PSP Games for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/add-a-professional-touch-free-video-watermark-software-for-2024/"><u>Add a Professional Touch Free Video Watermark Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-online-stop-motion-software-a-comprehensive-review-for-2024/"><u>Best Online Stop Motion Software A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-vision-to-life-top-10-music-video-production-studios/"><u>Bring Your Vision to Life Top 10 Music Video Production Studios</u></a></li>
-<li><a href="https://fox-access.techidaily.com/captivating-video-characters-through-free-animation-for-2024/"><u>Captivating Video Characters Through Free Animation for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/design-and-send-top-video-invitation-apps-for-ios-and-android/"><u>Design and Send Top Video Invitation Apps for iOS & Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-easiest-ways-to-remove-tiktok-watermarks-online/"><u>Discover the Easiest Ways to Remove TikTok Watermarks Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/essential-iphone-apps-the-cream-of-the-crop-reviewed-and-recommended-for-2024/"><u>Essential iPhone Apps The Cream of the Crop, Reviewed and Recommended for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Ace 3 Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/offizielle-gewinn-codes-fur-winx-dvd-ripper-premium-sonderangebote-und-ermassigungen/"><u>OFFIZIELLE Gewinn-Codes Für WinX DVD Ripper Premium – Sonderangebote Und Ermäßigungen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/surface-pro-4-to-windows-essential-drivers-guide/"><u>Surface Pro 4 to Windows: Essential Drivers Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-full-featured-insight-mac-meets-screenflow-v4/"><u>[New] 2024 Approved Full-Featured Insight Mac Meets ScreenFlow V4</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-best-online-mp3-extractors-from-tiktok-videos-top-6-rankings-for-2024/"><u>[Updated] Best Online MP3 Extractors From TikTok Videos - Top 6 Rankings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-intros-a-comprehensive-instructional-guide-for-2024/"><u>[Updated] Free YouTube Intros A Comprehensive Instructional Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[Updated] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cost-effective-pc-video-capturing-essentials-checklist/"><u>2024 Approved Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>2024 Approved Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-underdeveloped-world-of-vr-experiences/"><u>2024 Approved The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/formulating-gripping-narratives-for-your-vlogs/"><u>Formulating Gripping Narratives for Your Vlogs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Spark 20</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-filmora-13-editor-download-create-stunning-videos/"><u>In 2024, Free Filmora 13 Editor Download Create Stunning Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/low-cost-filmmaking-essentials-7-must-know-software-2023-update/"><u>Low-Cost Filmmaking Essentials 7 Must-Know Software 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-install-linux-on-chromebook/"><u>New How to Install Linux on Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creativity-top-3d-animation-software-free-and-paid/"><u>Unlock Your Creativity Top 3D Animation Software Free and Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>Updated Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-essential-fcpx-plugins-free-and-paid-favorites/"><u>Updated Essential FCPX Plugins Free and Paid Favorites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-paid-3d-animation-solutions-a-comprehensive-review/"><u>Updated Free and Paid 3D Animation Solutions A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pc-review-a-quick-overview/"><u>VN Video Editor PC Review A Quick Overview</u></a></li>
 </ul></div>
 
