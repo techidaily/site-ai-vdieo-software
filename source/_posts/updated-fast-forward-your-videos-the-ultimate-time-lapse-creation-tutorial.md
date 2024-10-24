@@ -1,7 +1,7 @@
 ---
 title: Updated Fast Forward Your Videos The Ultimate Time Lapse Creation Tutorial
-date: 2024-08-15T05:31:04.958Z
-updated: 2024-08-16T05:31:04.958Z
+date: 2024-10-23T08:13:31.574Z
+updated: 2024-10-23T18:50:58.566Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,18 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,17 +111,18 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
@@ -123,13 +134,21 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -138,11 +157,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>[New] 2024 Approved Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-tips-for-setting-up-and-conducting-zoom-webinars/"><u>[New] In 2024, Essential Tips for Setting Up & Conducting Zoom Webinars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-lut-applications-in-premiere-pro/"><u>[New] Mastering LUT Applications in Premiere Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-deep-dive-into-ideal-instagram-post-times-for-2024/"><u>[Updated] A Deep Dive Into Ideal Instagram Post Times for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>2024 Approved Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728483713291-windows-1n/"><u>如何自由地建立 Windows 1N 完整備份：探索兩大技術</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mkvmp4-windowsmacos-202/"><u>實用指南：從MKV轉成MP4的 Windows/macOS 工具列表，競相角逐202</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8-for-2024/"><u>Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fake-it-top-online-face-generators-for-creating-artificial-faces/"><u>Fake It! Top Online Face Generators for Creating Artificial Faces</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-mastering-time-manipulation/"><u>FCPX Essentials Mastering Time Manipulation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-freeze-frames-and-slow-motion-for-2024/"><u>Final Cut Pro X Freeze-Frames and Slow Motion for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-solutions-for-32-bit-windows-our-top-picks-for-2024/"><u>Free Video Editing Solutions for 32-Bit Windows Our Top Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-fcp-to-vhs-easy-techniques-for-a-retro-look/"><u>From FCP to VHS Easy Techniques for a Retro Look</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-free-video-editing-top-tools-for-32-bit-windows/"><u>Get Started with Free Video Editing Top Tools for 32-Bit Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-virtualdub-mpeg2-the-ultimate-video-compression-solution/"><u>Get VirtualDub MPEG2 The Ultimate Video Compression Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-your-audience-across-multiple-channels-facebook-twitter-instagram-and-youtube-strategies/"><u>Harnessing Your Audience Across Multiple Channels: Facebook, Twitter, Instagram & YouTube Strategies.</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579517545-jumpstart-on-japanese-number-acumen-today/"><u>Jumpstart on Japanese Number Acumen Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-for-avchd-playback-on-ios-devices-like-ipads-and-iphones/"><u>Step-by-Step Guide for AVCHD Playback on iOS Devices Like iPads and iPhones</u></a></li>
+</ul></div>
+

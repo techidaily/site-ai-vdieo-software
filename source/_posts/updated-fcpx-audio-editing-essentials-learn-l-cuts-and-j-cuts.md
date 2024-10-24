@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2024-10-15T17:11:35.207Z
-updated: 2024-10-18T16:58:33.333Z
+date: 2024-10-19T13:37:35.745Z
+updated: 2024-10-24T01:55:46.560Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,10 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,10 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -139,24 +139,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-convenient-tips-for-iphone-screen-recording-setup/"><u>[New] 2024 Approved Convenient Tips for iPhone Screen Recording Setup</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>[New] In 2024, The Seamless Storyteller Leveraging Inshot for Elegant Transitions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-no-cost-solutions-for-modern-photography-enhancements/"><u>[New] Innovative No-Cost Solutions for Modern Photography Enhancements</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unearthly-utility-top-five-terrafirma-maps-for-2024/"><u>[New] Unearthly Utility Top Five Terrafirma Maps for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-seamlessly-move-your-voicemail-messages-from-one-iphone-to-another/"><u>1. Seamlessly Move Your Voicemail Messages From One iPhone to Another</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-technology-must-haves-the-top-9-gadgets-students-cant-do-without/"><u>Essential Technology Must-Haves: The Top 9 Gadgets Students Can't Do Without</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 14 Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-software-the-ultimate-guide/"><u>Mac Video Editing Software The Ultimate Guide</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/mastering-the-art-of-managing-and-organizing-your-digital-backups/"><u>Mastering the Art of Managing and Organizing Your Digital Backups</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-free-mov-video-rotators/"><u>New Discover the Best Free MOV Video Rotators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/quik-or-not-a-review-of-gopros-editor-and-pc-alternatives-for-better-videos/"><u>Quik or Not? A Review of GoPros Editor & PC Alternatives for Better Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-cutting-and-joining-software/"><u>The Ultimate Guide to Free Video Cutting and Joining Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-linux-on-your-chromebook-an-installation-guide-for-20/"><u>Unleash the Power of Linux on Your Chromebook An Installation Guide for 20</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-the-top-5-avchd-video-editing-software/"><u>Unleash Your Creativity The Top 5 AVCHD Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mpeg-video-splitter-software-top-picks/"><u>Updated Free MPEG Video Splitter Software Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-audio-transitions-2-methods-in-final-cut-pro/"><u>Updated Mastering Audio Transitions 2 Methods in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-for-dummies-best-software-for-beginners-for-2024/"><u>Video Editing for Dummies Best Software for Beginners for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-you-shouldnt-overlook-the-samsung-galaxy-tab-s3-a-comprehensive-examination/"><u>Why You Shouldn't Overlook the Samsung Galaxy Tab S3 – A Comprehensive Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquer-any-terrain-with-the-top-race-rc-rock-crawler-an-expert-review/"><u>Conquer Any Terrain with the Top Race RC Rock Crawler - An Expert Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-the-ultimate-home-pc-for-professional-video-editors/"><u>Creating the Ultimate Home PC for Professional Video Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/inside-zdnet-our-expert-phone-review-and-benchmarking-processes/"><u>Inside ZDNet: Our Expert Phone Review and Benchmarking Processes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/merge-wmv-videos-without-cost-top-free-tools/"><u>Merge WMV Videos Without Cost Top Free Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cast-local-videos-to-chromecast-a-step-by-step-guide-updated-2023/"><u>New Cast Local Videos to Chromecast A Step-by-Step Guide (Updated 2023)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a18-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-pairing-your-camera-gimbal/"><u>Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/"><u>Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-adding-effects-in-fcp-x-with-ease/"><u>Take Your Videos to the Next Level Adding Effects in FCP X with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-rated-animation-tools/"><u>The Best of the Best Top-Rated Animation Tools</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/the-ultimate-strategy-for-picking-a-reliable-bulk-email-checker-with-massmail-solutions/"><u>The Ultimate Strategy for Picking a Reliable Bulk Email Checker with MassMail Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fix-resolving-a-code-28-issue-on-windows-device-manager/"><u>Troubleshooting the Fix: Resolving a 'Code 28' Issue on Windows Device Manager</u></a></li>
 </ul></div>
 

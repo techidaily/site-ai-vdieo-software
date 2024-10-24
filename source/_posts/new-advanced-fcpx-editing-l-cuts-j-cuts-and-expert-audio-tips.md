@@ -1,7 +1,7 @@
 ---
 title: New Advanced FCPX Editing L-Cuts, J-Cuts, and Expert Audio Tips
-date: 2024-10-14T19:32:22.395Z
-updated: 2024-10-18T16:34:07.720Z
+date: 2024-10-17T04:05:49.420Z
+updated: 2024-10-24T02:57:39.851Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,10 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,16 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,15 +139,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagrams-visual-spectacle-with-step-by-step-slow-motion-guide-for-2024/"><u>[Updated] Mastering Instagram’s Visual Spectacle with Step by Step Slow Motion Guide for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertir-archivos-de-musica-wmvwma-a-formatos-compatibles-con-itunes-sin-costo-alguno-movavi/"><u>Convertir Archivos De Música WMV/WMA a Formatos Compatibles Con iTunes Sin Costo Alguno - Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-the-ultimate-guide-to-updating-dell-g3-graphics-drivers/"><u>Enhance Your Gameplay: The Ultimate Guide to Updating Dell G3 Graphics Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-15-pro-max-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 15 Pro Max Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-restore-game-sounds-solving-borderlands/"><u>How to Restore Game Sounds: Solving Borderlands</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-fast-top-10-video-speed-adjustment-apps-for-mobile-devices/"><u>In 2024, Free and Fast Top 10 Video Speed Adjustment Apps for Mobile Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/online-video-rotation-made-easy-top-free-tools/"><u>Online Video Rotation Made Easy Top Free Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/taming-unrealistic-ai-generations-through-proper-phrasing/"><u>Taming Unrealistic AI Generations Through Proper Phrasing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-dull-to-delightful-text-that-tumbles-and-twirls/"><u>[New] From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpt-pioneering-the-artificial-intelligence-frontier/"><u>Discovering ChatGPT: Pioneering the Artificial Intelligence Frontier</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-advanced-video-editing-made-easy-adobe-premiere-pro-on-mac/"><u>New Advanced Video Editing Made Easy Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-hd-video-editors-our-top-5/"><u>Professional-Grade HD Video Editors Our Top 5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law/"><u>Updated Filmora on a Budget How to Get It Without Breaking the Bank or the Law</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-the-good-the-bad-and-the-best-alternatives-for-you/"><u>Virtualdub The Good, the Bad, and the Best Alternatives for You</u></a></li>
 </ul></div>
 

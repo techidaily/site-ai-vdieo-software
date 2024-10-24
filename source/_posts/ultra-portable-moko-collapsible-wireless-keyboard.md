@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2024-10-14T17:51:43.068Z
-updated: 2024-10-18T18:05:56.375Z
+date: 2024-10-17T05:47:21.541Z
+updated: 2024-10-24T11:18:18.244Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -37,28 +37,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -83,6 +70,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -105,18 +99,18 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
 
@@ -143,10 +137,10 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -188,18 +182,24 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>[New] 2024 Approved Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-download-to-usage-setting-up-obs-on-a-mac/"><u>[Updated] From Download to Usage Setting Up OBS on a Mac</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
-<li><a href="https://video-capture.techidaily.com/boundless-techniques-for-implementing-subtitles-on-videography/"><u>Boundless Techniques for Implementing Subtitles on Videography</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-best-top-11-animated-logo-makers-creative-logo-tips/"><u>In 2024, FREE Best Top 11 Animated Logo Makers Creative Logo Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-quicktime-video-editing-software-top-10-choices/"><u>New Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-remove-filmora-watermark-withwithout-paying/"><u>New How to Remove Filmora Watermark With/Without Paying?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/notable-figures-sue-meta-and-openai-over-artificial-intelligence-issues-the-full-story/"><u>Notable Figures Sue Meta and OpenAI Over Artificial Intelligence Issues: The Full Story</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide/"><u>Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-tools-for-instant-time-lapse-videos/"><u>[New] 2024 Approved Best Tools for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-funny-photos-for-iphones/"><u>[New] 2024 Approved Funny Photos for IPhones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>[New] Bridging the Gap Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-strategies-for-efficient-business-teleconferencing/"><u>[New] Strategies for Efficient Business Teleconferencing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-specialist-recommendations-the-quintessential-5-cameras/"><u>[Updated] In 2024, Specialist Recommendations The Quintessential 5 Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ver-efficient-methods-for-compiling-songs-on-youtube/"><u>Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-visual-detail-in-videoleap-videos/"><u>In 2024, Enhancing Visual Detail in Videoleap Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-voyaging-navigating-twittersphere-and-tumbleverse/"><u>In 2024, Video Voyaging Navigating Twittersphere & Tumbleverse</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-fcpx-the-ultimate-guide-to-xml-files/"><u>Mastering FCPX The Ultimate Guide to XML Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-convert-video-to-live-photo-top-apps-and-tutorials/"><u>New Convert Video to Live Photo Top Apps and Tutorials</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-boring-to-brilliant-10-animated-text-converters-youll-love/"><u>New From Boring to Brilliant 10 Animated Text Converters Youll Love</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-web-based-video-editors-for-chromebook-users/"><u>The Best Web-Based Video Editors for Chromebook Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-page-not-found-404-error-and-solutions-for-a-seamless-user-experience/"><u>Understanding the 'Page Not Found' (404) Error & Solutions for a Seamless User Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-time-lapse-expert-tips-for-final-cut-pro-users/"><u>Unleash the Power of Time Lapse Expert Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unlock-pro-level-editing-top-5-final-cut-pro-secrets-revealed-for-2024/"><u>Unlock Pro-Level Editing Top 5 Final Cut Pro Secrets Revealed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-the-power-of-dvd-creation-a-beginners-guide-to-movie-making-software/"><u>Unlock the Power of DVD Creation A Beginners Guide to Movie Making Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-beginners-guide-to-video-editing-top-software-picks/"><u>Updated Beginners Guide to Video Editing Top Software Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-your-screen-a-beginners-guide-to-recording-with-filmora-scrn/"><u>Updated Capture Your Screen A Beginners Guide to Recording with Filmora Scrn</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-video-editors-like-imovie-top-picks/"><u>Updated Free Online Video Editors Like iMovie Top Picks</u></a></li>
 </ul></div>
 

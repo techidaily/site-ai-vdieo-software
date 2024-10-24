@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-10-14T19:49:59.242Z
-updated: 2024-10-18T17:30:20.679Z
+date: 2024-10-19T10:27:32.857Z
+updated: 2024-10-24T12:28:53.247Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,10 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,22 +188,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-script-innovation-place/"><u>[New] Best Script Innovation Place</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-crafting-winning-twitter-sponsored-content/"><u>[Updated] 2024 Approved Crafting Winning Twitter Sponsored Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screencast-savvy-a-comprehensive-examination-of-techniques-and-tools/"><u>[Updated] 2024 Approved Screencast Savvy A Comprehensive Examination of Techniques & Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-affordable-webinar-tools-for-efficient-recording-for-2024/"><u>[Updated] Affordable Webinar Tools for Efficient Recording for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone XR Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-spark-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Spark 10 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-not-for-you-try-these-10-alternative-video-editors/"><u>In 2024, Final Cut Pro X Not for You? Try These 10 Alternative Video Editors</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c51-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C51 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-video-creation-tools-free-and-premium-options/"><u>Top 3D Video Creation Tools Free and Premium Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative/"><u>Uncovering the Truth About VN Video Editor Pro A Worthy Alternative?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-features-pros-and-cons/"><u>Updated AVS Video Editor Features, Pros, and Cons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-face-off-what-sets-pro-apart-from-express/"><u>Updated Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-picture-in-picture-overlays-to-your-videos/"><u>Updated Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-users-rejoice-the-best-sony-vegas-alternatives-you-need-to-know-for-2024/"><u>Windows Users Rejoice The Best Sony Vegas Alternatives You Need to Know for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stream-vs-record-deciding-on-obs-studio-or-bandicam-for-2024/"><u>[New] Stream vs Record Deciding on OBS Studio or Bandicam for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-best-video-editing-software-for-windows-enthusiasts-revealed-for-2024/"><u>[Updated] The Best Video Editing Software For Windows Enthusiasts Revealed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-of-manipulation-the-photographers-way/"><u>2024 Approved Mastery of Manipulation The Photographer's Way</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-on-top-hardware-by-toms-technology-hub/"><u>Expert Reviews on Top Hardware by Tom's Technology Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-conceal-faces-with-confidence-professional-video-editing-software/"><u>New Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-fabulous-the-5-best-online-tone-generators-out-there/"><u>New Free and Fabulous The 5 Best Online Tone Generators Out There</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reduce-video-size-for-free-10-top-online-compression-tools/"><u>Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-video-editing-software-for-starters-free-paid-and-everything-in-between/"><u>The Best Video Editing Software for Starters Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-guide-picking-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Selection Guide: Picking the Perfect Tablet by Dimensions & Mass</u></a></li>
 </ul></div>
 

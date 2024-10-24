@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Hacks Create a Vintage VHS Look
-date: 2024-10-13T18:02:01.738Z
-updated: 2024-10-18T17:45:39.479Z
+date: 2024-10-18T07:07:42.418Z
+updated: 2024-10-24T02:34:27.331Z
 tags: 
   - video editing software
   - video editing
@@ -94,6 +94,13 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
@@ -108,6 +115,19 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -115,29 +135,22 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -173,13 +186,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -203,10 +209,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -238,19 +244,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ssential-links-for-acquiring-youtube-preview-templates-online/"><u>[New] Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free-for-2024/"><u>[New] No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-corporate-emblems-from-available-graphic-samples/"><u>2024 Approved Craft Corporate Emblems From Available Graphic Samples</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>2024 Approved The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
-<li><a href="https://techtrends.techidaily.com/curated-list-the-best-lgbt-films-to-binge-on-netflix-during-july/"><u>Curated List: The Best LGBT Films to Binge on Netflix During July</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cyberpunk-2077-evaluation-striking-despite-its-unpolished-edges/"><u>Cyberpunk 2077 Evaluation: Striking Despite Its Unpolished Edges</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-ensure-accurate-game-saves-with-fbx-recorder/"><u>How to Ensure Accurate Game Saves with FBX Recorder</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-premiere-top-10-video-editing-software-alternatives-for-beginners-and-pros/"><u>New Beyond Premiere Top 10 Video Editing Software Alternatives for Beginners and Pros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-tactics-for-unblemished-image-sourcing-for-2024/"><u>Proven Tactics for Unblemished Image Sourcing for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-adobe-premiere-elements-alternatives-for-video-enthusiasts/"><u>The Ultimate List 10 Adobe Premiere Elements Alternatives for Video Enthusiasts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>Updated Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-like-a-pro-a-comprehensive-online-video-guide/"><u>Updated Editing Like a Pro A Comprehensive Online Video Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-list-of-video-editing-software/"><u>Updated The Ultimate List of Video Editing Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/chieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-audiovisual-synchronization-in-facebook-content-creation-for-2024/"><u>[Updated] Audiovisual Synchronization in Facebook Content Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effortless-green-screening-in-kinemaster-software/"><u>[Updated] Expert Tips for Effortless Green Screening in KineMaster Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimize-your-youtube-videos-faster-rendering-smarter-uploads/"><u>[Updated] In 2024, Optimize Your YouTube Videos Faster Rendering, Smarter Uploads</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/easy-steps-to-retrieve-lost-shortcut-icons-from-the-hard-disk-in-various-versions-of-windows/"><u>Easy Steps to Retrieve Lost Shortcut Icons From the Hard Disk in Various Versions of Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y02t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-looking-for-virtualdub-alternatives-here-are-the-best-options/"><u>In 2024, Looking for VirtualDub Alternatives? Here Are the Best Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-nikon-footage-a-step-by-step-guide-to-video-editing/"><u>In 2024, Mastering Nikon Footage A Step-by-Step Guide to Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>New QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-security-camera-software-reviews-top-10/"><u>Updated Free Security Camera Software Reviews Top 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-wmv-video-stitching-tools-expert-recommendations/"><u>Updated Free WMV Video Stitching Tools Expert Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-guide-to-converting-videos-to-photos-10-best-converters/"><u>Updated From Motion to Still A Guide to Converting Videos to Photos 10 Best Converters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-on-the-horizon-for-apple-event-date-rumors-and-breakthrough-news-revealed/"><u>What's on the Horizon for Apple? Event Date, Rumors & Breakthrough News Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whats-the-best-green-screen-app-for-mac-weve-got-the-answer/"><u>Whats the Best Green Screen App for Mac? Weve Got the Answer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-visuals-perfecting-banners-and-thumbnails-for-2024/"><u>YouTube Visuals Perfecting Banners and Thumbnails for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Running Linux on a Chromebook (Updated 2023)
-date: 2024-10-12T16:14:45.228Z
-updated: 2024-10-18T18:02:08.465Z
+date: 2024-10-17T05:13:32.027Z
+updated: 2024-10-24T05:31:55.746Z
 tags: 
   - video editing software
   - video editing
@@ -42,6 +42,13 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Regardless of which method of installing Linux OS you choose, you will have to switch to the Developer Mode, a special built-in function that allows you to install the unapproved operating system, among other things.
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
 After you have stored all your data safely, your Chromebook is ready for the beginning of the installation process of the secondary operating system. You will have to perform a series of actions that will allow you to start the installation, starting from accessing the Developer Mode.
@@ -52,18 +59,18 @@ The first step of the process is to reboot your system, while your Chromebook is
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
 
@@ -90,13 +97,6 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3. Uninstall ChrUbuntu
 
@@ -127,10 +127,10 @@ Each of the options to install a Linux OS on your Chromebook we described has it
 On the other hand, other methods require more knowledge about the Linux OS installation process and switching between OS' is not that simple. If you are looking for an easy way to dual-boot your Chromebook that best way to do it is to install Linux as a Chroot using Crouton.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: Recommended Linux Video Editing Software: Lightworks
@@ -148,10 +148,10 @@ The software is compatible with Mac, Windows, and Linux OS, which makes it a per
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -169,21 +169,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-clearview-pro-5-screen-mastery/"><u>[New] 2024 Approved ClearView Pro 5 - Screen Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-writing-youtube-video-content/"><u>[New] 2024 Approved Demystifying the Process of Writing YouTube Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters-for-2024/"><u>[Updated] Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters) for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-pinnacle-of-phone-innovation-an-insightful-review-of-the-moto-g-powers-robust-operation-and-enduring-energy-reserves/"><u>Exploring the Pinnacle of Phone Innovation: An Insightful Review of the Moto G Power's Robust Operation and Enduring Energy Reserves</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>In 2024, Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>In 2024, Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://win-trending.techidaily.com/inkrementelle-backup-erstellung-fur-windows-server-auf-dem-netzwerk-einfache-anleitung/"><u>Inkrementelle Backup-Erstellung Für Windows Server Auf Dem Netzwerk: Einfache Anleitung</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-learn/"><u>Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-unresponsiveness-of-windows-10s-file-explorer-step-by-step-solutions/"><u>Overcome Unresponsiveness of Windows 10'S File Explorer – Step by Step Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-10-4k-video-conversion-tools/"><u>The Best of the Best Top 10 4K Video Conversion Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-avi-video-editors-for-cutting-and-trimming-multi-platform-support/"><u>Top-Rated AVI Video Editors for Cutting and Trimming Multi-Platform Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-mechanisms-of-fairness-on-xbox-platform/"><u>Understanding Mechanisms of Fairness on Xbox Platform</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-pinnacle-studio-here-are-the-best-mac-video-editing-alternatives/"><u>Updated Ditch Pinnacle Studio? Here Are the Best Mac Video Editing Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-avi-editing-a-step-by-step-guide-to-splitting-and-trimming/"><u>Updated Effortless AVI Editing A Step-by-Step Guide to Splitting and Trimming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-available-avi-player-cross-platform-compatibility/"><u>2024 Approved Best Available AVi Player - Cross-Platform Compatibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-determining-the-perfect-aspect-ratio/"><u>2024 Approved Determining the Perfect Aspect Ratio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-in-depth-look-at-videorecorderpros-features-and-review/"><u>2024 Approved In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-a2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi A2 FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-smoothers-our-top-picks/"><u>New Free Online Video Smoothers Our Top Picks</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-instructions-for-converting-and-saving-rainierland-movie-files-as-mp4-or-avi/"><u>Step-by-Step Instructions for Converting and Saving Rainierland Movie Files as MP4 or AVI</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-dvr-face-off-tivo-vs-comcast-xfinity-for-2024/"><u>The Ultimate DVR Face-Off TiVo vs Comcast Xfinity for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-stunning-transitions-top-10-premiere-pro-plugins/"><u>Unlock Stunning Transitions Top 10 Premiere Pro Plugins</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-video-editing-software-for-32-bit-windows/"><u>Updated Best Free Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-picks-best-text-animation-and-tracking-software-2023/"><u>Updated Expert Picks Best Text Animation and Tracking Software 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>Updated From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
 </ul></div>
 

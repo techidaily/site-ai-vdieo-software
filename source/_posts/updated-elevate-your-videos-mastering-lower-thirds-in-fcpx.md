@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Videos Mastering Lower Thirds in FCPX
-date: 2024-10-14T16:14:13.000Z
-updated: 2024-10-18T17:20:31.350Z
+date: 2024-10-17T00:00:51.362Z
+updated: 2024-10-24T13:19:32.301Z
 tags: 
   - video editing software
   - video editing
@@ -101,6 +101,13 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -108,19 +115,6 @@ In this section, you will learn to make a lower third element using a Final Cut 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
 
@@ -141,16 +135,29 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -171,13 +178,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -187,10 +187,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -208,18 +208,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-mac-screen-recorder-options-not-bandicam/"><u>[New] Superior Mac Screen Recorder Options, Not Bandicam</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-5-best-toy-drones/"><u>[Updated] In 2024, 5 Best Toy Drones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-newbie-vlogger-tips-simple-video-concepts/"><u>[Updated] Newbie Vlogger Tips Simple Video Concepts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta-for-2024/"><u>10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/authentic-acclaim-client-filmed-reviews/"><u>Authentic Acclaim: Client-Filmed Reviews</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplified-avatar-design-in-the-metaverse-explained/"><u>In 2024, Simplified Avatar Design in the Metaverse Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-change-with-conversational-ai-in-medicine/"><u>Pioneering Change with Conversational AI in Medicine</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources/"><u>The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/update-alert-star-wars-jedi-fallen-orders-technical-problems-addressed-on-pc-platform/"><u>Update Alert: Star Wars Jedi: Fallen Order's Technical Problems Addressed on PC Platform</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>Updated Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>Updated How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-slow-motion-video-editing-software/"><u>Updated Top 10+ Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windows-screen-imaging-technique-for-2024/"><u>[New] Windows Screen Imaging Technique for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-see-upgrades-in-vr-armor/"><u>2024 Approved Must-See Upgrades in VR Armor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-updating-the-epson-l3150-driver-on-different-windows-versions/"><u>Comprehensive Guide to Downloading & Updating the Epson L3150 Driver on Different Windows Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-beginner-to-pro-best-mac-video-editing-software/"><u>In 2024, From Beginner to Pro Best Mac Video Editing Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-chatbot-dialogue-learn-the-7-secrets-of-effective-gpt-3-prompts/"><u>Revamp Your Chatbot Dialogue: Learn the 7 Secrets of Effective GPT-3 Prompts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/subtitle-edit-not-meeting-your-needs-here-are-some-powerful-mac-alternatives/"><u>Subtitle Edit Not Meeting Your Needs? Here Are Some Powerful Mac Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-10-pro-audio-editing-software/"><u>The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultra-fast-windows-view-for-pictures/"><u>Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-the-10-most-popular-animated-text-creators/"><u>Unleash Creativity The 10 Most Popular Animated Text Creators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
 </ul></div>
 

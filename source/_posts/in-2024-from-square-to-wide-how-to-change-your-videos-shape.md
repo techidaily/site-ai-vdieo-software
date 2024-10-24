@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-10-16T19:13:13.561Z
-updated: 2024-10-18T16:00:42.786Z
+date: 2024-10-16T22:28:55.107Z
+updated: 2024-10-23T23:46:30.943Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,16 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -98,6 +92,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -107,10 +108,16 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -163,13 +170,6 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -185,21 +185,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-backwards-play-iphones-unique-reverse-feature/"><u>[Updated] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-c50-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco C50 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728496547856-hddssd/"><u>逐步操作：完美地複製你現有系統的啟動硬碟到其他HDD或SSD上</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-motorola-moto-g84-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Motorola Moto G84 5G.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-ai-mastery-googles-palm-2-and-bard-collaboration/"><u>Enhancing AI Mastery: Google's PaLM 2 & Bard Collaboration</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>In 2024, Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-struggling-with-app-installations-discover-these-10-effective-fixes/"><u>IPhone Struggling with App Installations? Discover These 10 Effective Fixes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-videos-freely-7-watermark-free-editors/"><u>New Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>New Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-dota-2-for-seamless-gaming-solutions-for-fps-drop-woes-in-windows-11-and-10/"><u>Optimize Dota 2 for Seamless Gaming: Solutions for FPS Drop Woes in Windows 11 and 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-reaction-video-editing-apps/"><u>The Best of the Best Top Reaction Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/1723262388024-the-future-of-gaming-begins-with-asuss-launch-the-rog-nuc-amd-ryzen-9-cpu-plus-rtx-nvidia-gpu-for-a-steal-at-just-1629/"><u>The Future of Gaming Begins with Asus's Launch: The ROG NUC - AMD Ryzen 9 CPU + RTX nVidia GPU for a Steal at Just $1,629!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-4-secrets-for-adding-online-vids-seamlessly-in-ppt-for-2024/"><u>[Updated] 4 Secrets for Adding Online Vids Seamlessly in PPT for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-ideal-internet-filters-and-routers-for-families/"><u>Expert Picks: Ideal Internet Filters and Routers for Families</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lip-sync-videos-are-a-great-source-of-fun-and-producing-them-doesnt-require-you-to-have-a-professional-video-or-sound-equipment-in-this-article-we-are-going/"><u>Lip Sync Videos Are a Great Source of Fun, and Producing Them Doesnt Require You to Have a Professional Video or Sound Equipment. In This Article, We Are Going to Introduce You to some of the Best Li</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-paid-time-lapse-video-editors-a-comparative-analysis/"><u>New Free & Paid Time-Lapse Video Editors A Comparative Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/privacy-focused-instagram-story-insight-methodology/"><u>Privacy-Focused Instagram Story Insight Methodology</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-activating-and-using-chatgpt-widgets-on-android-phones/"><u>Step-by-Step: Activating and Using ChatGPT Widgets on Android Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-better-connectivity-with-netgears-ac1200-extender-ex6-an-in-depth-review-for-enhanced-wifi-coverage/"><u>Unlocking Better Connectivity with Netgear's AC1200 Extender (EX6#): An In-Depth Review for Enhanced WiFi Coverage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-8-premium-mp3-extraction-software-android/"><u>Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
 </ul></div>
 

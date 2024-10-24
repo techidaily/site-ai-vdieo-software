@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-12T18:29:32.766Z
-updated: 2024-10-18T19:47:51.164Z
+date: 2024-10-23T09:52:11.408Z
+updated: 2024-10-23T19:05:48.565Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,10 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,16 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -127,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,18 +142,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>[New] Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-boosting-creativity-a-compreehensive-guide-to-enhanced-obs-edits/"><u>[New] In 2024, Boosting Creativity A Compreehensive Guide to Enhanced OBS Edits</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[Updated] 2024 Approved The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-expert-tips-the-finest-7-wet-proof-recorders/"><u>[Updated] Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>2024 Approved Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/blocking-anonymous-incoming-calls-iphone-users-handbook-for-privacy-protection/"><u>Blocking Anonymous Incoming Calls: IPhone User's Handbook for Privacy Protection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-a15-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy A15 4G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-windows-drivers-for-your-msi-gs65-graphics-card-today/"><u>Get the Newest Windows Drivers for Your MSI GS65 Graphics Card Today</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-nubia-z60-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Nubia Z60 Ultra for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/instant-neon-magic-8-easy-to-use-online-text-generators-this-year/"><u>Instant Neon Magic 8 Easy-to-Use Online Text Generators This Year</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>New From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-windows-10-photos-here-are-8-better-options/"><u>Unhappy with Windows 10 Photos? Here Are 8 Better Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-fcpx-goodness-10-must-have-plugins/"><u>Updated Free FCPX Goodness 10 Must-Have Plugins</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>[New] 2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-methodology-tracking-youtube-traffic-and-income/"><u>[New] In 2024, Step-by-Step Methodology Tracking YouTube Traffic & Income</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/solved-obs-full-screen-not-working/"><u>[Solved] OBS Full Screen Not Working</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-googles-gemini-a-comprehensive-study-of-its-ai-endeavors/"><u>Dissecting Google’s Gemini: A Comprehensive Study of Its AI Endeavors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>In 2024, From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/include-at-least-three-medical-imaging-technical-terms-redefined-in-an-astrological-context-eg-ct-scans-could-represent-transformative-life-phases/"><u>Include at Least Three Medical Imaging Technical Terms Redefined in an Astrological Context (E.g., CT Scans Could Represent Transformative Life Phases).</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/monitor-selection-mastery-ultrawide-versus-uhd-4k-for-2024/"><u>Monitor Selection Mastery UltraWide Versus UHD 4K for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-arm-support-arrives-filmora-x-update-now-live/"><u>New ARM Support Arrives Filmora X Update Now Live</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>New Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-s-best-face-swap-apps-for-iphone-and-android/"><u>New S Best Face Swap Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs-for-2024/"><u>Optimizing Audio & Visuals in Mobile Broadcasting via OBS for 2024</u></a></li>
 </ul></div>
 

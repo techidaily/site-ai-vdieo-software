@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Subtitle Tutorial How to Add Captions Like a Pro
-date: 2024-10-13T18:59:22.443Z
-updated: 2024-10-18T17:12:17.182Z
+date: 2024-10-23T01:32:05.566Z
+updated: 2024-10-24T01:45:49.359Z
 tags: 
   - video editing software
   - video editing
@@ -50,13 +50,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -86,17 +79,10 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
@@ -129,6 +115,13 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * **Use the keyboard shortcut keys**
@@ -138,10 +131,10 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,6 +142,13 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -165,24 +165,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-full-featured-insight-mac-meets-screenflow-v4/"><u>[New] 2024 Approved Full-Featured Insight Mac Meets ScreenFlow V4</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-best-online-mp3-extractors-from-tiktok-videos-top-6-rankings-for-2024/"><u>[Updated] Best Online MP3 Extractors From TikTok Videos - Top 6 Rankings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-intros-a-comprehensive-instructional-guide-for-2024/"><u>[Updated] Free YouTube Intros A Comprehensive Instructional Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[Updated] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cost-effective-pc-video-capturing-essentials-checklist/"><u>2024 Approved Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>2024 Approved Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-underdeveloped-world-of-vr-experiences/"><u>2024 Approved The Underdeveloped World of VR Experiences</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/formulating-gripping-narratives-for-your-vlogs/"><u>Formulating Gripping Narratives for Your Vlogs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Spark 20</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-filmora-13-editor-download-create-stunning-videos/"><u>In 2024, Free Filmora 13 Editor Download Create Stunning Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/low-cost-filmmaking-essentials-7-must-know-software-2023-update/"><u>Low-Cost Filmmaking Essentials 7 Must-Know Software 2023 Update</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-install-linux-on-chromebook/"><u>New How to Install Linux on Chromebook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creativity-top-3d-animation-software-free-and-paid/"><u>Unlock Your Creativity Top 3D Animation Software Free and Paid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>Updated Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-essential-fcpx-plugins-free-and-paid-favorites/"><u>Updated Essential FCPX Plugins Free and Paid Favorites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-paid-3d-animation-solutions-a-comprehensive-review/"><u>Updated Free and Paid 3D Animation Solutions A Comprehensive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pc-review-a-quick-overview/"><u>VN Video Editor PC Review A Quick Overview</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y36-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y36 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-combat-blurry-iphone-hdri-4-pivotal-tips-for-premiere-pro-users/"><u>2024 Approved Combat Blurry iPhone HDRI 4 Pivotal Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-s23plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel S23+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-thumbs-up-creating-your-own-google-image-mosaic/"><u>In 2024, Quick Thumbs Up Creating Your Own Google Image Mosaic</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-on-iphone-for-free-top-5-essential-tools/"><u>Rotate Videos on iPhone for Free Top 5 Essential Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-mpeg-video-stitching-software/"><u>The Best Free MPEG Video Stitching Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-avs-video-editor-review-and-rating/"><u>Updated A Closer Look at AVS Video Editor Review and Rating</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-tones-in-seconds-5-best-online-generators/"><u>Updated Create Tones in Seconds 5 Best Online Generators</u></a></li>
 </ul></div>
 

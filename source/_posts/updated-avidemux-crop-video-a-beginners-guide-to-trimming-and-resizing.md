@@ -1,7 +1,7 @@
 ---
 title: Updated Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-10-15T16:42:17.358Z
-updated: 2024-10-18T16:40:01.636Z
+date: 2024-10-17T13:17:07.927Z
+updated: 2024-10-24T06:02:24.988Z
 tags: 
   - video editing software
   - video editing
@@ -114,22 +114,15 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
@@ -137,10 +130,10 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
@@ -148,15 +141,22 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -175,19 +175,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-xbox-live-top-four-recording-techniques-for-2024/"><u>[Updated] Mastering Xbox Live Top Four Recording Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-reactive-content-unveiled/"><u>[Updated] Twitter's Reactive Content Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a15-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A15 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guide-securitaire-modifier-le-partitionnement-dans-lenvironnement-de-sauvegarde-de-windows/"><u>Guide Sécuritaire : Modifier Le Partitionnement Dans L'environnement De Sauvegarde De Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>In 2024, From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-start-leading-free-video-openers-listed/"><u>In 2024, Perfect Start Leading Free Video Openers Listed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-stabilizer-websites-smooth-out-your-footage/"><u>New Best Free Video Stabilizer Websites Smooth Out Your Footage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pioneer-the-future-of-youtube-content-with-tubebuddy-for-2024/"><u>Pioneer the Future of YouTube Content with TubeBuddy for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pumpkin-carving-rituals-from-everywhere/"><u>Pumpkin Carving Rituals From Everywhere</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-regain-zoom-audio-on-windows-or-mac-computers/"><u>Quick Fixes to Regain Zoom Audio on Windows or Mac Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-mpeg-video-stitching-software/"><u>The Best Free MPEG Video Stitching Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-avs-video-editor-review-and-rating/"><u>Updated A Closer Look at AVS Video Editor Review and Rating</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-tones-in-seconds-5-best-online-generators/"><u>Updated Create Tones in Seconds 5 Best Online Generators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-no-fuss-video-snipping-for-w10-users/"><u>[New] No-Fuss Video Snipping for W10 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[Updated] 2024 Approved From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-master-the-art-of-recording-10-best-no-cost-mac-software/"><u>[Updated] In 2024, Master the Art of Recording 10 Best No-Cost Mac Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[Updated] Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C300?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-the-ken-burns-effect-in-final-cut-pro-a-step-by-step-guide/"><u>Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-production-adobe-premiere-pro-on-mac/"><u>New Elevate Your Video Production Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/performance-evaluation-for-tp-link-re505x-wireless-signal-booster/"><u>Performance Evaluation for TP-Link RE505X Wireless Signal Booster</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/sony-camcorder-video-post-production-made-easy-a-beginners-guide-for-2024/"><u>Sony Camcorder Video Post-Production Made Easy A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-focuses-on-telling-you-the-top-10-free-and-best-quicktime-mov-movie-editors-all-of-them-are-very-easy-to-use/"><u>This Article Focuses on Telling You the Top 10 FREE and Best QuickTime (MOV) Movie Editors. All of Them Are Very Easy to Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-essentials-6-time-saving-tips-for-better-video-edits/"><u>Updated Adobe Premiere Pro Essentials 6 Time-Saving Tips for Better Video Edits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-top-intro-makers-for-pc-both-online-and-offline/"><u>Updated Best Top Intro Makers for PC, Both Online and Offline</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easily-animate-your-photos-the-9-best-online-tools/"><u>Updated Easily Animate Your Photos The 9 Best Online Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-10-14T19:38:40.805Z
-updated: 2024-10-18T18:41:39.562Z
+date: 2024-10-20T05:32:08.443Z
+updated: 2024-10-24T02:57:03.902Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -60,10 +67,10 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -91,6 +98,13 @@ Position the element at the perfect place on the screen to ensure its visibility
 Proper alignment and the best coordinates on the screen make the lower third module shine better in your video. Proper placement of this element decides the impact on it.
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
@@ -122,13 +136,6 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -142,10 +149,10 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -165,13 +172,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategies-for-replaying-group-conversations/"><u>[New] 2024 Approved Strategies for Replaying Group Conversations</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>[New] Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-magnetic-content-with-personalized-animated-gifs/"><u>[New] In 2024, Crafting Magnetic Content with Personalized Animated GIFs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>[Updated] In 2024, Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-m14-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy M14 4G by Name | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-rapida-y-gratuita-de-archivos-qt-online-la-guia-definitiva-para-convertqt/"><u>Conversión Rápida Y Gratuita De Archivos QT Online: La Guía Definitiva Para convertQT</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-2023-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 2023 To Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-green-screen-in-fcp-x-a-step-by-step-guide/"><u>In 2024, Mastering Green Screen in FCP X A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-personalized-playlist-blueprint-for-youtube/"><u>In 2024, Your Personalized Playlist Blueprint for YouTube</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-android-and-iphones-finest-video-creators-with-music-integration/"><u>New Android and iPhones Finest Video Creators with Music Integration</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-rated-free-mpeg-video-splitting-tools/"><u>New Best of the Best Top-Rated Free MPEG Video Splitting Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-premiere-rush-top-alternative-video-editing-software/"><u>New Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows/"><u>New Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>New Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-2024-mastering-audio-video-sync-for-seamless-edits/"><u>New Final Cut Pro X 2024 Mastering Audio-Video Sync for Seamless Edits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/propel-engagement-on-stories-via-curated-creative-qs/"><u>Propel Engagement on Stories via Curated Creative Qs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-script-to-screen-a-kids-adventure-in-movie-making/"><u>Updated From Script to Screen A Kids Adventure in Movie Making</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[New] 2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[New] Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-hidden-potential-essential-edits-for-starters/"><u>[New] Unlock Hidden Potential Essential Edits for Starters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-musical-integration-for-social-storytelling-platforms-for-2024/"><u>[Updated] Musical Integration for Social Storytelling Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlimited-movie-magic-youtubes-10-must-see-films-free/"><u>[Updated] Unlimited Movie Magic YouTube's 10 Must-See Films, Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-boot-into-advanced-startup-options-in-windows-10-easily/"><u>How to Boot Into Advanced Startup Options in Windows 10 Easily?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-top-10-movies-crafted-with-final-cut-pro/"><u>In 2024, From Script to Screen Top 10 Movies Crafted with Final Cut Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y100a-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y100A Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>In 2024, Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laughmaker-quick-meme-and-image-crafter/"><u>LaughMaker Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-express-yourself-but-better-the-advantages-of-final-cut-pro/"><u>New Express Yourself, But Better The Advantages of Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-avchd-video-editing-software/"><u>New Top 5 AVCHD Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-video-editing-essentials-tips-and-tricks-for-2024/"><u>OS X Mavericks Video Editing Essentials Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/text-animation-made-easy-top-mobile-video-editing-apps/"><u>Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-free-and-paid-time-lapse-video-editors/"><u>The Best of Both Worlds Free and Paid Time-Lapse Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-gopro-studio-discover-the-best-video-editing-tools-for-your-action-cam/"><u>Updated Ditch GoPro Studio Discover the Best Video Editing Tools for Your Action Cam</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
 </ul></div>
 

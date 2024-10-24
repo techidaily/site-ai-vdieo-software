@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact
-date: 2024-10-15T19:37:22.151Z
-updated: 2024-10-18T16:16:40.611Z
+date: 2024-10-19T23:44:47.351Z
+updated: 2024-10-23T16:03:36.990Z
 tags: 
   - video editing software
   - video editing
@@ -51,6 +51,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -58,10 +65,16 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -73,6 +86,13 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -92,13 +112,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -106,10 +119,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -119,13 +132,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,17 +148,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-monetization-unlocking-partnerships-without-limits/"><u>[Updated] Maximizing Monetization Unlocking Partnerships Without Limits</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-gaming-mouse-software-compatible-with-windows-7-8-and-10/"><u>Download Logitech Gaming Mouse Software Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-30i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 30i Phone Screen?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-picks/"><u>In 2024, Free WebM Video Editing Software Top Picks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-playtime-perfection-the-kiddo-gamer-guide/"><u>In 2024, Playtime Perfection The Kiddo Gamer Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>New An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-gta-5-wont-startup/"><u>Resolved: Fixes for 'GTA 5 Won't Startup'</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-arma-3-disruptions-comprehensive-troubleshooting-tips-for-the-latest-updates/"><u>Stop Arma 3 Disruptions: Comprehensive Troubleshooting Tips for the Latest Updates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-and-paid-3d-animation-programs/"><u>Updated Discover the Best Free and Paid 3D Animation Programs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-edit-videos-shot-by-sony-digital-camcorder/"><u>Updated How to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-2023-review/"><u>Video Editing Showdown Sony Vegas vs Adobe Premiere Pro 2023 Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-how-facebook-twitter-instagram-and-youtube-shape-our-online-experiences/"><u>Connecting the World: How Facebook, Twitter, Instagram & YouTube Shape Our Online Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converti-dvd-gratis-in-file-mp4-per-windows-e-mac-con-winxdvd-guida-completa/"><u>Converti DVD Gratis in File MP4 per Windows E Mac Con WinXDVD: Guida Completa</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>New Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-create-stunning-home-dvds-with-the-best-video-editing-tools/"><u>New Easily Create Stunning Home DVDs with the Best Video Editing Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-editing-troubleshooting-final-cut-pro-x/"><u>New Effortless Editing Troubleshooting Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-m4a-editor-downloads-top-5-options/"><u>New Free M4A Editor Downloads Top 5 Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-mov-video-rotators/"><u>New Top 5 Free MOV Video Rotators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-itbm-driver-unavailable-issue-quickly/"><u>Resolving the 'ITBM Driver Unavailable' Issue Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/smooth-path-from-instagram-visuals-to-mp3-sound/"><u>Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames</u></a></li>
 </ul></div>
 

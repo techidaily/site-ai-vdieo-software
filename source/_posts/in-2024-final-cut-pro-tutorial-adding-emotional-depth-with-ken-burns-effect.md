@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-10-13T16:21:01.564Z
-updated: 2024-10-18T17:16:29.041Z
+date: 2024-10-19T07:01:50.994Z
+updated: 2024-10-24T10:27:56.485Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -49,13 +49,6 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -81,9 +74,23 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -105,13 +112,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -121,10 +121,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,19 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-how-to-find-facebook-recently-watched-videos/"><u>[Updated] 2024 Approved 2023 | How to Find Facebook Recently Watched Videos?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-clearer-connections-a-comprehensive-guide-to-crop-and-share-on-instagram/"><u>[Updated] In 2024, Clearer Connections A Comprehensive Guide to Crop and Share on Instagram</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-xperia-10-v-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Xperia 10 V Phone When You Forget the Password</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-activer-avec-succes-movavi-sur-votre-ordinateur-un-tutoriel-detaille-pour-windows-users/"><u>Comment Activer Avec Succès Movavi Sur Votre Ordinateur - Un Tutoriel Détaillé Pour Windows Users.</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/coupe-video-premium-free-pour-windows-et-macos-supprimer-efficacement-les-sequences-inutiles/"><u>Coupe-Vidéo Premium Free Pour Windows Et macOS : Supprimer Efficacement Les Séquences Inutiles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-in-pc-gear-with-toms-hardware-guides/"><u>Exploring the Latest in PC Gear with Tom's Hardware Guides</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-5-fantastic-free-video-watermark-removers-and-adders/"><u>New 5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-shooting-videos-in-high-resolutions-can-help-you-create-visually-impressive-content-your-followers-on-social-media-are-going-to-adore-in-this-article-we/"><u>New Shooting Videos in High Resolutions Can Help You Create Visually Impressive Content Your Followers on Social Media Are Going to Adore. In This Article We Are Going to Take You Through the 10 Best Vid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-video-compression-apps-for-ios-devices/"><u>New Top 5 Free Video Compression Apps for iOS Devices</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/strategies-de-sauvegarde-des-fichiers-de-jeu-pour-pc-gerer-les-backups-avec-steam-epic-games-et-autres-details/"><u>Stratégies De Sauvegarde Des Fichiers De Jeu Pour PC - Gérer Les Backups Avec Steam, Epic Games Et Autres Détails</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-split-screen-video-editor-online-and-offline/"><u>Updated Best Free Split Screen Video Editor Online & Offline</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-the-top-8-animation-software-for-mac-and-windows/"><u>Updated Bring Your Ideas to Life The Top 8 Animation Software for Mac and Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-hand-drawing-whiteboard-animation-creators/"><u>Updated Discover the Best Hand Drawing Whiteboard Animation Creators</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1726792607057-y-3/"><u> [Y = -3 </u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-gopro-content-integration-with-social-networks-for-2024/"><u>[New] Maximizing GoPro Content Integration with Social Networks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-non-profit-gaming-audio-archive-downloadable/"><u>[New] Non-Profit Gaming Audio Archive Downloadable</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>[Updated] In 2024, The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-whats-ideal-fps-for-capturing-stunning-slow-motion-cinematography-in-2024/"><u>[Updated] What's Ideal FPS for Capturing Stunning Slow Motion Cinematography, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-pull-the-crowd-tactics-for-viral-instagram-videos/"><u>2024 Approved Pull the Crowd Tactics for Viral Instagram Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-the-perfect-samsung-gear-360-replacement-our-list-of-2023s-best-cameras/"><u>2024 Approved Seeking the Perfect Samsung Gear 360 Replacement Our List of 2023'S Best Cameras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-process-of-rotating-a-video-is-rather-simple-and-you-dont-need-access-to-a-professional-video-editing-app-like-adobe-premiere-pro-to-perform-thi/"><u>In 2024, The Process of Rotating a Video Is Rather Simple, and You Dont Need Access to a Professional Video Editing App Like Adobe Premiere Pro to Perform This Task, because There Are Quite a Few Online Platf</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-essentials-adding-picture-in-picture-effects/"><u>New Final Cut Pro Essentials Adding Picture-in-Picture Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>New From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-or-slow-down-the-ultimate-camtasia-video-editing-guide/"><u>Speed Up or Slow Down The Ultimate Camtasia Video Editing Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-kodi-user-manual-comprehensive-tips-and-tricks-on-pages-2-4/"><u>Ultimate Kodi User Manual - Comprehensive Tips & Tricks on Pages 2-4</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-sony-vegas-alternatives-for-windows-video-creators/"><u>Unleash Your Creativity Best Sony Vegas Alternatives for Windows Video Creators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-for-beginners-a-step-by-step-guide-to-getting-started/"><u>Updated Free Video Editing for Beginners A Step-by-Step Guide to Getting Started</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-novice-to-pro-mastering-wax-free-video-editor-in/"><u>Updated From Novice to Pro Mastering Wax Free Video Editor In</u></a></li>
 </ul></div>
 

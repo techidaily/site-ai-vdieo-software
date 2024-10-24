@@ -1,7 +1,7 @@
 ---
 title: New Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes
-date: 2024-10-11T17:27:47.782Z
-updated: 2024-10-18T19:25:31.536Z
+date: 2024-10-20T19:26:03.362Z
+updated: 2024-10-23T23:46:04.410Z
 tags: 
   - video editing software
   - video editing
@@ -95,10 +95,10 @@ First, if you haven't got Filmora, click here to download it for free!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
@@ -115,13 +115,6 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -134,17 +127,17 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -153,6 +146,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -179,6 +179,13 @@ Search for **Chromatic Aberration effect**.
 You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
@@ -216,13 +223,6 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -238,16 +238,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-pcs-ultimate-selection-of-ps3-emulation-tools/"><u>[Updated] 2024 Approved PC's Ultimate Selection of PS3 Emulation Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-building-an-audience-on-ig-steps-to-reach-1k-in-one-month/"><u>[Updated] In 2024, Building an Audience on IG Steps to Reach 1K in One Month</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c51-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco C51 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-5-hd-high-definition-video-editing-software/"><u>In 2024, Top 5 HD (High-Definition) Video Editing Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-snapshots-made-easy-top-10-converters-for-converting-videos-to-images/"><u>New 2024 Approved Video Snapshots Made Easy Top 10 Converters for Converting Videos to Images</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-20-free-adobe-premiere-title-templates-to-download/"><u>New Best 20 Free Adobe Premiere Title Templates to Download</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-3d-animation-makers-for-stunning-videos/"><u>New Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-xml-essentials-what-you-need-to-know/"><u>New FCPX XML Essentials What You Need to Know</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-iphone-discover-simple-solutions-to-restore-audio/"><u>Silent iPhone? Discover Simple Solutions to Restore Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-ogv-en-webm-facilement-et-gratuitement-via-movavi-online-tutoriel-rapide/"><u>Transformez Vos Fichiers OGV en Webm Facilement Et Gratuitement via Movavi Online - Tutoriel Rapide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/why-is-my-steam-games-slow-effective-ways-to-improve-game-load-times/"><u>Why Is My Steam Games Slow? Effective Ways to Improve Game Load Times</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>[Updated] In 2024, Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stopcapture-screen-freeze-assist/"><u>[Updated] StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-inbuilt-iphone-apps-removable-or-permanent-software-features/"><u>Are Inbuilt iPhone Apps Removable or Permanent Software Features?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/close-up-mastery-in-video-production-via-videoleap/"><u>Close-Up Mastery in Video Production via Videoleap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-to-cost-free-text-animations-onlineoff/"><u>Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-programs-to-edit-mp4-video-tags/"><u>New Best Programs to Edit MP4 Video Tags</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-faces-with-ease-10-best-free-photo-and-video-editing-apps/"><u>New Blur Faces with Ease 10 Best Free Photo and Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-time-lapses-with-final-cut-pro-a-beginners-guide/"><u>New Create Stunning Time Lapses with Final Cut Pro A Beginners Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android/"><u>New Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-child-friendly-game-collection-for-2024/"><u>Ultimate Child-Friendly Game Collection for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-2-simple-ways-to-add-professional-audio-fades/"><u>Updated Final Cut Pro 2 Simple Ways to Add Professional Audio Fades</u></a></li>
 </ul></div>
 
