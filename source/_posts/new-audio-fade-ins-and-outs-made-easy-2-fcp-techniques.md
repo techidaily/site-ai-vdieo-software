@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-23T09:52:11.408Z
-updated: 2024-10-23T19:05:48.565Z
+date: 2024-10-22T22:43:45.262Z
+updated: 2024-10-30T07:22:17.474Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +108,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -119,13 +126,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,17 +142,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>[New] 2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-methodology-tracking-youtube-traffic-and-income/"><u>[New] In 2024, Step-by-Step Methodology Tracking YouTube Traffic & Income</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/solved-obs-full-screen-not-working/"><u>[Solved] OBS Full Screen Not Working</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-googles-gemini-a-comprehensive-study-of-its-ai-endeavors/"><u>Dissecting Google’s Gemini: A Comprehensive Study of Its AI Endeavors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>In 2024, From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/include-at-least-three-medical-imaging-technical-terms-redefined-in-an-astrological-context-eg-ct-scans-could-represent-transformative-life-phases/"><u>Include at Least Three Medical Imaging Technical Terms Redefined in an Astrological Context (E.g., CT Scans Could Represent Transformative Life Phases).</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/monitor-selection-mastery-ultrawide-versus-uhd-4k-for-2024/"><u>Monitor Selection Mastery UltraWide Versus UHD 4K for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-arm-support-arrives-filmora-x-update-now-live/"><u>New ARM Support Arrives Filmora X Update Now Live</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>New Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-s-best-face-swap-apps-for-iphone-and-android/"><u>New S Best Face Swap Apps for iPhone and Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs-for-2024/"><u>Optimizing Audio & Visuals in Mobile Broadcasting via OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[Updated] In 2024, Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-fcp-is-one-of-the-most-powerful-editing-tools-often-used-by-professional-editors-around-the-globe/"><u>In 2024, Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y27-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y27 4G Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-top-alternatives-to-pinnacle-studio/"><u>Mac Users, Rejoice! Top Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-neon-effects-online-8-simple-and-free-tools-to-get-you-started/"><u>New Create Neon Effects Online 8 Simple and Free Tools to Get You Started</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-pinnacle-top-tripods-for-android-and-iphones/"><u>Photo Pinnacle Top Tripods for Android & iPhones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-top-free-vob-video-editors/"><u>Updated Edit Like a Pro Top Free VOB Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-video-speed-a-step-by-step-camtasia-tutorial/"><u>Updated Mastering Video Speed A Step-by-Step Camtasia Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-animators-toolkit-8-essential-software-for-mac-and-windows/"><u>Updated The Animators Toolkit 8 Essential Software for Mac and Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/virtual-reality-wars-which-tech-rules-the-gamers-world/"><u>Virtual Reality Wars Which Tech Rules the Gamer’s World</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-ultimate-guide-to-fb-visual-privacy-control/"><u>Your Ultimate Guide to FB Visual Privacy Control</u></a></li>
 </ul></div>
 

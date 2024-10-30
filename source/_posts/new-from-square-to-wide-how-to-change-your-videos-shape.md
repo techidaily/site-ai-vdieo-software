@@ -1,7 +1,7 @@
 ---
 title: New From Square to Wide How to Change Your Videos Shape
-date: 2024-08-15T05:27:35.358Z
-updated: 2024-08-16T05:27:35.358Z
+date: 2024-10-27T05:23:25.563Z
+updated: 2024-10-29T21:09:39.422Z
 tags: 
   - video editing software
   - video editing
@@ -55,17 +55,29 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -86,9 +98,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -96,8 +105,12 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -149,8 +162,12 @@ A) In Filmora, Image Mask allows you to use an image (or any available preset) f
 A) At the time of this writing, Wondershare Filmora has around 40 image mask presets. In addition, it also allows you to add custom images from your PC for more dynamic approach.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -159,11 +176,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-key-understanding-of-online-narration-art/"><u>[New] 2024 Approved Key Understanding of Online Narration Art</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[New] Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-the-power-of-emojis-for-yt-feedback-for-2024/"><u>[New] Unlock the Power of Emojis for YT Feedback for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-align-video-elements-in-your-playback-directory/"><u>[Updated] Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>[Updated] The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Meizu 21 Pro FRP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-screen-top-periscope-substitutes-for-smartphones/"><u>In 2024, Beyond the Screen Top Periscope Substitutes for Smartphones</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a05-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A05 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-lol-to-omg-the-best-meme-creator-apps-for-android-and-ios/"><u>In 2024, From LOL to OMG The Best Meme Creator Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-a-heartfelt-video-montage-with-pictures-and-songs/"><u>Make a Heartfelt Video Montage with Pictures and Songs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-xml-files-in-fcpx-the-ultimate-guide/"><u>Mastering XML Files in FCPX The Ultimate Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-x-visual-effects-how-to-create-seamless-green-screen-composites/"><u>New FCP X Visual Effects How to Create Seamless Green Screen Composites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-reaction-video-editing-tools-you-should-be-using/"><u>The Best Reaction Video Editing Tools You Should Be Using</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211380174--your-body-already-knows/"><u>Your Body Already Knows | Free Book</u></a></li>
+</ul></div>
+

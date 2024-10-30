@@ -1,7 +1,7 @@
 ---
 title: New From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
-date: 2024-08-15T05:26:20.488Z
-updated: 2024-08-16T05:26:20.488Z
+date: 2024-10-27T20:06:51.658Z
+updated: 2024-10-29T18:48:59.636Z
 tags: 
   - video editing software
   - video editing
@@ -39,8 +39,12 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -72,9 +76,12 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -98,22 +105,23 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Are you wondering and puzzled that you are a popular Final Cut Pro X user but weren't aware of this powerful split edit tool till now? It isn't too late for you to start yet. Finally, as assured at the beginning of the article, we gave you detailed information on what are J-Cuts in Final Cut Pro along with L-Cuts. With practical implementation on creating Final Cut Pro L-Cuts and J-Cuts, all the best for your first video project!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -122,11 +130,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-lens-legends-top-six-selecting-high-quality-4k-dslrs/"><u>[New] 2024 Approved Lens Legends' Top Six Selecting High-Quality 4K DSLRs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-minecraft-through-optimal-ram-assignment-for-2024/"><u>[New] Enhancing Minecraft Through Optimal RAM Assignment for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-balancing-act-tripod-use-for-stable-vlogging/"><u>[New] In 2024, Balancing Act Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-list-5-leading-youtube-shortened-url-services/"><u>[Updated] Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screen-capture-mastery-on-mac-top-10-apps-reviewed-and-rated/"><u>[Updated] In 2024, Screen Capture Mastery on Mac Top 10 Apps Reviewed & Rated</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/crack-open-the-savings-wondershare-filmora-easter-discount-code-inside-for-2024/"><u>Crack Open the Savings Wondershare Filmora Easter Discount Code Inside for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dvd-creation-on-windows-and-mac-a-step-by-step-tutorial-for-2024/"><u>DVD Creation on Windows and Mac A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-adding-a-skin-smoothing-effect-from-scratch/"><u>FCPX Essentials Adding a Skin Smoothing Effect From Scratch</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-glitch-effect-tools-the-ultimate-online-collection-for-2024/"><u>Free Glitch Effect Tools The Ultimate Online Collection for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-sideways-to-straight-quick-video-flipping-solutions/"><u>From Sideways to Straight Quick Video Flipping Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps/"><u>From Zero to Hero Master Lip Syncing with These 5 Amazing Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-free-juice-wrld-music-your-ultimate-downloading-resource/"><u>Get Free Juice Wrld Music: Your Ultimate Downloading Resource</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-jaycut-a-beginners-guide-to-free-online-video-editing/"><u>Get Started with Jaycut A Beginners Guide to Free Online Video Editing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-moto-g-stylus-evaluation-impressive-functionality-with-satisfactory-battery-endurance/"><u>In-Depth Moto G Stylus Evaluation: Impressive Functionality with Satisfactory Battery Endurance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-expanding-windows-volume-no-deletion-compatible/"><u>Securely Expanding Windows Volume, No Deletion Compatible</u></a></li>
+</ul></div>
+

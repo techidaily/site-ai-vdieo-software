@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-10-20T11:09:06.403Z
-updated: 2024-10-24T06:50:18.236Z
+date: 2024-10-27T20:42:01.559Z
+updated: 2024-10-30T03:33:04.062Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -51,25 +58,11 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -81,22 +74,15 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -113,6 +99,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -126,6 +119,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,17 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[New] 2024 Approved Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-10-best-4k-camera-phone/"><u>[New] Top 10 Best 4K Camera Phone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premium-audio-no-cost-lut-repository-summary-for-2024/"><u>[Updated] Premium Audio No-Cost LUT Repository Summary for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-google-ar-stickers-explained-with-comparative-alternatives/"><u>In 2024, Google AR Stickers Explained with Comparative Alternatives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/innovative-house-blueprints-for-snapshot-players/"><u>Innovative House Blueprints for Snapshot Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-roblox-error-code-262/"><u>Navigating Through Roblox: Error Code 262</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-and-edit-divx-videos-for-free-top-6-options/"><u>New Cut and Edit Divx Videos for Free Top 6 Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-ipad-video-editing-made-easy-top-5-apps/"><u>New IPad Video Editing Made Easy Top 5 Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users/"><u>New Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-winerror-0xc0000005-in-windows-systems/"><u>Resolving WinError 0Xc0000005 in Windows Systems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-splitter-and-merger-tools-for-beginners-top-picks/"><u>Updated Free Video Splitter and Merger Tools for Beginners Top Picks</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/windows-stellar-erase-pro-regular-data-wipe-setup/"><u>Windows Stellar Erase Pro: Regular Data Wipe Setup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>[New] 2024 Approved Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cyberspace-enhancer-facebook-story-backup-tool/"><u>[Updated] 2024 Approved Cyberspace Enhancer Facebook Story Backup Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-convert-ppt-to-motion-picture-for-2024/"><u>[Updated] Convert PPT to Motion Picture for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-clips-to-cinemascope-mastering-mac-video-production/"><u>2024 Approved From Clips to Cinemascope Mastering Mac Video Production</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/before-we-delve-into-the-software-tools-lets-first-understand-the-basics-of-video-limits-that-video-editors-can-handle-ensuring-its-quality-for-2024/"><u>Before We Delve Into the Software Tools, Lets First Understand the Basics of Video Limits that Video Editors Can Handle, Ensuring Its Quality for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/doubling-your-screen-space-dual-monitor-setup-for-mac-users/"><u>Doubling Your Screen Space: Dual Monitor Setup for Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-a-guide-to-making-videos-with-photos-and-music-for-2024/"><u>Elevate Your Storytelling A Guide to Making Videos with Photos and Music for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-top-video-animation-apps-for-mobile/"><u>Expert Picks Top Video Animation Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fake-face-creators-top-picks-for-online-identity-design/"><u>Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-freeze-frames-slow-mo-and-more/"><u>FCPX Essentials Freeze Frames, Slow-Mo, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-lower-thirds-101-a-beginners-guide-to-success-for-2024/"><u>FCPX Lower Thirds 101 A Beginners Guide to Success for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-green-screen-apps-you-need-to-try-on-your-android-or-ios-device/"><u>Free Green Screen Apps You Need to Try on Your Android or iOS Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-functionality-of-unmanned-aerial-vehicles-explored/"><u>The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-networks-of-digital-interaction-exploring-the-who-you-really-talk-to-phenomenon-according-to-dead-internet-theory/"><u>The Hidden Networks of Digital Interaction: Exploring the Who You Really Talk to Phenomenon According to Dead Internet Theory</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-master-plugins-for-final-cut-pro-for-2024/"><u>Top 10 Master Plugins for Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

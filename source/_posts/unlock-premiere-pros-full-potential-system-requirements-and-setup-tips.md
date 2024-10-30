@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-10-21T01:04:01.652Z
-updated: 2024-10-23T17:10:31.536Z
+date: 2024-10-24T23:56:41.565Z
+updated: 2024-10-30T07:22:48.385Z
 tags: 
   - video editing software
   - video editing
@@ -55,25 +55,11 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -107,15 +93,22 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
@@ -131,10 +124,16 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -144,6 +143,19 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,18 +178,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-kinemaster-essentials-a-guide-to-flawless-movements/"><u>[New] In 2024, Kinemaster Essentials A Guide to Flawless Movements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] In 2024, Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y17s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y17s Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-choosing-streaming-giants-vimeo-youtube-or-dailymotion/"><u>In 2024, Choosing Streaming Giants Vimeo, YouTube, or DailyMotion?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-crash-fix-expert-solutions-for-a-smooth-editing-experience/"><u>New FCPX Crash Fix Expert Solutions for a Smooth Editing Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-display-issues-with-missing-touch-or-stylus-functionality/"><u>Overcoming Display Issues with Missing Touch or Stylus Functionality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformation-facile-de-videos-mkv-vers-mp4-preservation-exacte-de-la-qualite-et-vitesse-acceleree/"><u>Transformation Facile De Vidéos MKV Vers MP4: Préservation Exacte De La Qualité Et Vitesse Accélérée</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>Updated Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-mp4-files-with-ease-best-windows-8-video-editor/"><u>Updated Edit MP4 Files with Ease Best Windows 8 Video Editor</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-filmora-without-the-risk-safe-and-legal-alternatives/"><u>Updated Free Filmora Without the Risk Safe and Legal Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>[New] Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-exploring-new-frontiers-in-contactless-interface-designs/"><u>[Updated] 2024 Approved Exploring New Frontiers in Contactless Interface Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-security-breach-regain-account-with-ease/"><u>[Updated] In 2024, Facebook Security Breach? Regain Account with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/destination-finale-quadvient-il-des-images-supprimees-permanemment-sur-windows-et-iphone/"><u>Destination Finale: Qu'Advient-Il Des Images Supprimées Permanemment Sur Windows Et iPhone ?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>In 2024, Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-7-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 7 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>New 2024 Approved Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-easy-to-use/"><u>Updated 6 Essential Video Dubbing Tools for PC Users (Free and Easy to Use)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-animation-mastery-the-best-professional-software-for-macwindows/"><u>Updated Animation Mastery The Best Professional Software for Mac/Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Launches for Thaumaturge Software on Computers
-date: 2024-10-17T00:30:18.578Z
-updated: 2024-10-24T07:52:19.951Z
+date: 2024-10-23T04:23:40.464Z
+updated: 2024-10-29T22:37:52.544Z
 tags:
   - win11
   - win10
@@ -67,27 +67,14 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once the process is completed, try launching the game again.
 
@@ -123,6 +110,13 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
  Once you’ve installed all the updates, restart your computer and try to launch the game.
@@ -143,13 +137,6 @@ If the problem remains, take a look at the next fix.
 Check if you can launch the game without any problem.
 
 If this fix doesn’t work for you, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check your security software
 
@@ -175,15 +162,15 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/windows-security.jpg)
 2. Click the gear icon to open**Settings** , then click**Protection History** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Windows Controlled Folder Access
 
@@ -191,21 +178,14 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Controlled-Folder-Access.jpg)
 2. Select**Allow an app through Controlled folder access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
@@ -219,6 +199,13 @@ If this fix doesn’t work for you, proceed to the next one.
 
 If it doesn’t, try the last fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  The Age of Empires IV may not launch if you’re running software that interferes with Steam and your game. To see if that’s the case, you can perform a clean boot. Here’s how:
@@ -227,30 +214,37 @@ If it doesn’t, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
@@ -280,24 +274,16 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-use-vimeo-record-tool/"><u>[New] 2024 Approved How to Use Vimeo Record Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-adjust-your-timeline-facebook-look-back-guide-for-2024/"><u>[New] Adjust Your Timeline Facebook Look Back Guide for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fb-media-migration-tools-for-windowsmacos-users-for-2024/"><u>[New] FB Media Migration Tools for Windows/macOS Users for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-understanding-your-twitter-archives-potential-for-2024/"><u>[New] Understanding Your Twitter Archive's Potential for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-budget-friendly-microphones-for-online-broadcasters/"><u>[Updated] 2024 Approved Budget-Friendly Microphones for Online Broadcasters</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-battle-of-the-giants-adobe-premiere-pro-vs-after-effects-for-visual-storytelling/"><u>New Battle of the Giants Adobe Premiere Pro vs After Effects for Visual Storytelling</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mp4-editor-for-windows-8-quick-and-easy-video-editing/"><u>New Best MP4 Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-zero-cost-mod-video-editors-2023-edition/"><u>New Best Zero-Cost MOD Video Editors 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-design-beautiful-memories-online-photo-and-video-collage-editors/"><u>New Design Beautiful Memories Online Photo and Video Collage Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-on-a-budget-top-10-free-plugins-for-video-creators/"><u>New FCPX on a Budget Top 10 Free Plugins for Video Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-free-dual-screen-video-editing-tools-web-and-desktop/"><u>New Top Free Dual-Screen Video Editing Tools Web & Desktop</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/rotate-your-videos-for-free-top-picks-for-windows-mac-android-and-iphone/"><u>Rotate Your Videos for Free Top Picks for Windows, Mac, Android, and iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-video-editing-decision-final-cut-pro-or-lumafusion/"><u>The Ultimate Video Editing Decision Final Cut Pro or LumaFusion?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-disneyplus-must-watch-films-of-the-moment/"><u>Top Picks: Disney+ Must-Watch Films of the Moment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-movie-trailer-editors-for-mac-and-windows/"><u>Unleash Your Creativity Top Movie Trailer Editors for Mac and Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-on-the-house-10-amazing-free-plugins-to-try/"><u>Updated In 2024, FCPX on the House 10 Amazing Free Plugins to Try</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-scripting-your-storys-visual-heartbeat-at-home/"><u>[New] Scripting Your Story's Visual Heartbeat at Home</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] 2024 Approved Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-lines-for-striking-iphone-photography/"><u>2024 Approved Strategic Lines for Striking iPhone Photography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-places-to-go-the-best-online-hubs-for-text-effects/"><u>In 2024, Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-compression-in-fcpx-a-step-by-step-guide/"><u>Mastering Compression in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola Edge 40 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-cs6-mac-version-get-it-free/"><u>New Adobe Premiere Pro CS6 Mac Version Get It Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-web-based-online-vertical-video-editors/"><u>New Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-3gp-video-cutter-tutorial-2023-edition/"><u>The Ultimate 3GP Video Cutter Tutorial 2023 Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-hidden-gems-top-purchasers-of-youtube-creators-for-2024/"><u>Unveiling Hidden Gems Top Purchasers of YouTube Creators for 2024</u></a></li>
 </ul></div>
 

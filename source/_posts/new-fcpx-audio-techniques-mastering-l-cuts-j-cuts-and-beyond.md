@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-10-17T03:33:30.220Z
-updated: 2024-10-23T17:32:07.336Z
+date: 2024-10-27T02:00:38.983Z
+updated: 2024-10-30T02:57:27.779Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,16 +76,16 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
+<span id="1993650">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -111,10 +111,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +124,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,22 +145,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-10-best-free-screen-sharing-software-online-and-desktop/"><u>[New] In 2024, 10 Best Free Screen Sharing Software [Online & Desktop]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-full-dynamics-review-2023/"><u>[Updated] Full Dynamics Review 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-complete-minecraft-gameplay-capture-protocol/"><u>2024 Approved Complete Minecraft Gameplay Capture Protocol</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-free-android-video-call-apps-compared/"><u>2024 Approved Top Free Android Video Call Apps Compared</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05s-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05s Phone FRP Lock</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-virtualdub-mpeg2-and-use-to-compress-mpeg2-videos/"><u>New Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/resolved-issues-with-baldurs-gate-3-initial-startup/"><u>Resolved: Issues with Baldur's Gate 3 Initial Startup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/split-screen-video-makers-the-best-ios-and-android-apps/"><u>Split Screen Video Makers The Best iOS and Android Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-5-hand-drawing-whiteboard-animation-makers/"><u>Top 5 Hand Drawing Whiteboard Animation Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-and-restoring-itunes-on-windows-devices/"><u>Unfreezing and Restoring iTunes on Windows Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-making-software-for-2024/"><u>Unleash Your Creativity Top 3D Video Making Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>Updated Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>Updated How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-slow-motion-video-editing-software/"><u>Updated Top 10+ Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-x-capture-pro-for-home-systems/"><u>[New] 2024 Approved X-Capture Pro for Home Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-video-sharing/"><u>[Updated] In 2024, Mastering the Art of Instagram Video Sharing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gopro-match-made-in-heaven-camera-showdowns/"><u>2024 Approved GoPro Match Made in Heaven Camera Showdowns</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/empowering-online-success-with-cookiebot-technology-advanced-site-personalization-solutions/"><u>Empowering Online Success with Cookiebot Technology: Advanced Site Personalization Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>In 2024, 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-comprehensive-review-and-analysis/"><u>In 2024, AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>In 2024, Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>In 2024, Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x-flip-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X Flip? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

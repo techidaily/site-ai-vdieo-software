@@ -1,7 +1,7 @@
 ---
 title: Updated Capture the Essence Two Effective Ways to Create Time Lapse Videos That Impress
-date: 2024-08-09T08:36:09.014Z
-updated: 2024-08-10T08:36:09.014Z
+date: 2024-10-27T02:32:14.436Z
+updated: 2024-10-30T06:43:20.187Z
 tags: 
   - video editing software
   - video editing
@@ -39,9 +39,6 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
@@ -62,9 +59,6 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
@@ -89,14 +83,15 @@ Place the timeline playhead at the beginner, and play it in Preview window to ch
 
 If you want to save and play your video on iPhone, iPod, iPad and other devices, just switch to the **Device** tab and choose from the device list. What’s more, you can upload the newly made video file to all popular video sites such as YouTube and Vimeo directly from the interface of Filmora. Or turn to **DVD** tab to burn your video to DVD for playing on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -111,11 +106,25 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -125,23 +134,15 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -150,11 +151,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] In 2024, 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>[New] In 2024, Structured Approach to Managing YouTube Videos A Complete Watch Later System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-the-power-of-creative-commons-rights/"><u>[Updated] Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-full-guide-on-making-a-big-budget-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved Full Guide on Making a Big-Budget Cinematic Look Video with Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-news-filmora-x-adds-arm-compatibility-for-2024/"><u>Breaking News Filmora X Adds ARM Compatibility for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-in-high-def-the-best-video-software-for-2024/"><u>Edit in High-Def The Best Video Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-essentials-how-to-achieve-flawless-green-screen-effects/"><u>FCP X Essentials How to Achieve Flawless Green Screen Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-virtual-face-maker-websites-for-2024/"><u>Free Virtual Face Maker Websites for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-yet-powerful-top-wmv-video-editors-for-2024/"><u>Free Yet Powerful Top WMV Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpieces-top-highlight-video-makers-revealed-for-2024/"><u>From Clips to Masterpieces Top Highlight Video Makers Revealed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-a-powerful-64-bit-video-editor-windows-8and10-included-for-2024/"><u>Get a Powerful 64-Bit Video Editor (Windows 8&10 Included) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-filmora-for-free-the-authorized-and-authentic-way-for-2024/"><u>Get Filmora for Free The Authorized and Authentic Way for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-docm-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .docm file Document</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-zero-5g-2023-turbo-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix Zero 5G 2023 Turbo FRP Locks</u></a></li>
+<li><a href="https://howto.techidaily.com/introducing-asus-rog-nuc-the-budget-gaming-powerhouse-starts-at-just-1629/"><u>Introducing Asus ROG NUC: The Budget Gaming Powerhouse Starts at Just $1,629!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/master-the-art-of-easy-bootable-hard-drive-duplication-on-windows-10-and-11-with-this-comprehensive-tutorial/"><u>Master the Art of Easy, Bootable Hard Drive Duplication on Windows 10 and 11 with This Comprehensive Tutorial</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone XS to Android | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-essay-writing-with-ai-practical-uses-of-chatgpt-for-college-students/"><u>Revolutionizing Essay Writing with AI: Practical Uses of ChatGPT for College Students</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-creativity-time-lapse-on-samsung-for-2024/"><u>Unleashing Creativity Time-Lapse on Samsung for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX
-date: 2024-08-09T08:37:01.372Z
-updated: 2024-08-10T08:37:01.372Z
+date: 2024-10-28T00:09:24.886Z
+updated: 2024-10-29T21:16:34.520Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -78,9 +72,6 @@ Select that title and delete it by pressing the Delete key.
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -93,9 +84,6 @@ There's one more way to apply a title: dragging from the Titles Browser.
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
@@ -116,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -129,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -140,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -159,16 +138,10 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -189,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -212,11 +182,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-actual-fix-for-exporting-srt-from-premiere-not-working/"><u>[New] 2024 Approved The Actual Fix for Exporting SRT From Premiere Not Working</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-compreited-chronological-catalog-of-your-image-collection-for-2024/"><u>[Updated] A Compreited Chronological Catalog of Your Image Collection for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-vimeo-record-features-for-2024/"><u>[Updated] The Ultimate Guide to Vimeo Record Features for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-video-editing-tips-tips-for-making-a-better-home-movie/"><u>2024 Approved Video Editing Tips - Tips for Making a Better Home Movie</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-animated-video-makers-for-teachers-and-students-for-2024/"><u>Best Animated Video Makers for Teachers and Students for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-movie-trailer-apps-for-ios-devices-for-2024/"><u>Best Movie Trailer Apps for iOS Devices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-of-the-best-5-free-wmv-video-editors-reviewed-for-2024/"><u>Best of the Best 5 Free WMV Video Editors Reviewed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slowing-discover-the-top-10-slow-motion-video-editors-for-2024/"><u>Cinematic Slowing Discover the Top 10 Slow Motion Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-download-splice-video-editor-for-macos-for-2024/"><u>Free Download Splice Video Editor for macOS for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-dvd-playback-made-easy-top-10-windows-10-players-for-2024/"><u>Free DVD Playback Made Easy Top 10 Windows 10 Players for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-top-10-cartoon-video-makers-for-beginners/"><u>From Zero to Hero Top 10 Cartoon Video Makers for Beginners</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/hdr-photography-how-to-shoot-hdr-photos-with-an-iphone-in-2024/"><u>HDR Photography How to Shoot HDR Photos with an iPhone, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-f5-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Poco F5 5G.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-xs-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone XS Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-smaller-is-better-top-drone-brands-reviewed/"><u>In 2024, Smaller Is Better Top Drone Brands Reviewed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-sound-to-text-converters/"><u>Premium Sound to Text Converters</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Smooth Audio Transitions in Final Cut Pro 2 Approaches
-date: 2024-08-09T08:35:54.387Z
-updated: 2024-08-10T08:35:54.387Z
+date: 2024-10-29T05:06:45.367Z
+updated: 2024-10-30T00:47:14.540Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 # Two Ways to Fade In/Out Audio in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -47,9 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -60,9 +54,6 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
@@ -72,6 +63,13 @@ You should remember that the fades appear at the beginning and the end of each c
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -87,21 +85,26 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -117,13 +120,18 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +139,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leapfrogging-to-photo-editing-mastery-with-lunapic/"><u>[New] 2024 Approved Leapfrogging to Photo Editing Mastery with LunaPic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-broadcast-easily-3-steps-to-post-mp3-on-youtube/"><u>2024 Approved Broadcast Easily 3 Steps to Post MP3 on YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-20-free-adobe-premiere-intro-templates-for-2024/"><u>Best 20 Free Adobe Premiere Intro Templates for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-apps-to-animate-text-in-video-on-phone-for-2024/"><u>Best Apps To Animate Text In Video On Phone for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-orientation-correction-tools-for-iphone/"><u>Best Free Video Orientation Correction Tools for iPhone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/capture-every-move-top-motion-tracking-apps-for-android-and-ios-for-2024/"><u>Capture Every Move Top Motion Tracking Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-100-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from 100 Pro.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-videos-on-mac-try-vn-video-editor-or-these-alternatives-for-2024/"><u>Editing Videos on Mac? Try VN Video Editor or These Alternatives for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-view-converting-standard-videos-to-vr-masterpieces/"><u>Elevate Your View Converting Standard Videos to VR Masterpieces</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-football-film-study-premier-insights-infographic/"><u>In 2024, Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-motion-magic-quick-photography-tricks-for-samsung-users/"><u>In 2024, Motion Magic Quick Photography Tricks for Samsung Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/medical-and-health-facebook-ads-campaign-tips-for-2024/"><u>Medical And Health Facebook Ads Campaign Tips for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728497672552-pc3/"><u>PCがネットワーク上で見えない問題とその解決方法：3つの効果的戦略</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories/"><u>Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+</ul></div>
+

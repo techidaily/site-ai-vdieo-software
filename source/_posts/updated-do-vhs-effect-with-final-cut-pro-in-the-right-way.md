@@ -1,7 +1,7 @@
 ---
 title: Updated Do VHS Effect with Final Cut Pro in the Right Way
-date: 2024-08-15T05:26:35.201Z
-updated: 2024-08-16T05:26:35.201Z
+date: 2024-10-27T01:12:59.493Z
+updated: 2024-10-30T04:47:13.817Z
 tags: 
   - video editing software
   - video editing
@@ -93,16 +93,16 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
@@ -127,18 +127,17 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -147,9 +146,6 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -159,6 +155,19 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -177,9 +186,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -201,9 +207,6 @@ A resources center built for Filmora. You can find all the materials and effects
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
 
@@ -219,13 +222,18 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -233,3 +241,21 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-how-to-autoplay-facebook-videos-in-2024/"><u>[Updated] 2023 | How to Autoplay Facebook Videos, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freecam-x-an-in-depth-webcam-capture-analysis/"><u>2024 Approved FreeCam X An In-Depth Webcam Capture Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>2024 Approved From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-prime-asmr-apps-android-and-ios-guide/"><u>2024 Approved Prime ASMR Apps Android & iOS Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>2024 Approved Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-editing-software-and-techniques-for-2024/"><u>Bringing Your Nikon Videos to Life Editing Software and Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-splitter-online-and-offline-editors-for-dual-screen-videos/"><u>Free Video Splitter Online and Offline Editors for Dual-Screen Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-audio-best-video-dubbing-apps-of-the-year/"><u>Get Creative with Audio Best Video Dubbing Apps of the Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/had-you-ever-thought-about-inserting-a-countdown-timer-in-your-video-clip-do-you-want-to-try-one-this-article-gives-you-the-best-insights-on-the-insertion-o/"><u>Had You Ever Thought About Inserting a Countdown Timer in Your Video Clip? Do You Want to Try One? This Article Gives You the Best Insights on the Insertion of the Countdown Timer in the Final Cut Pro X Application. Quickly Step Into the Below Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-igs-evolution-reels-vs-stories/"><u>In 2024, Understanding IG's Evolution Reels vs Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ongezichtsvrije-videokonvertiering-rmvbflv-profielbewijs-movavi-netwerk/"><u>Ongezichtsvrije Videokonvertiering RMVB/FLV - Profielbewijs Movavi Netwerk</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-find-x7-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo Find X7 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tus-videos-libremente-guia-para-convertir-archivo-wmv-en-mkv-sin-coste/"><u>Transforma Tus Videos Libremente: Guía Para Convertir Archivo WMV en MKV Sin Coste</u></a></li>
+</ul></div>
+

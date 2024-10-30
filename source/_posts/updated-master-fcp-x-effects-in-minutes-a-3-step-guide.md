@@ -1,7 +1,7 @@
 ---
 title: Updated Master FCP X Effects in Minutes A 3-Step Guide
-date: 2024-08-09T08:37:28.946Z
-updated: 2024-08-10T08:37:28.946Z
+date: 2024-10-25T04:07:38.972Z
+updated: 2024-10-29T21:57:23.384Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -58,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -81,16 +72,10 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -119,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,11 +112,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-fallout-4-crashing-on-pc-easily/"><u>[Solved] Fallout 4 Crashing on PC [Easily]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-video-money-roadmap-dailymotion-and-youtube-compared/"><u>[Updated] The Video Money Roadmap Dailymotion & YouTube Compared</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-moba-games-on-android-top-10-edition/"><u>2024 Approved Premier MOBA Games on Android - TOP 10 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-what-you-need-to-know-before-buying-for-2024/"><u>AVS Video Editor What You Need to Know Before Buying for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-pro-quality-videos-with-ease-wevideo-2023-for-2024/"><u>Create Pro-Quality Videos with Ease WeVideo 2023 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/demystifying-social-engagement-instagram-stories-surveys/"><u>Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/erasing-identity-the-most-effective-face-blur-video-editing-software/"><u>Erasing Identity The Most Effective Face Blur Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-motion-10-best-online-image-video-makers/"><u>From Still to Motion 10 Best Online Image Video Makers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newly-launched-wonderfox-document-handling-software-version-12-now-available/"><u>Newly Launched WonderFox Document Handling Software - Version 1.2 Now Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: 'Anticheat Connection Failed' Error in Escape From Tarkov</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

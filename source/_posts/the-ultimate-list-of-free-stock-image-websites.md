@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Free Stock Image Websites
-date: 2024-10-22T06:56:05.374Z
-updated: 2024-10-23T19:54:06.834Z
+date: 2024-10-24T01:33:38.792Z
+updated: 2024-10-29T16:10:26.762Z
 tags: 
   - video editing software
   - video editing
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Websites for Downloading Public Domain Images
@@ -79,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
 **Pros:**
@@ -95,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
@@ -116,19 +117,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
 
@@ -173,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 7. [Morguefile](https://morguefile.com/)
 
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
@@ -232,13 +227,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -273,17 +261,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-converting-youtube-videos-into-engaging-gifs-on-devices/"><u>[New] In 2024, Converting YouTube Videos Into Engaging GIFs on Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/utsmart-automated-views-to-propel-your-channel/"><u>[New] Outsmart Automated Views to Propel Your Channel</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-perfect-your-skills-applying-radial-blur-in-photoshop-easily/"><u>[Updated] In 2024, Perfect Your Skills Applying Radial Blur in Photoshop Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>[Updated] In 2024, Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-green-screen-integration-in-post-production/"><u>[Updated] Navigating Green Screen Integration in Post-Production</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-gt-5-240w-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme GT 5 (240W) Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-hot-30i-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Hot 30i 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-6-video-dubbing-apps-funny-and-creative/"><u>New Best 6 Video Dubbing Apps - Funny & Creative</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-sharing-sites-for-private-and-commercial-videos-2023-edition/"><u>New Best Free Video Sharing Sites for Private and Commercial Videos 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/repair-techniques-for-non-responsivecrashing-nvidia-display-settings/"><u>Repair Techniques for Non-Responsive/Crashing NVIDIA Display Settings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-top-online-video-editing-platforms-for-chromebooks/"><u>S Top Online Video Editing Platforms for Chromebooks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-online-glitch-art-makers/"><u>Top 10 Free Online Glitch Art Makers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-resonant-rhythms-where-to-download-classical-ringtones/"><u>[New] In 2024, Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>[Updated] 2024 Approved Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-deciphering-content-control-youtube-vs-creative-commons-license/"><u>In 2024, Deciphering Content Control YouTube Vs. Creative Commons License</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-frame-by-frame-a-beginners-guide-to-converting-videos-to-photos-10-converters/"><u>In 2024, Frame by Frame A Beginners Guide to Converting Videos to Photos 10 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-divx-video-cutter-reviews-top-6-options/"><u>In 2024, Free Divx Video Cutter Reviews Top 6 Options</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Zero 30 5G FRP?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-potential-through-processor-options/"><u>Maximizing PC Potential Through Processor Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-gaming-revolution-new-era-of-ai-opportunities/"><u>Steam's Gaming Revolution: New Era of AI Opportunities</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unprinted-printer/"><u>Troubleshooting: Unprinted Printer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-the-best-video-editing-apps/"><u>Unleash Your Creativity The Best Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-top-iphone-video-editing-apps/"><u>Updated Edit Like a Pro Top iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Advanced Title Techniques in FCPX
-date: 2024-08-09T08:37:22.736Z
-updated: 2024-08-10T08:37:22.736Z
+date: 2024-10-23T18:56:14.832Z
+updated: 2024-10-29T18:49:56.961Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -74,16 +68,10 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -92,9 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -119,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -140,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -162,9 +138,6 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
@@ -189,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -212,11 +182,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>[Updated] In 2024, The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-editing-essentials-top-t-for-2024/"><u>AVI Video Editing Essentials Top T for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-mp4-to-mp3-top-tools-for-easy-audio-extraction/"><u>Convert MP4 to MP3 Top Tools for Easy Audio Extraction</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easy-video-flip-a-beginners-guide-to-rotating-footage-for-2024/"><u>Easy Video Flip A Beginners Guide to Rotating Footage for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/energize-your-routine-hits-for-fitness/"><u>Energize Your Routine: Hits for Fitness</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-4k-video-editing-solutions-for-2024/"><u>Expert-Approved 4K Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-achieve-pro-level-video-stability-for-2024/"><u>FCPX Essentials How to Achieve Pro-Level Video Stability for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-essentials-designing-and-editing-a-professional-slideshow/"><u>Final Cut Pro Essentials Designing and Editing a Professional Slideshow</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-sound-design-discovering-and-adding-free-sound-effects-like-a-pro/"><u>Final Cut Pro Sound Design Discovering and Adding Free Sound Effects Like a Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mpeg-video-concatenation-top-5-options-for-2024/"><u>Free MPEG Video Concatenation Top 5 Options for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-x6-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco X6 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 15 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-c210-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia C210? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-k400-pro-duo-setup-guide-free-downloads-available/"><u>Logitech K400 Pro Duo Setup Guide - Free Downloads Available</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a78-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A78? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/which-streaming-application-leads-the-race-wirecast-or-obs/"><u>Which Streaming Application Leads the Race, Wirecast or OBS?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

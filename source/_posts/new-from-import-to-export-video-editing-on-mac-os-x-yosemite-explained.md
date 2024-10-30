@@ -1,7 +1,7 @@
 ---
 title: New From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-08-15T05:28:04.841Z
-updated: 2024-08-16T05:28:04.841Z
+date: 2024-10-25T07:05:31.518Z
+updated: 2024-10-29T16:36:29.272Z
 tags: 
   - video editing software
   - video editing
@@ -45,8 +45,12 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -60,31 +64,36 @@ If you want to add an additional audio file as the background music to the video
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -93,11 +102,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-modify-twitter-clip-visuals/"><u>[New] 2024 Approved Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/3-ways-for-ipad-voice-recording-for-2024/"><u>3 Ways for iPad Voice Recording for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/age-of-empires-3-startup-errors-overcoming-initialization-failure-effortlessly/"><u>Age of Empires 3 Startup Errors: Overcoming Initialization Failure Effortlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-quickly-snap-and-save-mac-desktop-for-2024/"><u>How to Quickly Snap & Save MAC Desktop for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-download-to-upload-the-art-of-online-video-editing/"><u>In 2024, From Download to Upload The Art of Online Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-qp-for-gradual-video-playback/"><u>In 2024, Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor Phone Without Password?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-dailymotion-video-conversion-without-registration/"><u>New Free Dailymotion Video Conversion without Registration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/online-cartoon-maker-from-photos/"><u>Online Cartoon Maker From Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-with-advanced-traffic-analysis-via-ai-driven-cookie-tracking/"><u>Optimized with Advanced Traffic Analysis via AI-Driven Cookie Tracking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfecting-content-aesthetics-crafting-personalized-thumbnails-for-2024/"><u>Perfecting Content Aesthetics Crafting Personalized Thumbnails for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-most-cost-effective-video-editing-tools-for-2024/"><u>The Most Cost-Effective Video Editing Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/there-are-two-different-ways-to-install-linux-on-a-chromebook-you-can-either-do-it-using-gallium-os-or-chrubuntu-or-in-a-chroot-environment-using-crouton-le/"><u>There Are Two Different Ways to Install Linux on a Chromebook, You Can Either Do It Using Gallium OS or ChrUbuntu or in a Chroot Environment Using Crouton. Lets Check How</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-vertical-issues-tips-for-fixing-rotation-problems-in-asus-laptops/"><u>Troubleshooting Vertical Issues: Tips for Fixing Rotation Problems in ASUS Laptops</u></a></li>
+</ul></div>
+

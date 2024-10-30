@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock FCP Xs Power Adding Effects in Just 3 Steps
-date: 2024-08-09T08:37:23.783Z
-updated: 2024-08-10T08:37:23.783Z
+date: 2024-10-23T05:27:49.320Z
+updated: 2024-10-29T23:18:29.393Z
 tags: 
   - video editing software
   - video editing
@@ -32,14 +32,6 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -63,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -86,9 +72,6 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
@@ -97,9 +80,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
@@ -124,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -135,11 +112,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-maximum-video-stowage-on-a-single-64gb-unit/"><u>2024 Approved Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-windows-10-doesnt-have-a-native-app-that-enables-you-to-play-movies-or-music-from-dvd-and-blu-ray-discshere-are-some-of-the-best-free-dvd-/"><u>2024 Approved The Windows 10 Doesnt Have a Native App that Enables You to Play Movies or Music From DVD and Blu-Ray Discs,here Are some of the Best Free DVD Players on the Market and Help You Choose the One that M</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-consistency-in-final-cut-pro-the-ultimate-guide-for-2024/"><u>Color Consistency in Final Cut Pro The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-like-a-pro-mac-and-windows-tutorial-for-beginners/"><u>Edit MP4 Files Like a Pro Mac and Windows Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-essential-image-cropping-techniques-for-2024/"><u>Final Cut Pro X Essential Image Cropping Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-iphones-potential-for-detailed-photography/"><u>Harnessing iPhone's Potential for Detailed Photography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-z50s-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Nubia Z50S Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/quick-tips-innovative-lens-creation-on-snapchat/"><u>Quick Tips Innovative Lens Creation on Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intersection-of-cognitive-behavior-and-ai-technologies/"><u>The Intersection of Cognitive-Behavior and AI Technologies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

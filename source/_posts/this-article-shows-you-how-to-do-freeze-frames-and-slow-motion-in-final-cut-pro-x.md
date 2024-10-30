@@ -1,7 +1,7 @@
 ---
 title: This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X
-date: 2024-08-09T08:37:02.442Z
-updated: 2024-08-10T08:37:02.442Z
+date: 2024-10-28T05:22:32.936Z
+updated: 2024-10-29T19:11:13.971Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 # Final Cut Pro X: Freeze-Frames and Slow Motion
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,25 +30,16 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
@@ -92,9 +80,6 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
@@ -103,16 +88,10 @@ This displays the orange Retime editor bar above the clip, with a small red port
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -133,9 +112,6 @@ Select the clip who's speed you want to change. Then, using either Modify > Reti
 
 Choose one of the available speeds; in this case, 50%. (Yes, you can change this to any value you want, I'll show you how in a minute.)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 Three things happen at once:
@@ -150,18 +126,12 @@ To reset the speed back to normal (100%), click the downward-pointing arrow in t
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -209,11 +179,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[Updated] 2024 Approved Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-strategies-for-effective-obs-live-feeds-on-facebook/"><u>[Updated] Strategies for Effective OBS Live Feeds on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-streamline-iphone-videos-size-and-length-optimization/"><u>2024 Approved Streamline iPhone Videos Size & Length Optimization</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-quick-take-on-vn-video-editor-for-pc-for-2024/"><u>A Quick Take on VN Video Editor for PC for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-5-free-software-options/"><u>AVI Video Rotation Made Easy Top 5 Free Software Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-video-cutting-and-joining-solutions-for-new-users/"><u>Best Zero-Cost Video Cutting and Joining Solutions for New Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts-for-2024/"><u>Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-flv-videos-like-a-pro-top-5-free-tools/"><u>Edit FLV Videos Like a Pro Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>Edit Like a Pro Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-common-reasons-for-chatgpt-bans-and-effective-strategies-to-resolve-them/"><u>Four Common Reasons for ChatGPT Bans and Effective Strategies to Resolve Them</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-your-fcpx-plugins-up-and-running-a-step-by-step-guide/"><u>Get Your FCPX Plugins Up and Running A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/glitch-your-way-to-creativity-top-free-online-tools/"><u>Glitch Your Way to Creativity Top Free Online Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-msstdfmtdll-absence-on-your-pc/"><u>How to Repair Msstdfmt.dll Absence on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-photography-enhancement-hacks-for-professionals-for-2024/"><u>Insta-Photography Enhancement Hacks for Professionals for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-your-deleted-drives-elite-partition-recovery-solutions-explored/"><u>Revive Your Deleted Drives: Elite Partition Recovery Solutions Explored</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpeg-waveom/"><u>오피스 상대성 무료 MPEG-WAVEOM 교체 - 모바이비</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

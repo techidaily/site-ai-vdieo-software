@@ -1,7 +1,7 @@
 ---
 title: Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial
-date: 2024-10-16T17:13:30.225Z
-updated: 2024-10-23T20:28:43.960Z
+date: 2024-10-25T16:33:35.421Z
+updated: 2024-10-29T22:50:53.955Z
 tags: 
   - video editing software
   - video editing
@@ -41,13 +41,6 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -57,10 +50,16 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
@@ -70,13 +69,6 @@ Step2: Click here to edit > trim from the menu bar.
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4: When you have done, click on “Trim”.
 
@@ -93,6 +85,13 @@ Step1: Click the Play button to jump to the part of the clip where you want to s
 Step2: Move the playhead where you want to split the position, then select Edit > Split Clip.
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
 
@@ -123,10 +122,10 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -136,6 +135,13 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -152,19 +158,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-the-perfect-youtube-channel-url-a-quick-guide-for-2024/"><u>[Updated] Crafting the Perfect YouTube Channel Url A Quick Guide for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-12-4g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 12 4G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-fresh-epson-gt-s50-printer-drivers-on-windows-7-8-or-10-download-here/"><u>Install Fresh Epson GT-S50 Printer Drivers on Windows 7, 8 or 10 – Download Here!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/masters-building-marvels-virtual-horizons/"><u>Masters Building Marvel's Virtual Horizons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-l/"><u>New Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-turning-photos-into-cartoon-online/"><u>New Turning Photos Into Cartoon Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/portable-stabilizer-for-clear-videographers-footage-for-2024/"><u>Portable Stabilizer for Clear Videographer’s Footage for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-online-trailer-production-services/"><u>Professional Online Trailer Production Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-cartoonizer-apps-transform-your-photos-on-mobile-devices/"><u>Top Cartoonizer Apps Transform Your Photos on Mobile Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-digietys-winxdvd-refund-procedure-a-comprehensive-guide/"><u>Understanding Digiety's WinXDVD Refund Procedure: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-for-free-top-online-video-editor-options/"><u>Updated Edit Like a Pro for Free Top Online Video Editor Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-audio-working-in-avidemux-proven-solutions/"><u>Updated Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-virtual-experiences-galore-the-best-vr-playback-devices-for-pcs-revealed/"><u>[Updated] 2024 Approved Virtual Experiences Galore The Best VR Playback Devices for PCs Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] In 2024, Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-poverty-earning-in-beauty-media/"><u>Avoiding Poverty Earning in Beauty Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>In 2024, A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-precision-in-recording-windowsmaciosandroid-edition/"><u>In 2024, Precision in Recording Windows/Mac/iOS/Android Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-budget-friendly-filmmaking-essentials-software-you-need/"><u>New Budget-Friendly Filmmaking Essentials Software You Need</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>New Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement/"><u>New FCPX Subtitle Tutorial Adding Captions for Better Video Engagement</u></a></li>
+<li><a href="https://solve-news.techidaily.com/qualitatsvollendung-top-10-wege-um-mkv-zu-mp4-mit-schneller-konvertierung-umzuwandeln/"><u>Qualitätsvollendung: Top 10 Wege, Um MKV Zu MP4 Mit Schneller Konvertierung Umzuwandeln</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-format-issues-10-best-webm-to-mp4-converters/"><u>Say Goodbye to Format Issues 10 Best WebM to MP4 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-video-repeater-tools-for-seamless-loops-for-2024/"><u>Top 10 Free Video Repeater Tools for Seamless Loops for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-m14-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy M14 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcps-full-potential-expert-voice-over-recording-techniques/"><u>Unlock FCPs Full Potential Expert Voice Over Recording Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-ai-experience-registering-for-plugins/"><u>Upgrade Your AI Experience: Registering for Plugins</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editors-toolkit-10-must-have-software/"><u>Video Editors Toolkit 10 Must-Have Software</u></a></li>
 </ul></div>
 

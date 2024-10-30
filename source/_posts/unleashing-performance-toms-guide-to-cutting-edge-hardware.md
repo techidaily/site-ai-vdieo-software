@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Performance: Tom's Guide to Cutting-Edge Hardware"
-date: 2024-08-09T08:37:41.733Z
-updated: 2024-08-10T08:37:41.733Z
+date: 2024-10-25T00:38:53.180Z
+updated: 2024-10-29T22:58:40.151Z
 tags:
   - desktop
 categories:
@@ -13,13 +13,6 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
  (Image credit: Minisforum)
@@ -41,9 +34,6 @@ No advertising on the website.
 | Power                 | DC 19V (adapter included)                                                                                                                                                                                                                                                                  |
 | System                | Windows 11                                                                                                                                                                                                                                                                                 |
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
  (Image credit: Minisforum)
@@ -58,18 +48,12 @@ No advertising on the website.
 
  Connectivity seems pretty good for such a small box. As well as Wi-Fi 7 there is a 2.5G Ethernet port, and you can connect up to three 4K monitors at once (HDMI, DP, and USB-C). Six USB ports are available in total, with all being USB 3.2 Gen2 rated.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,14 +64,11 @@ No advertising on the website.
 
  Pricing for the AtomMan G7 Pt hasn’t been divulged, though we have written back to Minisforum for some pricing details. Those particularly interested in this device might find it worthwhile to sign up for updates and a $50 discount coupon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +77,30 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-probing-into-prominent-user-speeches/"><u>[New] In 2024, Probing Into Prominent User Speeches</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>2024 Approved From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mp4-video-editing-made-easy-a-beginners-guide-for-mac-and-windows/"><u>2024 Approved MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-updated-10-best-2d-animation-software-freepaid/"><u>2024 Approved Updated 10 Best 2D Animation Software Free/Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-of-the-web-free-online-video-editors-ranked-for-2024/"><u>Best of the Web Free Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-asuss-revolutionary-new-wireless-speed-monarch-the-rt-be96u/"><u>Breaking Down Asus's Revolutionary New Wireless Speed Monarch: The RT-BE96U</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/building-a-powerful-brand-presence-with-instagrams-biz-tools-for-2024/"><u>Building a Powerful Brand Presence with Instagram's Biz Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-videos-in-minutes-10-free-online-tools-with-no-software/"><u>Compress Videos in Minutes 10 Free Online Tools with No Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcps-cinematic-legacy-10-timeless-movies-made-with-final-cut-pro/"><u>FCPs Cinematic Legacy 10 Timeless Movies Made with Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mp4-video-editor-roundup-top-10-options-for-2024/"><u>Free MP4 Video Editor Roundup Top 10 Options for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-online-converter-3gpp-para-mpeg-software-de-conversao-gratuita-pelo-movavi/"><u>Gratis Online Converter 3GPP Para MPEG - Software De Conversão Gratuita Pelo Movavi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiant-registering-and-unregistering-rites/"><u>In 2024, Radiant Registering and Unregistering Rites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-share-failures-on-geforce/"><u>Strategies for Resolving Share Failures on GeForce</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-v27-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo V27 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-isnt-ideal-for-computer-renovation/"><u>Why Windows Isn't Ideal for Computer Renovation</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728479392968-windows-11usb/"><u>Windows 11上如何安全地锁定USB存储设备——两种有效解决方案</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

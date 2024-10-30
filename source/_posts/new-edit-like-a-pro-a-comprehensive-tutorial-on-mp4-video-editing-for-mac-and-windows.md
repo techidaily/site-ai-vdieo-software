@@ -1,7 +1,7 @@
 ---
 title: New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows
-date: 2024-10-22T07:49:53.072Z
-updated: 2024-10-24T07:22:17.941Z
+date: 2024-10-23T03:28:36.777Z
+updated: 2024-10-30T08:01:39.081Z
 tags: 
   - video editing software
   - video editing
@@ -59,10 +59,10 @@ It's free to download now.
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ####
@@ -76,10 +76,10 @@ After that, move the red marker to the end of the scene, and repeat this again t
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ####
@@ -94,13 +94,6 @@ If you don't want to choose the transition one by one, let the software choose t
 
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ####
 
 #### 3. Edit the audio of MP4 Video
@@ -114,6 +107,13 @@ No problem.
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -146,10 +146,10 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -167,20 +167,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>[New] 2024 Approved Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unleashing-video-potential-steps-to-become-a-staff-pick-favorite/"><u>[New] 2024 Approved Unleashing Video Potential Steps to Become a Staff Pick Favorite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-fixing-your-logitech-c920-webcam-problems/"><u>Diagnosing and Fixing Your Logitech C920 Webcam Problems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-ce-3-lite-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord CE 3 Lite 5G Device SIM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-the-ideal-soundtrack-for-unboxing-content-for-2024/"><u>Finding the Ideal Soundtrack for Unboxing Content for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone XS without Passcode or Face ID</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker/"><u>In 2024, From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y200e-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y200e 5G Location | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-meets-vhs-easy-tutorials-for-a-retro-look/"><u>New Final Cut Pro Meets VHS Easy Tutorials for a Retro Look</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-solutions-for-those-new-to-video-production/"><u>New Free Video Editing Solutions for Those New to Video Production</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-leading-lego-animation-artists/"><u>S Leading Lego Animation Artists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-video-editing-to-the-next-level-with-these-adobe-premiere-shortcuts/"><u>Take Your Video Editing to the Next Level with These Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools/"><u>Updated Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-footage-to-film-mastering-the-art-of-cinematic-video-editing/"><u>Updated From Footage to Film Mastering the Art of Cinematic Video Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-awaken-the-artist-within-selective-shots-for-inspiration/"><u>[New] 2024 Approved Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-ultimate-video-popularity-predictor-top-8-insight/"><u>[New] 2024 Approved Ultimate Video Popularity Predictor Top 8 Insight</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[New] Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[New] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-prime-picks-best-photo-displayers/"><u>[Updated] In 2024, Prime Picks Best Photo Displayers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/error-404-unable-to-locate-the-pages-youre-looking-for/"><u>Error 404: Unable to Locate the Pages You're Looking For</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-best-wireless-pointing-devices-for-the-year-2024/"><u>Expert Picks: Best Wireless Pointing Devices for the Year 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-online-dailymotion-converter-easy-and-fast/"><u>In 2024, Free Online Dailymotion Converter Easy and Fast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dont-lose-your-work-how-to-properly-save-a-final-cut-pro-project/"><u>New Dont Lose Your Work! How to Properly Save a Final Cut Pro Project</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-mov-files-for-free-top-10-video-editors/"><u>New Edit MOV Files for Free Top 10 Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-free-mod-video-editors/"><u>New Top 5 Best Free MOD Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ranking-the-best-slow-motion-video-editing-programs/"><u>Ranking the Best Slow Motion Video Editing Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-pinnacle-studio-alternatives-for-mac-for-2024/"><u>The Ultimate Guide to Pinnacle Studio Alternatives for Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-the-speed-of-life-2-easy-ways-to-create-stunning-time-lapse-videos/"><u>Updated Capture the Speed of Life 2 Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-adding-subtitles-and-captions-for-accessibility/"><u>Updated Final Cut Pro X Adding Subtitles and Captions for Accessibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-excels-beyond-entertainment/"><u>Why Snapchat’s My AI Excels Beyond Entertainment</u></a></li>
 </ul></div>
 
