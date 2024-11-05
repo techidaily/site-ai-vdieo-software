@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact
-date: 2024-10-19T23:44:47.351Z
-updated: 2024-10-23T16:03:36.990Z
+date: 2024-10-29T00:44:40.945Z
+updated: 2024-11-05T00:29:56.035Z
 tags: 
   - video editing software
   - video editing
@@ -52,10 +52,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -65,16 +65,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -87,16 +81,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -119,10 +113,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -148,19 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-how-facebook-twitter-instagram-and-youtube-shape-our-online-experiences/"><u>Connecting the World: How Facebook, Twitter, Instagram & YouTube Shape Our Online Experiences</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converti-dvd-gratis-in-file-mp4-per-windows-e-mac-con-winxdvd-guida-completa/"><u>Converti DVD Gratis in File MP4 per Windows E Mac Con WinXDVD: Guida Completa</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>New Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-create-stunning-home-dvds-with-the-best-video-editing-tools/"><u>New Easily Create Stunning Home DVDs with the Best Video Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-editing-troubleshooting-final-cut-pro-x/"><u>New Effortless Editing Troubleshooting Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-m4a-editor-downloads-top-5-options/"><u>New Free M4A Editor Downloads Top 5 Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-mov-video-rotators/"><u>New Top 5 Free MOV Video Rotators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-itbm-driver-unavailable-issue-quickly/"><u>Resolving the 'ITBM Driver Unavailable' Issue Quickly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/smooth-path-from-instagram-visuals-to-mp3-sound/"><u>Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-simple-guide-to-freezing-frames/"><u>Updated From Motion to Still A Simple Guide to Freezing Frames</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations-for-2024/"><u>[Updated] A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-budget-friendly-superior-asmr-mics/"><u>[Updated] Discover Budget-Friendly, Superior ASMR Mics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-immediate-capture-in-zoom-conferences-via-snap-for-2024/"><u>[Updated] Immediate Capture in Zoom Conferences via Snap for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-vs-multiverse-understanding-the-distinctions/"><u>[Updated] Metaverse Vs. Multiverse Understanding the Distinctions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-digital-memory-lane-with-backward-image-scans-facebook-for-2024/"><u>[Updated] Navigating Digital Memory Lane with Backward Image Scans (Facebook) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-device-to-tv-a-simple-guide-to-streaming-local-videos-on-chromecast/"><u>2024 Approved From Device to TV A Simple Guide to Streaming Local Videos on Chromecast</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-intro-creator-software-for-windows-and-mac-for-2024/"><u>Best Intro Creator Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users-for-2024/"><u>Capturing Photographs From Movies in Windows Photos App for Savvy Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-edit-share-the-top-10-vlog-editor-apps-for-ios-and-android/"><u>Cut, Edit, Share The Top 10 Vlog Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-film-production-on-a-budget-top-software-choices-for-2024/"><u>Cutting-Edge Film Production on a Budget Top Software Choices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-animation-software-roundup-windows-and-mac-compatible/"><u>Free Animation Software Roundup Windows and Mac Compatible</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-game-downloads-the-top-10plus-sites-you-need/"><u>Free Game Downloads The Top 10+ Sites You Need</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-concept-to-reality-10-best-music-video-making-platforms-for-2024/"><u>From Concept to Reality 10 Best Music Video Making Platforms for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-a-comprehensive-guide-to-saving-a-final-cut-pro-project-for-2024/"><u>From Start to Finish A Comprehensive Guide to Saving a Final Cut Pro Project for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y77t-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y77t FRP Without Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/orion-spacecraft-returns-from-lunar-mission-a-closer-look-at-nasas-historic-journey/"><u>Orion Spacecraft Returns From Lunar Mission: A Closer Look at NASA’s Historic Journey</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m34-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M34 Phone Hassle-Free</u></a></li>
 </ul></div>
 

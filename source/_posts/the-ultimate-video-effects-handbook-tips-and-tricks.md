@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Video Effects Handbook Tips and Tricks
-date: 2024-10-24T22:35:47.486Z
-updated: 2024-10-29T21:40:16.194Z
+date: 2024-10-31T19:47:03.009Z
+updated: 2024-11-04T21:55:35.234Z
 tags: 
   - video editing software
   - video editing
@@ -45,10 +45,10 @@ Besides these common cool video effects, [Filmora Effects Store](https://tools.t
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
@@ -82,10 +82,16 @@ Besides that, you can add more cool effects provided by Video Editor. Just highl
 ![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3 Export your videos
@@ -94,26 +100,32 @@ You can preview and watch your video by clicking the “Play” button before yo
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora features more than 300 video effects, elements and motion effects and 100+ text and title styles to choose. Besides adding cool video effects to video clips, you can also reverse, speed up or slow down the video to make a cool effect. You can also choose music sound from the built in music library and do some audio editing with the Audio Mixer or Audio Equalizer tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -133,19 +145,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unified-iptv-streaming-services/"><u>[Updated] In 2024, Unified IPTV Streaming Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-select-top-6-slideshow-creation-software-for-x-models/"><u>[Updated] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-tools-for-efficiently-converting-xmlssattml-to-srt-for-2024/"><u>Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blending-beats-into-bits-the-sound-savvy-image-for-2024/"><u>Blending Beats Into Bits The Sound-Savvy Image for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-x9b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor X9b Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-animation-logo-tools-expert-picks-and-pro-design-tips/"><u>In 2024, Free Animation Logo Tools Expert Picks and Pro Design Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-audio-configuration-error-in-itunes-a-user-friendly-solution/"><u>Overcoming the Audio Configuration Error in iTunes: A User-Friendly Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-wallet-picks-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallet Picks : In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-7-best-video-joiners-with-no-watermark-or-logo/"><u>Updated 7 Best Video Joiners with No Watermark or Logo</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-adobe-premiere-pro-cs6-for-mac-no-subscription-required/"><u>Updated Free Adobe Premiere Pro CS6 for Mac - No Subscription Required</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-capture-to-masterpiece-the-best-1080p-video-editing-software/"><u>Updated From Capture to Masterpiece The Best 1080P Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-video-animation-apps-for-mobile-devices/"><u>Updated Top 10 Video Animation Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-weve-selected-the-best-online-video-stabilizers-that-enable-you-to-fix-your-videos-effortlessly-now-lets-see-web-based-platforms-used-to-stabilize-y/"><u>Updated Weve Selected the Best Online Video Stabilizers that Enable You to Fix Your Videos Effortlessly. Now Lets See Web-Based Platforms Used to Stabilize Your Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-6-platforms-paving-the-way-for-biz-success-for-2024/"><u>[Updated] Elite 6 Platforms Paving the Way for Biz Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition/"><u>2024 Approved Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-filmora-without-spending-a-dime-100-legal-methods/"><u>2024 Approved Get Filmora Without Spending a Dime 100 Legal Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-4k8k-video-editors-expert-picks/"><u>2024 Approved Top-Rated 4K/8K Video Editors Expert Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps-for-2024/"><u>Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device-for-2024/"><u>Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cant-install-lumafusion-on-mac-try-these-best-alternative-apps-for-2024/"><u>Cant Install Lumafusion on Mac? Try These Best Alternative Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-videos-without-breaking-the-bank-5-best-free-ios-apps/"><u>Compress Videos Without Breaking the Bank 5 Best Free iOS Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-tips-on-fixing-usb-connection-issues-with-access-is-denied/"><u>Expert Tips on Fixing USB Connection Issues with 'Access Is Denied'</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level/"><u>Final Cut Pro X Jump Cuts Take Your Editing to the Next Level</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-data-phoenix-stellar-recovery-software/"><u>Free Data Phoenix - Stellar Recovery Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a1x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A1x 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-pop-7-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pop 7 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-authenticity-and-connection-via-fb-profile-covers/"><u>In 2024, Enhancing Authenticity and Connection via FB Profile Covers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-alan-wake-2-crashes/"><u>Ultimate Troubleshooting Guide for Alan Wake 2 Crashes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11f-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11F 5G Users</u></a></li>
 </ul></div>
 

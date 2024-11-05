@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-10-27T02:00:38.983Z
-updated: 2024-10-30T02:57:27.779Z
+date: 2024-11-02T21:03:18.563Z
+updated: 2024-11-04T17:06:28.103Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,16 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -111,10 +105,16 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +124,16 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,15 +151,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-x-capture-pro-for-home-systems/"><u>[New] 2024 Approved X-Capture Pro for Home Systems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-video-sharing/"><u>[Updated] In 2024, Mastering the Art of Instagram Video Sharing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-gopro-match-made-in-heaven-camera-showdowns/"><u>2024 Approved GoPro Match Made in Heaven Camera Showdowns</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/empowering-online-success-with-cookiebot-technology-advanced-site-personalization-solutions/"><u>Empowering Online Success with Cookiebot Technology: Advanced Site Personalization Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>In 2024, 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-comprehensive-review-and-analysis/"><u>In 2024, AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>In 2024, Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>In 2024, Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x-flip-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X Flip? Here is How | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-video-aspect-ratio-guide-optimal-upload-sizes/"><u>[New] 2024 Approved YouTube Video Aspect Ratio Guide Optimal Upload Sizes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-are-you-violating-copyright-by-screenrecording-youtube/"><u>[New] In 2024, Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-blueprint-a-simple-guide-to-facebook-ad-success/"><u>[Updated] 2024 Approved Essential Blueprint A Simple Guide to Facebook Ad Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ps4-live-broadcasting-101-with-obs-recording-tips/"><u>[Updated] 2024 Approved PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>[Updated] In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-fcp-to-vhs-effortless-ways-to-add-retro-flair/"><u>2024 Approved From FCP to VHS Effortless Ways to Add Retro Flair</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-2023-is-it-worth-the-hype-in-2024/"><u>AVS Video Editor 2023 Is It Worth the Hype, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-adobe-4-best-premiere-rush-competitors/"><u>Beyond Adobe 4 Best Premiere Rush Competitors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-effects-made-simple-a-step-by-step-tutorial/"><u>FCP X Effects Made Simple A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-tutorial-create-engaging-reaction-videos-in-no-time/"><u>Filmora Tutorial Create Engaging Reaction Videos in No Time</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-without-the-catch-top-14-watermark-free-options-for-2024/"><u>Free Video Editing Without the Catch Top 14 Watermark-Free Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-digital-to-physical-burning-videos-to-dvds-on-windows-and-mac-for-2024/"><u>From Digital to Physical Burning Videos to DVDs on Windows and Mac for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-tools-for-clear-uncompromised-4k-recordings/"><u>In 2024, Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y55s-5g-2023-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y55s 5G (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-addressing-driver-power-issues-in-windows-systems/"><u>Troubleshooting Made Simple: Addressing Driver Power Issues in Windows Systems</u></a></li>
 </ul></div>
 

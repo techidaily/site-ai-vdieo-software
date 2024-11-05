@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Adjust Video Shape
-date: 2024-10-18T05:27:17.893Z
-updated: 2024-10-23T16:06:47.952Z
+date: 2024-11-01T01:50:14.017Z
+updated: 2024-11-04T20:25:29.700Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -86,10 +86,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -101,10 +101,10 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -158,10 +158,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,24 +179,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterful-methods-for-adding-melodies-to-ig-media/"><u>[New] 2024 Approved Masterful Methods for Adding Melodies to IG Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-leading-12-free-video-trimming-apps-for-android-users-for-2024/"><u>[New] Leading 12 Free Video Trimming Apps for Android Users for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-macbook-webcam-recording-tutorial/"><u>[New] MacBook Webcam Recording Tutorial</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maintaining-memories-on-androidmac-through-snaps/"><u>[Updated] Maintaining Memories on Android/Mac Through Snaps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-superior-4k-visual-quality-with-gear/"><u>2024 Approved Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-perfect-presentation-youtubes-video-ratio-insights/"><u>2024 Approved Unlocking Perfect Presentation YouTube's Video Ratio Insights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 14 Pro Max Activation Lock</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-luminous-levels-in-android-videography/"><u>In 2024, Luminous Levels in Android Videography</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-free-image-resources/"><u>New Top 10 Free Image Resources</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ogg-and-wmvmovavi/"><u>OGG & WMVファイルを気軽に無料で変換！Movaviの応援</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-capturing-a-screen-image-effortlessly-in-windows/"><u>Quick Guide: Capturing a Screen Image Effortlessly in Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-iphone-video-rotation-tools/"><u>The Ultimate Guide to Free iPhone Video Rotation Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-animation-software-for-mobile-devices-free-to-download/"><u>Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-pro-level-video-editing-on-windows-8-and-beyond/"><u>Unlock Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme/"><u>Updated Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme ?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-13-editor-download-for-free/"><u>Updated Filmora 13 Editor Download for Free</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-annotation-tools-add-watermarks-and-captions/"><u>Updated Free Video Annotation Tools Add Watermarks and Captions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>Updated How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios/"><u>Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[New] 2024 Approved Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screen-capture-without-cost-best-free-software-guide/"><u>[Updated] 2024 Approved Screen Capture Without Cost Best Free Software Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-achieving-the-pinnacle-of-color-accuracy-in-11-crucial-edits-for-2024/"><u>[Updated] Achieving the Pinnacle of Color Accuracy in 11 Crucial Edits for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-culminating-sound-merging-music-with-vimeo-media-assets-for-2024/"><u>[Updated] Culminating Sound Merging Music with Vimeo Media Assets for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-look-mycam-cams-performance/"><u>[Updated] In-Depth Look MyCam Cam's Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-tools-elevating-digital-collaboration-for-2024/"><u>[Updated] Prime Tools Elevating Digital Collaboration for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/im-going-to-show-you-the-top-5-avchd-video-editing-software-commonly-used-by-many-people/"><u>Im Going to Show You the Top 5 Avchd Video Editing Software Commonly Used by Many People</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-tools-to-edit-mp4-tags-on-windows-and-mac/"><u>In 2024, Best Tools to Edit MP4 Tags on Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-animation-software-for-newbies-and-pros/"><u>In 2024, Bring Your Ideas to Life Top Animation Software for Newbies and Pros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-comcast-xfinity-vs-tivo-which-dvr-reigns-supreme/"><u>In 2024, Comcast Xfinity vs TiVo Which DVR Reigns Supreme?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-animation-software-for-education/"><u>In 2024, Discover the Best Animation Software for Education</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>In 2024, Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>Master the Art of Sharing Gaming Moments Xbox/FB Livestream</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tricks-for-non-engagement-with-edgenuity-video-content/"><u>Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
 </ul></div>
 

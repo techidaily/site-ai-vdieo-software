@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-10-24T23:56:41.565Z
-updated: 2024-10-30T07:22:48.385Z
+date: 2024-11-03T22:20:50.931Z
+updated: 2024-11-04T21:01:03.946Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -55,11 +62,25 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -93,23 +114,9 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -123,19 +130,6 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
 Because the presets do such a good job it is not really necessary to adjust anything in the settings tab, and unless you are trying to do something very specific.
@@ -145,16 +139,10 @@ While the standard presets are usually suitable, on occasion you may desire a cu
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,17 +166,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>[New] Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-exploring-new-frontiers-in-contactless-interface-designs/"><u>[Updated] 2024 Approved Exploring New Frontiers in Contactless Interface Designs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-security-breach-regain-account-with-ease/"><u>[Updated] In 2024, Facebook Security Breach? Regain Account with Ease</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/destination-finale-quadvient-il-des-images-supprimees-permanemment-sur-windows-et-iphone/"><u>Destination Finale: Qu'Advient-Il Des Images Supprimées Permanemment Sur Windows Et iPhone ?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>In 2024, Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-7-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 7 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>New 2024 Approved Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-easy-to-use/"><u>Updated 6 Essential Video Dubbing Tools for PC Users (Free and Easy to Use)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-animation-mastery-the-best-professional-software-for-macwindows/"><u>Updated Animation Mastery The Best Professional Software for Mac/Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-picks-and-tips-for-thriving-in-valheim/"><u>[New] 2024 Approved Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-achieve-premium-picture-standards-without-paying/"><u>[New] How to Achieve Premium Picture Standards Without Paying</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtubes-creative-playground-explained-with-ease/"><u>2024 Approved YouTube's Creative Playground Explained with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme-for-2024/"><u>Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-z-fold-4-pricing-launch-timeline-and-full-specs/"><u>All You Need to Know About Samsung Z Fold 4 - Pricing, Launch Timeline & Full Specs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/background-noise-begone-mastering-audio-editing-in-final-cut-pro-x-for-2024/"><u>Background Noise Begone! Mastering Audio Editing in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bokeh-magic-the-ultimate-list-of-ios-and-android-apps-for-2024/"><u>Bokeh Magic The Ultimate List of iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-tones-in-seconds-5-best-online-generators-for-2024/"><u>Create Tones in Seconds 5 Best Online Generators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/drawing-to-animating-the-best-software-tools-for-bringing-your-art-to-life-for-2024/"><u>Drawing to Animating The Best Software Tools for Bringing Your Art to Life for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-camon-30-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Camon 30 Pro 5G Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Gadgets with Expert Insights From Tom's Domain
-date: 2024-08-09T08:34:10.914Z
-updated: 2024-08-10T08:34:10.914Z
+date: 2024-10-28T22:28:11.028Z
+updated: 2024-11-04T18:27:23.039Z
 tags:
   - desktop
 categories:
@@ -13,9 +13,6 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/NKjAZtQGjRkmPEdGrdVMSd-320-80.jpg
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
  (Image credit: Minisforum)
@@ -37,9 +34,6 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 | Power                 | DC 19V (adapter included)                                                                                                                                                                                                                                                                  |
 | System                | Windows 11                                                                                                                                                                                                                                                                                 |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
  (Image credit: Minisforum)
@@ -54,18 +48,12 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
  Connectivity seems pretty good for such a small box. As well as Wi-Fi 7 there is a 2.5G Ethernet port, and you can connect up to three 4K monitors at once (HDMI, DP, and USB-C). Six USB ports are available in total, with all being USB 3.2 Gen2 rated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -76,14 +64,11 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
  Pricing for the AtomMan G7 Pt hasn’t been divulged, though we have written back to Minisforum for some pricing details. Those particularly interested in this device might find it worthwhile to sign up for updates and a $50 discount coupon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +77,28 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-digital-deluge-examining-this-years-most-shared-videos/"><u>[New] In 2024, The Digital Deluge Examining This Year's Most Shared Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[Updated] Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-high-roi-crafting-dynamic-animated-ads-for-fb/"><u>[Updated] Leveraging High ROI Crafting Dynamic Animated Ads for FB</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-engagement-through-best-thumbnail-practices-for-2024/"><u>Boost Engagement Through Best Thumbnail Practices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-h115i-and-windows-8-11-overcoming-common-driver-challenges/"><u>Corsair H115i and Windows 8-11: Overcoming Common Driver Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-ii-reimagined-how-we-addressed-and-prevented-game-crashes/"><u>Diablo II Reimagined - How We Addressed and Prevented Game Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-ways-to-convert-mp4-videos-to-mp3-audio-files/"><u>New Best Ways to Convert MP4 Videos to MP3 Audio Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-ultimate-video-editing-solution-for-windows-8/"><u>New Discover the Ultimate Video Editing Solution for Windows 8</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-dvd-player-for-windows-10-our-top-10-picks/"><u>New Free DVD Player for Windows 10 Our Top 10 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-idevice-video-recording-guide-for-2024/"><u>Ultimate iDevice Video Recording Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-image-to-video-makers-online-free-and-paid/"><u>Updated 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-invitation-apps-that-will-make-your-event-unforgettable/"><u>Video Invitation Apps That Will Make Your Event Unforgettable</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728497247487-windows-11/"><u>Windows 11 数据移动手册：无缝迁移方法全解析</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-10-23T16:49:55.020Z
-updated: 2024-10-29T16:36:46.220Z
+date: 2024-11-01T20:17:16.711Z
+updated: 2024-11-04T17:45:28.853Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -58,10 +65,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -92,13 +99,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -106,10 +106,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -121,10 +121,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,24 +142,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-techniques-for-movie-recording-across-os-and-devices/"><u>[Updated] In 2024, Comprehensive Techniques for Movie Recording Across OS and Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>[Updated] In 2024, From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-rapid-video-grabber-your-gateway-to-all-online-videos/"><u>[Updated] Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>2024 Approved Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elite-10-sound-recording-essentials-on-spotify-platform-for-2024/"><u>Elite 10 Sound Recording Essentials on Spotify Platform for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-minecraft-drivers-are-outdated-message-with-ease/"><u>How To Overcome The 'Minecraft Drivers Are Outdated' Message with Ease</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-13-mini-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 13 mini for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/major-update-alert-filmora-x-now-optimized-for-arm-processors/"><u>Major Update Alert Filmora X Now Optimized for ARM Processors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-home-security-camera-apps-expert-reviews/"><u>New Best Free Home Security Camera Apps Expert Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-audio-editing-made-easy-top-software-picks/"><u>Professional Audio Editing Made Easy Top Software Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free/"><u>Top Online Tools to Create Fake Faces for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-uncovering-a-hidden-gem-in-the-ultimate-2-in-1-device-ideal-for-workspaces-exclusive-reveal/"><u>Top Pick: Uncovering a Hidden Gem in the Ultimate 2-in-1 Device Ideal for Workspaces - Exclusive Reveal</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-performance-toms-guide-to-cutting-edge-hardware/"><u>Unleashing Performance: Tom's Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-best-explainer-video-software-you-should-try/"><u>Updated 6 Best Explainer Video Software You Should Try</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-mov-video-trimmers-for-easy-editing/"><u>Updated Best Free MOV Video Trimmers for Easy Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-4k-video-samples-you-cant-miss/"><u>Updated Top 10 4K Video Samples You Cant Miss</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-face-off-final-cut-pro-vs-lumafusion-choosing-the-right-fit/"><u>Video Editing Face-Off Final Cut Pro vs LumaFusion - Choosing the Right Fit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-review-of-facetunes-latest-updates/"><u>[New] Comprehensive Review of Facetune's Latest Updates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[Updated] The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-scenes-of-effective-online-streaming/"><u>2024 Approved Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-online-collage-makers-for-photos-videos-and-more/"><u>Best Free Online Collage Makers for Photos, Videos, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-like-a-pro-5-expert-tips-to-elevate-your-edits/"><u>Final Cut Pro Like a Pro 5 Expert Tips to Elevate Your Edits</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-driver-corruptedexpool-issue-in-windows-10-a-comprehensive-guide/"><u>Fixing the 'DRIVER CORRUPTED_EXPOOL' Issue in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-magic-top-special-effects-apps-for-ios-and-android-for-2024/"><u>Free Video Editing Magic Top Special Effects Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-essential-video-editing-tips-for-home-movie-makers/"><u>From Clips to Masterpiece Essential Video Editing Tips for Home Movie Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-concept-to-reality-the-10-best-music-video-agencies/"><u>From Concept to Reality The 10 Best Music Video Agencies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-canon-mx340-software-official-drivers-for-windows-operating-systems/"><u>Get Your Canon MX340 Software: Official Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone XS Max to Android? | Dr.fone</u></a></li>
 </ul></div>
 

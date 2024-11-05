@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-10-19T10:27:32.857Z
-updated: 2024-10-24T12:28:53.247Z
+date: 2024-11-04T01:49:56.960Z
+updated: 2024-11-04T20:16:48.555Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -131,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -150,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -167,10 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,16 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-stream-vs-record-deciding-on-obs-studio-or-bandicam-for-2024/"><u>[New] Stream vs Record Deciding on OBS Studio or Bandicam for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-best-video-editing-software-for-windows-enthusiasts-revealed-for-2024/"><u>[Updated] The Best Video Editing Software For Windows Enthusiasts Revealed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-of-manipulation-the-photographers-way/"><u>2024 Approved Mastery of Manipulation The Photographer's Way</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-reviews-on-top-hardware-by-toms-technology-hub/"><u>Expert Reviews on Top Hardware by Tom's Technology Hub</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-conceal-faces-with-confidence-professional-video-editing-software/"><u>New Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-fabulous-the-5-best-online-tone-generators-out-there/"><u>New Free and Fabulous The 5 Best Online Tone Generators Out There</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reduce-video-size-for-free-10-top-online-compression-tools/"><u>Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-video-editing-software-for-starters-free-paid-and-everything-in-between/"><u>The Best Video Editing Software for Starters Free, Paid, and Everything in Between</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-guide-picking-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Selection Guide: Picking the Perfect Tablet by Dimensions & Mass</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-effortless-creativity-premier-pro-free-2023-guide/"><u>[New] 2024 Approved Effortless Creativity - Premier Pro FREE 2023 Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-barebones-calm-music-selection/"><u>[New] Barebones Calm Music Selection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-chromes-for-capturing-and-keeping-fb-vids/"><u>[New] Cutting-Edge Chromes for Capturing and Keeping FB Vids</u></a></li>
+<li><a href="https://win-popular.techidaily.com/44cm5ywo6z2i6kej5rg65pa55rov77ya5b6p5y6f56gs56kf5lik55qe5pya5paw5pcn5asx6loh5paz44cn/"><u>「全面解決方法：復原硬碟上的最新損失資料」</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-tivo-vs-comcast-who-wins-the-dvr-battle/"><u>2024 Approved TiVo vs Comcast, Who Wins the DVR Battle?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adding-subtitles-in-fcpx-a-beginners-tutorial-updated-2023-for-2024/"><u>Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023) for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-and-solving-significant-camera-problems-in-the-latest-windows-11-update/"><u>Addressing and Solving Significant Camera Problems in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-factors-you-need-to-evaluate-prior-to-acquiring-new-stereo-speakers/"><u>Crucial Factors You Need to Evaluate Prior to Acquiring New Stereo Speakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/digitalize-your-dvds-a-beginners-guide-to-conversion/"><u>Digitalize Your DVDs A Beginners Guide to Conversion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-how-to-create-stunning-hollywood-style-videos-for-2024/"><u>Elevate Your Storytelling How to Create Stunning, Hollywood-Style Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-sony-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Sony</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-working-learn-how-to-reset-and-get-back-to-editing-for-2024/"><u>FCPX Not Working? Learn How to Reset and Get Back to Editing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-x-just-got-faster-arm-support-now-available/"><u>Filmora X Just Got Faster ARM Support Now Available</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flipping-videos-like-a-pro-quick-easy-and-stress-free-for-2024/"><u>Flipping Videos Like a Pro Quick, Easy, and Stress-Free for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-motion-how-to-achieve-the-ken-burns-effect/"><u>From Still to Motion How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-set-go-adding-a-countdown-timer-in-fcpx-in-just-3-steps/"><u>Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 12 Pro 4G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
 
