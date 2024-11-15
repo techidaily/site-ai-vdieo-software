@@ -1,7 +1,7 @@
 ---
 title: Unlock FCP Xs Power Adding Effects in Just 3 Steps for 2024
-date: 2024-08-09T08:25:50.811Z
-updated: 2024-08-10T08:25:50.811Z
+date: 2024-11-10T06:23:10.021Z
+updated: 2024-11-15T05:49:25.015Z
 tags: 
   - video editing software
   - video editing
@@ -32,16 +32,10 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -61,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -84,10 +72,6 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
@@ -108,9 +92,6 @@ To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -131,11 +112,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigate-the-past-reversing-media-on-iphones/"><u>[New] Navigate the Past Reversing Media on iPhones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-offline-audio-to-text-solutions/"><u>[Updated] In 2024, Expert Offline Audio to Text Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-asmrs-hidden-layers/"><u>[Updated] Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guida-passo-passo-su-come-effettuare-il-backup-del-tuo-server-windows-2012-in-un-hard-disk-fresco/"><u>Guida Passo-Passo Su Come Effettuare Il Backup Del Tuo Server Windows 2012 in Un Hard Disk Fresco</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-10-free-4k-video-converter-tools/"><u>New Best of the Best Top 10 Free 4K Video Converter Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-photography-top-vignette-apps-for-iphone-ipad-and-android/"><u>New Elevate Your Photography Top Vignette Apps for iPhone, iPad, and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/retro-revival-achieve-vhs-style-in-final-cut-pro/"><u>Retro Revival Achieve VHS Style in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-dvr-face-off-tivo-vs-comcast-xfinity-for-2024/"><u>The Ultimate DVR Face-Off TiVo vs Comcast Xfinity for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated In 2024, Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

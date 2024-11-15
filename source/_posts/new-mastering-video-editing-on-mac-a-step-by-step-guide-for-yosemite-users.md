@@ -1,7 +1,7 @@
 ---
 title: New Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users
-date: 2024-08-09T08:29:19.808Z
-updated: 2024-08-10T08:29:19.808Z
+date: 2024-11-09T08:04:00.540Z
+updated: 2024-11-14T23:06:12.950Z
 tags: 
   - video editing software
   - video editing
@@ -37,8 +37,12 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -47,28 +51,26 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
 
@@ -77,13 +79,21 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -92,11 +102,26 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-social-media-symphony-composing-jake-pauls-youtube-success/"><u>2024 Approved The Social Media Symphony Composing Jake Paul's YouTube Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/filmmaking-essentials-windows-11s-leading-edits/"><u>Filmmaking Essentials Windows 11'S Leading Edits</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/guia-simple-para-solucionar-el-problema-de-shadow-copy-no-creado-correctamente/"><u>Guía Simple Para Solucionar El Problema De Shadow Copy No Creado Correctamente</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-beginner-to-pro-the-best-vlog-video-editing-software-for-every-level/"><u>In 2024, From Beginner to Pro The Best Vlog Video Editing Software for Every Level</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-13-ultra-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/scripting-the-final-push-for-your-tiktok-series-for-2024/"><u>Scripting the Final Push for Your TikTok Series for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-windows-10-webcam-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Webcam Drivers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-top-20-adobe-premiere-title-templates-free/"><u>Take Your Videos to the Next Level Top 20 Adobe Premiere Title Templates Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-lego-stop-motion-producers/"><u>The Ultimate List of Lego Stop Motion Producers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-techniques-to-eliminate-dota-2-lag-expert-advice-from-2024/"><u>Ultimate Troubleshooting Techniques to Eliminate Dota 2 Lag - Expert Advice From 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook/"><u>Updated Breaking Boundaries Running Windows and Mac Video Editing Software on Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-the-moment-how-to-extract-images-from-videos-using-10-top-converters/"><u>Updated Capture the Moment How to Extract Images From Videos Using 10 Top Converters</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Art of Pan and Zoom How to Achieve the Ken Burns Effect
-date: 2024-08-09T08:25:44.643Z
-updated: 2024-08-10T08:25:44.643Z
+date: 2024-11-08T08:09:53.136Z
+updated: 2024-11-15T01:47:38.130Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 # How to Make Ken Burns Effect in Final Cut Pro?
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -63,9 +60,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 _![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
 
 **Step 4: Customize Your Effect**
@@ -94,9 +88,6 @@ _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cu
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 _![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
 
 **Step 7: Swap the Start and End Frame**
@@ -109,9 +100,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
 
 **Step 8: Play/Preview Looping**
@@ -124,14 +112,15 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -142,9 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -157,6 +149,13 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -167,13 +166,18 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -181,3 +185,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-high-tech-5-live-screen-recorders/"><u>[New] 2024 Approved High-Tech 5 Live Screen Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-in-making-panzoids/"><u>[Updated] Masterclass in Making Panzoids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>2024 Approved Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-disconnect-resolved/"><u>Epson Disconnect Resolved</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-configuration-options-for-successful-software-installs/"><u>Essential Configuration Options for Successful Software Installs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g14-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Moto G14</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-9a-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo Reno 9A to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-color-workflow-efficient-and-effective/"><u>New Final Cut Pro Color Workflow Efficient and Effective</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/oculus-quest-nreview-premium-vr-gaming-made-accessible-at-an-unbeatable-price/"><u>Oculus Quest nReview: Premium VR Gaming Made Accessible at an Unbeatable Price</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/simple-strategies-for-smooth-underwater-moviemaking/"><u>Simple Strategies for Smooth Underwater Moviemaking</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-furious-top-10-slow-motion-video-editing-solutions/"><u>Updated From Fast to Furious Top 10 Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-make-a-time-lapse-video-in-final-cut-pro/"><u>Updated How to Make a Time Lapse Video in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/young-filmmakers-unleashed-a-kids-guide-to-movie-creation-for-2024/"><u>Young Filmmakers Unleashed A Kids Guide to Movie Creation for 2024</u></a></li>
+</ul></div>
+

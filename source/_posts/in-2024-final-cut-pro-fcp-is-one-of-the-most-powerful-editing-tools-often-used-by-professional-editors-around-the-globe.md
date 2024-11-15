@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe
-date: 2024-08-09T08:26:13.877Z
-updated: 2024-08-10T08:26:13.877Z
+date: 2024-11-09T04:04:18.710Z
+updated: 2024-11-14T21:49:50.413Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 # How to Edit Audio of a Video on FCP
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,9 +32,6 @@ Final Cut Pro (FCP) is one of the most powerful editing tools often used by prof
 
 Those of you reading this article as a guide to audio editing of videos on Final Cut Pro, needs to remember that this is just a basic tutorial for this professional editing software. However, if you are new to the field of video editing then you should consider using the [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). It is a powerful but simple tool that is just the right editing software for beginners. The advanced tools of this software would even allow you to use a lot of special effects like picture in picture, tilt shifts, split-screen, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -50,17 +44,10 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -71,9 +58,6 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -95,9 +79,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
@@ -112,11 +93,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-signal-of-a-block-missed-snaps-and-none-left/"><u>[New] Signal of a Block Missed Snaps and None Left</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/50264434-new-your-essential-gift-a-compact-bundle-of-50-banners/"><u>[New] Your Essential Gift A Compact Bundle of 50 Banners!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-complete-iphone-7-screen-capture-manual/"><u>[Updated] In 2024, The Complete iPhone 7 Screen Capture Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-creators-lab-building-an-unstoppable-channel/"><u>[Updated] The Creator's Lab Building an Unstoppable Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>2024 Approved Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/manage-your-video-library-with-these-mp4-tag-editors/"><u>Manage Your Video Library with These MP4 Tag Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-text-motion-tracking-software/"><u>New Best Text Motion Tracking Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed/"><u>New Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-videos-like-a-pro-64-bit-software-for-windows-8-and-up/"><u>New Edit Videos Like a Pro 64-Bit Software for Windows 8 and Up</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easter-eggstravaganza-get-your-wondershare-filmora-promo-code-now/"><u>Updated Easter Eggstravaganza Get Your Wondershare Filmora Promo Code Now</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

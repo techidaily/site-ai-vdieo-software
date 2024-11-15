@@ -1,7 +1,7 @@
 ---
 title: New FCPX Captioning 101 How to Add Subtitles to Your Videos
-date: 2024-08-09T08:27:54.550Z
-updated: 2024-08-10T08:27:54.550Z
+date: 2024-11-12T22:45:21.949Z
+updated: 2024-11-14T22:35:40.805Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ On the other hand, the captions display every kind of audio information, includi
 
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -54,13 +51,12 @@ It is a standard caption format for web videos and broadcasts.
 It is a simple and popular format used in online videos.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -87,14 +83,15 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -110,6 +107,13 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 * [Word Pop by Stupid Raisins](https://fxfactory.com/info/wordpop/)
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
@@ -133,17 +137,18 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -151,11 +156,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-comprehensive-guide-to-crafting-memes-on-9gag-for-2024/"><u>[Updated] A Comprehensive Guide to Crafting Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolutionary-steps-the-key-differences-between-gpt-4-gpt-4-turbo-and-gpt-n-models-explored/"><u>AI Evolutionary Steps: The Key Differences Between GPT-4, GPT-4 Turbo & GPT-N Models Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-reinstall-and-update-webcam-drivers-successfully-on-windows-11/"><u>How to Reinstall and Update Webcam Drivers Successfully on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-meizu-21-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Meizu 21 Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-essential-compilation-top-8-4k-ultra-hd-players/"><u>In 2024, Essential Compilation Top 8 4K Ultra HD Players</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mod-video-editing-solutions-expert-approved-choices/"><u>In 2024, Free MOD Video Editing Solutions Expert-Approved Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-best-video-editing-software-videopad-review-and-comparison/"><u>In 2024, The Best Video Editing Software? Videopad Review and Comparison</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/jump-cut-mastery-unlocking-the-secrets-of-final-cut-pro-x/"><u>Jump Cut Mastery Unlocking the Secrets of Final Cut Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-tech-trends-at-toms-hardware-the-ultimate-source-for-savvy-shoppers/"><u>Navigating Tech Trends at Tom's Hardware: The Ultimate Source for Savvy Shoppers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-flip-a-clip-in-final-cut-pro-with-4-steps/"><u>New How to Flip a Clip in Final Cut Pro with 4 Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-9-best-online-video-quality-enhancer-for-free/"><u>New Top 9 Best Online Video Quality Enhancer for FREE</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-game-video-editing-software-the-best-options/"><u>No-Cost Game Video Editing Software The Best Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-on-chatgpt-is-it-running/"><u>The Latest on ChatGPT: Is It Running?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlimited-premium-slide-decks-for-entrepreneurs-for-2024/"><u>Unlimited Premium Slide Decks for Entrepreneurs for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-for-mac-easily-edit-video-in-mac/"><u>VirtualDub for Mac Easily Edit Video in Mac</u></a></li>
+</ul></div>
+

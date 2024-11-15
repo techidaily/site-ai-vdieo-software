@@ -1,7 +1,7 @@
 ---
 title: "Ultra Compact yet Ultra Powerful: Discover the MSI C906 Minicomputer with Intel's Newest Raptor Lake Processor & Four Ethernet Ports for Superior Connectivity"
-date: 2024-08-09T08:27:01.762Z
-updated: 2024-08-10T08:27:01.762Z
+date: 2024-11-07T17:33:46.155Z
+updated: 2024-11-14T18:10:36.605Z
 tags:
   - desktop
 categories:
@@ -23,37 +23,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Image 1 of 5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: One-Netbook)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: One-Netbook)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: One-Netbook)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: One-Netbook)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: One-Netbook)
@@ -64,9 +49,6 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -75,14 +57,11 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,4 +70,31 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webinar-recording-a-step-by-step-masterclass-guide/"><u>[New] In 2024, Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>[Updated] 2024 Approved From Novice to Proficient The Path with Zoom Webinars</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instagram-to-twitter-share-content-directly-no-rt/"><u>[Updated] Instagram to Twitter Share Content Directly (No RT)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-z-flip-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy Z Flip 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/aomei/"><u>如何与AOMEI数据恢复解决方案联手实现业务突破</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013611841-fix-the-problem-with-audio-configuration-message-from-itunes-easily/"><u>Fix the 'Problem with Audio Configuration' Message From iTunes Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-gif-maker-tools-for-seamless-loops-2023-update/"><u>In 2024, Free GIF Maker Tools for Seamless Loops 2023 Update</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-pro-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Pro from iCloud</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-5-best-free-apps-to-compress-videos-on-iphone-and-ipad/"><u>New 5 Best Free Apps to Compress Videos on iPhone & iPad</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-cinematography-how-to-create-visually-stunning-videos/"><u>New FCPX Cinematography How to Create Visually Stunning Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-unifying-your-fortnite-profiles-effortlessly/"><u>Step-by-Step Guide: Unifying Your Fortnite Profiles Effortlessly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-blur-effects-on-iphone-and-android-for-2024/"><u>The Ultimate Guide to Video Blur Effects on iPhone and Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-and-paid-android-video-editing-software/"><u>The Ultimate List of Free and Paid Android Video Editing Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-playlist-to-share-on-fb-stories/"><u>The Ultimate Playlist to Share on FB Stories</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/"><u>Updated Blur Unwanted Parts of Your Videos with These Mobile Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-video-dubbing-software-for-pc-free-trials/"><u>Updated Discover the Best Video Dubbing Software for PC - Free Trials</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-face-creator-no-registration-needed/"><u>Updated Free Online Face Creator No Registration Needed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

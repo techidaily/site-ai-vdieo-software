@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2024-10-28T21:38:17.170Z
-updated: 2024-11-04T22:02:27.412Z
+date: 2024-11-08T18:58:40.725Z
+updated: 2024-11-14T16:24:17.086Z
 tags: 
   - video editing software
   - video editing
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -55,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -100,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
@@ -118,10 +111,16 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -129,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Summary**
 
@@ -139,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -160,16 +166,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-in-game-capturing-titans/"><u>2024 Approved In-Game Capturing Titans</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-what-you-need-to-know-before-buying-for-2024/"><u>AVS Video Editor What You Need to Know Before Buying for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-animation-software-for-all-skill-levels-top-picks-for-2024/"><u>Best Animation Software for All Skill Levels Top Picks for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-website-traffic-with-the-expertise-of-cookiebot/"><u>Boost Your Website Traffic with the Expertise of Cookiebot!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-security-camera-software-reviews-top-10-options-for-2024/"><u>Free Security Camera Software Reviews Top 10 Options for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-tecno-spark-20c-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Tecno Spark 20C to Another | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/inside-the-world-of-apeaksofts-screens-recorder-update-2023/"><u>Inside the World of Apeaksoft's Screens Recorder Update 2023</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-v27-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V27? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>[New] Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-demystifying-ps4s-capture-features-a-comprehensive-walkthrough/"><u>[New] In 2024, Demystifying PS4's Capture Features A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-posting-media-on-twitter-keep-it-simple-no-twit/"><u>[New] In 2024, Posting Media on Twitter - Keep It Simple, No Twit</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-break-bot-patterns-enhance-organic-video-reach/"><u>[Updated] 2024 Approved Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-moments-of-happiness-animated-filters-on-your-phone/"><u>[Updated] In 2024, Crafting Moments of Happiness Animated Filters on Your Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-fcpx-troubleshooting-resource-2023-edition/"><u>In 2024, The Ultimate FCPX Troubleshooting Resource 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-advanced-video-editing-made-easy-adobe-premiere-pro-on-mac/"><u>New Advanced Video Editing Made Easy Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-hd-video-editors-our-top-5/"><u>Professional-Grade HD Video Editors Our Top 5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ultra-portable-moko-collapsible-wireless-keyboard/"><u>Ultra-Portable MoKo Collapsible Wireless Keyboard</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-highlight-video-editors-for-desktop-and-mobile/"><u>Updated Expert-Approved Highlight Video Editors for Desktop and Mobile</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-the-good-the-bad-and-the-best-alternatives-for-you/"><u>Virtualdub The Good, the Bad, and the Best Alternatives for You</u></a></li>
 </ul></div>
 

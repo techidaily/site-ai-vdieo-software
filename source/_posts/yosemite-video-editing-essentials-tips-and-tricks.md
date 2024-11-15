@@ -1,7 +1,7 @@
 ---
 title: Yosemite Video Editing Essentials Tips and Tricks
-date: 2024-08-09T08:28:08.338Z
-updated: 2024-08-10T08:28:08.338Z
+date: 2024-11-09T06:20:03.752Z
+updated: 2024-11-15T06:39:58.122Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 # How to Edit Video Files on Mac OS X Yosemite
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -37,19 +34,14 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
 
@@ -71,29 +63,44 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -101,11 +108,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-15-advanced-techniques-in-sports-broadcasting/"><u>[New] Unveiling 15 Advanced Techniques in Sports Broadcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zap-extra-details-sharpen-logitech-webcam-recordings/"><u>[New] Zap Extra Details - Sharpen Logitech Webcam Recordings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-triumphs-of-nintendos-wii-u-gaming-console/"><u>Exploring the Triumphs of Nintendo's Wii U Gaming Console</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-easily-transform-mpeg-videos-into-3g2-format-for-free-a-guide-by-movavi/"><u>How to Easily Transform MPEG Videos Into 3G2 Format for Free: A Guide by Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y36-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y36 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-camon-20-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Camon 20 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-acer-laptop-touchpad-software-for-win11-free-download-and-installation-guide/"><u>Latest Acer Laptop Touchpad Software for Win11: Free Download and Installation Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>New Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free/"><u>Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-iphone-features-podcast-audiophiles-guide-for-2024/"><u>Unveiling iPhone Features - Podcast Audiophiles Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-mov-video-trimmers-for-easy-editing/"><u>Updated Best Free MOV Video Trimmers for Easy Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vsdc-video-editor-substitutes-for-macos/"><u>Updated Best VSDC Video Editor Substitutes for macOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-master-fcp-x-effects-in-minutes-a-3-step-guide/"><u>Updated Master FCP X Effects in Minutes A 3-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/videopad-video-editor-2023-a-detailed-review-and-recommendation/"><u>Videopad Video Editor 2023 A Detailed Review and Recommendation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-bother-with-reddit-get-the-best-filmora-deals-right-here/"><u>Why Bother with Reddit? Get the Best Filmora Deals Right Here</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2024-08-09T08:27:26.181Z
-updated: 2024-08-10T08:27:26.181Z
+date: 2024-11-09T06:47:14.971Z
+updated: 2024-11-14T21:00:50.257Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -42,9 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -53,22 +46,12 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -82,9 +65,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -95,6 +75,13 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -110,10 +97,14 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,11 +112,25 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-understanding-vimeo-online-movie-marketplace/"><u>[Updated] In 2024, Understanding Vimeo Online Movie Marketplace</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-your-easy-guide-to-revisiting-your-lately-watched-fb-videos-for-2024/"><u>[Updated] Your Easy Guide to Revisiting Your Lately Watched FB Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic-6-lite-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic 6 Lite Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/downloadable-media-editor-easily-transform-3gp-videos-into-mpeg-format-by-movavi-for-free/"><u>Downloadable Media Editor: Easily Transform 3GP Videos Into MPEG Format by Movavi for Free!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-the-ultimate-guide/"><u>In 2024, Video Editing Showdown Sony Vegas vs Adobe Premiere Pro - The Ultimate Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/jumpstart-your-cash-with-these-8-innovative-tiktok-methods-for-2024/"><u>Jumpstart Your Cash with These 8 Innovative TikTok Methods for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cheap-but-powerful-video-editing-software/"><u>Updated Cheap but Powerful Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-chromebook-linux-installation-a-simple-step-by-step-process-updated/"><u>Updated Chromebook Linux Installation A Simple, Step-by-Step Process (Updated )</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-glitches-the-best-free-online-generators/"><u>Updated Create Stunning Glitches The Best Free Online Generators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-best-5-free-mpeg-video-joiners/"><u>Updated Top Best 5 Free MPEG Video Joiners</u></a></li>
+</ul></div>
+

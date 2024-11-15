@@ -1,7 +1,7 @@
 ---
 title: Reverse Video in FCP A Step-by-Step Guide for Beginners
-date: 2024-08-09T08:28:18.601Z
-updated: 2024-08-10T08:28:18.601Z
+date: 2024-11-14T03:02:35.802Z
+updated: 2024-11-15T06:41:21.943Z
 tags: 
   - video editing software
   - video editing
@@ -70,9 +70,6 @@ Hit that reverse option.
 
 In case if you want to customize speed of reversed clip then use retiming handle and drag it to right or left as per need of decreasing or increasing the clip speed.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
 #### **Step 4:**
@@ -91,59 +88,66 @@ Go to timeline and select clips that you want to rewind.
 
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
 #### **Step 4:**
 
 Play the clip to view editing effects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Easier Way to Reverse A Video in Filmora
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a free video editing program for reversing videos that is simple to use. It lets users publish their movies to the internet, as well as produce new ones and modify old ones. The procedures for reversing films in Filmora are simple and straightforward, so you may follow them without difficulty.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -152,11 +156,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-path-to-accessing-fb-status-video-footage-for-2024/"><u>[New] Navigating the Path to Accessing FB Status Video Footage for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-progression-of-vegaspro-through-its-2019-updates/"><u>[New] The Progression of VegasPro Through Its 2019 Updates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-low-cost-cloud-vaulting-for-massive-file-stashing/"><u>[Updated] 2024 Approved Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-download-obs-studio-for-mac/"><u>[Updated] How to Download OBS Studio for Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[Updated] In 2024, Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-your-live-stream-with-periscope/"><u>2024 Approved Elevating Your Live Stream with Periscope</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-team-videography-methods-for-channel-expansion/"><u>2024 Approved Team Videography Methods for Channel Expansion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-wf-7710-driver-download-guide-ready-for-windows-108187-operating-systems/"><u>Epson WF-7710 Driver Download Guide - Ready for Windows 10/8.1/8/7 Operating Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-optimizing-income-a-trifecta-methodology-for-youtube-earnings-assessment/"><u>In 2024, Optimizing Income A Trifecta Methodology for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>New Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reaction-video-made-easy-tips-and-tricks-using-filmora/"><u>Reaction Video Made Easy Tips and Tricks Using Filmora</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/replace-sony-vegas-discover-the-best-video-editing-software-for-windows/"><u>Replace Sony Vegas Discover the Best Video Editing Software for Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-the-essence-two-effective-ways-to-create-time-lapse-videos-that-impress/"><u>Updated Capture the Essence Two Effective Ways to Create Time Lapse Videos That Impress</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>Updated Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-hilarious-memes-with-these-10-awesome-apps-2023-edition/"><u>Updated Create Hilarious Memes with These 10 Awesome Apps (2023 Edition)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-hand-drawing-whiteboard-animation-tools/"><u>Updated Expert-Approved Hand Drawing Whiteboard Animation Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-crashing-heres-the-ultimate-fix/"><u>Updated Final Cut Pro X Crashing? Heres the Ultimate Fix</u></a></li>
+</ul></div>
+

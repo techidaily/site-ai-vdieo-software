@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-30T19:36:45.267Z
-updated: 2024-11-04T16:19:31.639Z
+date: 2024-11-10T08:33:15.619Z
+updated: 2024-11-15T08:00:44.731Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,10 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,20 +142,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-winning-collaboration-plans-on-youtube-for-2024/"><u>[New] Crafting Winning Collaboration Plans on YouTube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-divine-clash-thors-return-date/"><u>[Updated] 2024 Approved Divine Clash Thor's Return Date</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-clues-to-detecting-an-snapchat-block/"><u>[Updated] 2024 Approved The Clues to Detecting an Snapchat Block</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-laptop-and-mobile-embarking-on-the-google-meet-experience-for-2024/"><u>[Updated] Laptop & Mobile Embarking on the Google Meet Experience for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-snapchat-sponsored-content-for-2024/"><u>[Updated] Mastering the Art of Snapchat Sponsored Content for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-best-alternatives-of-vsdc-video-editor-on-mac/"><u>2024 Approved Get Best Alternatives of VSDC Video Editor on Mac</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ditch-final-cut-pro-x-here-are-10-alternative-video-editors/"><u>Ditch Final Cut Pro X? Here Are 10 Alternative Video Editors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-pc-to-meet-software-and-hardware-criteria/"><u>Elevate PC to Meet Software and Hardware Criteria</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-creating-engaging-picture-in-picture-effects/"><u>Final Cut Pro Creating Engaging Picture-in-Picture Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-animated-logo-makers-top-picks-and-expert-design-tips-for-2024/"><u>Free Animated Logo Makers Top Picks and Expert Design Tips for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-m4a-editor-software-top-5-recommendations-for-2024/"><u>Free M4A Editor Software Top 5 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-the-heart-tips-and-tricks-for-making-a-meaningful-valentines-day-video/"><u>From the Heart Tips and Tricks for Making a Meaningful Valentines Day Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-capturing-and-broadcasting-ultra-hd-content-using-obs-studio/"><u>Ultimate Guide: Capturing and Broadcasting Ultra HD Content Using OBS Studio</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-of-education-at-mansion-house-bett/"><u>World of Education at Mansion House BETT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-craft-humorous-memes-with-giphy/"><u>[New] In 2024, Craft Humorous Memes with Giphy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-of-stories-in-youtube-expansion/"><u>[Updated] The Power of Stories in YouTube Expansion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/descobrir-expressoes-de-ameaca-em-portugues-variedades/"><u>Descobrir Expressões De Ameaça Em Português - Variedades</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-on-a-shoestring-8-affordable-filmmaking-software/"><u>In 2024, From Script to Screen on a Shoestring 8 Affordable Filmmaking Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-3d-video-makers-you-must-know/"><u>New Best 3D Video Makers You Must Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-review-pros-cons-and-alternatives-for-2024/"><u>New Videopad Video Editor Review Pros, Cons, and Alternatives for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-editor/"><u>PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-wmv-video-merging-solutions/"><u>The Best Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-journey-through-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Journey Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vllo-for-mac-download-guide-and-alternatives/"><u>VLLO for Mac Download Guide and Alternatives</u></a></li>
 </ul></div>
 

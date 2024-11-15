@@ -1,7 +1,7 @@
 ---
 title: New Cropping Images in FCPX Tips, Tricks, and Best Practices
-date: 2024-08-09T08:26:07.177Z
-updated: 2024-08-10T08:26:07.177Z
+date: 2024-11-13T18:18:46.515Z
+updated: 2024-11-14T16:37:00.537Z
 tags: 
   - video editing software
   - video editing
@@ -30,16 +30,10 @@ Cropping an image means to remove a portion of the image, either to hide somethi
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -61,9 +55,6 @@ Trimming is the process of removing portions of a video clip without changing th
 
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
@@ -82,9 +73,6 @@ Grab one of the blue dots and drag to hide portions of the frame. I generally gr
 
 NOTE: Press and hold the Option key while dragging to drag opposite edges or corners. Press and hold the Shift key to constrain the trim to the same aspect ratio as the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
 Drag other corners or edges to further trim the image.
@@ -93,9 +81,6 @@ Drag other corners or edges to further trim the image.
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
 
 If no other clip is below the trimmed clip, the background will be black.
@@ -121,24 +106,14 @@ There are several ways we can choose to crop an image:
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
 
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
@@ -153,9 +128,6 @@ Reposition the frame by grabbing inside the rectangle and dragging.
 
 When you are happy with the results, click the Done button in the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
@@ -176,9 +148,6 @@ Cropping is used to reframe an image, say from a medium shot to a close-up, but 
 
 I use both these techniques frequently in my own editing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -187,11 +156,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ring-induced-voice-memo-iphone-24/"><u>[Updated] 2024 Approved Ring-Induced Voice Memo - iPhone '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-edit-with-ease-embracing-smoothness-on-the-latest-chip-technology/"><u>2024 Approved Edit with Ease Embracing Smoothness on the Latest Chip Technology</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-performance-boosting-web-traffic-effortlessly/"><u>Cookiebot-Driven Performance: Boosting Web Traffic Effortlessly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/gif-galore-how-to-seamlessly-share-emojis-and-animations-on-instagram-for-2024/"><u>GIF Galore How to Seamlessly Share Emojis & Animations on Instagram for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y100-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y100</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-vs-android-showdown-determining-the-perfect-match-for-you/"><u>IPhone Vs Android Showdown: Determining the Perfect Match for You</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-for-mac-is-the-most-popular-professional-video-editor-if-youre-planning-to-try-it-out-for-your-mac-heres-all-you-need-to-know-about-i/"><u>New Adobe Premiere Pro for Mac Is the Most Popular Professional Video Editor. If Youre Planning to Try It Out for Your Mac, Heres All You Need to Know About It</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-videos-with-ease-best-online-editors/"><u>New Flip Videos with Ease Best Online Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Google Pixel 8 has been deleted</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-2024s-top-4k8k-video-editing-software/"><u>The Cream of the Crop 2024S Top 4K/8K Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-top-online-video-flipper-tools/"><u>The Top Online Video Flipper Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-hand-drawn-whiteboard-animation-makers/"><u>The Ultimate Guide to Hand-Drawn Whiteboard Animation Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-introduces-some-of-the-best-video-apps-for-editing-vertical-videos/"><u>This Article Introduces some of the Best Video Apps for Editing Vertical Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-quicktime-video-editing-guide-for-mac-os-users/"><u>Updated The Ultimate QuickTime Video Editing Guide for Mac OS Users</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

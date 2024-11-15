@@ -1,7 +1,7 @@
 ---
 title: Updated Flipping Out A Step-by-Step Guide to Rotating Clips in Final Cut Pro
-date: 2024-08-09T08:27:59.684Z
-updated: 2024-08-10T08:27:59.684Z
+date: 2024-11-08T00:04:01.148Z
+updated: 2024-11-14T20:55:09.977Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ If you want to rotate and flip video clips on your Mac for free, you can also tr
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Flip a Clip in Final Cut Pro
 
 As one of the most popular professional video editing software, Final Cut Pro is an easy-to-use software that can enable you to fully customize your videos by flipping, rotating and doing all sorts of editing tasks. Follow the below simple steps to flip, crop, resize or move clips.
@@ -49,9 +46,6 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
@@ -64,9 +58,6 @@ There are **blue handles at each corner** which enable the user to adjust image 
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
@@ -77,9 +68,6 @@ The **center circle** indicates the rotation anchor points that enable the chang
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
@@ -108,10 +96,14 @@ Flipping the clips more easily in Wondershare Filmora:
 
 After the launch of Wondershare Filmora, click on the new project to start and click on **Import** for browsing from the folder. Even you can drag the videos in the media library. After importing all the images, thumbnails are visible on the left corner for the preview on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Flipping the whole video:**
 
@@ -129,17 +121,18 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
 
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
@@ -148,9 +141,20 @@ After you have finished doing all the editing and transformation, you can then c
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -158,11 +162,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-tv-saves-win-friendly-options-available/"><u>[New] 2024 Approved Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites/"><u>[New] 2024 Approved Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-best-resources-to-explore-for-personalized-text-enhancements-online-for-2024/"><u>[New] Best Resources to Explore for Personalized Text Enhancements Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-peak-commercial-sky-storage-providers/"><u>[New] In 2024, Peak Commercial Sky-Storage Providers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-scripts-that-define-movie-industrys-variety/"><u>[Updated] 2024 Approved Scripts That Define Movie Industry's Variety</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-view-threshold-for-money/"><u>[Updated] Understanding Youtube’s View Threshold for Money</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-repair-hp-officejet-pro-6978-printer-software-issues-quickly/"><u>How to Repair HP OfficeJet Pro 6978 Printer Software Issues Quickly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-glitch-video-editing-made-easy-best-tools-for-windows-mac-and-online/"><u>In 2024, Glitch Video Editing Made Easy Best Tools for Windows, Mac, and Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-free-video-compression-tools-for-windows-10/"><u>In 2024, Top 10 Free Video Compression Tools for Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-in-image-cleanup-remove-unwanted-surroundings-for-2024/"><u>Masterclass in Image Cleanup Remove Unwanted Surroundings for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mobile-video-editing-made-easy-powerdirector-alternatives-you-need-to-know/"><u>Mobile Video Editing Made Easy PowerDirector Alternatives You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-now-the-top-10-free-game-sites-for-pc-android-and-more/"><u>New Download Now The Top 10 Free Game Sites for PC, Android, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fast-track-to-film-fame-easy-movie-creation-secrets/"><u>New Fast Track to Film Fame Easy Movie Creation Secrets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-pro-quality-videos-with-ease-wevideo-2023/"><u>Updated Create Pro-Quality Videos with Ease WeVideo 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-do-vhs-effect-with-final-cut-pro-in-the-right-way/"><u>Updated Do VHS Effect with Final Cut Pro in the Right Way</u></a></li>
+</ul></div>
+

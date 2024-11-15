@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
-date: 2024-08-09T08:25:57.982Z
-updated: 2024-08-10T08:25:57.982Z
+date: 2024-11-08T18:51:30.578Z
+updated: 2024-11-15T05:41:53.933Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ If you want to rotate and flip video clips on your Mac for free, you can also tr
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Flip a Clip in Final Cut Pro
 
 As one of the most popular professional video editing software, Final Cut Pro is an easy-to-use software that can enable you to fully customize your videos by flipping, rotating and doing all sorts of editing tasks. Follow the below simple steps to flip, crop, resize or move clips.
@@ -71,9 +68,6 @@ The **center circle** indicates the rotation anchor points that enable the chang
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
@@ -94,10 +88,14 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 * Changing the background and adding the special effects to it
 * Adjusting the white balance in the clips
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Flipping the clips more easily in Wondershare Filmora:
 
@@ -111,46 +109,52 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * _Flipping only a single part of the video:_
 
 Wondershare Filmora also allows you to flip a few parts of the video instead of whole. Just move the play head towards the position where you want the split. Click on the icon of **Scissors** in the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
 * _Exporting the flip video:_
 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
 
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -158,11 +162,25 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>2024 Approved From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-8-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-nikon-footage-a-step-by-step-guide-to-video-editing/"><u>In 2024, Mastering Nikon Footage A Step-by-Step Guide to Video Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-g2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo G2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>New QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-why-overwatch-is-a-must-play-for-competitive-shooter-fans/"><u>Top Review: Why Overwatch Is a Must-Play for Competitive Shooter Fans</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-wmv-video-stitching-tools-expert-recommendations/"><u>Updated Free WMV Video Stitching Tools Expert Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-motion-to-still-a-guide-to-converting-videos-to-photos-10-best-converters/"><u>Updated From Motion to Still A Guide to Converting Videos to Photos 10 Best Converters</u></a></li>
+</ul></div>
+

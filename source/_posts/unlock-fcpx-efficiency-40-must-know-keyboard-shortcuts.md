@@ -1,7 +1,7 @@
 ---
 title: Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts
-date: 2024-08-09T08:26:20.061Z
-updated: 2024-08-10T08:26:20.061Z
+date: 2024-11-09T02:43:55.233Z
+updated: 2024-11-15T04:28:30.121Z
 tags: 
   - video editing software
   - video editing
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 # Top 40 Keyboard Shortcuts for Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -105,9 +101,6 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
 * **What to do when the shortcuts in FCPX not working?**
@@ -122,10 +115,6 @@ There are two ways to open the modifying menu: choose Final Cut Pro > Commands >
 
 Above are the top useful shortcuts that I used most when editing videos in Final Cut Pro. If you want to edit videos in a much easier way and get some Hollywood film looking at the same time, you can try Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Check the video to see how to edit videos with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -134,11 +123,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-channels-a-guide-to-youtube-metrics/"><u>[New] 2024 Approved Elevate Your Channels A Guide to YouTube Metrics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-professional-video-file-preservation-six-essential-steps-for-windows-11-for-2024/"><u>[New] Professional Video File Preservation Six Essential Steps for Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-deep-dive-into-youtube-writers-workshop-space-for-2024/"><u>[Updated] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-hassle-free-tactics-sharing-igtv-in-insta-stories/"><u>[Updated] Hassle-Free Tactics Sharing IGTV in Insta Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-pro-enhancing-photo-clarity-details-and-composition/"><u>2024 Approved IPhone Pro Enhancing Photo Clarity, Details & Composition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mpeg-video-assembly-top-rated-programs/"><u>In 2024, Free MPEG Video Assembly Top Rated Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>In 2024, Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>In 2024, The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-prices-for-top-6-action-cams-under-100/"><u>In 2024, Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-learn/"><u>Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-fps-in-low-speed-clips-for-2024/"><u>Optimal FPS in Low-Speed Clips for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-10-4k-video-conversion-tools/"><u>The Best of the Best Top 10 4K Video Conversion Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-avi-video-editors-for-cutting-and-trimming-multi-platform-support/"><u>Top-Rated AVI Video Editors for Cutting and Trimming Multi-Platform Support</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-complete-step-by-step-process-to-perform-a-full-system-reset-on-windows-10/"><u>Ultimate Guide: Complete Step-by-Step Process to Perform a Full System Reset on Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-pinnacle-studio-here-are-the-best-mac-video-editing-alternatives/"><u>Updated Ditch Pinnacle Studio? Here Are the Best Mac Video Editing Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-avi-editing-a-step-by-step-guide-to-splitting-and-trimming/"><u>Updated Effortless AVI Editing A Step-by-Step Guide to Splitting and Trimming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

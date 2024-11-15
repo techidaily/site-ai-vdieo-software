@@ -1,7 +1,7 @@
 ---
 title: Updated Best Online Video Rotators for Rotating Videos Win/Mac
-date: 2024-08-09T08:29:12.666Z
-updated: 2024-08-10T08:29:12.666Z
+date: 2024-11-11T18:05:06.864Z
+updated: 2024-11-14T19:34:05.703Z
 tags: 
   - video editing software
   - video editing
@@ -30,18 +30,12 @@ Until recently, horizontally oriented videos were one of the rare undisputed ind
 
 Wondershare Filmora is a widely used video editor for YouTubers on the market. In the latest Filmora version, you can add animation to rotation, and make the video rotation animated.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rotate video with animation in Filmora](https://images.wondershare.com/filmora/article-images/rotate-video-with-animation.jpg)
 
 Double click the video, elements, titles, or images in the track, and then go to the Animation tab, you will find some animation presets such as zoom in and zoom out, here, let’s go to Customize option. Adjust the rotation, scale, position, and opacity to get an amazing result.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Rotate Videos Online For Free
 
 The number of supported file formats, as well as the maximum size of a video file you can upload to the platforms that allow its users to rotate videos, can limit your options significantly. That’s why you need to make sure that each video you want to rotate online meets the platform’s specifications. Let’s take a look at some of the best online platforms you can use to rotate your videos online.
@@ -50,10 +44,20 @@ The number of supported file formats, as well as the maximum size of a video fil
 
 Website: <https://www.kapwing.com/rotate>
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video rotator - kapwing](https://images.wondershare.com/filmora/article-images/rotate-video-online-in-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Kapwing is an [online video editing platform](https://tools.techidaily.com/wondershare/filmora/download/) that offers a wide spectrum of video editing tools that enable you to resize or add text to videos, among other things. You can either **upload a video** to Kapwing from your computer or you can **use the video’s URL to import it to Kapwing** if it is stored online.
 
@@ -63,10 +67,6 @@ Once you’ve uploaded the file you simply have to choose if you want to **rotat
 
 Website: <https://ezgif.com/rotate-video>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![online video rotator - ezgif](https://images.wondershare.com/filmora/article-images/ezgif-rotate-video-online.jpg)
 
 Cropping videos, changing the playback speed of videos, or cutting videos are only a few among the numerous options Ezgif provides. The platform supports a wide range of video file formats such as **MP4, AVI, or MOV,** but **you can’t use Ezgif to rotate videos that are larger than 100MB.** After you upload a video using its URL or directly from your computer, you can choose to flip a video horizontally and vertically or **rotate it by 90, 180, and 270 degrees**.
@@ -77,9 +77,6 @@ Make sure that the checkbox next to the option you’ve selected is checked, **c
 
 Website: <https://clideo.com/rotate-video>
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video rotator - Clideo](https://images.wondershare.com/filmora/article-images/clideo-rotate-video-online.jpg)
 
 Clideo provides 2 rotation options for you to rotate the video quickly, so you can convert a portrait video to horizontal without any effort. Besides uploading a video from your computer Video Rotate also lets you import videos you stored on Dropbox, Google Drive, and URL, but the platform won’t let you upload videos larger than **500MB** for free plan users.
@@ -100,9 +97,6 @@ Click the left or the right arrow button to rotate the video to the left or righ
 
 Website: <https://www.rotatevideo.org/>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![online video rotator - Online Video Rotator](https://images.wondershare.com/filmora/article-images/rotatevideo-online-video-rotator.jpg)
 
 This is a simple platform that doesn’t offer anything else other than the tools you are going to need to rotate a video. What’s more, you will have to **adjust all the settings before the process of rotating a video starts.** The **maximum size of a video file you can upload to this platform is limited to just 16MB,** but the Online Video Rotator supports almost all video file formats, which means that you can upload all videos recorded on Smartphones and digital cameras to this platform.
@@ -113,10 +107,14 @@ You can choose between **MP4, M4V, and MKV output formats** and you can rotate a
 
 Website: <https://www.fastreel.com/rotate-video.html>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video rotator - Fastreel RotateVideo Online](https://images.wondershare.com/filmora/article-images/fastreel-rotate-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Changing the orientation of your videos with this platform is easy since you just have to upload a video from your computer, Dropbox, and decide whether you want to **rotate a video to the left or the right.** However, **the files you upload to this platform can’t be larger than 500MB**, and you need to make sure that the video you want to rotate doesn’t exceed this limit. You can also **optimize your videos for web, mobile, PC, or GIF, select the resolution, choose between several different output file formats, and set the quality to low, medium, or high.**
 
@@ -134,11 +132,6 @@ After you upload a video, you will be able to choose if you want to **optimize y
 
 Website: <https://www.aconvert.com/video/rotate/>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![online video rotator -   Aconvert Video Rotator ](https://images.wondershare.com/filmora/article-images/aconvert-rotate-video.jpg)
 
 This is primarily a **file conversion platform** that also offers basic video editing options. You can use it to change the file format of your videos, merge multiple video clips together, or crop videos. Aconvert.com provides support for a **large number of different file formats**, but the platform doesn’t allow you to rotate videos larger than **200MB**.
@@ -150,6 +143,13 @@ There are several **video rotation and video flipping options available**, so af
 Website: <https://www.video2edit.com/rotate-video>
 
 ![online video rotator -   Video2Edit ](https://images.wondershare.com/filmora/article-images/video2edit-rotate-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Using this online tool, you can rotate the video to the left or right at 90, 180, 270 degrees, flip it horizontally or vertically. This online video rotator supports several uploading methods including, using URL, Dropbox, Google Drive or uploading from local files. As soon as you select a video you would like to rotate a new page will load. Th proceed to rotate your video **90, 180, and 270 degrees.** . Click on the **Start**  button in the lower right corner and after the rendering process is completed, you’ll have to **insert your email address** before you can save the video.
 
@@ -171,7 +171,27 @@ Each of the video editing platforms we featured in this article lets you rotate 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -179,11 +199,23 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/etting-up-success-crafting-your-first-youtube-channel/"><u>[New] Setting Up Success Crafting Your First YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-channel-description-perfection/"><u>[New] The Ultimate Guide to Channel Description Perfection</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-do-you-want-to-slow-down-your-videos-for-better-presentation-and-effect-read-this-guide-to-learn-how-to-user-windows-live-movie-maker-slow-motion-effect/"><u>New Do You Want to Slow Down Your Videos for Better Presentation and Effect? Read This Guide to Learn How to User Windows Live Movie Maker Slow Motion Effect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-video-to-live-photo-best-conversion-apps-and-methods/"><u>New From Video to Live Photo Best Conversion Apps and Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-posts-artificinas-tech-for-fb-image-descriptions/"><u>Revolutionizing Posts: Artificinas Tech for FB Image Descriptions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-reverse-effect-mastering-tiktok-video-reversal-in-minutes/"><u>The Reverse Effect Mastering TikTok Video Reversal in Minutes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-role-of-slug-lines-in-seo-and-marketing/"><u>The Role of Slug Lines in SEO & Marketing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-videos-pro-tips-for-adding-awesome-effects/"><u>Updated Elevate Your Videos Pro Tips for Adding Awesome Effects</u></a></li>
+</ul></div>
+
