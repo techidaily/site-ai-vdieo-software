@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-11-08T21:38:05.021Z
-updated: 2024-11-14T22:15:52.931Z
+date: 2024-11-17T16:25:52.341Z
+updated: 2024-11-24T17:37:31.165Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -49,6 +53,10 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
@@ -60,6 +68,10 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -94,6 +106,10 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The effect will be deleted from the selected clip.
 
 #### Extra credit
@@ -105,6 +121,10 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,25 +141,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dynamic-volume-control-tips-for-producers/"><u>[New] 2024 Approved Dynamic Volume Control Tips for Producers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[New] FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-screenshot-and-record-tools-for-firefox/"><u>[Updated] Leading Screenshot & Record Tools for Firefox</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-visual-narrative-the-art-of-scriptwriting-for-2024/"><u>[Updated] Visual Narrative The Art of Scriptwriting for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>2024 Approved Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-video-recovery-recover-deleted-videos-from-infinix-by-fonelab-android-recover-video/"><u>Infinix Video Recovery - Recover Deleted Videos from Infinix</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-jaw-dropping-slow-mo-videos-with-these-top-10-editors/"><u>New Create Jaw-Dropping Slow Mo Videos with These Top 10 Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-limitless-creativity-with-free-after-effects-samples-for-2024/"><u>Unlock Limitless Creativity with Free After Effects Samples for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-picture-in-picture-a-beginners-guide-to-final-cut-pro/"><u>Unlocking Picture-in-Picture A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-meme-generator-apps-for-android-and-ios/"><u>Updated 10 Best Meme Generator Apps for Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/webm-video-compressors-the-best-online-webm-video-compressors/"><u>WebM Video Compressors The Best Online WebM Video Compressors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-expert-advice-perfected-media-import-techniques-for-windows-10-for-2024/"><u>[New] Expert Advice Perfected Media Import Techniques for Windows 10 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-affordable-webinar-tools-for-efficient-recording/"><u>[New] In 2024, Affordable Webinar Tools for Efficient Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-examining-splitcams-video-quality-against-competitors/"><u>[New] In 2024, Examining SplitCam's Video Quality Against Competitors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickscreencapture-simple-windows-10-app/"><u>[New] In 2024, QuickScreenCapture Simple Windows 10 App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/299-lenovo-ideapad-the-ultimate-guide-for-cost-conscious-buyers-expert-advice/"><u>$299 Lenovo IdeaPad: The Ultimate Guide for Cost-Conscious Buyers - Expert Advice</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-enhancement-installing-gaming-launchers-for-playstation-pcs/"><u>Effortless Enhancement: Installing Gaming Launchers for PlayStation PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-selecting-an-optimal-gaming-machine/"><u>Essential Criteria for Selecting an Optimal Gaming Machine</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-editor-reviews-top-5-picks/"><u>In 2024, Free AVI Video Editor Reviews Top 5 Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>In 2024, The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-videos-without-spending-a-dime-top-free-online-editors/"><u>New Create Stunning Videos Without Spending a Dime Top Free Online Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-watermark-editor-top-rated-options/"><u>New Free Video Watermark Editor Top Rated Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stop-looking-for-filmora-coupon-code-on-reddit-check-here/"><u>Stop Looking for Filmora Coupon Code on Reddit - Check Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files/"><u>Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-animate-your-memories-best-tools-for-easy-photo-animation/"><u>Updated Animate Your Memories Best Tools for Easy Photo Animation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-transform-pictures-into-cartoons-online/"><u>Updated Transform Pictures Into Cartoons Online</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

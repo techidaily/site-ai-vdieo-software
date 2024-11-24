@@ -1,7 +1,7 @@
 ---
 title: Updated Effortless MP4 Editing on Windows 8 Expert Video Editor
-date: 2024-11-11T06:05:51.674Z
-updated: 2024-11-15T01:31:40.376Z
+date: 2024-11-22T16:31:21.068Z
+updated: 2024-11-24T16:53:43.258Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -50,11 +54,19 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
@@ -67,6 +79,10 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -81,6 +97,10 @@ Also view a step by step video guide on how to edit MP4 files in Windows 8:
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -97,21 +117,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-periscope-presentation-outline-width-height-time/"><u>[Updated] In 2024, Periscope Presentation Outline Width, Height, Time</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-producing-channel-trailer-synopses-a-guide/"><u>[Updated] In 2024, Producing Channel Trailer Synopses A Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>2024 Approved Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-switch-in-windows-11-replace-pin-with-secure-passwords/"><u>Navigating the Switch in Windows 11: Replace PIN with Secure Passwords</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveil-the-untouched-best-of-insta-stories-for-2024/"><u>Unveil the Untouched Best of Insta Stories for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme/"><u>Updated Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme ?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-13-editor-download-for-free/"><u>Updated Filmora 13 Editor Download for Free</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-annotation-tools-add-watermarks-and-captions/"><u>Updated Free Video Annotation Tools Add Watermarks and Captions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>Updated How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-mechanics-of-youtube-shorts-monetization/"><u>[New] In 2024, The Mechanics of YouTube Shorts Monetization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[Updated] In 2024, Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-invisible-voices-techniques-for-silent-screen-recordings/"><u>[Updated] In 2024, Invisible Voices Techniques for Silent Screen Recordings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-gif-creation-extracting-motion-from-youtube-videos/"><u>2024 Approved DIY GIF Creation Extracting Motion From YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-initiate-the-art-of-movie-making-xp-edition/"><u>2024 Approved Initiate the Art of Movie Making Xp Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>In 2024, From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mac-video-editing-software-top-vsdc-alternatives/"><u>In 2024, Mac Video Editing Software Top VSDC Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing/"><u>Is Aurora HDR a Step Forward in Quality Viewing?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-telegram-a-step-by-step-walkthrough/"><u>Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-arm-support-arrives-filmora-x-update-now-live/"><u>New ARM Support Arrives Filmora X Update Now Live</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-choosing-the-best-video-editor-sony-vegas-vs-adobe-premiere-pro-2023-analysis/"><u>New Choosing the Best Video Editor Sony Vegas vs Adobe Premiere Pro 2023 Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>New Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-s-best-face-swap-apps-for-iphone-and-android/"><u>New S Best Face Swap Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-best-free-mkv-cutters-2023-update/"><u>New Top 10 Best Free MKV Cutters-2023 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-1011-audio-error-fixing-unrecognized-sound-hardware/"><u>Resolve Windows 10/11 Audio Error: Fixing Unrecognized Sound Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-pax8-pparg-translocation-is-frequently-associated-with-follicular-thyroid-carcinoma-providing-potential-targets-for-intervention/"><u>The PAX8-PPARγ Translocation Is Frequently Associated with Follicular Thyroid Carcinoma, Providing Potential Targets for Intervention.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-lower-thirds-mastery-best-practices-and-techniques/"><u>Updated FCPX Lower Thirds Mastery Best Practices and Techniques</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

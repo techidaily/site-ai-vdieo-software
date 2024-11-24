@@ -1,7 +1,7 @@
 ---
 title: Video Editing on Mac OS X Mavericks A Beginners Guide
-date: 2024-11-14T01:45:40.363Z
-updated: 2024-11-15T06:23:22.989Z
+date: 2024-11-23T18:02:15.802Z
+updated: 2024-11-24T16:23:11.727Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2 Edit videos in OS X Mavericks
 
  **Trim, crop, rotate video, and add titles, filters, video effect etc.**
@@ -50,17 +54,33 @@ To add transitions, you can click **Transitions** at the top, and then drag your
 
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3 Save the edited videos
 
 Click the **EXPORT** button on the primary window to reveal the output window. There are several options for you: Device, Format, YouTube and DVD. Select a way you want to save or share the edited videos. Just have a try.
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download this video resizer for Mavericks and explore more video editing functions!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -77,27 +97,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-30-must-play-sandbox-adventures/"><u>[Updated] In 2024, Top 30 Must-Play Sandbox Adventures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-tools-17-excellent-options-for-image-edits/"><u>[Updated] Precision Tools 17 Excellent Options for Image Edits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-quantum-megadesk-pure-4k-multi-touch/"><u>[Updated] Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-10-terraria-customizations/"><u>2024 Approved Essential 10 Terraria Customizations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>2024 Approved Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-8-plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 8 Plus Phone Screen?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-avs-mac-video-editor-unleash-your-creativity/"><u>New AVS Mac Video Editor Unleash Your Creativity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-and-rotate-avi-videos-for-free-best-tools/"><u>New Flip and Rotate AVI Videos for Free Best Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-free-wmv-video-splitters/"><u>New Top 5 Best Free WMV Video Splitters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-online-video-montage-editors/"><u>Professional Online Video Montage Editors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-phantom-v-fold-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Phantom V Fold Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-concerns-relying-on-chatgpt-for-healthcare-guidance/"><u>Top 5 Concerns: Relying on ChatGPT for Healthcare Guidance</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-4-video-resume-makers-free-templates-included/"><u>Updated Best 4 Video Resume Makers Free Templates Included</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-top-10-free-online-video-editors-without-watermarks/"><u>Updated Best of the Best Top 10 Free Online Video Editors without Watermarks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>[New] 2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-simplifying-the-process-how-to-guide-for-booking-meets/"><u>[New] Simplifying the Process How-To Guide for Booking Meets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid/"><u>[Updated] In 2024, Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c67-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C67 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/guia-para-transferir-archivos-fotograficos-clandestinos-desde-el-iphone-hacia-tu-pc-tres-formas-faciles-de-seguir/"><u>Guía Para Transferir Archivos Fotográficos Clandestinos Desde El iPhone Hacia Tu PC: Tres Formas Fáciles De Seguir</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-note-13-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi Note 13 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-free-adobe-premiere-pro-cs6-download-updated-2023/"><u>Mac Users Rejoice Free Adobe Premiere Pro CS6 Download (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-installing-videoleap-on-macbook/"><u>New A Beginners Guide to Installing Videoleap on MacBook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-merger-software-without-watermarks/"><u>New Best Free Video Merger Software Without Watermarks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nextgen-codec-battle-is-av1-trumping-vp9-quality-for-2024/"><u>NextGen Codec Battle Is AV1 Trumping VP9 Quality for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/secure-deletion-guide-top-advice-and-writings-from-stellar/"><u>Secure Deletion Guide: Top Advice and Writings From Stellar</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-restful-nights-in-depth-analysis-of-ihome-zenergy-bedside-machine/"><u>Unveiling the Power of Restful Nights: In-Depth Analysis of IHome Zenergy Bedside Machine</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-instantly-10-top-free-online-tools/"><u>Updated Compress Videos Instantly 10 Top Free Online Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-video-editors-that-rival-imovie-2023-edition/"><u>Updated Free Online Video Editors That Rival iMovie (2023 Edition)</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Dive Into Panoramic Photography with Theta SC2
-date: 2024-08-09T08:25:10.593Z
-updated: 2024-08-10T08:25:10.593Z
+date: 2024-11-23T17:51:08.732Z
+updated: 2024-11-24T16:18:44.099Z
 categories:
   - BestProducts
 description: This Article Describes Dive Into Panoramic Photography with Theta SC2
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 ## Sumind BT70B Bluetooth FM Transmitter
 
 ![Sumind BT70 Bluetooth FM Transmitter](https://www.lifewire.com/thmb/Pl2OP0FcXsWIfWU5ohyrYofBKhQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_04LW1999388-1-e83579449d3d4eef9725e952c010b9c4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Benjamin Zeman
 
@@ -40,9 +44,6 @@ Lifewire / Benjamin Zeman
 
 ## Sumind BT70B Bluetooth FM Transmitter
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sumind BT70 Bluetooth FM Transmitter](https://www.lifewire.com/thmb/lPmoQnqp3aiT-MmhcKDS4r_Sqe4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_04LW1999388-1-e83579449d3d4eef9725e952c010b9c4.jpg)
 
 Lifewire / Benjamin Zeman
@@ -69,9 +70,6 @@ Lifewire / Benjamin Zeman
 
  Lifewire / Benjamin Zeman
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: User friendly design**
 
  The Sumind Bluetooth Car FM Transmitter has two main parts connected with a flexible gooseneck. The part that plugs into a car’s 12V power outlet has both an intelligent 5V/2.4[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) charging port and a QC3.0 charging port. At the tip of the side that plugs into your car is an extended removable piece with a replaceable fuse. It’s not clear whether that additional piece was at fault, but we found the device more difficult to plug in than others we tested.
@@ -84,6 +82,10 @@ Lifewire / Benjamin Zeman
 
  On the left side of the body is a TF slot so you can play audio files from a MicroSD card. On the right is a 3.5mm auxiliary jack that is advertised as_both_ an input and an output (more on that later). Since the body is on a flexible gooseneck, it’s easy to get to both the TF slot and the aux jack. With the large buttons and display, the Sumind transmitter is designed to be very user friendly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy but hard to angle**
 
  We tested this transmitter in a 2018 Toyota RAV4, which has two 12V auxiliary power outlets under the dash. Getting the Sumind transmitter into a position we could see from the driver’s seat was impossible. Although the screen is bright and easy to read from straight on, the viewing angles are poor and even with the amount of rotation the gooseneck allowed we couldn’t get it pointed straight at us.
@@ -92,9 +94,6 @@ Lifewire / Benjamin Zeman
 
  Using the TF card slot is as simple as putting in a card that has audio files in a supported format. The next/last buttons on the right are used to navigate through your songs. Switching between Bluetooth and charging mode is done by holding the next song button for five seconds. Overall setup was a breeze.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio Quality: Loud and clear**
 
  We were impressed with the Sumind Bluetooth Car FM Transmitter’s clear, low-noise audio. The BT70B has good noise- and interference-reduction technology and it’s evident in the high-quality audio. Audio is streamed over bluetooth version 4.2 and the TF slot supports FAT formatted MicroSD cards up to 32GB with MP3 or WMA audio files.
@@ -106,8 +105,9 @@ Lifewire / Benjamin Zeman
  Lifewire / Benjamin Zeman
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Features: The weirdest feature we’ve seen**
 
  The only truly unique difference between the Sumind Bluetooth Car FM Transmitter and many others like it is its unusual input/output combo jack. Honestly, the only reason we can think of for a 3.5mm aux jack that works both as an input and an output is that Sumind used jacks that just happened to have a chipset that also supports output.
@@ -116,14 +116,15 @@ Lifewire / Benjamin Zeman
 
  Of course, the use cases for a 3.5mm output are extremely limited. The fact that the primary input function of the aux port is so crippled is a significant downside, and if you’re mainly looking to connect a device via aux a likely dealbreaker.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## **Software: High quality, as expected**
 
  Sumind’s large display allows a large amount of information to be displayed, and the software handles it well. It does an excellent job of surfacing the most important information. There’s an icon showing whether or not Bluetooth is on, if a track is paused or playing, the volume level, the FM frequency, and what device the transmitter is connected to. Every software function worked great and we didn’t notice any lag or glitches.
 
  The BT70B is an excellent current gen transmitter and an easy, inexpensive way to add Bluetooth functionality to your vehicle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Slightly higher than average**
 
@@ -132,8 +133,9 @@ Lifewire / Benjamin Zeman
  Sumind’s offering is otherwise a solid value. It’s got everything else you need and good audio quality to boot. Couple that with the large, user-friendly buttons and you have a winner.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Competition: Sumind BT70B vs. Nulaxy KM18**
 
  The Nulaxy KM18 is an older gen model with all the same functionality as the Sumind BT70B and can usually found between $17 and $20\. If you’re looking to save a few dollars the Nulaxy could be a good bet.
@@ -171,8 +173,6 @@ Lifewire / Benjamin Zeman
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,20 @@ Lifewire / Benjamin Zeman
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-path-to-popularity-two-tactics-for-youtube-fame/"><u>[New] 2024 Approved Easy Path to Popularity Two Tactics for YouTube Fame</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-advantages-analysis-game-pass-versus-playstation-essentials/"><u>Access Advantages Analysis: Game Pass Versus PlayStation Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquering-heat-management-the-ultimate-guide-to-thermalrights-phantom-spirit-evo-120-edition/"><u>Conquering Heat Management: The Ultimate Guide to Thermalright's Phantom Spirit Evo 120 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-seamless-sleep-in-windows-11/"><u>Ensuring Seamless Sleep in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animation-powerhouses-top-8-software-for-mac-and-windows-creators/"><u>New Animation Powerhouses Top 8 Software for Mac and Windows Creators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users/"><u>New Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-gopro-quik-for-pc-and-alternatives/"><u>New GoPro Quik for PC and Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results-for-2024/"><u>New The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-mobile-intelligence-with-ios-navigate-through-these-6-advanced-ai-features-on-iphones-plus-a-glimpse-into-whats-next-expert-analysis-by-zdne168/"><u>Revolutionizing Mobile Intelligence with iOS Navigate Through These 6 Advanced AI Features on iPhones, Plus a Glimpse Into What's Next – Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/rotate-reflect-and-flip-mastering-clip-orientation-in-final-cut-pro/"><u>Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-10-leading-vlog-editor-apps-for-ios-and-android-users/"><u>Updated Best of the Best 10 Leading Vlog Editor Apps for iOS and Android Users</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-10-windows/"><u>Windows 10の起動失敗解決策: Windowsが正しく読み込まれませんでした問題</u></a></li>
+</ul></div>
 

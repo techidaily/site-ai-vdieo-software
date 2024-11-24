@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cinematic Storytelling Made Easy A Beginners Handbook
-date: 2024-08-02T07:16:58.131Z
-updated: 2024-08-03T07:16:58.131Z
+date: 2024-11-19T18:11:01.943Z
+updated: 2024-11-24T16:59:57.187Z
 tags: 
   - video editing software
   - video editing
@@ -31,8 +31,9 @@ Have you ever stored various videos and photos on a memory card or on the comput
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make a Video with Wondershare Filmora Easy Movie Maker
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
@@ -41,24 +42,11 @@ Below, we will show you have to use this easy movie maker to create a video with
 
 Open Wondershare Filmora, click the "Import" button and use the navigation import panel to load media files. You can also directly drag and drop your media files to the program. You can trim or cut the video clips in the timeline with options in the Toolbox
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![easy movie maker](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Making Stunning Videos with Various Effects & Filters
 
@@ -66,10 +54,11 @@ After you’ve added your media files for editing and placed them on the Timelin
 
 Go the “Transition” tab. Then join your clips with one or several different transitions. Click “Transition” to choose the ones you want to add and then drag them between the video clips. Then double click to change the Time Duration and click "Apply to All" if you want all transition effects to have the same duration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![easy movie maker software](https://images.wondershare.com/filmora/article-images/adjust-the-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want to add words to the video, click the “Text” button, select the text type you like, and drag the icon to the Text track. You can stretch the icon over the whole track to have the titles appear during the whole movie, or just over a part of it. Then double click it, type in the texts and customize the font, size, color and effect in the editing window.
 
@@ -77,21 +66,20 @@ If you want to add words to the video, click the “Text” button, select the t
 
 When everything is done, hit the “Create” button, you'll see several options: save as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![easy movie makers](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now download this easy movie maker and start making your own movies!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -100,11 +88,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-make-youtube-thumbnails-online-and-offline/"><u>[New] In 2024, How to Make YouTube Thumbnails Online & Offline</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transitioning-photos-from-physical-to-digital-storage/"><u>[Updated] Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/3d-video-production-made-easy-free-and-paid-software-options-for-2024/"><u>3D Video Production Made Easy Free and Paid Software Options for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/an-in-depth-guide-for-comparing-triller-with-tiktok-features-max-156-chars/"><u>An In-Depth Guide for Comparing Triller with TikTok Features (Max 156 Chars)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-an-in-depth-analysis/"><u>AVS Video Editor An In-Depth Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-hacks-using-windows-and-mac-os-apps/"><u>Chromebook Video Editing Hacks Using Windows and Mac OS Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/critical-essentials-top-10-terraria-upgrades/"><u>Critical Essentials Top 10 Terraria Upgrades</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-avi-files-with-ease-best-video-editors-for-windows-mac-mobile-and-web/"><u>Cut AVI Files with Ease Best Video Editors for Windows, MAC, Mobile, and Web</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-troubleshooting-how-to-fix-initialization-failed-error/"><u>Destiny 2 Troubleshooting: How to Fix 'Initialization Failed' Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easiest-video-making-apps-for-mac-unleash-your-creativity/"><u>Easiest Video Making Apps for Mac Unleash Your Creativity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-13-free-trial-download-unlock-pro-features-for-2024/"><u>Filmora 13 Free Trial Download Unlock Pro Features for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-2-simple-ways-to-add-professional-audio-fades/"><u>Final Cut Pro 2 Simple Ways to Add Professional Audio Fades</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-11-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus 11 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-8-plus-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 8 Plus with 3 Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-movies-that-teach-languages-better/"><u>International Movies That Teach Languages Better</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/volgdeemodelere-mp3-naar-vob-verzamelen-geavanceerd-online-converteertool-movavi/"><u>Volgdeemodelere MP3 Naar VOB Verzamelen - Geavanceerd Online Converteertool Movavi</u></a></li>
+</ul></div>
+

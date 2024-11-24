@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2024-11-08T18:24:29.521Z
-updated: 2024-11-14T17:30:03.432Z
+date: 2024-11-21T18:23:38.415Z
+updated: 2024-11-24T16:33:02.972Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 [3: Delete Rewired_DirectInput.dll file](https://tools.techidaily.com/drivereasy/download/)
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Check for hardware issues
 
@@ -60,10 +57,7 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Delete Rewired\_DirectInput.dll file
@@ -74,15 +68,12 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
@@ -91,10 +82,7 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
@@ -111,6 +99,10 @@ If you didn’t find any hardware issues, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -141,24 +133,19 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-design-youtube-introductory-videos-two-pathways/"><u>[Updated] 2024 Approved How to Design YouTube Introductory Videos Two Pathways</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-non-youtube-video-editing-discover-the-top-5-newcomers/"><u>[Updated] 2024 Approved Non-YouTube Video Editing Discover the Top 5 Newcomers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-11-most-innovative-sound-recording-options/"><u>[Updated] 2024 Approved Unveiling the 11 Most Innovative Sound Recording Options</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-10-yt-channels-surging-ideas-and-insights-unleashed/"><u>2024 Approved 10 YT Channels Surging Ideas and Insights Unleashed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-picture-messaging-services-2024s-top-picks/"><u>Best Picture Messaging Services: 2024'S Top Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-underperforming-machines-addressing-intel-hd-specs-issues/"><u>Correcting Underperforming Machines: Addressing Intel HD Specs Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-find-the-perfect-green-screen-software-for-your-mac-workflow/"><u>In 2024, Find the Perfect Green Screen Software for Your Mac Workflow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-provide-information-to-the-audience-with-the-perfect-graphic-elements-it-is-high-time-to-add-value-to-your-video-step-into-this-article-to-get-insig/"><u>In 2024, Provide Information to the Audience with the Perfect Graphic Elements. It Is High Time to Add Value to Your Video. Step Into This Article to Get Insights on the Lower Third Modules</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-software-for-beginners-2022-top-list/"><u>New Best Video Editing Software for Beginners 2022 Top List</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-recording-to-editing-the-best-reaction-video-apps-for-mobile/"><u>New From Recording to Editing The Best Reaction Video Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-premiere-pro-system-requirement-how-to-set-up-computers/"><u>New Premiere Pro System Requirement How to Set up Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-video-merger-software-top-7-picks/"><u>No-Watermark Video Merger Software Top 7 Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-education-essentials-with-a-free-150-apple-gift-card-the-ultimate-guide-for-students-and-teachers/"><u>Secure Your Education Essentials with a Free $150 Apple Gift Card - The Ultimate Guide for Students and Teachers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-the-missing-ftd2xxdll-step-by-step-troubleshooting-guide/"><u>Solving the Mystery of the Missing ftd2xx.dll: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-gaming-experience-by-resolving-pc-game-frame-rate-issues/"><u>Ultimate Guide: Boosting Your Gaming Experience by Resolving PC Game Frame Rate Issues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unleash-the-viral-potential-of-your-instagram-unboxing-content-for-2024/"><u>Unleash the Viral Potential of Your Instagram Unboxing Content for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-vr-converting-videos-made-easy/"><u>Updated Discover the Power of VR Converting Videos Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-dailymotion-downloader-and-converter/"><u>Updated Free Online Dailymotion Downloader and Converter</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-compatible-options-to-replace-sony-vegas-pro/"><u>Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files-for-2024/"><u>[New] Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-burn-video-to-dvd-on-mac-2-ways/"><u>2024 Approved Burn Video to DVD on Mac [2 Ways]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-explore-the-best-4k-capture-with-10-mirrorless-models/"><u>2024 Approved Explore the Best 4K Capture with 10 Mirrorless Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>2024 Approved The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>In 2024, Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lego-stop-motion-artists-to-watch/"><u>Lego Stop Motion Artists to Watch</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/merge-avi-videos-like-a-pro-top-10-free-tools-and-software/"><u>Merge AVI Videos Like a Pro Top 10 Free Tools and Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/rotate-your-3gp-videos-for-free-top-5-tools-of-the-year/"><u>Rotate Your 3GP Videos for Free Top 5 Tools of the Year</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-the-garmin-forerunner-945-a-breakdown-of-features-in-a-gps-running-watch-review/"><u>Unveiling the Power of The Garmin Forerunner 945: A Breakdown of Features in a GPS Running Watch Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-editing-apps-with-soundtracks-for-mobile/"><u>Updated Top Video Editing Apps with Soundtracks for Mobile</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-mastery-perfecting-edits-on-published-videos-for-2024/"><u>YouTube Mastery Perfecting Edits on Published Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/zero-cost-video-editing-the-best-online-options/"><u>Zero-Cost Video Editing The Best Online Options</u></a></li>
 </ul></div>
 

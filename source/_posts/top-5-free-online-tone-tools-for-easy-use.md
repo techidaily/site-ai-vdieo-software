@@ -1,7 +1,7 @@
 ---
 title: Top 5 Free Online Tone Tools for Easy Use
-date: 2024-11-02T20:20:15.650Z
-updated: 2024-11-04T22:30:14.027Z
+date: 2024-11-20T16:51:13.213Z
+updated: 2024-11-24T17:32:06.148Z
 tags: 
   - video editing software
   - video editing
@@ -44,15 +44,27 @@ You can find a number of different options on this website that range from the P
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. [Audio Test File Generators](https://www.audiocheck.net/audiofrequencysignalgenerator%5Findex.php)
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
 
@@ -85,10 +97,7 @@ There are **four wave types** you can choose from that generate different types 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -100,10 +109,7 @@ What is your favorite method of generating tones? Leave a comment below and let 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -121,18 +127,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-ultimate-audio-capture-plugins-for-spotify/"><u>[New] In 2024, Top 10 Ultimate Audio Capture Plugins for Spotify</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-producing-dynamic-content-for-discord-channels/"><u>[Updated] In 2024, Producing Dynamic Content for Discord Channels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-swift-review-of-vn-video-editors-pc-version/"><u>A Swift Review of VN Video Editors PC Version</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-flipper-tools-rotate-your-videos-with-ease/"><u>Best Free Video Flipper Tools Rotate Your Videos with Ease</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/blur-your-video-for-free-no-software-required/"><u>Blur Your Video for Free No Software Required</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/fitbit-sense-unveiled-a-revolutionary-step-beyond-the-apple-watch-for-those-seeking-comprehensive-health-insights/"><u>Fitbit Sense Unveiled: A Revolutionary Step Beyond the Apple Watch for Those Seeking Comprehensive Health Insights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-moving-10-best-free-video-speed-controller-apps-for-iphone-and-android/"><u>Get Moving 10 Best Free Video Speed Controller Apps for iPhone and Android</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-problems-in-halo-infinite-a-comprehensive-guide/"><u>How to Fix Stuttering Problems in Halo Infinite – A Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-13c-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi 13C 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor Magic 6 Pro?</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-xiaomi-redmi-k70e-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[New] 2024 Approved Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[Updated] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-handheld-shots-no-tripod-necessary/"><u>2024 Approved Mastering Handheld Shots No Tripod Necessary</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-wmv-video-splitter-free-download-top-choices/"><u>In 2024, WMV Video Splitter Free Download Top Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fast-and-free-dailymotion-to-mp3-converter-online/"><u>New Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-camera-to-screen-how-to-edit-nikon-video-files-like-a-pro/"><u>New From Camera to Screen How to Edit Nikon Video Files Like a Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pas-op-eengratis-pgm-bestanden-omzetten-via-onlinesnelheid-konverter-movavi/"><u>Pas Op! Eéngratis PGM-Bestanden Omzetten via Onlinesnelheid Konverter - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sas-drivers-compatibility-guide-ensuring-smooth-operations-for-windows-10-8-and-7-users/"><u>SAS Drivers Compatibility Guide: Ensuring Smooth Operations for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-mac-video-editor-mkvtoolnix-features/"><u>The Ultimate Mac Video Editor MKVtoolnix Features</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-15-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-highlight-video-makers-for-every-platform/"><u>Updated Best of the Best Highlight Video Makers for Every Platform</u></a></li>
 </ul></div>
 

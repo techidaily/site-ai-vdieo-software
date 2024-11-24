@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Editing How to Add Effects in FCP X in 3 Steps
-date: 2024-11-02T02:00:44.698Z
-updated: 2024-11-05T00:15:26.629Z
+date: 2024-11-18T17:29:46.040Z
+updated: 2024-11-24T17:42:27.366Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -49,9 +53,17 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
@@ -88,11 +100,19 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -121,29 +141,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide/"><u>[New] In 2024, Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ro-free-ending-makers-ranked-1-6-for-2024/"><u>[New] Pro-FREE Ending Makers - Ranked 1-6 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creative-music-videos-a-list-of-15-youtube-projects/"><u>[Updated] 2024 Approved Creative Music Videos A List of 15 YouTube Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/9-no-cost-online-tools-to-make-your-own-movies-for-2024/"><u>9 No-Cost Online Tools to Make Your Own Movies for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-closer-look-at-videopad-video-editor-review-pricing-and-alternatives/"><u>A Closer Look at Videopad Video Editor Review, Pricing, and Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-online-video-cutters-top-picks-and-reviews/"><u>Best Free Online Video Cutters Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cartoon-video-creation-made-easy-top-10-online-and-pc-tools/"><u>Cartoon Video Creation Made Easy Top 10 Online and PC Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-a-stunning-video-resume-4-top-tools-and-free-resources-for-2024/"><u>Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-launch-glitches-effective-solutions-discovered/"><u>Deathloop Launch Glitches - Effective Solutions Discovered</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-on-the-go-the-top-10-vlog-editor-apps-for-mobile-for-2024/"><u>Edit on the Go The Top 10 Vlog Editor Apps for Mobile for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-gyroscopic-mounts-for-clear-shake-free-imaging/"><u>Elite Gyroscopic Mounts for Clear, Shake-Free Imaging</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-outlook-app-crashes-expert-solutions/"><u>Fixes for Persistent Outlook App Crashes - Expert Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs/"><u>Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pushing-boundaries-advanced-iphone-silhouette-techniques/"><u>Pushing Boundaries Advanced iPhone Silhouette Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/superheroes-clash-black-vs-silver-for-2024/"><u>Superheroes Clash BLACK vs SILVER for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-strategy-to-dominate-youtube-via-creator-hub-for-2024/"><u>The Ultimate Strategy to Dominate YouTube Via Creator Hub for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>[New] In 2024, Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ptimizing-content-visibility-premier-tracking-applications-for-youtubers-for-2024/"><u>[New] Optimizing Content Visibility - Premier Tracking Applications for YouTubers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-lost-your-mac-login-credentials-a-step-by-step-guide-on-how-to-recover/"><u>1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-savvy-key-hashtags-to-utilize-today/"><u>2024 Approved Social Media Savvy Key Hashtags to Utilize Today</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitvid-mover-iphone-video-transfer-tool/"><u>2024 Approved TwitVid Mover IPhone Video Transfer Tool</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-best-top-11-animated-logo-makers-creative-logo-tips/"><u>In 2024, FREE Best Top 11 Animated Logo Makers Creative Logo Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-black-display-errors-on-magic-the-gathering-arena-game/"><u>In-Depth Analysis & Solutions for Black Display Errors on Magic: The Gathering Arena Game</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-rising-video-view-counts-for-2024/"><u>Mastering Instagram Rising Video View Counts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/movie-mastery-for-kids-learn-the-art-of-filmmaking/"><u>Movie Mastery for Kids Learn the Art of Filmmaking</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-free-security-camera-software/"><u>New 10 Best Free Security Camera Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-quicktime-video-editing-software-top-10-choices/"><u>New Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-remove-filmora-watermark-withwithout-paying/"><u>New How to Remove Filmora Watermark With/Without Paying?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-no-problem-7-best-video-merger-software/"><u>No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamlessly-upgrade-azw3-books-to-digital-readers-friendly-epub-format-without-drm-restrictions/"><u>Seamlessly Upgrade AZW3 Books to Digital Readers-Friendly ePub Format Without DRM Restrictions</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-7t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 7T Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone/"><u>Updated 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-this-article-introduces-a-stylish-and-versatile-mp4-editor-for-windows-8-that-enables-you-to-create-hollywood-like-home-movies-with-titles-effects-a/"><u>Updated This Article Introduces a Stylish and Versatile MP4 Editor for Windows 8 that Enables You to Create Hollywood-Like Home Movies with Titles, Effects and Transitions Easily</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2024-11-13T06:25:24.136Z
-updated: 2024-11-15T08:57:58.551Z
+date: 2024-11-22T18:06:31.973Z
+updated: 2024-11-24T17:44:43.221Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,32 +81,19 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-minecraft-homestead-blueprint-series/"><u>[New] 2024 Approved Minecraft Homestead Blueprint Series</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-analyzing-vidmas-impact-on-video-capture-tech/"><u>[Updated] Analyzing Vidma's Impact on Video Capture Tech</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-transitions-techniques-for-audios/"><u>In 2024, Advanced Transitions Techniques for Audios</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-effortless-techniques-to-share-igtv-in-stories/"><u>In 2024, Effortless Techniques to Share IGTV in Stories</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mp4-video-editing-software-with-cutting-capabilities/"><u>In 2024, Free MP4 Video Editing Software with Cutting Capabilities</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-10-picks/"><u>In 2024, Free WebM Video Editing Software Top 10 Picks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-graphics-drivers-compatible-with-windows-11-7-and-8-downloads/"><u>Latest Nvidia Graphics Drivers: Compatible with Windows 11, 7 & 8 Downloads</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mp4-tag-editor-reviews-top-picks-for-windows-and-mac-users/"><u>MP4 Tag Editor Reviews Top Picks for Windows and Mac Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcome-your-savevid-downloading-hurdles-discover-top-alternatives-that-work/"><u>Overcome Your SaveVid Downloading Hurdles: Discover Top Alternatives That Work!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro/"><u>Updated Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed/"><u>Updated Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-switching-names-on-google-meet-for-laptops-phones/"><u>[New] Switching Names on Google Meet for Laptops, Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-master-at-iphones-hdr-photography-techniques/"><u>2024 Approved Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>2024 Approved Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-this-article-we-will-review-on-virtualdub-virtualdub2-and-provide-its-best-alternatives/"><u>In This Article, We Will Review on Virtualdub, Virtualdub2 and Provide Its Best Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-sony-vegas-alternatives-for-windows-a-comprehensive-guide/"><u>New Top Sony Vegas Alternatives for Windows A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/proven-strategies-for-optimizing-video-content-on-youtube/"><u>Proven Strategies for Optimizing Video Content on YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-dvd-player-software-for-windows-10-pcs/"><u>S Best Free DVD Player Software for Windows 10 PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-fraps-replacements-best-similar-tools-and-apps-for-screen-capture/"><u>Top Fraps Replacements: Best Similar Tools & Apps for Screen Capture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-noise-to-masterpiece-10-glitch-art-video-editing-apps-for-mobile-devices/"><u>Updated From Noise to Masterpiece 10 Glitch Art Video Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upgrade-essentials-transitioning-your-system-step-by-step/"><u>Upgrade Essentials: Transitioning Your System, Step-by-Step</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-voyagers-discovering-false-profiles/"><u>Virtual Voyagers: Discovering False Profiles</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

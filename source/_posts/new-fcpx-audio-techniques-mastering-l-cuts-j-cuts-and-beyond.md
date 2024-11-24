@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-11-08T01:04:37.289Z
-updated: 2024-11-15T02:32:53.985Z
+date: 2024-11-21T16:14:15.442Z
+updated: 2024-11-24T17:21:03.997Z
 tags: 
   - video editing software
   - video editing
@@ -28,6 +28,10 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
 
 Ordinary images, text, subtitles, and GIF doesn’t work anymore to get followers or likes on a video on YouTube channel or Instagram. Thus, video creators are tired of trying the same filters, transitions on the video editor tool. To create amazing videos like the ones played on your television and favorite movies, all you need is the split edit type techniques, a powerful editing tool used by professional editors. Although called professional, it isn’t difficult for a beginner if you know J-Cuts and L-Cuts.
@@ -39,10 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,10 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,10 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -139,16 +131,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-exhaustive-explanation-whats-behind-google-podcast/"><u>[Updated] Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-producing-effective-corporate-webinar-videos/"><u>[Updated] In 2024, Producing Effective Corporate Webinar Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-going-above-and-beyond-without-the-need-for-vimeo/"><u>2024 Approved Going Above and Beyond Without the Need for Vimeo</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-mighty-flyers-best-drones-for-maximum-load/"><u>2024 Approved The Mighty Flyers Best Drones for Maximum Load</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-evaluation-the-ultimate-travel-companion-twelve-souths-dual-device-charger-with-magsafe-technology/"><u>Comprehensive Evaluation: The Ultimate Travel Companion - Twelve South's Dual Device Charger with MagSafe Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-macos-a-comprehensive-version-list/"><u>Discover the Latest macOS: A Comprehensive Version List</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-honor-x7bmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor X7bMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-edit-audio-of-a-video-on-fcp/"><u>In 2024, How to Edit Audio of a Video on FCP</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10plus-best-free-online-video-editors/"><u>In 2024, Top 10+ Best Free Online Video Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-video-online-without-spending-a-dime-easy-tutorial/"><u>New Blur Video Online Without Spending a Dime Easy Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-avi-video-rotator-software-and-apps-for-all-devices/"><u>Updated Free AVI Video Rotator Software and Apps for All Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-beginners-guide-choosing-your-first-film-camera/"><u>2024 Approved A Beginner's Guide Choosing Your First Film Camera</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-6-plus-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 6 Plus activation lock with a professional tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-devices-on-toms-tech-platform/"><u>Discover Cutting-Edge Devices on Tom's Tech Platform</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-easily-add-ambiance-mixing-voice-and-tune-on-windows-pc/"><u>How To Easily Add Ambiance: Mixing Voice & Tune on Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-7-key-strategies-for-perfect-macro-video-shooting/"><u>In 2024, 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-plugin-problems-try-these-solutions-first/"><u>In 2024, Final Cut Pro X Plugin Problems? Try These Solutions First</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-the-top-7-animation-software/"><u>In 2024, From Sketch to Screen The Top 7 Animation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-5-best-free-video-rotation-apps-for-iphone-users/"><u>New 5 Best Free Video Rotation Apps for iPhone Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animate-online-with-ease-the-5-best-stop-motion-makers/"><u>New Animate Online with Ease The 5 Best Stop Motion Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-animations-5-best-online-stop-motion-makers/"><u>New Create Stunning Animations 5 Best Online Stop Motion Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-adobe-premiere-pro-cs6-for-mac-os-free-trial/"><u>New Download Adobe Premiere Pro CS6 for Mac OS - Free Trial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-speedy-windows-inspecting-for-2024/"><u>The Essential Guide to Speedy Windows Inspecting for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-metadata-editing-on-mac-top-8-picks/"><u>The Ultimate Guide to Video Metadata Editing on Mac (Top 8 Picks)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-updated-review-sonys-blu-ray-and-hd-masterpiece/"><u>The Updated Review Sony's Blu-Ray and HD Masterpiece</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-engaging-content-10-leading-animated-text-generator-options/"><u>Updated Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-content-how-to-create-engaging-reaction-videos-with-filmora/"><u>Updated Elevate Your Content How to Create Engaging Reaction Videos with Filmora</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-explores-the-future-of-navigation-immersive-cities-revealed-through-googles-augmented-reality-on-maps/"><u>ZDNet Explores the Future of Navigation: Immersive Cities Revealed Through Google's Augmented Reality on Maps</u></a></li>
 </ul></div>
 

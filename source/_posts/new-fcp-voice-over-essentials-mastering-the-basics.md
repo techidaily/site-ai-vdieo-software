@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2024-11-10T06:21:22.903Z
-updated: 2024-11-15T08:31:38.606Z
+date: 2024-11-22T17:54:57.549Z
+updated: 2024-11-24T17:24:06.478Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ If you are new to the world of editing and find Final Cut Pro little difficult t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Voice Over with Final Cut Pro
 
 Most of you might be interested to know how to record voice with Final Cut Pro. Actually, the method is quite simple and can be used by beginners too.
@@ -47,6 +51,10 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -72,9 +80,17 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -103,14 +119,11 @@ It is also possible to extract desired recordings from auditions; for example if
 
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
-Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## FAQ
 
@@ -123,19 +136,6 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -152,20 +152,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-noteworthy-14-dynamic-text-artworks/"><u>[New] In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/asterclass-in-eliminating-youtube-content/"><u>[New] Masterclass in Eliminating YouTube Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-new-era-for-android-time-lapsing-trends-and-techniques/"><u>A New Era for Android Time-Lapsing Trends & Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-meizu-21-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Meizu 21 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-narzo-n53-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme Narzo N53 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>In 2024, Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-own-cartoons-top-rated-mobile-apps/"><u>Make Your Own Cartoons Top-Rated Mobile Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-fcp-editing-audio-like-a-pro/"><u>Mastering FCP Editing Audio Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-the-ultimate-mp4-file-editor/"><u>OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/shockingly-discounted-get-an-8tb-samsung-t5-ssd-now-at-just-36-off-post-amazon-prime-day-spotted/"><u>Shockingly Discounted: Get an 8TB Samsung T5 SSD Now At Just 36% Off Post-Amazon Prime Day, Spotted !</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/show-your-love-how-to-create-a-beautiful-valentines-day-video-montage/"><u>Show Your Love How to Create a Beautiful Valentines Day Video Montage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-images-into-videos-with-these-10-online-tools/"><u>Transform Your Images Into Videos with These 10 Online Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-rotator-tools-a-comprehensive-guide-for-windows-mac-and-mobile/"><u>Updated Free Video Rotator Tools A Comprehensive Guide for Windows, Mac, and Mobile</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-magic-6-lite-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor Magic 6 Lite Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y100a-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y100A</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ensuring-compliance-with-fb-messenger-call-records-for-2024/"><u>Ensuring Compliance with FB Messenger Call Records for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-guide-to-downloading-and-installing-new-drivers-for-canon-mx490-printers-windows/"><u>Essential Guide to Downloading & Installing New Drivers for Canon MX490 Printers (Windows)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-find-x6-pro-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X6 Pro Easily?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-a2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Honor 100 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/merging-fortnite-usernames-for-a-streamlined-gaming-experience/"><u>Merging Fortnite Usernames for a Streamlined Gaming Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-adding-titles-captions-and-subtitles-in-fcpx/"><u>New A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-face-creation-tools-online/"><u>Top-Rated Free Face Creation Tools Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-spinner-top-10-tools-to-rotate-and-flip-videos/"><u>Updated Free Video Spinner Top 10 Tools to Rotate and Flip Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-animated-top-10-software-for-2d-animation-enthusiasts/"><u>Updated Get Animated Top 10 Software for 2D Animation Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-your-hp-laptop-how-to-fix-the-sudden-loss-of-sound-output/"><u>Windows 10 and Your HP Laptop - How to Fix the Sudden Loss of Sound Output</u></a></li>
 </ul></div>
 

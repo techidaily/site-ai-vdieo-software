@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-11-11T08:01:20.082Z
-updated: 2024-11-15T05:28:38.103Z
+date: 2024-11-17T16:45:13.039Z
+updated: 2024-11-24T16:16:40.716Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,10 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -56,10 +60,7 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
@@ -67,13 +68,6 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -108,15 +102,16 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -129,6 +124,10 @@ The sequence dialogue has three tabs, Sequence Presets, Settings and Tracks
 The Preset Tab makes setting up a new sequence much simpler. Choosing a preset enables Premiere to choose the settings that best match the chosen video and audio format. There are a wide range of presets available to suit the most commonly used media types, they are organized based on camera formats. Within each group there are numerous settings and configurations to choose from based around frame sizes and interlacing. Whilst choosing the correct preset can be a little daunting to the uninitiated, ensuring the number of frames per second, the frame size and codec are correct is all that is required.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
@@ -143,13 +142,6 @@ Those with the Apple Prores Codec on their computers can use this as the preview
 If your computer failed to meet the requirement to run Premiere Pro, you may need to spend some money to buy a powerful computer or choose another professional video editing software similar to Premiere Pro, or choose a video editing software. If your computer isn’t powerful enough to run Premiere Pro, you will get awful experience at editing footage because of the long loading time and stuck playback.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -166,22 +158,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>[New] 2024 Approved The Art of Aligning Brands with YouTube Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-between-them-the-benefits-of-using-chatgpt-with-browser-integration-versus-utilizing-chatgpt-extensions/"><u>Deciding Between Them: The Benefits of Using ChatGPT with Browser Integration versus Utilizing ChatGPT Extensions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator/"><u>In 2024, Crafting 3D Text A Step-by-Step Guide to Adobe Illustrator</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-tecno-spark-go-2023-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Tecno Spark Go (2023) for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-conversion-top-10-webm-to-mp4-tools/"><u>New Effortless Video Conversion Top 10 WebM to MP4 Tools</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/ultimate-guide-to-setting-up-midia-aio-extension-on-kodi-tailored-entertainment/"><u>Ultimate Guide to Setting Up Midia AIO Extension on Kodi - Tailored Entertainment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-the-11-leading-game-screen-recorder-tools-on-the-market/"><u>Ultimate Guide to the 11 Leading Game Screen Recorder Tools on the Market</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro/"><u>Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders-for-2024/"><u>Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-practicality-with-the-acer-xf2-40-workstation/"><u>Unveiling the Power of Practicality with the Acer XF2-40 Workstation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>Updated FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-animation-tools-for-engaging-classroom-learning/"><u>Updated Top 10 Animation Tools for Engaging Classroom Learning</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vegas-or-premiere-choosing-the-best-video-editing-software-for-you/"><u>Vegas or Premiere? Choosing the Best Video Editing Software for You</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-2023-update/"><u>Video Editing Essentials How to Split Clips in Windows Live Movie Maker (2023 Update)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-getting-started-with-seamless-sound-transitions/"><u>[New] 2024 Approved Getting Started with Seamless Sound Transitions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets-for-2024/"><u>[New] A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>[Updated] From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-solutions-made-simple-using-ez-grabber-for-2024/"><u>[Updated] Innovative Solutions Made Simple Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-mkv-watcher-for-laptops/"><u>[Updated] Optimal MKV Watcher for Laptops</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-lag-free-gaming-on-pc-essential-fixes-and-optimization-tactics/"><u>Mastering Lag-Free Gaming on PC : Essential Fixes & Optimization Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-electronic-markets-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating Electronic Markets: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/phone-lens-magic-creating-high-horizons-for-2024/"><u>Phone Lens Magic Creating High Horizons for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>Updated Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-flv-video-editing-on-a-shoestring-best-free-options/"><u>Updated FLV Video Editing on a Shoestring Best Free Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-10-free-fcpx-plugins-for-editors/"><u>Updated From Zero to Hero 10 Free FCPX Plugins for Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-make-a-time-lapse-video-in-final-cut-pro/"><u>Updated How to Make a Time Lapse Video in Final Cut Pro</u></a></li>
 </ul></div>
 
