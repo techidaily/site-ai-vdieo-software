@@ -1,7 +1,7 @@
 ---
 title: From the Heart A Beginners Guide to Making a Valentines Day Video for Your Loved One for 2024
-date: 2024-08-09T08:19:31.834Z
-updated: 2024-08-10T08:19:31.834Z
+date: 2024-11-27T05:34:03.782Z
+updated: 2024-12-02T23:57:27.857Z
 tags: 
   - video editing software
   - video editing
@@ -28,14 +28,19 @@ Finding ways to show your feelings isn’t always easy. In fact, [buying present
 
 **Creating a short Valentine’s Day video** shouldn’t be too hard, especially if you have a great story to tell. Besides, a video is something that will last, and your significant other will always be able to watch it no matter what the future brings. So, in this article, we are going to show you how to make a Valentine’s Day video on your Windows PC or Mac, or just with your mobile phones that will truly show how you feel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Valentine’s Day Video on Windows and Mac
 
 There are hundreds of [video editing software for Windows](https://tools.techidaily.com/wondershare/filmora/download/) and Mac computers you can use to create a Valentine’s Day video, but in this article, we are going to use Filmora as an example. However, each of the steps we will cover can be used in other video editors for Mac and Windows. Let’s check how to make a Valentine’s Day video with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. It all starts with an Idea
 
@@ -47,24 +52,19 @@ Once you know exactly what you want to do you can start shooting or collecting t
 
 During the next step, you should add all video clips you would like to use in your video to the timeline. You can do this by simply dragging a particular video file from the Media tab and dropping it to the desired location on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drag and drop valentines video footage to Filmora](https://images.wondershare.com/filmora/article-images/drag-n-drop-timeline.jpg)
 
 Optionally, you can use the Split tool to make cuts in a video clip and [remove parts you don’t want to include in the final version of the video](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should right-click on each of the video clips you added to the timeline and select [the Color Correction](https://tools.techidaily.com/wondershare/filmora/download/) option. You can then proceed to fine-tune the Brightness, Contrast, Saturation, or Highlights values depending on how bright or vivid the colors in the original video are. This process can take a while, which is why it is important to be patient and go through it slowly.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Add Romantic Filters and Elements
 
 Filmora features Effects and Elements libraries that contain hundreds of different image overlays, filters, and predesigned elements you can add to your project. You just need to click on the Effect or Elements icons in the upper right corner of the screen to start browsing these libraries.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drag and drop valentines element to video in Filmora9](https://images.wondershare.com/filmora/article-images/valentines-special-event-elements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you find a romantic filter or element you want to apply to your footage, you should simply drag and drop it to the video track that is located directly above the one on which your footage is located. You should then position an [overlay, a filter, or an element](https://tools.techidaily.com/wondershare/filmora/download/) at the exact spot where you want them to appear in your video.
 
@@ -72,19 +72,21 @@ Once you find a romantic filter or element you want to apply to your footage, yo
 
 In case you want to adjust the intensity of an effect you applied you should just double-click on it and then use the Alpha slider to adjust the effect’s intensity. Double-clicking on an element you placed on the timeline will grant you access to the Video tab where you can rotate it, change its on-screen position, or set its Opacity value.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Apply Text Layers
 
 The Titles tab contains more than a hundred different Openers, End Credits, or Titles options you can use in all of your projects. Simply pick the one that best matches the style of your video, then add it to the timeline and double-click on it in order to start customizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Drag and drop valentines texts and titles  to video in Filmora9](https://images.wondershare.com/filmora/article-images/valentines-special-event-titles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you [insert the text](https://tools.techidaily.com/wondershare/filmora/download/), you can pick the font, color, or this size of the text, as well as set the spacing between two lines of text. Optionally, you can use Filmora’s Advanced Text Edit window if you want to have complete control over all layers of text you add to your video.
 
@@ -96,14 +98,15 @@ Music will give your video the rhythm and it will make it more entertaining to w
 
 You can also use Filmora’s library of [royalty-free songs](https://tools.techidaily.com/wondershare/filmora/download/) to create the soundtrack for the video you are making. Just head over to the Audio tab, pick a song from Electronic, Rock, or Tender & Sentimental categories, and add it to the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Export the Video
 
 When done with all these steps, you should preview the video you’ve created and if you like the results click on the Export button. You can then proceed to select the video format in which your video is going to be exported, choose the preferred resolution or the [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
 Furthermore, Filmora lets you export all videos directly to your YouTube or Vimeo channels, which can save you a lot of time on uploading videos to these video hosting platforms. Nonetheless, how long the rendering process is going to take depends on your computer’s processing power.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creating Videos with Valentine Video Maker for Android
 
@@ -114,8 +117,9 @@ If you find the process of making a Valentine’s Day video on Mac and Windows c
 Creating slow motion or fast forward videos is yet another option you’ll have at your disposal if you choose to edit your videos with this app. The best part is that you can create a new video with Valentine Video Maker in just a few minutes and share it on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Valentines Video Greetings Maker on iPhones
 
 Even though there are lots of different video editing apps for iPhones, very few of them enable their users to create customized Valentine’s Day messages. So if you would like to surprise the person you love with a beautiful Valentine’s Day message, you should install [Valentines Video Greetings Maker](https://apps.apple.com/us/app/valentines-greetings-maker/id804531269) on your iPhone.
@@ -136,12 +140,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/roven-strategies-to-record-clear-audio-without-a-mic-for-2024/"><u>[New] Proven Strategies to Record Clear Audio Without a Mic for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dive-deep-into-creating-lifelike-ios-photos/"><u>[Updated] Dive Deep Into Creating Lifelike iOS Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-device-to-tv-a-simple-guide-to-streaming-local-videos-on-chromecast/"><u>2024 Approved From Device to TV A Simple Guide to Streaming Local Videos on Chromecast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-best-facsimile-software-for-ps3-games/"><u>2024 Approved Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-intro-creator-software-for-windows-and-mac-for-2024/"><u>Best Intro Creator Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-edit-share-the-top-10-vlog-editor-apps-for-ios-and-android/"><u>Cut, Edit, Share The Top 10 Vlog Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-anthropics-cutting-edge-smart-photo-editor-features-and-performance/"><u>Expert Analysis on Anthropics' Cutting-Edge Smart Photo Editor Features and Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-game-downloads-the-top-10plus-sites-you-need/"><u>Free Game Downloads The Top 10+ Sites You Need</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-a-beginners-guide-to-video-editing-in-windows/"><u>From Clips to Masterpiece A Beginners Guide to Video Editing in Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>In 2024, Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-viewsonic-xg2njoyx272-oled-240hz-monitor-a-perfect-match-for-gamers/"><u>In-Depth Review of the ViewSonic XG2njoyX272 OLED 240Hz Monitor - A Perfect Match for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-gadgets-with-toms-guide-your-hardware-companion/"><u>Navigating Gadgets with Tom's Guide - Your Hardware Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-tips-to-boost-your-robot-vacuums-battery-longevity-insights-from-zdnet/"><u>Top 10 Tips to Boost Your Robot Vacuum's Battery Longevity: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-productivity-explore-8-key-benefits-of-auto-gpt-integration/"><u>Unleashing Productivity: Explore 8 Key Benefits of Auto-GPT Integration</u></a></li>
+</ul></div>
 

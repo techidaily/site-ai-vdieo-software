@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-11-22T16:28:51.482Z
-updated: 2024-11-24T17:27:00.292Z
+date: 2024-11-25T18:45:55.918Z
+updated: 2024-12-03T11:56:02.555Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -48,7 +48,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -60,7 +60,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -79,12 +79,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -100,10 +104,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
@@ -134,16 +134,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-video-maker-login-to-sign-up-guide/"><u>[New] Funimate Video Maker Login to Sign up Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-virtual-captures-unlocked/"><u>[Updated] 2024 Approved Virtual Captures Unlocked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-to-archive-vimeo-video-recordings/"><u>[Updated] Easy Steps to Archive Vimeo Video Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>In 2024, Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-mousepad-problems-solved-tips-for-restoring-functionality-on-windows-platforms/"><u>Laptop Mousepad Problems Solved! Tips for Restoring Functionality on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/last-snapshot-exploring-windows-latest-files/"><u>Last Snapshot: Exploring Windows' Latest Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>New Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-scrn-essentials-recording-your-desktop-in-minutes/"><u>New Filmora Scrn Essentials Recording Your Desktop in Minutes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-exploring-vn-video-editor-on-pc-a-concise-review/"><u>New In 2024, Exploring VN Video Editor on PC A Concise Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-8-best-animation-maker-for-beginners-and-pros-for-2024/"><u>Top 8 Best Animation Maker for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-watermark-removal-hacks-with-and-without-payment/"><u>Updated Filmora Watermark Removal Hacks With and Without Payment</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>[Updated] Bridging Platforms Loop-Ready Setups for YouTube and TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-amusement-master-memes-with-kapwing-for-2024/"><u>[Updated] The Art of Amusement – Master Memes with Kapwing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-image-mysteries-the-triple-tactic-fb-backward-search-for-2024/"><u>[Updated] Unraveling Image Mysteries The Triple-Tactic FB Backward Search for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726223572414-mkv-wmv-movavi/"><u>直接瀏覽無成本 MKV 到 WMV 變更 - 使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vector-graphics-101-overview-of-varieties-and-tools/"><u>In 2024, Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-videopad-video-editor-review-and-buying-recommendation/"><u>New Videopad Video Editor Review and Buying Recommendation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-recording-3-easy-options-for-gamers/"><u>Streamline Your Recording 3 Easy Options for Gamers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>Updated Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-get-filmora-for-free-with-the-proceeding-guide-you-can-now-get-the-full-version-of-filmora-for-free-on-your-device-without-crack-also-learn-a/"><u>Updated How to Get Filmora for Free? With the Proceeding Guide, You Can Now Get the Full Version of Filmora for Free on Your Device without Crack. Also, Learn About some Wonderful Features of Filmora that Are a Must-Have</u></a></li>
 </ul></div>
 

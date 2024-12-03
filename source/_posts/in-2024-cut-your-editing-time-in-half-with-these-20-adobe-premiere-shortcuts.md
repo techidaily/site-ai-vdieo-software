@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cut Your Editing Time in Half with These 20 Adobe Premiere Shortcuts
-date: 2024-08-02T07:12:44.985Z
-updated: 2024-08-03T07:12:44.985Z
+date: 2024-12-02T08:45:29.472Z
+updated: 2024-12-02T18:40:36.920Z
 tags: 
   - video editing software
   - video editing
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,11 +207,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-a-compreranium-of-hand-tracking-systems-for-2024/"><u>[New] A Compreranium of Hand Tracking Systems for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-convertors-sub-to-srt-on-all-os-platforms/"><u>[New] Best 8 Convertors Sub to Srt on All OS Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-expert-advice-for-improved-minecraft-zooms-for-2024/"><u>[Updated] Expert Advice for Improved Minecraft Zooms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlined-strategy-for-youtube-feedback-management/"><u>[Updated] Streamlined Strategy for Youtube Feedback Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-deeper-dive-into-user-experience-revamping-windows-11-widgets/"><u>A Deeper Dive Into User Experience: Revamping Windows 11 Widgets</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-the-stutter-and-lag-in-thaumaturge-on-windowsmacos/"><u>Guide: Resolving the Stutter and Lag in Thaumaturge on Windows/MacOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-pro-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 13 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-movies-like-a-pro-best-windows-10-video-editors-for-2024/"><u>Make Movies Like a Pro Best Windows 10 Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-conversion-top-10-webm-to-mp4-tools/"><u>New Effortless Video Conversion Top 10 WebM to MP4 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-had-you-ever-thought-about-inserting-a-countdown-timer-in-your-video-clip-do-you-want-to-try-one-this-article-gives-you-the-best-insights-on-the-inserti/"><u>New Had You Ever Thought About Inserting a Countdown Timer in Your Video Clip? Do You Want to Try One? This Article Gives You the Best Insights on the Insertion of the Countdown Timer in the Final Cut Pro X Application. Quickly Step Into the Below Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80n2efd-problem-on-windows-11-solutions-unveiled/"><u>Troubleshooting the 0X80n2EFD Problem on Windows 11 – Solutions Unveiled</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-editing-mastery-3-advanced-transition-techniques/"><u>Updated FCP Editing Mastery 3 Advanced Transition Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-2023-update/"><u>Video Editing Essentials How to Split Clips in Windows Live Movie Maker (2023 Update)</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

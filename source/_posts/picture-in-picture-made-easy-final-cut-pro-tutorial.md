@@ -1,7 +1,7 @@
 ---
 title: Picture-in-Picture Made Easy Final Cut Pro Tutorial
-date: 2024-11-03T18:08:53.313Z
-updated: 2024-11-04T23:36:52.182Z
+date: 2024-12-01T00:07:46.472Z
+updated: 2024-12-03T05:17:01.230Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -48,11 +52,19 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -67,6 +79,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
@@ -75,13 +91,6 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -100,10 +109,7 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,18 +127,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-audiopiece-recorder-guide-installation-and-test-for-2024/"><u>[New] AudioPiece Recorder Guide Installation & Test for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[Updated] Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-exploring-free-superior-webm-video-playback-solutions-for-2024/"><u>[Updated] Exploring Free, Superior WebM Video Playback Solutions for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-thorough-insight-into-androids-lightroom-application-for-2024/"><u>A Thorough Insight Into Android's Lightroom Application for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-2023-a-step-by-step-guide-to-importing-and-exporting-videos/"><u>In 2024, Adobe Premiere 2023 A Step-by-Step Guide to Importing and Exporting Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-detailed-look-at-its-features-and-performance/"><u>In 2024, AVS Video Editor A Detailed Look at Its Features and Performance</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-rated-video-animation-software-for-smartphones-and-tablets/"><u>In 2024, Best Top-Rated Video Animation Software for Smartphones and Tablets</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-3gp-videos-like-a-pro-cutting-trimming-and-more/"><u>In 2024, Edit 3GP Videos Like a Pro Cutting, Trimming, and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-hack-how-to-create-a-vhs-aesthetic-in-minutes/"><u>In 2024, FCP Hack How to Create a VHS Aesthetic in Minutes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-hot-40-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Hot 40? Fixed | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-magic-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space-for-2024/"><u>[Updated] Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-resource-list-open-source-imagery-sanctuary/"><u>2024 Approved Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone XS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-vn-video-editor-pc-edition-a-compact-review/"><u>In 2024, VN Video Editor PC Edition A Compact Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-conceal-faces-with-confidence-professional-video-editing-software/"><u>New Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-intros-on-your-pc-top-10-maker-tools/"><u>New Create Stunning Intros on Your PC Top 10 Maker Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/stepwise-guide-to-windows-11-sound-capture-setup-for-2024/"><u>Stepwise Guide to Windows 11 Sound Capture Setup for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/take-great-photos/"><u>Take Great Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-video-editing-software-for-starters-free-paid-and-everything-in-between/"><u>The Best Video Editing Software for Starters Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-solution-adding-missing-device-drivers-in-windows-10-8-and-7/"><u>Ultimate Solution: Adding Missing Device Drivers in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-f5-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Poco F5 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-review-the-good-the-bad-and-the-ugly/"><u>Updated AVS Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
 </ul></div>
 

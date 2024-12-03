@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-11-21T18:20:42.431Z
-updated: 2024-11-24T16:11:35.980Z
+date: 2024-12-01T10:05:14.580Z
+updated: 2024-12-03T08:09:52.214Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -42,6 +46,10 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -51,19 +59,11 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -75,12 +75,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -103,10 +107,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,18 +134,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-story-impact-with-customized-video-speed-settings/"><u>[Updated] Boost Story Impact with Customized Video Speed Settings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pulse-of-printed-words-2-methods-of-bouncing-text/"><u>2024 Approved The Pulse of Printed Words 2 Methods of Bouncing Text</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/data-to-discussion-craft-your-own-conversational-ai/"><u>Data to Discussion: Craft Your Own Conversational AI</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-zte-axon-40-lite-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset ZTE Axon 40 Lite in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-video-editing-apps-with-soundtracks-for-mobile/"><u>In 2024, Top Video Editing Apps with Soundtracks for Mobile</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-3gp-video-editing-cutting-and-trimming-made-easy/"><u>New 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-online-video-rotators-for-your-brand/"><u>New Discover the Best Online Video Rotators for Your Brand</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-to-fix-persistent-lunar-client-failures-on-windows-systems/"><u>Troubleshooting Tips to Fix Persistent Lunar Client Failures on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-itel-p55plus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Itel P55+</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide/"><u>Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-epson-wf-3720-printer-software-for-optimal-performance/"><u>Update Your Epson WF-3720 Printer Software for Optimal Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-free-mcb-theme-images-templates-and-more-for-2024/"><u>[Updated] Free MCB Theme Images, Templates & More for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-s17t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S17t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/download-and-installation-made-easy-for-ez-grabber-users/"><u>Download and Installation Made Easy for EZ Grabber Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-a-lasting-impression-with-the-best-video-invitation-apps/"><u>Make a Lasting Impression with the Best Video Invitation Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-3d-animation-software-free-and-paid2022-new/"><u>New Best 3D Animation Software Free and Paid(2022 New)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos/"><u>New Unleash Your Creativity Top Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-programming-snippets-to-microsoft-word/"><u>Step-by-Step Guide: Adding Programming Snippets to Microsoft Word</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stop-motion-mastery-top-10-software-for-mac-and-pc-users/"><u>Stop Motion Mastery Top 10 Software for Mac and PC Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects-for-2024/"><u>The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editor-for-macos-easy-video-creation-tool/"><u>Video Editor for macOS Easy Video Creation Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-11-01T22:47:59.273Z
-updated: 2024-11-05T02:14:50.439Z
+date: 2024-11-29T22:10:01.112Z
+updated: 2024-12-03T01:18:40.850Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 5. [Download and install file from Github](https://tools.techidaily.com/drivereasy/download/)
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify game files
 
  Verifying game files is always the first thing to try as corrupted and missing files would cause Stray crashing, freezing, or other game issues.
@@ -47,10 +40,7 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 3. After the verification, launch Stray and see if it makes difference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
@@ -66,16 +56,14 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
@@ -89,15 +77,16 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
@@ -123,22 +112,16 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
@@ -163,17 +146,18 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -198,17 +182,22 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-experts-picks-top-10-budget-friendly-call-apps/"><u>[Updated] 2024 Approved Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-immersive-devices-of-now/"><u>[Updated] In 2024, Immersive Devices of Now</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-legally-convert-youtube-to-mp4-format/"><u>[Updated] Step-by-Step Legally Convert YouTube to MP4 Format</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>2024 Approved Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-azure-speech-to-text-api/"><u>2024 Approved Utilizing Azure Speech-to-Text API</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/934311-9781101608807-chasing-spirits/"><u>Chasing Spirits | Free Book</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-intros-with-these-top-10-pc-software-for-2024/"><u>Create Stunning Intros with These Top 10 PC Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-production-top-4k-video-editing-software/"><u>Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-crystal-clear-videos-top-picks-for-resolution-enhancement-software-for-2024/"><u>Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-enhance-airdrop-connectivity-tips-for-iphone-ipad-and-mac-users/"><u>In 2024, Enhance AirDrop Connectivity Tips for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-a38-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A38)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/score-the-best-9-websites-providing-exquisite-3d-graffiti-fonts/"><u>Score the Best 9 Websites Providing Exquisite 3D Graffiti Fonts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-engaging-youtube-trailers-in-filmora/"><u>[New] In 2024, Creating Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-identifying-high-growth-youtube-channels-for-personal-development/"><u>[Updated] Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>[Updated] In 2024, Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professionals-almanac-to-efficient-voice-recording/"><u>[Updated] Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-camcorders-featuring-direct-faceviewing-for-2024/"><u>Best Camcorders Featuring Direct FaceViewing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-xbox-audio-output-on-windows-devices/"><u>Mastering Xbox Audio Output on Windows Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-the-best-iphone-options-for-adding-water-marks-for-2024/"><u>Navigating the Best iPhone Options for Adding Water Marks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/regular-to-revolutionary-how-to-convert-videos-for-vr/"><u>Regular to Revolutionary How to Convert Videos for VR</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-dell-desktop-screen-capture-tutorial-for-2024/"><u>Step-by-Step Dell Desktop Screen Capture Tutorial for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-16-free-movie-makers-no-experience-needed/"><u>The Best of the Best 16 Free Movie Makers (No Experience Needed)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-video-watermark-software/"><u>Top 5 Free Video Watermark Software</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-mp4-video-encoders-of-202nk-a-comprehensive-guide-to-mp4-file-conversion/"><u>Top MP4 Video Encoders of 202Nk: A Comprehensive Guide to MP4 File Conversion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-4k-videos-with-ease-top-picks/"><u>Updated Convert 4K Videos with Ease Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-editing-top-free-cutters-and-joiners-for-starters/"><u>Updated Easy Video Editing Top Free Cutters and Joiners for Starters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect/"><u>Updated From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect</u></a></li>
 </ul></div>
 

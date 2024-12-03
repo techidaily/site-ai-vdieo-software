@@ -1,7 +1,7 @@
 ---
 title: Unlock FCP Xs Power Adding Effects in Just 3 Clicks
-date: 2024-11-04T01:14:41.326Z
-updated: 2024-11-04T22:25:36.935Z
+date: 2024-11-25T20:36:13.210Z
+updated: 2024-12-02T23:12:39.179Z
 tags: 
   - video editing software
   - video editing
@@ -53,9 +53,17 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -78,9 +86,17 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -93,6 +109,10 @@ To enable an effect, click the gray box so it turns blue again.
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -121,25 +141,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-best-free-cloud-storage-services-accessible-up-to-1tb/"><u>[New] Explore Best Free Cloud Storage Services - Accessible Up to 1TB</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cing-visibility-and-discoverability-via-targeted-tags/"><u>Enhancing Visibility and Discoverability via Targeted Tags</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-anime-based-short-clips-top-20-ideas-on-tiktok/"><u>In 2024, Anime-Based Short Clips Top 20 Ideas on TikTok</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-top-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Top Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cross-platform-video-editing-mastery-using-chromebook-with-windows-and-mac-apps/"><u>In 2024, Cross-Platform Video Editing Mastery Using Chromebook with Windows and Mac Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-avi-trimmers-top-software-for-windows-mac-and-android-devices/"><u>In 2024, Cutting-Edge AVI Trimmers Top Software for Windows, MAC, and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ezvid-for-mac-create-slideshows-and-home-videos-easily-in-mac-os/"><u>In 2024, Ezvid for Mac Create Slideshows and Home Videos Easily in Mac OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>In 2024, Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-which-movie-software-takes-the-lead-vlc-vs-mx/"><u>In 2024, Which Movie Software Takes The Lead? VLC Vs. MX</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-capturing-skype-calls-top-rated-techniques-windowsmac/"><u>Mastering the Art of Capturing Skype Calls Top-Rated Techniques (Windows/Mac)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-s-top-online-cartoon-video-editors-for-newbies/"><u>Updated 2024 Approved S Top Online Cartoon Video Editors for Newbies</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplifying-video-clarity-on-youtube/"><u>[New] 2024 Approved Amplifying Video Clarity on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] 2024 Approved Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-studyhistory-10-essential-youtube-historical-channels/"><u>[New] 2024 Approved StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-creating-revenue-streams-on-snapchat-for-2024/"><u>[New] Creating Revenue Streams on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-transforming-youtube-sounds-into-high-quality-wav-files/"><u>[New] In 2024, Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-integrating-video-content-bringing-youtube-into-powerpoint/"><u>[Updated] Integrating Video Content Bringing YouTube Into PowerPoint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-personalized-music-lists-on-iphone-and-ipad-a-step-by-step-guide/"><u>Creating Personalized Music Lists on iPhone and iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy S24 Ultra Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-green-screen-fun-top-10-mobile-apps-for-creative-video-editing/"><u>In 2024, Free Green Screen Fun Top 10 Mobile Apps for Creative Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-novice-to-expert-how-to-edit-mp4-videos-on-mac-and-windows/"><u>In 2024, From Novice to Expert How to Edit MP4 Videos on Mac and Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streaming-masterpieces-best-movie-directories-on-yt/"><u>In 2024, Streaming Masterpieces Best Movie Directories on YT</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>New Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-and-rotate-iphone-videos-with-ease-top-free-apps/"><u>New Flip and Rotate iPhone Videos with Ease Top Free Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/official-announcement-filmora-x-now-supports-arm/"><u>Official Announcement Filmora X Now Supports ARM</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/significant-top-5-flexible-video-recorders-list/"><u>Significant Top 5 Flexible Video Recorders List</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-a-personal-touch-top-free-video-watermarking-apps/"><u>Updated Add a Personal Touch Top Free Video Watermarking Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>Updated Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-best-top-11-animated-logo-makers-creative-logo-tips/"><u>Updated FREE Best Top 11 Animated Logo Makers Creative Logo Tips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

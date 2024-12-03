@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cut Editing Time in Half with These Adobe Premiere Shortcuts
-date: 2024-08-02T07:13:36.073Z
-updated: 2024-08-03T07:13:36.073Z
+date: 2024-11-28T21:36:03.768Z
+updated: 2024-12-03T05:56:54.018Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -103,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -136,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,11 +207,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-in-depth-analysis-how-galaxy-s8-dominates-in-4k-video/"><u>[New] 2024 Approved In-Depth Analysis How Galaxy S8 Dominates in 4K Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-visionpro-x-top-10-free-and-paid-alternatives/"><u>[New] 2024 Approved VisionPro X Top 10 Free & Paid Alternatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-essential-tips-direct-camera-roll-upload-to-snapchat/"><u>[Updated] 2024 Approved Essential Tips Direct Camera Roll Upload to Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/bold-windows-11-remove-curved-edges/"><u>Bold Windows 11: Remove Curved Edges</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/into-ios-screenshots-a-comprehensive-youtube-guide-for-2024/"><u>Dive Into iOS Screenshots A Comprehensive YouTube Guide for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-game-of-thrones-captions-with-ease-a-step-by-step-guide-for-fans/"><u>Download Game of Thrones Captions with Ease: A Step-by-Step Guide for Fans</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-easy-mov-video-cutting-solutions/"><u>New Free and Easy MOV Video Cutting Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-20-adobe-premiere-titleintro-templates-free-download/"><u>New Top 20 Adobe Premiere Title/Intro Templates Free Download</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/passos-para-recuperar-pastas-e-arquivos-excluidos-accidentalmente-no-sistema-operacional-windows/"><u>Passos Para Recuperar Pastas E Arquivos Excluídos Accidentalmente No Sistema Operacional Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-watermark-free-video-combining-tools/"><u>Top 10 Watermark-Free Video Combining Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-lenovo-non-dell-2-in-1-laptop-deal-save-big-before-prime-day-insider-tips/"><u>Top Non-Lenovo, Non-Dell 2-in-1 Laptop Deal: Save Big Before Prime Day - Insider Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-audio-harvesters-in-learning-spaces-for-2024/"><u>Ultimate Audio Harvesters in Learning Spaces for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-video-editors-for-webm-files-2023-edition/"><u>Updated Best Free Video Editors for WebM Files 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-designing-effective-lower-thirds-in-final-cut-pro-x/"><u>Updated Designing Effective Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>Updated Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-transform-your-videos-a-step-by-step-mp4-video-editing-guide-for-mac-and-windows/"><u>Updated Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

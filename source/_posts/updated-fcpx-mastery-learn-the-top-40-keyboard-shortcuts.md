@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2024-11-21T16:48:15.096Z
-updated: 2024-11-24T17:14:23.633Z
+date: 2024-11-27T20:29:31.490Z
+updated: 2024-12-03T03:50:09.588Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,20 +140,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-breakthrough-techniques-for-streaming-success-obs-studio-android-for-2024/"><u>[New] Breakthrough Techniques for Streaming Success OBS Studio (Android) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-scaling-up-your-income-with-instagram-mastery/"><u>[Updated] Scaling Up Your Income with Instagram Mastery</u></a></li>
-<li><a href="https://win-forum.techidaily.com/activate-and-utilize-a-beginners-guide-to-the-revo-uninstaller-suite-setup/"><u>Activate & Utilize: A Beginner’s Guide to the Revo Uninstaller Suite Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-default-settings-forcefully-remove-print-devices/"><u>Bypassing the Default Settings: Forcefully Remove Print Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/light-the-flame-the-best-inspiring-movie-list-for-2024/"><u>Light the Flame The Best Inspiring Movie List for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-animated-gifs-for-free-best-online-makers/"><u>Make Animated GIFs for Free Best Online Makers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-them-laugh-best-video-dubbing-apps-for-comedy-and-entertainment/"><u>Make Them Laugh Best Video Dubbing Apps for Comedy and Entertainment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-reversal-top-online-solutions/"><u>New Easy Video Reversal Top Online Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-software-no-watermark-no-cost/"><u>New Free Video Editing Software No Watermark, No Cost</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-capture-to-creation-easy-video-editing-with-gopro-quik-on-macbook/"><u>New From Capture to Creation Easy Video Editing with GoPro Quik on MacBook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-blur-parts-of-a-video-online-for-free-a-beginners-guide/"><u>New How to Blur Parts of a Video Online for Free A Beginners Guide</u></a></li>
-<li><a href="https://win-best.techidaily.com/transforme-votre-ps3-instructions-detaillees-pour-remplacer-hdd-par-ssd-a-laide-dun-outil-de-clonage-gratuit-top/"><u>Transforme Votre PS3 : Instructions Détaillées Pour Remplacer HDD Par SSD À L'aide D'un Outil De Clonage Gratuit Top !</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vob-video-editor-reviews-top-5-free-options/"><u>VOB Video Editor Reviews Top 5 Free Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-download-all-favorites-without-spending/"><u>[New] 2023 Download All Favorites Without Spending</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elevating-the-look-and-feel-of-zoom-videos-for-2024/"><u>[New] Elevating the Look & Feel of Zoom Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[New] Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-guide-7-prime-free-video-tag-extractors/"><u>[Updated] Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-your-course-in-the-realm-of-youtube-shorts-for-2024/"><u>Charting Your Course in the Realm of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-messenger-and-ig-direct-conversations-stay-unencrypted-until-2022/"><u>FB Messenger & IG Direct Conversations Stay Unencrypted Until 2022</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-premiere-pro-transition-essentials-top-10-plugins-you-need/"><u>In 2024, Premiere Pro Transition Essentials Top 10 Plugins You Need</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/is-virtualdub-obsolete-discover-the-best-free-video-editing-software-alternatives/"><u>Is Virtualdub Obsolete? Discover the Best Free Video Editing Software Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/meet-the-minimums-premiere-pro-system-requirements-explained/"><u>Meet the Minimums Premiere Pro System Requirements Explained</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-timecode-calculators-web-iphone-and-android-apps/"><u>The Ultimate List of Timecode Calculators Web, iPhone, and Android Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-art-of-photographic-posts-on-instagram/"><u>Unlocking the Art of Photographic Posts on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-best-neon-text-generator-online-easy-to-use/"><u>Updated 8 Best Neon Text Generator Online (Easy to Use)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>Updated Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-limitations-why-you-need-to-consider-these-alternatives/"><u>Virtualdub Limitations Why You Need to Consider These Alternatives</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-11-2024/"><u>최신 전술 시장에서 TOP 11: 2024년의 번영하는 게임 녹화 프로그램</u></a></li>
 </ul></div>
 

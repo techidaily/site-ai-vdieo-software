@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2024-11-22T18:06:31.973Z
-updated: 2024-11-24T17:44:43.221Z
+date: 2024-11-30T05:13:08.216Z
+updated: 2024-12-03T04:59:51.381Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,19 +81,16 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-switching-names-on-google-meet-for-laptops-phones/"><u>[New] Switching Names on Google Meet for Laptops, Phones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-master-at-iphones-hdr-photography-techniques/"><u>2024 Approved Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>2024 Approved Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-this-article-we-will-review-on-virtualdub-virtualdub2-and-provide-its-best-alternatives/"><u>In This Article, We Will Review on Virtualdub, Virtualdub2 and Provide Its Best Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-sony-vegas-alternatives-for-windows-a-comprehensive-guide/"><u>New Top Sony Vegas Alternatives for Windows A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/proven-strategies-for-optimizing-video-content-on-youtube/"><u>Proven Strategies for Optimizing Video Content on YouTube</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-dvd-player-software-for-windows-10-pcs/"><u>S Best Free DVD Player Software for Windows 10 PCs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-fraps-replacements-best-similar-tools-and-apps-for-screen-capture/"><u>Top Fraps Replacements: Best Similar Tools & Apps for Screen Capture</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-noise-to-masterpiece-10-glitch-art-video-editing-apps-for-mobile-devices/"><u>Updated From Noise to Masterpiece 10 Glitch Art Video Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/upgrade-essentials-transitioning-your-system-step-by-step/"><u>Upgrade Essentials: Transitioning Your System, Step-by-Step</u></a></li>
-<li><a href="https://facebook.techidaily.com/virtual-voyagers-discovering-false-profiles/"><u>Virtual Voyagers: Discovering False Profiles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-troubleshooting-tutorial-resolving-pc-issues-with-overwatch-2-constant-crashes/"><u>A Step-by-Step Troubleshooting Tutorial: Resolving PC Issues with Overwatch 2 Constant Crashes</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/comment-proteger-votre-disque-dur-avec-les-outils-de-sauvegarde-integres-a-windows-10/"><u>Comment Protéger Votre Disque Dur Avec Les Outils De Sauvegarde Intégrés À Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-opus-files-to-mp3-for-free-with-movavis-web-based-converter-service/"><u>Convert OPUS Files to MP3 for Free with Movavi's Web-Based Converter Service</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-get-filmora-for-free-without-crack-100-truthful/"><u>How to Get Filmora for Free without Crack (100 Truthful)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-image-to-video-makers-online-free-and-paid/"><u>In 2024, 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-chromebook-friendly-video-editors-a-2023-comparison/"><u>In 2024, Chromebook-Friendly Video Editors A 2023 Comparison</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-cinematography-a-beginners-guide-to-making-movies/"><u>In 2024, Easy Cinematography A Beginners Guide to Making Movies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-lecture-recordings-on-imac/"><u>In 2024, Streamlining Lecture Recordings on iMac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-finding-your-ideal-recorder-macos-for-2024/"><u>The Ultimate Guide to Finding Your Ideal Recorder (MacOS) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-4k-video-collection-must-watch-clips/"><u>Updated In 2024, The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
 </ul></div>
 

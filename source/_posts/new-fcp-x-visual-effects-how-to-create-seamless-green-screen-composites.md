@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-11-18T17:42:27.163Z
-updated: 2024-11-24T18:08:38.094Z
+date: 2024-11-27T20:33:46.278Z
+updated: 2024-12-03T05:21:07.690Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -47,7 +51,7 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up the Key
@@ -67,7 +71,7 @@ Don't panic if your image looks weird – we will fix it.
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
@@ -75,7 +79,7 @@ Click the **Sample Color** icon. This allows fine-tuning the selection of the ba
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
@@ -97,7 +101,7 @@ Your goal is the make the foreground solid white, which means opaque, and the ba
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
@@ -131,10 +135,6 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 When you are done, you have a great looking key!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
@@ -151,12 +151,16 @@ Once you get your key looking as good as you can – which in this case isn't al
 
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
@@ -177,10 +181,6 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -196,22 +196,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-discreetly-discovering-stories-with-these-apps/"><u>[New] 2024 Approved Discreetly Discovering Stories with These Apps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-video-mastery-for-professional-vimeo-users/"><u>[New] In 2024, Ultimate Video Mastery for Professional Vimeo Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-background-beats-guide-tunes-for-visuals/"><u>[Updated] Background Beats Guide Tunes for Visuals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-video-creation-filmoras-key-edits-for-lovers/"><u>[Updated] In 2024, Mastering Video Creation Filmora’s Key Edits for Lovers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-itop-screen-recorder-essential-or-excessive-for-2024/"><u>[Updated] ITop Screen Recorder - Essential or Excessive for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/bmpgif/"><u>BMP画像からGIF動画への変換手順：パソコン使用ガイド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-ultrawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Ultrawith/without a PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-reasons-for-unexpected-cut-off-in-imovie/"><u>In 2024, Reasons for Unexpected Cut-Off in iMovie</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-choices-for-voicemail-with-visual-features-2024-edition/"><u>Leading Choices for Voicemail with Visual Features - 2024 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-hobbyist-to-pro-why-you-need-to-upgrade-from-final-cut-express/"><u>New From Hobbyist to Pro Why You Need to Upgrade From Final Cut Express</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>New Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-vn-video-editor-pc-edition-a-compact-review/"><u>New VN Video Editor PC Edition A Compact Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-final-cut-pro-x-alternatives-free-and-paid/"><u>Updated 10 Best Final Cut Pro X Alternatives Free & Paid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-clipper-top-6-software-for-you/"><u>Updated Free MOV Video Clipper Top 6 Software for You</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-learn-to-blur-videos-like-a-pro/"><u>Updated Free Video Editing Learn to Blur Videos Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-iphone-video-rotators/"><u>Updated Top 5 Best Free iPhone Video Rotators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-premier-travel-blogs-to-watch-online-for-2024/"><u>[New] 10 Premier Travel Blogs to Watch Online for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-uncover-8-effective-youtube-promotion-methods/"><u>[Updated] 2024 Approved Uncover 8 Effective YouTube Promotion Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>[Updated] In 2024, Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pixels-and-power-revisiting-magix-manager/"><u>[Updated] Pixels and Power Revisiting MAGIX Manager</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discover-popular-tiktok-background-images/"><u>Discover Popular TikTok Background Images</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-issue-on-windows-10/"><u>Fixing Lenovo Bluetooth Issue on Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-gaming-on-a-budget-asus-rog-nuc-begins-at-affordable-1629-with-core-ultra-cpu-and-rtx-gpu/"><u>Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-mantener-el-video-fijo-en-windows-mac-android-y-iphone/"><u>Guía Paso a Paso Para Mantener El Video Fijo en Windows, Mac, Android Y iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-v30t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme V30T Phone Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>In 2024, Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-dvd-players-for-windows-10/"><u>New Best Free DVD Players for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>Updated Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-paid-android-video-editing-apps-compared-top-10/"><u>Updated Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>Updated The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
 </ul></div>
 

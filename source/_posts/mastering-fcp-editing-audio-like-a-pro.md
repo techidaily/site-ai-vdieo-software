@@ -1,7 +1,7 @@
 ---
 title: Mastering FCP Editing Audio Like a Pro
-date: 2024-10-14T17:19:00.247Z
-updated: 2024-10-18T16:10:50.552Z
+date: 2024-11-29T18:07:45.796Z
+updated: 2024-12-03T13:24:49.112Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,10 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Note:** In this level, any effects and adjustments in audio are applicable for the entire clip including the audio channels within it. All the adjustments in the individual audio channels made by you would be preserved by FCP. This implies that when one reduces the volume for just one channel but increases the volume of the entire clip, then the single channel’s volume is only raised in proportion to the volume of the other channels. Ideally, you should do your edits at the clip-level when you have only one or two audio channels on your video clip.
@@ -64,6 +68,10 @@ In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
 The Audio Inspector would allow you to apply the following effects:
@@ -73,9 +81,17 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
@@ -86,6 +102,10 @@ The Audio Inspector would allow you to apply the following effects:
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -102,29 +122,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-swift-tips-for-easy-ipad-screen-recordings/"><u>[New] 2024 Approved Swift Tips for Easy iPad Screen Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/30204431-new-in-2024-short-film-synopsis-must-know-points/"><u>[New] In 2024, Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-boosting-discord-servers-with-these-innovative-bots/"><u>[Updated] Boosting Discord Servers with These Innovative Bots</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/google-drive-plus/"><u>「Google Driveにおける自動廃棄機能設定・解除法 + 失われたファイルを取り戻す方法」</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>In 2024, Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-animation-tools-for-engaging-classroom-learning/"><u>In 2024, Top 10 Animation Tools for Engaging Classroom Learning</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-a2plus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi A2+ Phone Network-Ready</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>New Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>New The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/orchestrating-a-journey-through-hidden-youtube-archives-for-2024/"><u>Orchestrating a Journey Through Hidden YouTube Archives for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tailoring-your-content-for-split-screen-audiences-via-facebook-lives-for-2024/"><u>Tailoring Your Content for Split Screen Audiences via Facebook Lives for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g14-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G14 Phone Pattern Lock</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/1723262384532-transform-your-tunes-with-our-newly-launched-open-source-tulip-creative-pc-running-micropython-all-for-only-59-dollars/"><u>Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-issues-fixing-the-top-7-iphone-and-ipad-glitches/"><u>Troubleshooting Siri Issues: Fixing the Top 7 iPhone and iPad Glitches</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-video-editing-how-to-crop-and-resize-your-footage/"><u>Updated Avidemux Video Editing How to Crop and Resize Your Footage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-on-the-house-enjoy-a-90-day-free-trial-today/"><u>Updated Final Cut Pro on the House Enjoy a 90-Day Free Trial Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>[New] Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[New] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-gaming-evolved-streaming-xbox-content-on-facebook/"><u>2024 Approved Gaming Evolved Streaming Xbox Content on Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>2024 Approved Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-addressing-winservicesexe-concerns/"><u>Comprehensively Addressing Winservices.exe Concerns</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-leading-mesh-wi-fi-solutions-for-home-and-office-2024-edition/"><u>Discover the Leading Mesh Wi-Fi Solutions for Home and Office - 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-laggard-to-lightning-pick-8-apps-now-for-2024/"><u>From Laggard to Lightning Pick 8 Apps Now for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/official-announcement-filmora-x-now-supports-arm-for-2024/"><u>Official Announcement Filmora X Now Supports ARM for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-power-user-20-shortcuts-to-save-time/"><u>Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Video Collage Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated Discover the Best Free Animation Software for Windows and Mac</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks
-date: 2024-10-29T18:49:08.202Z
-updated: 2024-11-05T01:09:38.001Z
+date: 2024-11-29T12:51:07.551Z
+updated: 2024-12-03T12:54:37.088Z
 tags: 
   - video editing software
   - video editing
@@ -44,11 +44,19 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
 
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3 Save the edited videos
 
@@ -56,11 +64,23 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download this video resizer for Mavericks and explore more video editing functions!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -77,24 +97,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[New] 2024 Approved Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nveiling-the-secrets-of-youtube-shorts-success/"><u>[New] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-a-new-lens-on-cinema-embracing-vr-tech/"><u>[Updated] A New Lens on Cinema Embracing VR Tech</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-6-youtube-outros-made-easy-and-free-guide/"><u>[Updated] Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-picshot-simplifies-photo-collage-creation-for-2024/"><u>How Picshot Simplifies Photo Collage Creation for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-industry-leading-audio-editing-solutions-for-professionals/"><u>In 2024, 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>In 2024, Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-a-film-on-mac-a-step-by-step-guide/"><u>In 2024, Create a Film on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-animated-photos-with-these-8-tools/"><u>In 2024, Create Stunning Animated Photos with These 8 Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-expert-approved-audio-editing-software-top-8-picks/"><u>In 2024, Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-lost-audio-output-in-non-responsive-os/"><u>Recover Lost Audio Output in Non-Responsive OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-windows-alt-key-problems/"><u>Strategies to Correct Windows ALT Key Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cutting-edge-editing-techniques-youtube-and-comparable-tools/"><u>[New] Cutting-Edge Editing Techniques YouTube & Comparable Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>[New] In 2024, Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-looms-labyrinth-navigating-screen-record-art-for-2024/"><u>[New] Loom's Labyrinth Navigating Screen Record Art for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pin-the-web-advanced-tips-for-video-orientation-in-youtube-for-2024/"><u>[New] Spin the Web Advanced Tips for Video Orientation in YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-illustrators-toolkit-making-text-pop-in-3d/"><u>[New] The Illustrator's Toolkit Making Text Pop in 3D</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-video-ranking-rise-must-have-youtube-seo-aids/"><u>[Updated] In 2024, Video Ranking Rise – Must-Have YouTube SEO Aids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>2024 Approved Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-online-video-making-with-wevideo/"><u>In 2024, Unleash Your Creativity Online Video Making with WeVideo</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animated-excellence-the-best-stop-motion-software-for-mac-and-pc/"><u>New Animated Excellence The Best Stop Motion Software for Mac and PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210000824-9781761034305-psychic-development/"><u>Psychic Development | Free Book</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-picks-best-split-screen-video-apps-for-iphone-and-android/"><u>S Top Picks Best Split-Screen Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-top-iphone-apps-reviewed/"><u>The Cream of the Crop Top iPhone Apps , Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-video-creation-tools-you-need-to-try/"><u>Top 3D Video Creation Tools You Need to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>Updated Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-editors-no-watermark-no-cost/"><u>Updated Free MOV Video Editors No Watermark, No Cost</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-for-pc-a-brief-review-for-2024/"><u>VN Video Editor For PC - A Brief Review for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

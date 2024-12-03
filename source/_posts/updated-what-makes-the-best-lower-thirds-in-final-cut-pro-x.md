@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-10-31T19:52:24.139Z
-updated: 2024-11-04T23:07:18.566Z
+date: 2024-11-29T18:48:50.401Z
+updated: 2024-12-03T00:48:04.493Z
 tags: 
   - video editing software
   - video editing
@@ -46,19 +46,6 @@ You can also observe this lower third module during an interview session on your
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
 
@@ -114,6 +101,10 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -123,10 +114,7 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -136,10 +124,7 @@ In the home screen, import the video that requires the edits and then tap the �
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
@@ -147,6 +132,10 @@ In the home screen, import the video that requires the edits and then tap the �
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
@@ -173,10 +162,7 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +188,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>[New] Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-budget-friendly-recorder-choices-for-youtube-vloggers-for-2024/"><u>[Updated] Budget-Friendly Recorder Choices for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-professional-editors-guide-fcps-top-10-plugins-for-2024/"><u>[Updated] Professional Editor’s Guide FCP's Top 10 Plugins for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>2024 Approved From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>AVS Video Editor 2023 A Comprehensive Review and Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads/"><u>Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-color-and-create-top-video-editing-software-for-vloggers-for-2024/"><u>Cut, Color, and Create Top Video Editing Software for Vloggers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-stable-star-wars-jedi-fallen-order-gaming-experience-on-your-computer/"><u>Effective Solutions for Stable Star Wars Jedi: Fallen Order Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-to-download-top-rated-3d-animation-apps-for-mobile-devices-for-2024/"><u>Free to Download Top-Rated 3D Animation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-amateur-to-pro-easy-tips-for-producing-high-quality-films/"><u>From Amateur to Pro Easy Tips for Producing High-Quality Films</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-syncing-audio-and-video-in-final-cut-pro-x-2024/"><u>From Clips to Masterpiece Syncing Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>In 2024, Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-what-to-do-when-your-windows-11-fails-to-shut-down/"><u>Solving the Problem: What to Do When Your Windows 11 Fails to Shut Down</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-walkthrough-timer-creation-in-obs-broadcasts/"><u>[New] 2024 Approved Detailed Walkthrough Timer Creation in OBS Broadcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-masterful-media-management-dynamic-video-scaling-on-mac/"><u>[New] In 2024, Masterful Media Management Dynamic Video Scaling on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>[New] The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-express-thumbnails-for-epic-battle-royale/"><u>[Updated] 2024 Approved Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-system-wizardry-executing-archiving-operations-through-cmd/"><u>File System Wizardry: Executing Archiving Operations Through CMD</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-stars-brief-moment-analysis/"><u>In 2024, Star's Brief Moment Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-useful-guide-to-speed-updown-videos-in-camtasia/"><u>New Useful Guide to Speed Up/Down Videos in Camtasia</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-video-editing-tutorial-mastering-the-basics/"><u>OS X Mavericks Video Editing Tutorial Mastering the Basics</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-you-captured-thats-why-/"><u>The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-iphone-video-rotation-software/"><u>Updated Discover the Best Free iPhone Video Rotation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-ultimate-video-editing-solution-for-windows-8-users/"><u>Updated Discover the Ultimate Video Editing Solution for Windows 8 Users</u></a></li>
 </ul></div>
 

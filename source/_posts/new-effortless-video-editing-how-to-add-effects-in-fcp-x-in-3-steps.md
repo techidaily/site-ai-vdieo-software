@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Editing How to Add Effects in FCP X in 3 Steps
-date: 2024-11-18T17:29:46.040Z
-updated: 2024-11-24T17:42:27.366Z
+date: 2024-11-28T05:05:25.807Z
+updated: 2024-12-03T10:35:53.967Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -54,20 +50,20 @@ Here is our clip - a fearsome polar bear.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -86,9 +82,17 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
@@ -100,19 +104,11 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -125,6 +121,10 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,24 +141,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>[New] In 2024, Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ptimizing-content-visibility-premier-tracking-applications-for-youtubers-for-2024/"><u>[New] Optimizing Content Visibility - Premier Tracking Applications for YouTubers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-lost-your-mac-login-credentials-a-step-by-step-guide-on-how-to-recover/"><u>1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-savvy-key-hashtags-to-utilize-today/"><u>2024 Approved Social Media Savvy Key Hashtags to Utilize Today</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitvid-mover-iphone-video-transfer-tool/"><u>2024 Approved TwitVid Mover IPhone Video Transfer Tool</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-best-top-11-animated-logo-makers-creative-logo-tips/"><u>In 2024, FREE Best Top 11 Animated Logo Makers Creative Logo Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-black-display-errors-on-magic-the-gathering-arena-game/"><u>In-Depth Analysis & Solutions for Black Display Errors on Magic: The Gathering Arena Game</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-rising-video-view-counts-for-2024/"><u>Mastering Instagram Rising Video View Counts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/movie-mastery-for-kids-learn-the-art-of-filmmaking/"><u>Movie Mastery for Kids Learn the Art of Filmmaking</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-free-security-camera-software/"><u>New 10 Best Free Security Camera Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-quicktime-video-editing-software-top-10-choices/"><u>New Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-remove-filmora-watermark-withwithout-paying/"><u>New How to Remove Filmora Watermark With/Without Paying?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-no-problem-7-best-video-merger-software/"><u>No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamlessly-upgrade-azw3-books-to-digital-readers-friendly-epub-format-without-drm-restrictions/"><u>Seamlessly Upgrade AZW3 Books to Digital Readers-Friendly ePub Format Without DRM Restrictions</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-7t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 7T Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone/"><u>Updated 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-this-article-introduces-a-stylish-and-versatile-mp4-editor-for-windows-8-that-enables-you-to-create-hollywood-like-home-movies-with-titles-effects-a/"><u>Updated This Article Introduces a Stylish and Versatile MP4 Editor for Windows 8 that Enables You to Create Hollywood-Like Home Movies with Titles, Effects and Transitions Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-podcast-apps-for-android/"><u>2024 Approved Best Podcast Apps for Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-revamp-your-google-group-chats-with-4-tips/"><u>2024 Approved Revamp Your Google Group Chats with 4 Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/connectivity-chronicles-facebooks-evolution-story-meta/"><u>Connectivity Chronicles: Facebook's Evolution Story, Meta</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-fast-internet-speeds-a-review-of-asuss-cutting-edge-tri-band-wireless-router-the-rt-be96u-with-enhanced-7-ghz-performance/"><u>Experience Ultra-Fast Internet Speeds: A Review of Asus's Cutting-Edge Tri-Band Wireless Router - The RT-BE96U with Enhanced 7 GHz Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-newest-ps-portable-official-release-timeline-pricing-info-features-and-retail-locations/"><u>Find the Newest PS Portable: Official Release Timeline, Pricing Info, Features, and Retail Locations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-5-best-free-video-rotation-apps-for-iphone-users/"><u>New 5 Best Free Video Rotation Apps for iPhone Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animate-online-with-ease-the-5-best-stop-motion-makers/"><u>New Animate Online with Ease The 5 Best Stop Motion Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-animations-5-best-online-stop-motion-makers/"><u>New Create Stunning Animations 5 Best Online Stop Motion Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-adobe-premiere-pro-cs6-for-mac-os-free-trial/"><u>New Download Adobe Premiere Pro CS6 for Mac OS - Free Trial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbrand-your-videos-remove-filmora-watermark-for-freepaid/"><u>Unbrand Your Videos Remove Filmora Watermark for Free/Paid</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-command-line-a-cross-platform-approach-for-windows-operating-systems/"><u>Unlocking the Power of Command Line: A Cross-Platform Approach for Windows Operating Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-combine-videos-online-without-spending-a-dime-top-5-tools/"><u>Updated Combine Videos Online Without Spending a Dime Top 5 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-engaging-content-10-leading-animated-text-generator-options/"><u>Updated Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-content-how-to-create-engaging-reaction-videos-with-filmora/"><u>Updated Elevate Your Content How to Create Engaging Reaction Videos with Filmora</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus Nord 3 5G | Dr.fone</u></a></li>
 </ul></div>
 

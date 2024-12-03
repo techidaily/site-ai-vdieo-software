@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2024-11-21T18:23:38.415Z
-updated: 2024-11-24T16:33:02.972Z
+date: 2024-11-26T20:29:16.535Z
+updated: 2024-12-03T12:17:52.399Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 If you didn’t find any hardware issues, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -56,10 +60,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -68,11 +68,15 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -82,7 +86,7 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
@@ -99,10 +103,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -133,19 +133,18 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files-for-2024/"><u>[New] Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-burn-video-to-dvd-on-mac-2-ways/"><u>2024 Approved Burn Video to DVD on Mac [2 Ways]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-explore-the-best-4k-capture-with-10-mirrorless-models/"><u>2024 Approved Explore the Best 4K Capture with 10 Mirrorless Models</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>2024 Approved The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>In 2024, Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/lego-stop-motion-artists-to-watch/"><u>Lego Stop Motion Artists to Watch</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/merge-avi-videos-like-a-pro-top-10-free-tools-and-software/"><u>Merge AVI Videos Like a Pro Top 10 Free Tools and Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/rotate-your-3gp-videos-for-free-top-5-tools-of-the-year/"><u>Rotate Your 3GP Videos for Free Top 5 Tools of the Year</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-the-garmin-forerunner-945-a-breakdown-of-features-in-a-gps-running-watch-review/"><u>Unveiling the Power of The Garmin Forerunner 945: A Breakdown of Features in a GPS Running Watch Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-editing-apps-with-soundtracks-for-mobile/"><u>Updated Top Video Editing Apps with Soundtracks for Mobile</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-mastery-perfecting-edits-on-published-videos-for-2024/"><u>YouTube Mastery Perfecting Edits on Published Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/zero-cost-video-editing-the-best-online-options/"><u>Zero-Cost Video Editing The Best Online Options</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-digital-renaissance-reinventing-traditional-vhs-visuals/"><u>[New] 2024 Approved Digital Renaissance Reinventing Traditional VHS Visuals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-8-techniques-for-grabbing-attention-in-yt-thumbnails/"><u>[New] In 2024, Top 8 Techniques for Grabbing Attention in YT Thumbnails</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-fix-guide-reviving-dead-or-slow-moving-airdrop-links/"><u>[New] Quick Fix Guide Reviving Dead or Slow-Moving Airdrop Links</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-buzz-creation-blueprint-for-marketing-success-for-2024/"><u>[New] The Buzz-Creation Blueprint for Marketing Success for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-live-demos-to-recordings-harness-ezvide-power/"><u>[Updated] From Live Demos to Recordings Harness EZvide Power</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-a-viral-hit-10-best-music-video-producers/"><u>New Create a Viral Hit 10 Best Music Video Producers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-vsdc-video-editor-alternatives-for-mac-computers/"><u>New Discover the Best VSDC Video Editor Alternatives for Mac Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>New Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/personalize-your-love-tips-and-tricks-for-making-a-unique-valentines-day-video/"><u>Personalize Your Love Tips and Tricks for Making a Unique Valentines Day Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>Unveiling Premium Displays The Ultimate Guide for Xbox S Series X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-3gp-video-rotators/"><u>Updated Top 5 Best Free 3GP Video Rotators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-essentials-freezing-frames-like-a-pro/"><u>Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windows-11-game-snapshots-top-5-capture-strategies/"><u>Windows 11 Game Snapshots Top 5 Capture Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2024-11-23T16:43:14.988Z
-updated: 2024-11-24T18:00:09.659Z
+date: 2024-11-26T22:49:29.986Z
+updated: 2024-12-03T12:36:36.279Z
 tags: 
   - video editing software
   - video editing
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. TiVo vs Comcast: Cost and rent versus own
 
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
@@ -48,23 +52,19 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  TiVo interface
 
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -88,15 +92,15 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -108,15 +112,15 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Summary**
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,19 +145,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-iconic-14-examples-of-animate-texts/"><u>[New] 2024 Approved Iconic 14 Examples of Animate Texts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-journey-through-japan-using-snapchats-anime-filters/"><u>[Updated] In 2024, A Journey Through Japan Using Snapchat’s Anime Filters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-analyzing-best-days-for-highest-audience-retention/"><u>2024 Approved Analyzing Best Days for Highest Audience Retention</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-non-sleepy-windows-11-system/"><u>Fixing Non-Sleepy Windows 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-updates-error-0x8024a205/"><u>How to Fix Windows Update's Error 0X8024a205</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-1n-sound-issues-complete-solution/"><u>How to Repair Windows 1N Sound Issues - Complete Solution</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-flip-a-clip-in-final-cut-pro-with-4-steps/"><u>In 2024, How to Flip a Clip in Final Cut Pro with 4 Steps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-secrets-to-earnings-on-youtube-shorts/"><u>In 2024, Unlocking the Secrets to Earnings on YouTube Shorts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/optimize-your-mac-a-step-by-step-guide-to-freeing-up-space-for-fcpx/"><u>Optimize Your Mac A Step-by-Step Guide to Freeing Up Space for FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-4k-video-editing-software-for-2024/"><u>Top 4K Video Editing Software for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unseen-blu-ray-player-in-win11-heres-the-fix/"><u>Unseen Blu-Ray Player in Win11? Here's the Fix</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-viewing-experience-top-rated-vr-video-conversion-software/"><u>Updated Elevate Your Viewing Experience Top-Rated VR Video Conversion Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/videopad-2023-review-a-top-notch-video-editing-solution-or-not/"><u>Videopad 2023 Review A Top-Notch Video Editing Solution or Not?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-complete-capture-master-az-reviews-and-backups/"><u>[New] In 2024, Complete Capture Master - AZ Reviews & Backups</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-snapchat-enhancing-images-and-videos/"><u>[New] Mastering Snapchat Enhancing Images & Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tweaking-video-rhythms-on-youtube-desktopmobile/"><u>[Updated] 2024 Approved Tweaking Video Rhythms on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-complete-guide-of-top-video-language-translators/"><u>In 2024, Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-video-editing-apps-for-creating-mind-bending-glitch-art-on-mobile/"><u>New 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-enabling-print-service-after-error-displayed-on-pc/"><u>Re-Enabling Print Service After Error Displayed on PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-you-how-to-do-freeze-frames-and-slow-motion-in-final-cut-pro-x/"><u>This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-beginners-guide-to-adding-titles-captions-and-subtitles-in-fcpx/"><u>Updated A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-8s-proplus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 8S Pro+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-live-movie-maker-tutorial-splitting-videos-like-a-pro/"><u>Windows Live Movie Maker Tutorial Splitting Videos Like a Pro</u></a></li>
 </ul></div>
 

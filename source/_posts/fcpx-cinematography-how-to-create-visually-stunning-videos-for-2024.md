@@ -1,7 +1,7 @@
 ---
 title: FCPX Cinematography How to Create Visually Stunning Videos for 2024
-date: 2024-08-09T08:18:52.641Z
-updated: 2024-08-10T08:18:52.641Z
+date: 2024-12-01T16:02:51.921Z
+updated: 2024-12-02T21:07:52.642Z
 tags: 
   - video editing software
   - video editing
@@ -36,8 +36,9 @@ No worries, this article explains why there are differences between self-made vi
 > * [Part 4: How to Add Cinematic Look to Your Footage in easy ways?](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: Difference between a Cinematic Look and a Normal Video?**
 
 The term cinematic is often referred to the black bars or wide-screen frame ratios. Photographers and filmmakers use the term cinematic to describe the look of movies and pictures shot on film.
@@ -62,6 +63,10 @@ To achieve ideal cinematic aesthetics, you need high-quality 4K resolution video
 
 ![frame-rate](https://images.wondershare.com/filmora/images/final-cut-pro/frame-rate.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Color Grading and Color Correction**
 
 After importing your footage, get ready for color corrections to address issues like conversions for LOG formats through white balance adjustments. Color corrections normalize the color of HD videos into a standard format. Here’s how you can do this:
@@ -69,10 +74,11 @@ After importing your footage, get ready for color corrections to address issues 
 1. Go to the Inspector Panel and select the Extended Function
 2. Select the C-Log 2 conversion LUT
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color-grading](https://images.wondershare.com/filmora/images/final-cut-pro/color-grading.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Make minor exposure and white balance adjustments as per your scope
 2. Select the Color Wheels and Color Mask features to custom select specific areas and colors
@@ -89,6 +95,10 @@ Final Cut Pro X allows its users to make both constant and variable speed change
 
 ![slow-motion](https://images.wondershare.com/filmora/images/final-cut-pro/slow-motion.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You will see multiple options to slow down the speed of your clip
 * The smaller number will slow down your footage
 * To apply custom retiming amounts, again click on the Retiming button and select the Custom option
@@ -104,9 +114,6 @@ Film grain overlays give your videos vintage and cinematic look. Follow these st
 3. Select the clip and go to the FCPX blend mode dropdown menu located on the top-right of your screen
 4. Click on the Overlay and adjust the opacity of the film grain overlay as required.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![filmgrain](https://images.wondershare.com/filmora/images/final-cut-pro/filmgrain.png)
 
 ## **Part 3: What Other Factors Contribute to Film-Look Videos**
@@ -129,9 +136,6 @@ Cinematic clips without background music seem to be unexciting and boring. Addin
 
 Adding subtitles to your videos can make them understandable for viewers who speak a different language. Click on Text/Credit in Filmora and select Subtitles to add subtitles to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 4: How to Add Cinematic Look to Your Footage in Easy Ways**
 
 Filmora is an advanced video editing tool developed by Wondershare. Its user-friendly and easy-to-understand interface makes it popular among beginners as well as professionals. And the best thing about Filmora is that the editor provides rich options of presets, effects, and filters to add a film look to your video.
@@ -142,10 +146,11 @@ Here’s how you can add a cinematic look to your footage with Filmora.
 
 2, search for “cinematic” or “film”
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/images/final-cut-pro/filmora.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3, drag the effect you like to the timeline
 
@@ -153,9 +158,6 @@ Here’s how you can add a cinematic look to your footage with Filmora.
 
 Simple steps, right? For more stunning effects and film-look packages, try [filmstock](https://tools.techidaily.com/wondershare/filmora/download/)!
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmstock](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock2.png)
 
  **Conclusion**
@@ -174,12 +176,29 @@ Caroline Laurent is a writer and a lover of all things video.
 
 Follow @Caroline Laurent
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-puzzles-await-in-leading-room-escape-experiences/"><u>[New] Innovative Puzzles Await in Leading Room Escape Experiences</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-best-online-stop-motion-makers-for-2024/"><u>5 Best Online Stop Motion Makers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-fantastic-free-video-watermark-removers-and-adders/"><u>5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beginner-friendly-video-editing-apps-no-cost-no-hassle-for-2024/"><u>Beginner-Friendly Video Editing Apps No Cost, No Hassle for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-green-screen-software-for-mac-for-2024/"><u>Best Green Screen Software for Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-q/"><u>Break Free From Q</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delay-in-sending-imessages-yesterday-explained-expert-analysis/"><u>Delay in Sending iMessages Yesterday Explained - Expert Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-green-screen-fun-top-10-mobile-apps-for-creative-video-editing-for-2024/"><u>Free Green Screen Fun Top 10 Mobile Apps for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-silence-to-symphony-adding-music-and-voices-in-reels/"><u>In 2024, From Silence to Symphony Adding Music & Voices in Reels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-6-pro-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 6 Pro Tactical Edition Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps/"><u>In 2024, Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/measuring-64gbs-video-holding-ability/"><u>Measuring 64Gb's Video Holding Ability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-the-hiccups-a-comprehensive-guide-to-call-of-duty-modern-warfare-3-stutter-issues-and-optimization-tips/"><u>Navigating Through the Hiccups: A Comprehensive Guide to Call of Duty Modern Warfare 3 Stutter Issues and Optimization Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-potential-setting-up-the-jdk-in-windows-11-efficiently/"><u>Unlocking Potential: Setting Up the JDK in Windows 11 Efficiently</u></a></li>
+</ul></div>
 

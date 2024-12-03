@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Subtitle Tutorial How to Add Captions Like a Pro
-date: 2024-10-29T22:22:06.749Z
-updated: 2024-11-04T23:27:00.309Z
+date: 2024-11-29T06:04:49.376Z
+updated: 2024-12-02T16:45:34.289Z
 tags: 
   - video editing software
   - video editing
@@ -51,10 +51,7 @@ It is a standard caption format for web videos and broadcasts.
 It is a simple and popular format used in online videos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Add Subtitles or Captions in FCPX
@@ -86,17 +83,7 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
@@ -115,6 +102,10 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -129,6 +120,10 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * **Use the keyboard shortcut keys**
@@ -138,10 +133,7 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,22 +157,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-legal-tips-and-tricks-for-custom-watermarking-in-instagram/"><u>[New] 2024 Approved Legal Tips and Tricks for Custom Watermarking in Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fix-for-freezing-photo-booth-videos-that-disrupt-usage/"><u>2024 Approved Fix for Freezing Photo Booth Videos That Disrupt Usage</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-cluttered-to-cleared-a-beginners-guide-to-freeing-up-space-for-fcpx/"><u>2024 Approved From Cluttered to Cleared A Beginners Guide to Freeing Up Space for FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>2024 Approved Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-cartoon-animation-software-for-android-and-ios/"><u>Best Cartoon Animation Software for Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-vignette-apps-for-ios-and-android-free-and-paid-for-2024/"><u>Best Vignette Apps for iOS and Android Free & Paid for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Google Pixel 8</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fantastic-the-top-mov-movie-editing-software-for-2024/"><u>Free and Fantastic The Top MOV Movie Editing Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-editing-10-best-trimming-tools-and-software/"><u>Free Online Video Editing 10 Best Trimming Tools and Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-novice-to-pro-top-animation-tools-for-every-level-of-expertise/"><u>From Novice to Pro Top Animation Tools for Every Level of Expertise</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-instagram-stop-motion-a-comprehensive-tutorial/"><u>Get Creative with Instagram Stop Motion A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>In 2024, Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1598527-9781782794486-shamanism-for-teenagers-young-adults-and-the-young-at-heart/"><u>Shamanism for Teenagers, Young Adults and The Young At Heart | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-message-problems-with-these-10-tips/"><u>Troubleshoot Your iPhone's Message Problems With These 10 Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-performance-of-google-nest-wi-fis-seamless-networking-technology/"><u>Unveiling the Performance of Google Nest Wi-Fi's Seamless Networking Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-sail-the-seas-with-these-superior-underwater-recorders/"><u>[New] 2024 Approved Sail the Seas with These Superior Underwater Recorders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-unpacked-dedicated-to-video-showcase-and-sharing/"><u>[New] Vimeo Unpacked Dedicated to Video Showcase and Sharing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-effortless-background-management-for-cohesive-remote-collaborations/"><u>[Updated] In 2024, Effortless Background Management for Cohesive Remote Collaborations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-innovative-igtv-thumbnail-upgrades-guide/"><u>[Updated] In 2024, Innovative IGTV Thumbnail Upgrades Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>2024 Approved Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonizing-music-migration-from-one-service-to-another/"><u>Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-xr-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone XR</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-best-free-webm-video-editors/"><u>In 2024, Top 10 Best Free WebM Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/join-mpeg-videos-for-free-top-5-solutions/"><u>Join MPEG Videos for Free Top 5 Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-crash-fix-expert-solutions-for-a-smooth-editing-experience/"><u>New FCPX Crash Fix Expert Solutions for a Smooth Editing Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-audio-recording-software-in-depth-reviews-for-2024/"><u>The Best Free Audio Recording Software In-Depth Reviews for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-social-media-platforms-hangs-in-balance/"><u>The Future of Social Media Platforms Hangs in Balance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters/"><u>Unleash the Power of Visual Storytelling 10 Best Image to Video Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-split-screen-video-apps-for-ios-and-android/"><u>Updated Best Split Screen Video Apps for iOS And Android</u></a></li>
 </ul></div>
 

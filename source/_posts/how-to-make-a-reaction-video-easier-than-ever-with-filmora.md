@@ -1,7 +1,7 @@
 ---
 title: How to Make a Reaction Video Easier Than Ever With Filmora
-date: 2024-08-02T07:14:06.176Z
-updated: 2024-08-03T07:14:06.176Z
+date: 2024-11-29T07:46:23.167Z
+updated: 2024-12-03T10:30:46.095Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -58,9 +55,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
@@ -73,23 +67,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
@@ -100,9 +85,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -113,11 +95,37 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/apture-chill-vibes-top-winter-bg-ideas-for-yt-for-2024/"><u>[New] Capture Chill Vibes Top Winter Bg Ideas for YT for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-inside-the-scoring-of-toolwizs-photography-software/"><u>[New] In 2024, Inside the Scoring of Toolwiz's Photography Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/boost-site-traffic-with-cookiebot-integration-strategies/"><u>Boost Site Traffic with Cookiebot Integration Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-find-the-perfect-green-screen-software-for-your-mac-workflow/"><u>In 2024, Find the Perfect Green Screen Software for Your Mac Workflow</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premium-audio-capabilities-1-10-free-desktop-tools/"><u>In 2024, Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-8s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 8s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-software-for-beginners-2022-top-list/"><u>New Best Video Editing Software for Beginners 2022 Top List</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-recording-to-editing-the-best-reaction-video-apps-for-mobile/"><u>New From Recording to Editing The Best Reaction Video Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-mastering-xml-files-in-fcpx/"><u>New From Zero to Hero Mastering XML Files in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-premiere-pro-system-requirement-how-to-set-up-computers/"><u>New Premiere Pro System Requirement How to Set up Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-watermark-video-merger-software-top-7-picks/"><u>No-Watermark Video Merger Software Top 7 Picks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quickstart-guide-making-videography-easier-with-pixiz-for-2024/"><u>Quickstart Guide Making Videography Easier with Pixiz for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-techniques-for-optimal-steam-gameplay-capture/"><u>Top Techniques for Optimal Steam Gameplay Capture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-vr-converting-videos-made-easy/"><u>Updated Discover the Power of VR Converting Videos Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-dailymotion-downloader-and-converter/"><u>Updated Free Online Dailymotion Downloader and Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-compatible-options-to-replace-sony-vegas-pro/"><u>Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

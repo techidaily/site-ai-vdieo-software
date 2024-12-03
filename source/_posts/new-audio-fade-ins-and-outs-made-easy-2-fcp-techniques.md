@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-11-18T16:48:24.081Z
-updated: 2024-11-24T18:27:48.241Z
+date: 2024-11-26T23:21:05.538Z
+updated: 2024-12-02T23:47:00.656Z
 tags: 
   - video editing software
   - video editing
@@ -45,7 +45,7 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Fade Audio by using the Modify Menu
@@ -56,25 +56,29 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +97,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -115,10 +119,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -134,24 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-elusive-recorder-ghostcam-unveiled-for-2024/"><u>[New] The Elusive Recorder Ghostcam Unveiled for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-lagless-warzone-20-gaming-in-202amo-your-ultimate-fix-it-checklist/"><u>Achieve Lagless Warzone 2.0 Gaming in 202Amo - Your Ultimate Fix-It Checklist</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-poco-c65-screen-sharing-drfone-by-drfone-android/"><u>How To Do Poco C65 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mpeg-video-assembly-top-rated-programs/"><u>In 2024, Free MPEG Video Assembly Top Rated Programs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>In 2024, Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-steps-to-permanently-delete-your-instagram-profile-the-complete-guide/"><u>In 2024, Steps to Permanently Delete Your Instagram Profile The Complete Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-ai-development-sparks-progress-in-autonomous-vehicle-technology-insights-from-zdnet/"><u>Innovative AI Development Sparks Progress in Autonomous Vehicle Technology - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-learn/"><u>Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/anding-films-not-on-mainstream-lists-for-2024/"><u>Outstanding Films Not on Mainstream Lists for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-15-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 15 Pro Max You Should Try Out</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-10-4k-video-conversion-tools/"><u>The Best of the Best Top 10 4K Video Conversion Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-avi-video-editors-for-cutting-and-trimming-multi-platform-support/"><u>Top-Rated AVI Video Editors for Cutting and Trimming Multi-Platform Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-livestreams-with-manycam-the-ultimate-solution-for-online-video-production-and-virtual-camera-technology/"><u>Transform Your Livestreams with ManyCam - The Ultimate Solution for Online Video Production and Virtual Camera Technology</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-2023-a-step-by-step-guide-to-video-import-and-export/"><u>Updated Adobe Premiere Pro 2023 A Step-by-Step Guide to Video Import and Export</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-pinnacle-studio-here-are-the-best-mac-video-editing-alternatives/"><u>Updated Ditch Pinnacle Studio? Here Are the Best Mac Video Editing Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-avi-editing-a-step-by-step-guide-to-splitting-and-trimming/"><u>Updated Effortless AVI Editing A Step-by-Step Guide to Splitting and Trimming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ternal-banishment-of-youtubes-quick-clips-for-2024/"><u>[New] Eternal Banishment of YouTube's Quick Clips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-maximizing-performance-optimize-mov-files-in-win-11/"><u>[Updated] 2024 Approved Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-surge-your-viewer-numbers-a-comprehensive-guide-to-youtube-growth/"><u>[Updated] Surge Your Viewer Numbers A Comprehensive Guide to YouTube Growth</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/asus-rocks-amry-zen-powered-compact-pc-deskmini-x600-series-international-release-date-may-24/"><u>ASUS ROCK'S AMRY ZEN Powered Compact PC, DeskMini X600 Series: International Release Date - May 24</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>In 2024, Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/jaycut-crash-course-master-free-online-video-editing-in-no-time/"><u>Jaycut Crash Course Master Free Online Video Editing in No Time</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-tools-for-mp4-files-updated-2023/"><u>New Best Free Video Cutting Tools for MP4 Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>New Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ering-visibility-on-youtube-through-proven-methods/"><u>Pioneering Visibility on YouTube Through Proven Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-mighty-glow-a-detailed-review-on-ankers-super-bright-reliable-tactical-torch-for-extreme-conditions/"><u>Unveiling the Mighty Glow: A Detailed Review on Anker's Super Bright, Reliable Tactical Torch for Extreme Conditions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-gopro-videos-on-mac-best-practices-and-software/"><u>Updated Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
-date: 2024-08-02T07:12:32.413Z
-updated: 2024-08-03T07:12:32.413Z
+date: 2024-11-26T08:39:05.588Z
+updated: 2024-12-03T02:54:14.193Z
 tags: 
   - video editing software
   - video editing
@@ -29,18 +29,12 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -50,17 +44,15 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
 
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -69,9 +61,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -80,14 +69,19 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -103,6 +97,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -117,13 +115,15 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +131,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gameglasses-glimpse-guide/"><u>[New] 2024 Approved GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide/"><u>[New] In 2024, Unleashing Creativity in TikTok Intros Your Ultimate MacGuide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-content-in-the-digital-age-top-strategies/"><u>[Updated] 2024 Approved Capturing Content in the Digital Age Top Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-3d-animation-with-elite-design-applications/"><u>2024 Approved Mastering the Art of 3D Animation with Elite Design Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-garmin-venu-the-go-to-device-for-round-the-clock-activity-monitoring/"><u>Comprehensive Guide to Garmin Venu: The Go-To Device for Round-the-Clock Activity Monitoring</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-anime-ideas-dominating-social-media-screens/"><u>Cutting-Edge Anime Ideas Dominating Social Media Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-hp-accelerometer-issue-in-windows/"><u>How to Fix HP Accelerometer Issue in Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>In 2024, Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-zte-blade-a73-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from ZTE Blade A73 5G Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-animation-tools-for-engaging-classroom-learning/"><u>In 2024, Top 10 Animation Tools for Engaging Classroom Learning</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-low-volume-transitions-within-fl-studio-for-2024/"><u>Mastering Low-Volume Transitions Within FL Studio for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>New Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-hack-skip-reddit-and-get-filmora-deals-here/"><u>The Ultimate Hack Skip Reddit and Get Filmora Deals Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1723262384532-transform-your-tunes-with-our-newly-launched-open-source-tulip-creative-pc-running-micropython-all-for-only-59-dollars/"><u>Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-video-editing-how-to-crop-and-resize-your-footage/"><u>Updated Avidemux Video Editing How to Crop and Resize Your Footage</u></a></li>
+</ul></div>
+

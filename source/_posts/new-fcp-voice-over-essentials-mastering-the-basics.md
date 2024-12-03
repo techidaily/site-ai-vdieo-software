@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2024-11-22T17:54:57.549Z
-updated: 2024-11-24T17:24:06.478Z
+date: 2024-11-30T11:53:52.774Z
+updated: 2024-12-03T05:24:34.947Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ If you are new to the world of editing and find Final Cut Pro little difficult t
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Voice Over with Final Cut Pro
@@ -51,10 +51,6 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -81,16 +77,12 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -110,6 +102,10 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
 * Now as you want to finalize your decision so choose your clip then go to auditions and then press Finalize Audition.
 
@@ -119,11 +115,11 @@ It is also possible to extract desired recordings from auditions; for example if
 
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -136,6 +132,10 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -152,18 +152,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y100a-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y100A</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ensuring-compliance-with-fb-messenger-call-records-for-2024/"><u>Ensuring Compliance with FB Messenger Call Records for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-guide-to-downloading-and-installing-new-drivers-for-canon-mx490-printers-windows/"><u>Essential Guide to Downloading & Installing New Drivers for Canon MX490 Printers (Windows)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-find-x6-pro-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X6 Pro Easily?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-a2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi A2 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Honor 100 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/merging-fortnite-usernames-for-a-streamlined-gaming-experience/"><u>Merging Fortnite Usernames for a Streamlined Gaming Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-adding-titles-captions-and-subtitles-in-fcpx/"><u>New A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-face-creation-tools-online/"><u>Top-Rated Free Face Creation Tools Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-spinner-top-10-tools-to-rotate-and-flip-videos/"><u>Updated Free Video Spinner Top 10 Tools to Rotate and Flip Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-animated-top-10-software-for-2d-animation-enthusiasts/"><u>Updated Get Animated Top 10 Software for 2D Animation Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-and-your-hp-laptop-how-to-fix-the-sudden-loss-of-sound-output/"><u>Windows 10 and Your HP Laptop - How to Fix the Sudden Loss of Sound Output</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-youtube-on-fb-maximizing-auto-play-efficiency/"><u>[New] 2024 Approved YouTube on FB Maximizing Auto-Play Efficiency</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-five-tips-for-writing-dialogue-and-narrative-scripts/"><u>[Updated] In 2024, Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-view-count-value-how-much-does-1-million-matter/"><u>[Updated] In 2024, View Count Value How Much Does 1 Million Matter?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-trendsetting-techniques-going-viral-in-the-digital-world-for-2024/"><u>[Updated] Trendsetting Techniques Going Viral in the Digital World for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-videographers-packing-essentials-kit/"><u>2024 Approved The Videographer's Packing Essentials Kit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-download-final-cut-pro-for-free-for-2024/"><u>How to Download Final Cut Pro for Free for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro/"><u>In 2024, From Slow to Fast How to Create Time Lapses in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-instagram-stop-motion-a-comprehensive-tutorial/"><u>In 2024, Get Creative with Instagram Stop Motion A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y56 5G?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-5-best-free-flv-video-editors/"><u>In 2024, Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/ios-mastery-effortlessly-extracting-youtube-videos-for-2024/"><u>IOS Mastery Effortlessly Extracting Youtube Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-fcp-a-beginners-guide-to-saving-and-exporting-projects/"><u>Mastering FCP A Beginners Guide to Saving and Exporting Projects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-video-trimming-10-best-online-editors-reviewed/"><u>No-Cost Video Trimming 10 Best Online Editors Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-your-videos-with-ease-top-5-free-mpeg-splitters/"><u>Split Your Videos with Ease Top 5 Free MPEG Splitters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-video-submissions-adding-imovie-content-to-vimeo-for-2024/"><u>Streamline Your Video Submissions Adding iMovie Content to Vimeo for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-6-video-dubbing-tools-for-pc-free-download-options/"><u>Top 6 Video Dubbing Tools for PC Free Download Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-mov-video-rotators-for-windowsmac/"><u>Top-Rated Free MOV Video Rotators for Windows/Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-free-green-screen-apps-for-mobile/"><u>Unleash Your Creativity Best Free Green Screen Apps for Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/wolfenstein-ii-stealth-assassin-addressing-crash-dump-writing-challenges/"><u>Wolfenstein II: Stealth Assassin - Addressing Crash Dump Writing Challenges</u></a></li>
 </ul></div>
 

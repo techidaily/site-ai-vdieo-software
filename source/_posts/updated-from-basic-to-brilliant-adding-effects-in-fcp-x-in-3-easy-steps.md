@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-11-17T16:25:52.341Z
-updated: 2024-11-24T17:37:31.165Z
+date: 2024-11-29T17:51:32.477Z
+updated: 2024-12-02T22:14:37.540Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -52,10 +48,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To apply an effect, first select the clip in the Timeline.
 
@@ -70,7 +62,7 @@ The Browser, like all the effects browsers, lists categories of effects on the l
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -90,15 +82,27 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -107,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -121,10 +125,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,22 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-expert-advice-perfected-media-import-techniques-for-windows-10-for-2024/"><u>[New] Expert Advice Perfected Media Import Techniques for Windows 10 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-affordable-webinar-tools-for-efficient-recording/"><u>[New] In 2024, Affordable Webinar Tools for Efficient Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-examining-splitcams-video-quality-against-competitors/"><u>[New] In 2024, Examining SplitCam's Video Quality Against Competitors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickscreencapture-simple-windows-10-app/"><u>[New] In 2024, QuickScreenCapture Simple Windows 10 App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/299-lenovo-ideapad-the-ultimate-guide-for-cost-conscious-buyers-expert-advice/"><u>$299 Lenovo IdeaPad: The Ultimate Guide for Cost-Conscious Buyers - Expert Advice</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-enhancement-installing-gaming-launchers-for-playstation-pcs/"><u>Effortless Enhancement: Installing Gaming Launchers for PlayStation PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-selecting-an-optimal-gaming-machine/"><u>Essential Criteria for Selecting an Optimal Gaming Machine</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-editor-reviews-top-5-picks/"><u>In 2024, Free AVI Video Editor Reviews Top 5 Picks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>In 2024, The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-videos-without-spending-a-dime-top-free-online-editors/"><u>New Create Stunning Videos Without Spending a Dime Top Free Online Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-watermark-editor-top-rated-options/"><u>New Free Video Watermark Editor Top Rated Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/stop-looking-for-filmora-coupon-code-on-reddit-check-here/"><u>Stop Looking for Filmora Coupon Code on Reddit - Check Here</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files/"><u>Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-animate-your-memories-best-tools-for-easy-photo-animation/"><u>Updated Animate Your Memories Best Tools for Easy Photo Animation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-transform-pictures-into-cartoons-online/"><u>Updated Transform Pictures Into Cartoons Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-screen-capturing-solutions-for-igadgets/"><u>[New] Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-selection-of-premier-verizon-phone-deals-for-current-customers/"><u>Exclusive Selection of Premier Verizon Phone Deals for Current Customers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-keeping-track-of-itunes-audio-visual-files/"><u>In 2024, Keeping Track of iTunes Audio-Visual Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-neon-effects-online-8-simple-and-free-tools-to-get-you-started/"><u>New Create Neon Effects Online 8 Simple and Free Tools to Get You Started</u></a></li>
+<li><a href="https://win11.techidaily.com/playnite-enhancement-embracing-emulated-titles/"><u>Playnite Enhancement: Embracing Emulated Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-macos-mp4-video-problems-and-overcome-the-error-message-that-stops-playback/"><u>Troubleshoot macOS MP4 Video Problems and Overcome the Error Message that Stops Playback</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts/"><u>Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-slow-mo-video-editors-for-stunning-visuals/"><u>Updated Best Slow-Mo Video Editors for Stunning Visuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>Updated Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-video-speed-a-step-by-step-camtasia-tutorial/"><u>Updated Mastering Video Speed A Step-by-Step Camtasia Tutorial</u></a></li>
 </ul></div>
 

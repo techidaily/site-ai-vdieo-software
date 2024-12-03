@@ -1,7 +1,7 @@
 ---
 title: Video Editing on Mac OS X Mavericks A Beginners Guide
-date: 2024-11-23T18:02:15.802Z
-updated: 2024-11-24T16:23:11.727Z
+date: 2024-11-29T09:00:25.354Z
+updated: 2024-12-02T23:42:57.502Z
 tags: 
   - video editing software
   - video editing
@@ -28,6 +28,10 @@ As Mac OS X 10.14.3 Mavericks will become a popular and household operating syst
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit Videos in OS X Mavericks
 
 #### 1 Download this Video Editor for Mavericks and add files
@@ -37,7 +41,7 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2 Edit videos in OS X Mavericks
@@ -48,15 +52,15 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
 
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3 Save the edited videos
 
@@ -65,7 +69,7 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now download this video resizer for Mavericks and explore more video editing functions!
@@ -73,14 +77,10 @@ Now download this video resizer for Mavericks and explore more video editing fun
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -97,20 +97,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>[New] 2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-simplifying-the-process-how-to-guide-for-booking-meets/"><u>[New] Simplifying the Process How-To Guide for Booking Meets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid/"><u>[Updated] In 2024, Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c67-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C67 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/guia-para-transferir-archivos-fotograficos-clandestinos-desde-el-iphone-hacia-tu-pc-tres-formas-faciles-de-seguir/"><u>Guía Para Transferir Archivos Fotográficos Clandestinos Desde El iPhone Hacia Tu PC: Tres Formas Fáciles De Seguir</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-note-13-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi Note 13 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-free-adobe-premiere-pro-cs6-download-updated-2023/"><u>Mac Users Rejoice Free Adobe Premiere Pro CS6 Download (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-installing-videoleap-on-macbook/"><u>New A Beginners Guide to Installing Videoleap on MacBook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-merger-software-without-watermarks/"><u>New Best Free Video Merger Software Without Watermarks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nextgen-codec-battle-is-av1-trumping-vp9-quality-for-2024/"><u>NextGen Codec Battle Is AV1 Trumping VP9 Quality for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/secure-deletion-guide-top-advice-and-writings-from-stellar/"><u>Secure Deletion Guide: Top Advice and Writings From Stellar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-restful-nights-in-depth-analysis-of-ihome-zenergy-bedside-machine/"><u>Unveiling the Power of Restful Nights: In-Depth Analysis of IHome Zenergy Bedside Machine</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-instantly-10-top-free-online-tools/"><u>Updated Compress Videos Instantly 10 Top Free Online Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-video-editors-that-rival-imovie-2023-edition/"><u>Updated Free Online Video Editors That Rival iMovie (2023 Edition)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-practices-for-archiving-youtube-livestream-content-for-2024/"><u>[New] Best Practices for Archiving Youtube Livestream Content for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-innovating-human-interface-a-guide-to-hand-perception/"><u>[New] Innovating Human Interface A Guide to Hand Perception</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-smoothly-record-your-desktop-on-win11-for-2024/"><u>[New] Smoothly Record Your Desktop on Win11 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-thorough-examination-of-gecata-recorder/"><u>[Updated] In 2024, Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-ethical-way-to-grow-your-fan-base-effectively/"><u>[Updated] The Ethical Way to Grow Your Fan Base Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dayz-performance-optimization-effortless-ways-to-eliminate-fps-declines/"><u>DayZ Performance Optimization: Effortless Ways to Eliminate FPS Declines</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-animated-top-free-software-for-windows-mac-and-beyond/"><u>In 2024, Get Animated Top Free Software for Windows, Mac, and Beyond</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-virtual-conversations-a-google-meet-handbook-for-2024/"><u>Navigating Virtual Conversations A Google Meet Handbook for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-production-on-mac-with-adobe-premiere-pro/"><u>New Elevate Your Video Production on Mac with Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-split-screen-video-editing-software-free-online-and-offline-solutions/"><u>New Split Screen Video Editing Software Free Online and Offline Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-cropping-images-in-final-cut-pro-x/"><u>The Ultimate Guide to Cropping Images in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts-for-2024/"><u>Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-easy-to-use/"><u>Updated 6 Essential Video Dubbing Tools for PC Users (Free and Easy to Use)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-4-in-chatgpt-conversations-today/"><u>Utilizing GPT-4 in ChatGPT Conversations Today</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
 </ul></div>
 

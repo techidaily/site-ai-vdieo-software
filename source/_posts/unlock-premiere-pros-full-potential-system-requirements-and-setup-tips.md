@@ -1,7 +1,7 @@
 ---
 title: Unlock Premiere Pros Full Potential System Requirements and Setup Tips
-date: 2024-11-17T16:45:13.039Z
-updated: 2024-11-24T16:16:40.716Z
+date: 2024-11-27T16:39:11.868Z
+updated: 2024-12-03T03:46:46.190Z
 tags: 
   - video editing software
   - video editing
@@ -46,10 +46,6 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -60,7 +56,7 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
@@ -68,6 +64,10 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -102,16 +102,12 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -126,7 +122,7 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -143,6 +139,10 @@ If your computer failed to meet the requirement to run Premiere Pro, you may nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -158,19 +158,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-getting-started-with-seamless-sound-transitions/"><u>[New] 2024 Approved Getting Started with Seamless Sound Transitions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets-for-2024/"><u>[New] A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>[Updated] From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-solutions-made-simple-using-ez-grabber-for-2024/"><u>[Updated] Innovative Solutions Made Simple Using EZ Grabber for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-mkv-watcher-for-laptops/"><u>[Updated] Optimal MKV Watcher for Laptops</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-lag-free-gaming-on-pc-essential-fixes-and-optimization-tactics/"><u>Mastering Lag-Free Gaming on PC : Essential Fixes & Optimization Tactics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-electronic-markets-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating Electronic Markets: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/phone-lens-magic-creating-high-horizons-for-2024/"><u>Phone Lens Magic Creating High Horizons for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-coupon-guide-4-easy-ways-to-redeem-exclusive-offers/"><u>Updated Filmora Coupon Guide 4 Easy Ways to Redeem Exclusive Offers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-flv-video-editing-on-a-shoestring-best-free-options/"><u>Updated FLV Video Editing on a Shoestring Best Free Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-10-free-fcpx-plugins-for-editors/"><u>Updated From Zero to Hero 10 Free FCPX Plugins for Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-make-a-time-lapse-video-in-final-cut-pro/"><u>Updated How to Make a Time Lapse Video in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors-for-2024/"><u>[New] Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-collaborate-for-success-video-strategies/"><u>[New] In 2024, Collaborate for Success Video Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-writers-guide-embedding-images-in-articles-without-spending/"><u>[Updated] In 2024, Writers' Guide Embedding Images in Articles Without Spending</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-streamline-your-video-livestreaming-vlc-strategies/"><u>[Updated] Streamline Your Video Livestreaming VLC Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/aether-what-it-is-and-how-to-join-it/"><u>Aether: What It Is and How to Join It</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-60x-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme Narzo 60x 5G FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nine-quick-fixes-for-facebook-live-problems/"><u>In 2024, Nine Quick Fixes for Facebook Live Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-12r-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/major-update-alert-filmora-x-now-optimized-for-arm-processors/"><u>Major Update Alert Filmora X Now Optimized for ARM Processors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-home-security-camera-apps-expert-reviews/"><u>New Best Free Home Security Camera Apps Expert Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-audio-editing-made-easy-top-software-picks/"><u>Professional Audio Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free/"><u>Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-mov-video-trimmers-for-easy-editing/"><u>Updated Best Free MOV Video Trimmers for Easy Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-4k-video-samples-you-cant-miss/"><u>Updated Top 10 4K Video Samples You Cant Miss</u></a></li>
 </ul></div>
 
