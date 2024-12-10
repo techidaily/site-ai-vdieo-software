@@ -1,7 +1,7 @@
 ---
 title: Make a Heartfelt Video Montage with Pictures and Songs
-date: 2024-11-28T10:11:15.501Z
-updated: 2024-12-03T05:45:45.444Z
+date: 2024-12-04T21:40:26.558Z
+updated: 2024-12-10T01:59:36.575Z
 tags: 
   - video editing software
   - video editing
@@ -38,7 +38,7 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 1\. Import media files
@@ -51,6 +51,10 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
@@ -59,10 +63,6 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Apply title and effects
 
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
@@ -70,7 +70,7 @@ If you want to express your feelings or explain something in the slideshow, you 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Select music
@@ -85,6 +85,10 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to look for when choosing a good slideshow maker?
 
 Get a smart video slideshow maker to edit and create your own video, you need take those things into consideration:
@@ -96,7 +100,7 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -115,10 +119,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -136,21 +136,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-using-obs-for-gamers/"><u>[New] 2024 Approved The Ultimate Guide to Using OBS for Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-to-access-apples-podcast-library/"><u>[New] Innovative Methods to Access Apple's Podcast Library</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-authentic-audience-boosting-legal-practices-that-work/"><u>2024 Approved Authentic Audience Boosting Legal Practices That Work</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-high-cpu-utilization-by-tiworkerexe-programs/"><u>Curbing High CPU Utilization by TiWorker.exe Programs</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gaming-guilds-winners-wealds/"><u>Elite Gaming Guilds: Winner’s Wealds</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-imovie-to-hollywood-mastering-movie-making-on-mac/"><u>In 2024, From iMovie to Hollywood Mastering Movie Making on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-editing-a-step-by-step-guide-to-windows-movie-maker/"><u>Mastering Video Editing A Step-by-Step Guide to Windows Movie Maker</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-efficiency-on-your-iphone-with-ios-18-customizing-the-quick-settings-menu/"><u>Maximize Efficiency on Your iPhone with iOS 18 - Customizing the Quick Settings Menu</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-ipad-video-editing-apps-top-picks-for/"><u>New Best iPad Video Editing Apps Top Picks For</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-video-editing-on-mac-the-power-of-adobe-premiere-pro/"><u>New Expert Video Editing on Mac The Power of Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-transition-hacks-3-pro-tips-for-seamless-video-editing/"><u>New FCP Transition Hacks 3 Pro Tips for Seamless Video Editing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-lets-take-a-loo/"><u>On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
-<li><a href="https://fox-http.techidaily.com/optimal-spectrum-adjuster/"><u>Optimal Spectrum Adjuster</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-green-screen-software-for-mac-users-for-2024/"><u>The Ultimate Guide to Green Screen Software for Mac Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-16-best-free-movie-makers-easy-to-use/"><u>2024 Approved Top 16 Best Free Movie Makers Easy to Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-pick-10-step-collage-journey/"><u>Android's Best Pick 10-Step Collage Journey</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-hacks-installing-linux-for-enhanced-productivity/"><u>Chromebook Hacks Installing Linux for Enhanced Productivity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/do-you-have-a-gopro-and-would-like-to-manage-or-edit-your-videos-then-get-to-know-about-the-gopro-quik-macbook-application-and-its-best-alternative-here-for/"><u>Do You Have a GoPro and Would Like to Manage or Edit Your Videos? Then Get to Know About the GoPro Quik MacBook Application and Its Best Alternative Here for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-scoop-on-2024s-finest-magsafe-chargers-in-depth-analysis-and-ratings-zdnet/"><u>Exclusive Scoop on 2024'S Finest MagSafe Chargers: In-Depth Analysis & Ratings | ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-splitters-top-picks-for-you-for-2024/"><u>Free MOV Video Splitters Top Picks for You for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-raw-footage-to-final-cut-the-art-of-online-video-editing/"><u>From Raw Footage to Final Cut The Art of Online Video Editing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-neo-5-se-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT Neo 5 SE Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-google-pixel-7a-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Google Pixel 7a to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-reno-9a-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Reno 9A online without jailbreak</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-to-your-subscription-statistics/"><u>Navigating to Your Subscription Statistics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-capabilities-of-claude-3-a-comprehensive-guide/"><u>Unveiling the Capabilities of Claude 3: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-11-29T22:10:01.112Z
-updated: 2024-12-03T01:18:40.850Z
+date: 2024-12-07T05:37:54.335Z
+updated: 2024-12-10T04:02:55.452Z
 tags:
   - win11
   - win10
@@ -36,14 +36,18 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. Click **the LOCAL FILES tab** , then click **Verify integrity of game files…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Put commands in the launch option
 
@@ -53,6 +57,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 
@@ -61,7 +69,7 @@ If it doesn’t work, move to the next fix.
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
@@ -78,7 +86,7 @@ If it doesn’t work, move to the next fix.
 3. Back to Steam and click**Play** to launch Stray.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. You should be able to play the game.
@@ -86,7 +94,7 @@ If it doesn’t work, move to the next fix.
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
@@ -114,15 +122,7 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -133,9 +133,17 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
@@ -149,15 +157,7 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -182,22 +182,16 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-engaging-youtube-trailers-in-filmora/"><u>[New] In 2024, Creating Engaging YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-identifying-high-growth-youtube-channels-for-personal-development/"><u>[Updated] Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>[Updated] In 2024, Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professionals-almanac-to-efficient-voice-recording/"><u>[Updated] Professional's Almanac to Efficient Voice Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-camcorders-featuring-direct-faceviewing-for-2024/"><u>Best Camcorders Featuring Direct FaceViewing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-audio-output-on-windows-devices/"><u>Mastering Xbox Audio Output on Windows Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/navigating-the-best-iphone-options-for-adding-water-marks-for-2024/"><u>Navigating the Best iPhone Options for Adding Water Marks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/regular-to-revolutionary-how-to-convert-videos-for-vr/"><u>Regular to Revolutionary How to Convert Videos for VR</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-dell-desktop-screen-capture-tutorial-for-2024/"><u>Step-by-Step Dell Desktop Screen Capture Tutorial for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-16-free-movie-makers-no-experience-needed/"><u>The Best of the Best 16 Free Movie Makers (No Experience Needed)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-video-watermark-software/"><u>Top 5 Free Video Watermark Software</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-mp4-video-encoders-of-202nk-a-comprehensive-guide-to-mp4-file-conversion/"><u>Top MP4 Video Encoders of 202Nk: A Comprehensive Guide to MP4 File Conversion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-4k-videos-with-ease-top-picks/"><u>Updated Convert 4K Videos with Ease Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-editing-top-free-cutters-and-joiners-for-starters/"><u>Updated Easy Video Editing Top Free Cutters and Joiners for Starters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect/"><u>Updated From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-transform-your-youtube-channels-with-impactful-branding-strategies/"><u>2024 Approved Transform Your YouTube Channels with Impactful Branding Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-steam-deck-functionality-with-supplementary-gear/"><u>Boosting Steam Deck Functionality with Supplementary Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-viral-solo-podcast-step-by-step-guide/"><u>Crafting a Viral Solo Podcast Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-camera-to-canvas-getting-started-with-lunapic/"><u>In 2024, From Camera to Canvas Getting Started with LunaPic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-f25-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo F25 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>In 2024, Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>New Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editors-2023-update/"><u>The Ultimate Guide to Free FLV Video Editors (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-subtitle-editing-tools-for-mac-a-comprehensive-list-of-alternatives/"><u>Updated Best Subtitle Editing Tools for Mac A Comprehensive List of Alternatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-compatible-drivers-for-hp-officejet-4650-free-download/"><u>Windows Compatible Drivers for HP OfficeJet 4650 - Free Download</u></a></li>
 </ul></div>
 

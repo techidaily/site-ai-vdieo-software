@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison
-date: 2024-11-27T11:14:42.292Z
-updated: 2024-12-03T06:02:15.236Z
+date: 2024-12-04T07:33:23.885Z
+updated: 2024-12-10T09:09:51.216Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. TiVo vs Comcast: Services available
@@ -52,19 +52,23 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  TiVo interface
 
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Summary**
 
@@ -145,24 +145,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>[New] 2024 Approved The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rom-script-to-screen-youtube-video-creation-made-simple-for-2024/"><u>[New] From Script to Screen YouTube Video Creation Made Simple for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-customizing-your-faithful-phone-tunes-for-2024/"><u>[Updated] Customizing Your Faithful Phone Tunes for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-editing-engine-room/"><u>[Updated] Editing Engine Room</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-shadow-flight-new-camera-frontier/"><u>2024 Approved Shadow Flight New Camera Frontier</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-for-mac-quick-installation-tips/"><u>2024 Approved Snapchat for MAC Quick Installation Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>2024 Approved The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/crack-the-code-of-content-discovery-on-facebook-for-2024/"><u>Crack the Code of Content Discovery on Facebook for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mov-video-rotator-top-picks-and-reviews/"><u>In 2024, Free MOV Video Rotator Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotation-made-easy-top-10-tools-and-software/"><u>In 2024, Free Video Rotation Made Easy Top 10 Tools and Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-a-powerful-64-bit-video-editor-windows-8and10-included/"><u>In 2024, Get a Powerful 64-Bit Video Editor (Windows 8&10 Included)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-must-have-transition-plugins-for-adobe-premiere-pro/"><u>New 10 Must-Have Transition Plugins for Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-dont-reveal-the-best-video-editing-tools-for-anonymity/"><u>New Blur, Dont Reveal The Best Video Editing Tools for Anonymity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cinematic-storytelling-with-final-cut-pro-x-tips-and-techniques/"><u>New Cinematic Storytelling with Final Cut Pro X Tips and Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/peak-performance-audio-organizer-android/"><u>Peak Performance Audio Organizer, Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-editing-software-for-newcomers/"><u>The Ultimate List of Free Video Editing Software for Newcomers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-vn-video-editor-pro-pros-cons-and-everything-in-between/"><u>Updated A Closer Look at VN Video Editor Pro Pros, Cons, and Everything in Between</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>Updated Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quitting-linkedin-how-to-close-your-account-properly/"><u>[New] Quitting LinkedIn How To Close Your Account Properly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>2024 Approved Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-video-reverse-tools/"><u>2024 Approved Top Video Reverse Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-motion-tracking-apps-for-ios-and-android/"><u>Best Motion Tracking Apps for iOS and Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/clearsnap-for-windows-quick-and-clean-shots/"><u>ClearSnap for Windows Quick & Clean Shots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-software-setup-for-your-lenovo-legion-ebook-the-professional-guide-model-16ach6h/"><u>Easy Driver Software Setup for Your Lenovo Legion eBook: The Professional Guide [Model 16ACH6H]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-like-a-pro-5-must-know-editing-tips-for-stunning-videos-for-2024/"><u>FCP Like a Pro 5 Must-Know Editing Tips for Stunning Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-2-simple-ways-to-fade-audio-in-and-out/"><u>Final Cut Pro 2 Simple Ways to Fade Audio In and Out</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-building-a-stunning-video-slideshow-for-2024/"><u>Final Cut Pro Tutorial Building a Stunning Video Slideshow for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-movie-magic-16-user-friendly-video-editors-to-try-for-2024/"><u>Free Movie Magic 16 User-Friendly Video Editors to Try for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-professional-results-top-10-free-green-screen-apps-for-mobile-phones/"><u>Get Professional Results Top 10 Free Green Screen Apps for Mobile Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-film-editing-a-comprehensive-guide-to-final-cut-pro-for-2024/"><u>Mastering the Art of Film Editing A Comprehensive Guide to Final Cut Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-operational-intel-rst-service-on-your-windows-11-pc/"><u>Troubleshooting the Non-Operational Intel RST Service on Your Windows 11 PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-im-resisting-the-temptation-of-apples-new-m4-mac-mini-thanks-to-one-compelling-aspect-of-the-mac-studio/"><u>Why I'm Resisting the Temptation of Apple's New M4 Mac Mini Thanks to One Compelling Aspect of the Mac Studio</u></a></li>
 </ul></div>
 

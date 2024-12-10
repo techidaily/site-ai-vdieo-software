@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2024-11-26T20:29:16.535Z
-updated: 2024-12-03T12:17:52.399Z
+date: 2024-12-05T06:11:08.991Z
+updated: 2024-12-10T10:35:08.168Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 If you didn’t find any hardware issues, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -60,6 +56,10 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -69,14 +69,14 @@ If you didn’t find any hardware issues, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -86,7 +86,7 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
@@ -133,18 +133,20 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-digital-renaissance-reinventing-traditional-vhs-visuals/"><u>[New] 2024 Approved Digital Renaissance Reinventing Traditional VHS Visuals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-top-8-techniques-for-grabbing-attention-in-yt-thumbnails/"><u>[New] In 2024, Top 8 Techniques for Grabbing Attention in YT Thumbnails</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-fix-guide-reviving-dead-or-slow-moving-airdrop-links/"><u>[New] Quick Fix Guide Reviving Dead or Slow-Moving Airdrop Links</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-buzz-creation-blueprint-for-marketing-success-for-2024/"><u>[New] The Buzz-Creation Blueprint for Marketing Success for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-from-live-demos-to-recordings-harness-ezvide-power/"><u>[Updated] From Live Demos to Recordings Harness EZvide Power</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-a-viral-hit-10-best-music-video-producers/"><u>New Create a Viral Hit 10 Best Music Video Producers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-vsdc-video-editor-alternatives-for-mac-computers/"><u>New Discover the Best VSDC Video Editor Alternatives for Mac Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>New Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/personalize-your-love-tips-and-tricks-for-making-a-unique-valentines-day-video/"><u>Personalize Your Love Tips and Tricks for Making a Unique Valentines Day Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>Unveiling Premium Displays The Ultimate Guide for Xbox S Series X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-3gp-video-rotators/"><u>Updated Top 5 Best Free 3GP Video Rotators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-essentials-freezing-frames-like-a-pro/"><u>Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
-<li><a href="https://video-capture.techidaily.com/windows-11-game-snapshots-top-5-capture-strategies/"><u>Windows 11 Game Snapshots Top 5 Capture Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unleashing-visual-treasures-a-pexels-search-guide/"><u>[New] In 2024, Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-choices-windows-11-hd-webcam-mini-dvs/"><u>[Updated] 2024 Approved Top Choices Windows 11 HD Webcam Mini-DVs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m2p/"><u>「快適にMovavi M2Pファイルを変換してくだ</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-a-face-online-best-tools-and-resources/"><u>2024 Approved Generate a Face Online Best Tools and Resources</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/after-effects-vs-adobe-premiere-9-differences-tell-you-which-one-is-better/"><u>After Effects VS Adobe Premiere, 9 Differences Tell You Which One Is Better?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-virtual-face-maker-websites-for-2024/"><u>Free Virtual Face Maker Websites for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpieces-top-highlight-video-makers-revealed-for-2024/"><u>From Clips to Masterpieces Top Highlight Video Makers Revealed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-footage-to-film-mastering-the-art-of-cinematic-video-editing-for-2024/"><u>From Footage to Film Mastering the Art of Cinematic Video Editing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-filmora-for-free-the-authorized-and-authentic-way-for-2024/"><u>Get Filmora for Free The Authorized and Authentic Way for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-embrace-automatic-transcription-for-engaging-presentations/"><u>In 2024, How to Embrace Automatic Transcription for Engaging Presentations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y77t-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y77t Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-controversy-surrounding-gpts-role-in-hacking-tools/"><u>The Controversy Surrounding GPT's Role in Hacking Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-dell-xps-13-7390-convertible-laptop-exquisite-design-meets-versatile-functionality-in-an-ultrabook-package/"><u>The Dell XPS 13 7390 Convertible Laptop - Exquisite Design Meets Versatile Functionality in an Ultrabook Package</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-how-cumuluspros-anti-fatigue-mat-transforms-your-workspace/"><u>The Ultimate Review: How CumulusPRO's Anti-Fatigue Mat Transforms Your Workspace</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Effortless MP4 Editing on Windows 8 Expert Video Editor
-date: 2024-12-02T09:31:01.973Z
-updated: 2024-12-03T09:50:27.620Z
+date: 2024-12-06T21:57:51.527Z
+updated: 2024-12-09T22:20:34.008Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,10 @@ The imported MP4 videos will show as thumbnails in the user's album's item tray.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Easy MP4 editing in Windows 8
 
 This MP4 editor for Windows 8 provides professional yet straightforward editing panels to fully meet your different editing requirements.
@@ -51,7 +55,7 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Split, Trim MP4 Videos
@@ -61,7 +65,7 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
@@ -70,15 +74,15 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -88,19 +92,15 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -117,18 +117,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-streamlining-process-clean-up-youtubes-buffered-list/"><u>[New] 2024 Approved Streamlining Process Clean Up YouTube's Buffered List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-loom-lens-illuminating-your-recording-journey/"><u>[New] In 2024, Loom Lens Illuminating Your Recording Journey</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hololens-analysis-a-3d-interface-revolution-by-microsoft-for-2024/"><u>HoloLens Analysis A 3D Interface Revolution by Microsoft for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-top-video-dubbing-tools-for-funny-videos/"><u>In 2024, Get Creative Top Video Dubbing Tools for Funny Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a15-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A15 4G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 7 Bootloader Easily</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/quicktime-video-editing-on-mac-tips-tricks-and-techniques/"><u>QuickTime Video Editing on Mac Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-iphone-video-editing-apps-for-rotation-2023-review/"><u>The Best Free iPhone Video Editing Apps for Rotation 2023 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-real-deal-on-genius-widecam-f100-a-thorough-review-of-image-quality-and-audio-precision/"><u>The Real Deal on Genius WideCam F100: A Thorough Review of Image Quality & Audio Precision</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-choosing-the-best-pro-audio-editing-software-for-2024/"><u>The Ultimate Guide to Choosing the Best Pro Audio Editing Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods-for-2024/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-ditch-premiere-elements-10-better-video-editing-options-for-you/"><u>Updated Ditch Premiere Elements 10 Better Video Editing Options for You</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-professional-post-processing-how-to-erase-image-borders-easily/"><u>[New] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazon-prime-viewers-who-to-follow-on-twitter-now-for-2024/"><u>[Updated] Amazon Prime Viewers - Who to Follow on Twitter, Now for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-excellent-global-music-livestreams/"><u>[Updated] Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-samsungs-digital-photography-enhancements/"><u>2024 Approved Examining Samsung's Digital Photography Enhancements</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-best-quicktime-mov-movie-editors/"><u>2024 Approved Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ace-your-developer-skills-dive-into-stellars-treasury-of-software-tools-tutorials-and-tricks-of-the-trade/"><u>Ace Your Developer Skills: Dive Into Stellar's Treasury of Software Tools, Tutorials & Tricks of the Trade</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-an-in-depth-analysis/"><u>AVS Video Editor An In-Depth Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-animated-explainer-tools-for-pc-and-mac-2024-update/"><u>Best Free Animated Explainer Tools for PC and Mac (2024 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-video-to-photo-a-step-by-step-guide-with-10-best-tools-for-2024/"><u>Convert Video to Photo A Step-by-Step Guide with 10 Best Tools for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210004001-9781761035043-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-picks-the-best-10-software-solutions-to-repair-your-videos-on-any-device/"><u>Expert Picks: The Best 10 Software Solutions to Repair Your Videos on Any Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-top-10-4k-video-converters-you-need-for-2024/"><u>Free and Fabulous The Top 10 4K Video Converters You Need for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-gif-maker-tools-the-ultimate-list/"><u>Free GIF Maker Tools The Ultimate List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-how-to-correctly-address-missing-haldll-error-messages-in-windows-xp/"><u>Troubleshooting: How to Correctly Address Missing hal.dll Error Messages in Windows XP</u></a></li>
 </ul></div>
 

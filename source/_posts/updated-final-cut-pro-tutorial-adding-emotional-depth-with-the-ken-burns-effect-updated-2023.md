@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-12-01T18:14:18.519Z
-updated: 2024-12-03T02:52:22.673Z
+date: 2024-12-08T05:28:01.958Z
+updated: 2024-12-09T21:00:25.735Z
 tags: 
   - video editing software
   - video editing
@@ -29,15 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -47,6 +47,10 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -55,10 +59,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -66,7 +66,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -78,10 +78,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -107,6 +103,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,16 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-gaming-memories-start-recording-now/"><u>[Updated] Easy Gaming Memories Start Recording Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-captivating-unboxing-on-ig/"><u>2024 Approved The Insider's Guide to Captivating Unboxing on IG</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-pro-for-mac-the-video-editor-for-professionals/"><u>In 2024, Adobe Premiere Pro for Mac The Video Editor for Professionals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-vlog-editor-apps-ios-and-android/"><u>In 2024, Best Vlog Editor Apps iOS & Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-wmv-splitter-software-free-and-easy-to-use/"><u>In 2024, Best WMV Splitter Software Free and Easy to Use</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-fs-view-strategies-for-premiere-pro/"><u>In 2024, Comprehensive FS View Strategies for Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-content-10-leading-animated-text-generator-options/"><u>In 2024, Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mp4-videos-on-your-mac-a-mavericks-users-guide/"><u>In 2024, Edit MP4 Videos on Your Mac A Mavericks Users Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-hp-printer-oxc4eb827f-fatality-problem/"><u>Solving HP Printer OXC4EB827F Fatality Problem</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-overcoming-compatibility-issues-between-samsung-printers-and-windows-drivers/"><u>Step-by-Step Guide: Overcoming Compatibility Issues Between Samsung Printers & Windows Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-razer-barracuda-x-microphone-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fixing Razer Barracuda X Microphone Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>[Updated] 2024 Approved A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-virtual-tournament-gear-showcase-series/"><u>[Updated] 2024 Approved Virtual Tournament Gear Showcase Series</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhance-engagement-with-effective-yt-summary-writing/"><u>[Updated] Enhance Engagement with Effective YT Summary Writing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-playlist-of-timeless-anime-themes/"><u>[Updated] The Ultimate Playlist of Timeless Anime Themes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know-m/"><u>2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-coding-workflow-in-vs-code-by-incorporating-chatgpt/"><u>Boost Your Coding Workflow in VS Code by Incorporating ChatGPT</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-top-text-animation-apps-for-android-and-ios/"><u>Bring Your Videos to Life Top Text Animation Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cropping-in-final-cut-pro-x-a-step-by-step-guide/"><u>Cropping in Final Cut Pro X A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-now-top-20-premiere-pro-title-templates-for-2024/"><u>Download Now Top 20 Premiere Pro Title Templates for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-mp4-video-tagging-top-editor-recommendations/"><u>Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users-for-2024/"><u>Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fast-track-your-videos-how-to-increase-playback-speed-in-quicktime-for-2024/"><u>Fast Track Your Videos How to Increase Playback Speed in QuickTime for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/features-and-performance-of-the-cost-effective-sony-xbr65x85f-a-4k-smart-tv-examination/"><u>Features & Performance of The Cost-Effective Sony XBR65X85^F - A 4K Smart TV Examination</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-download-filmora-13-video-editing-made-easy-for-2024/"><u>Free Download Filmora 13 Video Editing Made Easy for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-compression-made-easy-10-best-online-tools/"><u>Free Video Compression Made Easy 10 Best Online Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-best-but-unseen-your-guide/"><u>In 2024, Instagram's Best, But Unseen - Your Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-zero-5g-2023-turbo-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix Zero 5G 2023 Turbo to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-cloud-connectivity-woes/"><u>Tackling Steam Cloud Connectivity Woes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-discounted-apple-products-on-prime-day/"><u>Top Discounted Apple Products on Prime Day</u></a></li>
 </ul></div>
 

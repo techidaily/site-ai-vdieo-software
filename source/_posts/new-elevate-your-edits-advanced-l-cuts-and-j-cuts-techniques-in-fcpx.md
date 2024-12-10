@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2024-12-01T23:28:56.561Z
-updated: 2024-12-02T16:09:17.152Z
+date: 2024-12-04T02:14:00.907Z
+updated: 2024-12-10T12:13:26.439Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,24 +131,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/onvert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>[New] Convert YouTube Sounds to Wider Reach MP3 for Mac Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/compatible-driver-and-software-setup-for-logitech-g402-secure-download-link/"><u>Compatible Driver & Software Setup for Logitech G402 - Secure Download Link</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-setup-pieces-for-uninterrupted-streaming/"><u>Elite Setup Pieces for Uninterrupted Streaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-reno-9a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Oppo Reno 9A</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-google-pixel-fold-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Google Pixel Fold to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-honoring-creativity-ultimate-otu-collection/"><u>In 2024, Honoring Creativity Ultimate OTU Collection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-panorama-steadying-the-gopro-sight/"><u>In 2024, Precision in Panorama Steadying the GoPro Sight</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-ways-to-convert-mp4-videos-to-mp3-audio-files/"><u>New Best Ways to Convert MP4 Videos to MP3 Audio Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebooks-finest-online-video-editors-ranked/"><u>New Chromebooks Finest Online Video Editors Ranked</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-dailymotion-video-conversion-made-easy-free-tool/"><u>New Dailymotion Video Conversion Made Easy - Free Tool</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-ultimate-video-editing-solution-for-windows-8/"><u>New Discover the Ultimate Video Editing Solution for Windows 8</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-and-rotate-videos-with-ease-top-10-free-tools/"><u>New Flip and Rotate Videos with Ease Top 10 Free Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-dvd-player-for-windows-10-our-top-10-picks/"><u>New Free DVD Player for Windows 10 Our Top 10 Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-when-your-hamachi-service-abruptly-stops-working/"><u>Step-by-Step Fixes When Your Hamachi Service Abruptly Stops Working</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme GT Neo 5 FRP Bypass</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-image-to-video-makers-online-free-and-paid/"><u>Updated 10 Best Image to Video Makers Online Free & Paid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-online-for-free-the-best-tools-and-services/"><u>Updated Edit Videos Online for Free The Best Tools and Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-invitation-apps-that-will-make-your-event-unforgettable/"><u>Video Invitation Apps That Will Make Your Event Unforgettable</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-of-the-best-top-12-tycoon-games-for-epic-victories-for-2024/"><u>[New] Best of the Best Top 12 Tycoon Games for Epic Victories for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/fficiently-add-your-own-look-to-youtube-shorts-via-simple-steps/"><u>[New] Efficiently Add Your Own Look to YouTube Shorts via Simple Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-instagrams-visual-feast-integrating-audio-effects-for-2024/"><u>[New] Elevate Instagram's Visual Feast Integrating Audio Effects for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-harmonious-blends-using-fades-in-logic-pro-x-for-2024/"><u>[New] Harmonious Blends Using Fades in Logic Pro X for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-free-3d-animation-apps-for-mobile-phones/"><u>New Bring Your Ideas to Life Top Free 3D Animation Apps for Mobile Phones</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-k11x-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11x Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-update-error-0x8024800c/"><u>Solutions for Windows Update Error 0X8024800C</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-free-top-mpeg-video-splitter-programs/"><u>The Best of Free Top MPEG Video Splitter Programs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creative-potential-how-to-make-stunning-home-dvds-with-ease/"><u>Unlock Your Creative Potential How to Make Stunning Home DVDs with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-subtitles-in-fcpx-a-beginners-tutorial/"><u>Updated Adding Subtitles in FCPX A Beginners Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/verification/"><u>Verification</u></a></li>
 </ul></div>
 

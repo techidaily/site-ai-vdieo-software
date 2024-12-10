@@ -1,7 +1,7 @@
 ---
 title: Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro
-date: 2024-12-01T11:35:31.983Z
-updated: 2024-12-03T10:52:39.674Z
+date: 2024-12-04T01:01:24.707Z
+updated: 2024-12-09T23:41:23.963Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ If you want to rotate and flip video clips on your Mac for free, you can also tr
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Flip a Clip in Final Cut Pro
 
 As one of the most popular professional video editing software, Final Cut Pro is an easy-to-use software that can enable you to fully customize your videos by flipping, rotating and doing all sorts of editing tasks. Follow the below simple steps to flip, crop, resize or move clips.
@@ -57,16 +61,12 @@ There are **blue handles at each corner** which enable the user to adjust image 
 ![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
@@ -79,7 +79,7 @@ Click the video clips that you want to flip in the timeline and make sure it is 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
@@ -110,15 +110,15 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Flipping the whole video:**
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _Flipping only a single part of the video:_
 
@@ -126,15 +126,15 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * _Exporting the flip video:_
 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
@@ -149,7 +149,7 @@ In case you want to flip videos on Windows or flip clips in an easier way, you c
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -167,18 +167,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-and-conquer-speedy-photos-on-windows-11/"><u>[Updated] Capture & Conquer Speedy Photos on Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-zero-to-profit-beginners-guide-on-periscope-earning-for-2024/"><u>[Updated] From Zero to Profit Beginner’s Guide on Periscope Earning for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-10-action-ready-microphones-reviewed/"><u>Best 10 Action-Ready Microphones Reviewed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 11 & 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-animated-gif-makers-with-looping-features/"><u>In 2024, Best Animated GIF Makers with Looping Features</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-to-animate-text-in-video-on-phone/"><u>In 2024, Best Apps To Animate Text In Video On Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>In 2024, Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-perfect-advanced-color-correction-in-final-cut-pro/"><u>In 2024, Color Perfect Advanced Color Correction in Final Cut Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-insta-cinematography-tips-three-way-borders/"><u>In 2024, Insta Cinematography Tips Three-Way Borders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-new-ios-16-a-step-by-step-guide-to-using-photo-cutout-on-your-iphone/"><u>Mastering the New iOS 16: A Step-by-Step Guide to Using Photo Cutout on Your iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-ad-ds-printer-failures-in-win-10/"><u>Strategies to Overcome AD DS Printer Failures in Win 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-video-cutting-edge-m1s-efficiency-takes-the-lead/"><u>[New] Video Cutting-Edge M1's Efficiency Takes the Lead</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>[Updated] How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-integrating-cg-centrals-luts-into-vfx-production-flows-for-2024/"><u>[Updated] Integrating CG Central's Luts Into VFX Production Flows for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>2024 Approved Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-to-make-your-choice-easier-from-thousands-of-software-i-am-listing-the-top-five-in-the-businesslet-us-go-over-the-specifications-and-shed-ligh/"><u>2024 Approved To Make Your Choice Easier From Thousands of Software I Am Listing the Top Five in the business.Let Us Go over the Specifications and Shed Light on the Comparisons</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-hosting-solutions-for-individuals-and-businesses-for-2024/"><u>Best Free Video Hosting Solutions for Individuals and Businesses for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-of-the-best-10-leading-vlog-editor-apps-for-ios-and-android-users-for-2024/"><u>Best of the Best 10 Leading Vlog Editor Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-invitation-maker-apps-for-iphone-and-android/"><u>Best Video Invitation Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-websites-to-erase-tiktok-watermarks-from-videos-for-2024/"><u>Best Websites to Erase TikTok Watermarks From Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-how-to-find-hidden-events-in-your-apple-devices-planner-application/"><u>Discover How to Find Hidden Events in Your Apple Device's Planner Application</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-for-everyone-10-top-picks-for-private-and-business-videos/"><u>Free Video Hosting for Everyone 10 Top Picks for Private and Business Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-recording-the-10-best-webcam-software-for-windows-10-users/"><u>Get Recording The 10 Best Webcam Software for Windows 10 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-old-world-wonders-iphone-x-portraits/"><u>In 2024, Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-essential-checklist-for-creating-stellar-titles/"><u>In 2024, The Essential Checklist for Creating Stellar Titles</u></a></li>
 </ul></div>
 

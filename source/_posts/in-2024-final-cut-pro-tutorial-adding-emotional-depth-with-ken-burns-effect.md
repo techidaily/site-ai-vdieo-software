@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-12-01T10:05:14.580Z
-updated: 2024-12-03T08:09:52.214Z
+date: 2024-12-03T06:48:16.740Z
+updated: 2024-12-09T16:23:07.580Z
 tags: 
   - video editing software
   - video editing
@@ -29,15 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -48,7 +48,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -65,6 +65,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -76,16 +80,12 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,17 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-free-mcb-theme-images-templates-and-more-for-2024/"><u>[Updated] Free MCB Theme Images, Templates & More for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-vivo-s17t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S17t Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/download-and-installation-made-easy-for-ez-grabber-users/"><u>Download and Installation Made Easy for EZ Grabber Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-a-lasting-impression-with-the-best-video-invitation-apps/"><u>Make a Lasting Impression with the Best Video Invitation Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-3d-animation-software-free-and-paid2022-new/"><u>New Best 3D Animation Software Free and Paid(2022 New)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos/"><u>New Unleash Your Creativity Top Online Collage Makers for Photos and Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-programming-snippets-to-microsoft-word/"><u>Step-by-Step Guide: Adding Programming Snippets to Microsoft Word</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/stop-motion-mastery-top-10-software-for-mac-and-pc-users/"><u>Stop Motion Mastery Top 10 Software for Mac and PC Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects-for-2024/"><u>The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editor-for-macos-easy-video-creation-tool/"><u>Video Editor for macOS Easy Video Creation Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimal-viewing-angles-for-fb-videos-for-2024/"><u>[Updated] Optimal Viewing Angles for FB Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-youtube-shorts-not-showing-up/"><u>Fixed YouTube Shorts Not Showing Up</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-easily-match-color-in-video-clips-with-final-cut-pro/"><u>How to Easily Match Color in Video Clips with Final Cut Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-player-could-not-be-loaded-issues-on-your-pc-easily/"><u>How to Solve 'Player Could Not Be Loaded' Issues on Your PC Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-zero-cost-mod-video-editors-2023-edition/"><u>In 2024, Best Zero-Cost MOD Video Editors 2023 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-camcorder-video-editing-software-how-to-edit-canon-videos/"><u>In 2024, Canon Camcorder Video Editing Software How to Edit Canon Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-like-a-pro-top-rated-animation-software-for-mac-and-pc/"><u>In 2024, Create Like a Pro Top-Rated Animation Software for Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-of-vn-video-editor-on-pc-a-review/"><u>In 2024, Discover the Best of VN Video Editor on PC A Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-12-mini-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 12 mini activation lock primer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138573423-9781475931020-miracle-from-the-heart/"><u>Miracle from the Heart | Free Book</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/tech-tips-ottime-strategie-di-backup-del-portatile/"><u>Tech Tips: Ottime Strategie Di Backup Del Portatile</u></a></li>
+<li><a href="https://techidaily.com/1723808292864-the-moody-chart-is-used-to-find-the-friction-factor-f-for-calculating-pressure-drops-in-both-laminar-and-turbulent-flows-within-pipes/"><u>The Moody Chart Is Used to Find the Friction Factor (F) for Calculating Pressure Drops in Both Laminar and Turbulent Flows Within Pipes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-a-non-functional-dell-usb-port/"><u>Troubleshooting and Fixing a Non-Functional Dell USB Port</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-tv-and-hulu-live-compared-key-factors-you-need-to-consider-when-deciding-between-them/"><u>YouTube TV and Hulu Live Compared: Key Factors You Need to Consider When Deciding Between Them</u></a></li>
 </ul></div>
 

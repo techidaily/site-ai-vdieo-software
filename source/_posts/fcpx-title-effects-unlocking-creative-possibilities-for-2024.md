@@ -1,7 +1,7 @@
 ---
 title: FCPX Title Effects Unlocking Creative Possibilities for 2024
-date: 2024-08-09T08:21:56.331Z
-updated: 2024-08-10T08:21:56.331Z
+date: 2024-12-05T08:19:55.021Z
+updated: 2024-12-10T00:38:18.294Z
 tags: 
   - video editing software
   - video editing
@@ -54,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -71,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -86,14 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -104,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -131,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -142,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -184,9 +158,6 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
@@ -211,12 +182,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-innovators-behind-vr-spectacles/"><u>[New] Innovators Behind VR Spectacles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>[New] Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-upgrade-your-tiktok-videos-efficient-backdrop-swapping-guide/"><u>[Updated] 2024 Approved Upgrade Your TikTok Videos Efficient Backdrop Swapping Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-evolutionary-path-from-novice-to-expert-in-audio-recording-for-film/"><u>[Updated] In 2024, The Evolutionary Path From Novice to Expert in Audio Recording for Film</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-10-viral-exercise-routines-to-keep-your-channel-thriving/"><u>2024 Approved 10 Viral Exercise Routines to Keep Your Channel Thriving</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-11-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme 11 Pro Face Lock?</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/high-quality-tabitha-templeton-wallpaper-collection-by-yl-computing-stunning-graphics-and-imagery/"><u>High-Quality Tabitha Templeton Wallpaper Collection by YL Computing - Stunning Graphics & Imagery</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-rotators-compared-top-5-choices/"><u>In 2024, Free AVI Video Rotators Compared Top 5 Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-animated-text-generator-to-use-100-useful/"><u>New 10 Best Animated Text Generator to Use (100 Useful)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-engaging-videos-on-the-go-best-animated-text-apps-for-phones/"><u>New Create Engaging Videos on the Go Best Animated Text Apps for Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-alternative-no-crack-no-risk-just-results/"><u>New Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-ai-user-information-in-the-cloud-how-apples-security-protocols-are-advancing-data-safety-key-discussion-zdnet/"><u>Protecting AI User Information in the Cloud: How Apple's Security Protocols Are Advancing Data Safety (Key Discussion) | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-video-editing-software-for-hd-videos/"><u>S Best Video Editing Software for HD Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-foremost-techniques-for-transforming-seminars-into-videos/"><u>The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-mp4-editing-on-windows-8-expert-video-editor/"><u>Updated Effortless MP4 Editing on Windows 8 Expert Video Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-videos-mastering-lower-thirds-in-fcpx/"><u>Updated Elevate Your Videos Mastering Lower Thirds in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-free-mov-video-rotators/"><u>Updated Top 5 Free MOV Video Rotators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

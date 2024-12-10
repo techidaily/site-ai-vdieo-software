@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-11-26T12:05:08.126Z
-updated: 2024-12-03T04:42:39.736Z
+date: 2024-12-06T10:31:50.554Z
+updated: 2024-12-10T07:37:29.409Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,16 +131,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-effortless-mp4-conversion-from-facebook-hd-content-all-for-free/"><u>[Updated] In 2024, Effortless MP4 Conversion From Facebook HD Content – All For Free</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-13-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi 13 Ultra System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/gigglegridiron-craft-memes-from-anywhere-anytime-for-2024/"><u>GiggleGridiron Craft Memes From Anywhere, Anytime for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y100-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y100 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-civi-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Civi 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-videos-on-mac-a-step-by-step-guide/"><u>New Create Stunning Videos on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-your-mp4-videos-for-free-top-software-recommendations/"><u>New Cut Your MP4 Videos for Free Top Software Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-editors-that-rival-imovie-2023-edition/"><u>New Free Online Video Editors That Rival iMovie (2023 Edition)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-getting-a-video-editor-app-for-your-chromebook-from-a-google-play-store-is-now-possiblein-this-article-we-will-recommend-the-best-best-android-video-edi/"><u>New Getting a Video Editor App for Your Chromebook From a Google Play Store Is Now possible.In This Article, We Will Recommend the Best Best Android Video Editor Apps for Chromebook and How to Install It</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-m4a-editor-software-top-5-recommendations/"><u>Updated Free M4A Editor Software Top 5 Recommendations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-edgeplus-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Edge+ (2023)? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-youtube-to-mpeg-transformation-hacks-you-need/"><u>[New] 2024 Approved YouTube-to-MPEG Transformation Hacks You Need</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>[New] In 2024, Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings-zdnet/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-best-online-stop-motion-makers-for-2024/"><u>5 Best Online Stop Motion Makers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beginner-friendly-video-editing-apps-no-cost-no-hassle-for-2024/"><u>Beginner-Friendly Video Editing Apps No Cost, No Hassle for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-green-screen-software-for-mac-for-2024/"><u>Best Green Screen Software for Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-q/"><u>Break Free From Q</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-review-for-hero4-black-for-2024/"><u>Complete Review for Hero4 Black for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android-for-2024/"><u>Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dual-display-video-editing-top-free-online-and-offline-apps/"><u>Dual-Display Video Editing Top Free Online and Offline Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-top-online-video-stabilizers-for-a-professional-finish-for-2024/"><u>Free and Fabulous The Top Online Video Stabilizers for a Professional Finish for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-iphone-recording-creating-fb-shareable-reels/"><u>In 2024, Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-liberated-chatgpt-on-windows/"><u>Launching Liberated ChatGPT on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maxsuns-latest-creation-a-unique-reverse-slot-design-for-mini-itx-motherboards/"><u>Maxsun's Latest Creation: A Unique Reverse Slot Design for Mini-ITX Motherboards</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-agni-2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Agni 2 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://discover-data.techidaily.com/mac-ossd/"><u>アクセス・マニュアル: Mac OS上でSDカードと接続する全体的解説</u></a></li>
 </ul></div>
 

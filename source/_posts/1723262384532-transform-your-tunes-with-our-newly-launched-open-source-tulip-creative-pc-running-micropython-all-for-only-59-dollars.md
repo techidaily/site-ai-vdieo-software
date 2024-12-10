@@ -1,7 +1,7 @@
 ---
 title: Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars!
-date: 2024-11-29T22:37:03.200Z
-updated: 2024-12-03T08:15:47.678Z
+date: 2024-12-03T18:59:44.327Z
+updated: 2024-12-10T12:52:07.394Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,17 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-apowersoft-screen-recording-the-ultimate-pc-guide/"><u>[New] 2024 Approved Apowersoft Screen Recording The Ultimate PC Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[New] Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[New] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-power-of-tags-in-your-youtube-content/"><u>[Updated] Unveiling the Power of Tags in Your YouTube Content</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y55s-5g-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y55s 5G (2023) to iPod | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-verdict-on-vn-video-editor-pro-is-it-a-top-tier-video-editor/"><u>In 2024, The Verdict on VN Video Editor Pro Is It a Top-Tier Video Editor?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-glitch-video-editors-for-mobile-devices/"><u>New Best Glitch Video Editors for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-remove-tiktok-watermarks-best-online-solutions/"><u>New Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-se-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone SE</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-video-combiner-software-with-no-watermarks/"><u>Top-Rated Video Combiner Software with No Watermarks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>Updated Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-troubleshooting-handbook-fixing-common-issues/"><u>Updated Final Cut Pro X Troubleshooting Handbook Fixing Common Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-symphony-the-best-in-the-field-of-photo-and-video-makers-with-beats/"><u>Visual Symphony The Best in the Field of Photo & Video Makers with Beats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-adding-emotion-and-context-narration-for-videos/"><u>[New] Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-your-inspiration-top-5-pinterest-videos-without-cost/"><u>[Updated] Capture Your Inspiration! Top 5 Pinterest Videos Without Cost</u></a></li>
+<li><a href="https://fox-http.techidaily.com/drone-sweet-spots-for-peak-gopro-video-performance/"><u>Drone Sweet Spots for Peak GoPro Video Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-glitch-steps-to-restore-text-message-reception-on-iphone/"><u>Fixing the Glitch: Steps to Restore Text Message Reception on iPhone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-anonymize-your-content-top-10-free-face-blurring-apps-and-software/"><u>In 2024, Anonymize Your Content Top 10 Free Face Blurring Apps and Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook/"><u>In 2024, Breaking Boundaries Running Windows and Mac Video Editing Software on Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-videos-to-life-top-5-iphone-video-editing-apps/"><u>In 2024, Bring Your Videos to Life Top 5 iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-lumafusion-for-mac-or-choose-from-these-top-alternatives/"><u>In 2024, Download Lumafusion for Mac or Choose From These Top Alternatives</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-transforming-vhs-photos-through-technology/"><u>In 2024, Unleash Potential Transforming VHS Photos Through Technology</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/resolving-printing-problems-comprehensive-troubleshooting-guide/"><u>Resolving Printing Problems: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104156655-solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step!</u></a></li>
 </ul></div>
 

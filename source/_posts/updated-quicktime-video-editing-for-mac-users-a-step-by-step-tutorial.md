@@ -1,7 +1,7 @@
 ---
 title: Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial
-date: 2024-11-26T13:03:35.699Z
-updated: 2024-12-02T20:57:47.799Z
+date: 2024-12-05T19:54:58.598Z
+updated: 2024-12-10T05:26:15.008Z
 tags: 
   - video editing software
   - video editing
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 There is no doubt that one of the most underrated components of the consumer Mac software that comes built into every Mac is Apple's QuickTime Player. The reason for this, of course, is that QuickTime, in addition to being a simple video player that edits mp4 Mac, also allows users to do some basic video trimming. This can come in handy for average users, especially when you consider how expensive, bloated, and complex video editing software can be. In this article, we will show you that how QuickTime edit videos on Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part1: Quicktime is More Than a Player
 
 QuickTime Player is a simple yet powerful video editing program available for Mac. It includes features for casual video editors and professionals alike, so whatever your reason for looking for good edit mp4 Mac software, QuickTime Player has to cover you.
@@ -53,6 +49,10 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
@@ -61,16 +61,16 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -85,6 +85,10 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -96,10 +100,6 @@ Step2: Select the clip by going to View > Show Clips.
 Step3: Choose to rotate the clip left or right, or flip it horizontally or vertically, from the Edit menu.
 
 Step4: When you're done, click Done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
@@ -126,7 +126,7 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -144,17 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-swiftly-fix-red-eyes-in-iphone-photography-at-no-cost/"><u>[New] 2024 Approved Swiftly Fix Red Eyes in iPhone Photography at No Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-refinement-of-zoom-visual-clarity-techniques-and-strategies/"><u>[New] Refinement of Zoom Visual Clarity Techniques and Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-smileslice-studio-memomaestrospace/"><u>[Updated] 2024 Approved SmileSlice Studio MemoMaestroSpace</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-closer-look-at-facebooks-diminishing-social-circle/"><u>A Closer Look at Facebook's Diminishing Social Circle</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-top-10-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>In 2024, Top 10 YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-essentials-how-to-give-your-footage-a-vhs-makeover/"><u>New FCP Essentials How to Give Your Footage a VHS Makeover</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-amateur-to-pro-easy-tips-for-producing-high-quality-films/"><u>New From Amateur to Pro Easy Tips for Producing High-Quality Films</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>Updated Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-audio-editing-for-beginners-get-started-today/"><u>Updated FCP Audio Editing for Beginners Get Started Today</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fantastic-top-video-editing-software-for-gamers/"><u>Updated Free and Fantastic Top Video Editing Software for Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-updating-your-skills-regularly/"><u>[New] 2024 Approved Updating Your Skills Regularly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pure-image-no-clutter-webcam-recording-edit/"><u>[New] Pure Image, No Clutter - Webcam Recording Edit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-stories-unseen-aspects-revealed/"><u>[Updated] 2024 Approved Instagram Stories Unseen Aspects Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-uncovering-niche-experts-on-instagram-a-guide-to-impactful-collaborators-for-2024/"><u>[Updated] Uncovering Niche Experts on Instagram A Guide to Impactful Collaborators for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-storage-expansion-for-sony-a7c-cameras-for-2024/"><u>Best Storage Expansion for Sony A7C Cameras for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-get-filmora-for-free-without-crack-100-truthful/"><u>How to Get Filmora for Free without Crack (100 Truthful)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y200-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y200 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-image-to-video-makers-online-free-and-paid/"><u>In 2024, 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animations-in-the-classroom-top-picks/"><u>In 2024, Animations in the Classroom Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-chromebook-friendly-video-editors-a-2023-comparison/"><u>In 2024, Chromebook-Friendly Video Editors A 2023 Comparison</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>In 2024, Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-cinematography-a-beginners-guide-to-making-movies/"><u>In 2024, Easy Cinematography A Beginners Guide to Making Movies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-for-free-top-online-video-editor-options/"><u>In 2024, Edit Like a Pro for Free Top Online Video Editor Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-expert-approved-3d-video-creation-software-for-professionals/"><u>In 2024, Expert-Approved 3D Video Creation Software for Professionals</u></a></li>
+<li><a href="https://discover-able.techidaily.com/proven-approaches-to-turn-your-videos-into-text-format-options-with-or-without-subtitles/"><u>Proven Approaches to Turn Your Videos Into Text Format - Options with or Without Subtitles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-7-enhancements-for-an-optimal-stardew-farming-experience/"><u>Top 7 Enhancements for an Optimal Stardew Farming Experience</u></a></li>
 </ul></div>
 
