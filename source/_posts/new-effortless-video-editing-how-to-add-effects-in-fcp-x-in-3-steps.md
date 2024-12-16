@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Editing How to Add Effects in FCP X in 3 Steps
-date: 2024-12-07T08:06:36.595Z
-updated: 2024-12-10T08:59:44.526Z
+date: 2024-12-15T16:22:34.492Z
+updated: 2024-12-16T16:15:26.096Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -50,28 +54,24 @@ Here is our clip - a fearsome polar bear.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -91,7 +91,7 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -111,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -141,19 +141,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-essential-guide-to-scraping-social-footage-facebook-videos/"><u>[New] 2024 Approved The Essential Guide to Scraping Social Footage Facebook Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-add-text-to-youtube-video-before-or-after-uploading/"><u>[New] How to Add Text to YouTube Video Before or After Uploading</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y100i-power-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y100i Power 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-microsoft-copilot-on-macos-systems/"><u>Getting Started with Microsoft Copilot on macOS Systems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-remove-background-noise-in-final-cut-pro-x/"><u>How to Remove Background Noise in Final Cut Pro X?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-reverse-a-tiktok-video-an-ultimate-guide-2023-update/"><u>How to Reverse A TikTok Video An Ultimate Guide 2023 Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-powerful-photo-editing-software-to-replace-windows-10-photos/"><u>In 2024, 8 Powerful Photo Editing Software to Replace Windows 10 Photos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-convert-and-enjoy-downloading-4k-videos-in-mp4-format-made-simple/"><u>In 2024, Convert and Enjoy Downloading 4K Videos in MP4 Format Made Simple</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-unsticking-your-windows-updates-when-they-halt-at-0-percent/"><u>Quick Solutions for Unsticking Your Windows Updates When They Halt at 0 Percent</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-stealthy-gamification-projector-turned-game-console-with-200-savings-at-checkout-featured-on-zdnet/"><u>Samsung's Stealthy Gamification: Projector Turned Game Console with $200 Savings at Checkout - Featured on ZDNet</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-process-to-save-evilchili-videos-in-multiple-formats-like-avi-flv-wmv-mkv-and-others/"><u>Step-by-Step Process to Save EvilChili Videos in Multiple Formats Like AVI, FLV, WMV, MKV & Others</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boomerang-magic-in-snapchat-step-by-step-guide/"><u>[New] In 2024, Boomerang Magic in Snapchat – Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads/"><u>[New] In 2024, Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-list-of-popular-videos-online-for-2024/"><u>[New] The Ultimate List of Popular Videos Online for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-perfecting-visual-virality-crafting-engaging-square-videos/"><u>[Updated] In 2024, Perfecting Visual Virality Crafting Engaging Square Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[Updated] The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animated-photos-made-easy-top-picks-for-2024/"><u>Animated Photos Made Easy Top Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-editing-made-easy-top-trimming-tools-for-every-platform-for-2024/"><u>AVI Video Editing Made Easy Top Trimming Tools for Every Platform for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-mod-video-editors-a-comprehensive-list-for-2024/"><u>Best Zero-Cost MOD Video Editors A Comprehensive List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997530655-crack-the-code-on-counter-strike-global-offensive-warzone-bug-6328-for-an-unstoppable-gaming-experience/"><u>Crack the Code on Counter-Strike: Global Offensive Warzone Bug #6328 for an Unstoppable Gaming Experience!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-movies-online-for-free-top-9-options-for-2024/"><u>Create Stunning Movies Online for Free Top 9 Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-video-editing-for-free-top-mod-editors-for-2024/"><u>Cutting-Edge Video Editing for Free Top MOD Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-imovie-top-free-online-video-editing-software/"><u>Ditch iMovie Top Free Online Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/forget-reddit-weve-got-you-covered-for-filmora-coupons/"><u>Forget Reddit, Weve Got You Covered for Filmora Coupons</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/generate-mind-bending-glitches-with-these-free-online-tools-for-2024/"><u>Generate Mind-Bending Glitches with These Free Online Tools for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-v27-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo V27 Pro Through Google Earth?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-your-home-still-on-the-netgear-c3000-why-its-time-to-consider-a-new-router-modem-solution/"><u>Is Your Home Still on the Netgear C3000? Why It's Time to Consider a New Router-Modem Solution</u></a></li>
 </ul></div>
 

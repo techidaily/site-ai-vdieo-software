@@ -1,7 +1,7 @@
 ---
 title: Easy Video Flip A Beginners Guide to Rotating Footage for 2024
-date: 2024-08-22T13:47:52.451Z
-updated: 2024-08-23T13:47:52.451Z
+date: 2024-12-09T16:07:14.863Z
+updated: 2024-12-16T16:09:52.361Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
 # How to Flip Video Quickly and Easily
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ In the following, I’ll describe how to flip a video in Windows using this vide
 
 First, please download Filmora X for free as per your operating system, and then follow the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Import Your Original Video Clips
@@ -50,9 +44,6 @@ Note that this video editor supports an array of video & audio formats, such as 
 
 And then drag your video files from media library to the video Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 [Learn the complete list of supported files formats of Filmora X.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -67,9 +58,6 @@ Click on the Transform to expand the four options including Rotate, Flip, Scale 
 * **Flip:** Flip video horizontally, i.e. flip video left to right; flip video vertically that is fliping video upside down
 * You can combine Rotate and Flip feature to flip video vertically and rotate 90°clockwise or flip video vertically and rotate 90°counterclockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
 
 Besides, you can also change the video position and the video scale. This is the step of flips the whole part of the video.
@@ -80,9 +68,6 @@ Sometimes, you may just need to flip parts of your video file, e.g. only 1 minut
 
 To do it, just move the playhead to the position you want to split, and click the "Scissors" icon in the menu bar.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
 
 [Learn more about how to split videos](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -109,9 +94,6 @@ If you are someone that can't be bothered to learn a new [video editor](https://
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -120,8 +102,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,5 +109,30 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-premium-aquatic-filters-boosting-gopro-cinematography-for-2024/"><u>[New] Premium Aquatic Filters Boosting GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-potential-views-best-keyword-resources-ranked/"><u>[New] Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-6-competitive-video-apps-as-periscope-substitutes/"><u>[Updated] 6 Competitive Video Apps as Periscope Substitutes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method/"><u>[Updated] In 2024, Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-restore-windows-photo-viewer-efficiency-on-windows-10-pcs-for-2024/"><u>[Updated] Restore Windows Photo Viewer Efficiency on Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ai-powered-youtube-monetization-strategies-2024-guidebook/"><u>AI-Powered Youtube Monetization Strategies - 2024 Guidebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-xcover-6-pro-tactical-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy XCover 6 Pro Tactical Edition For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-a14-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy A14 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-avi-video-joiners-top-10-picks-for-seamless-merging/"><u>New Best Free AVI Video Joiners Top 10 Picks for Seamless Merging</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-daws-for-music-production-expert-reviews/"><u>New Best Free DAWs for Music Production Expert Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>New Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-lol-to-omg-the-best-meme-creator-apps-for-android-and-ios/"><u>New From LOL to OMG The Best Meme Creator Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streaming-supremacy-tivo-and-comcasts-dvr-battle-royale/"><u>Streaming Supremacy TiVo and Comcasts DVR Battle Royale</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-gopro-footage-easy-editing-tips-and-tricks/"><u>Transform Your GoPro Footage Easy Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-4k-video-editing-software/"><u>Unleash Your Creativity Top 4K Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-2023-color-correction-essentials-from-basics-to-advanced/"><u>Updated FCP 2023 Color Correction Essentials From Basics to Advanced</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

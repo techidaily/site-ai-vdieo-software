@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2024-12-06T05:28:54.744Z
-updated: 2024-12-10T03:11:40.112Z
+date: 2024-12-15T16:07:02.832Z
+updated: 2024-12-16T16:05:55.524Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,10 @@ The term auditions are commonly used on FCP platform that represents sets of som
 
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now in order to record voice over FCP, you need to follow the steps as below:
 
 #### Step 1
@@ -60,16 +64,12 @@ Now in order to start your recording, you need to press Shift+A from the keyboar
 
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The countdown will automatically start.
 
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3
@@ -79,6 +79,10 @@ As soon as your recording is complete then you need to stop the process by simpl
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
@@ -103,7 +107,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
@@ -116,7 +120,7 @@ It is also possible to extract desired recordings from auditions; for example if
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -133,10 +137,6 @@ It's quite common in FCPX. If reopening the software or rebooting Mac won't fix 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -152,18 +152,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-starting-stronger-must-have-tech-for-creators/"><u>[New] 2024 Approved Starting Stronger Must-Have Tech for Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-choreographing-compelling-cinematic-hooks/"><u>[New] Choreographing Compelling Cinematic Hooks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximizing-your-youtube-earnings-with-smart-tactics/"><u>[Updated] 2024 Approved Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-following-review-creative-options/"><u>[Updated] Following Review Creative Options</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>[Updated] Master Class Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>2024 Approved The Symphony of Silence Starting with a Soft Fade In</u></a></li>
-<li><a href="https://facebook.techidaily.com/30-ways-breaking-up-with-friends-on-fb-can-improve-life/"><u>30 Ways Breaking Up with Friends on FB Can Improve Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-limit-techniques-to-surpass-the-character-threshold/"><u>Exploring ChatGPT's Text Limit: Techniques to Surpass the Character Threshold</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-free-online-video-compressors-no-download/"><u>In 2024, 10 Best Free Online Video Compressors No Download</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-leading-cartoon-video-editing-apps-for-smartphones/"><u>In 2024, 10 Leading Cartoon Video Editing Apps for Smartphones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-avs-video-editor-2023-features-performance-and-value/"><u>In 2024, A Closer Look at AVS Video Editor 2023 Features, Performance, and Value</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-3d-video-makers-you-must-know/"><u>In 2024, Best 3D Video Makers You Must Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop/"><u>In 2024, Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tiktok-age-update-made-simple-user-friendly-techniques-for-2024/"><u>[New] TikTok Age Update Made Simple User-Friendly Techniques for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-implementing-instagram-story-opinion-polls-effectively/"><u>2024 Approved Implementing Instagram Story Opinion Polls Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leading-edge-webcams-and-camcorders-for-windows-11-pcs/"><u>2024 Approved Leading Edge Webcams & Camcorders for Windows 11 PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/crop-trim-and-refine-mastering-image-editing-in-fcpx/"><u>Crop, Trim, and Refine Mastering Image Editing in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts-for-2024/"><u>FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mkv-video-editing-software-top-cutting-tools/"><u>Free MKV Video Editing Software Top Cutting Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-editors-that-rival-imovie-2023-edition-for-2024/"><u>Free Online Video Editors That Rival iMovie (2023 Edition) for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s17t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S17t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-problems-in-steams-remote-play-functionality/"><u>Overcoming Common Problems in Steam's Remote Play Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-frozen-usb-hub-issue-a-windows-approach/"><u>Overcoming Frozen USB Hub Issue - A Windows Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-speed-potential-with-easy-ssd-transition-steps/"><u>Unlocking Speed Potential with Easy SSD Transition Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Bring Your Photos to Life A Video Creation Tutorial
-date: 2024-12-09T03:50:03.519Z
-updated: 2024-12-10T02:15:39.500Z
+date: 2024-12-14T16:05:24.414Z
+updated: 2024-12-16T16:14:17.401Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -52,7 +48,7 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
@@ -64,7 +60,7 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
@@ -74,7 +70,7 @@ If you want to express your feelings or explain something in the slideshow, you 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Select music
@@ -82,10 +78,6 @@ If you want to express your feelings or explain something in the slideshow, you 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 5\. Export
 
@@ -119,7 +111,15 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -136,22 +136,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-your-xbox-playtime-for-sharing/"><u>[New] Capturing Your Xbox Playtime for Sharing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-record-powerpoint-presentation-with-webcam/"><u>[New] How to Record PowerPoint Presentation with Webcam</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-converting-videos-easily-send-facebook-media-to-whatsapp/"><u>[New] In 2024, Converting Videos Easily Send Facebook Media to WhatsApp</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-popularity-of-video-content-on-social-media-networks-has-been-soaring-in-the-last-couple-of-years-and-it-is-only-reasonable-to-expect-this/"><u>2024 Approved The Popularity of Video Content on Social Media Networks Has Been Soaring in the Last Couple of Years, and It Is only Reasonable to Expect This Trend to Continue. Thats the Reason Why in This Article</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beyond-virtualdub-discover-the-top-video-editing-software-alternatives/"><u>Beyond Virtualdub Discover the Top Video Editing Software Alternatives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/connectez-vous-a-digiarty-votre-passerelle-vers-la-maitrise-de-lia-et-du-machine-learning/"><u>Connectez-Vous À Digiarty : Votre Passerelle Vers La Maîtrise De L'IA Et Du Machine Learning</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-and-split-wmv-videos-with-these-top-free-tools-for-2024/"><u>Cut and Split WMV Videos with These Top Free Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficient-methods-to-resolve-and-enhance-the-performance-of-your-lg-usb-driver-in-windows-1087/"><u>Efficient Methods to Resolve and Enhance the Performance of Your LG USB Driver in Windows (10/8/7)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/eliminating-windows-malware-a-step-by-step-guide-tech-solutions-by-yl/"><u>Eliminating Windows Malware: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes-for-2024/"><u>Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-jump-cuts-masterclass-learn-from-the-pros-for-2024/"><u>Final Cut Pro X Jump Cuts Masterclass Learn From the Pros for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-face-generation-software-top-online-options/"><u>Free Face Generation Software Top Online Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-without-watermark-for-2024/"><u>Free Video Editing Software Without Watermark for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transfer-data-from-your-ipad-mini-4-5-and-6-to-a-pc-or-icloud/"><u>Step-by-Step Guide: Transfer Data From Your iPad Mini (4, 5 & 6) to a PC or iCloud</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-masterful-drawings-made-easy-top-chrome-os-tools-for-artists/"><u>[New] 2024 Approved Masterful Drawings Made Easy Top Chrome OS Tools for Artists</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamline-creation-with-no-cost-high-quality-banner-templates/"><u>[New] 2024 Approved Streamline Creation with No-Cost, High-Quality Banner Templates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-group-photos-with-iphones-burst-shot/"><u>[Updated] Perfect Group Photos with iPhone's Burst Shot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-itunes-radio-downloading-blueprint/"><u>[Updated] The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-crop-a-video-with-avidemux/"><u>2024 Approved How to Crop a Video with Avidemux</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-record-your-desktop-with-filmora-scrn/"><u>2024 Approved How to Record Your Desktop with Filmora Scrn?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector-for-2024/"><u>Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-cartoon-characters-from-your-photos/"><u>Create Cartoon Characters From Your Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-animated-videos-with-these-12-online-makers/"><u>Create Stunning Animated Videos with These 12 Online Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-3d-animation-apps-for-android-and-iphone-a-comprehensive-guide/"><u>Free 3D Animation Apps for Android and iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-3d-animation-tools-for-android-and-iphone-a-comprehensive-guide/"><u>Free 3D Animation Tools for Android and iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-crisp-videos-best-free-online-video-quality-enhancement-services-for-2024/"><u>Get Crisp Videos Best Free Online Video Quality Enhancement Services for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-crisp-videos-for-free-top-online-video-quality-enhancement-tools/"><u>Get Crisp Videos for Free Top Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximizing-views-6-simple-strategies-for-youtube-success/"><u>In 2024, Maximizing Views 6 Simple Strategies for YouTube Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-how-to-stop-custom-suggestions-from-showing-up-on-your-instagram-feed/"><u>Step-by-Step: How To Stop Custom Suggestions From Showing Up On Your Instagram Feed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-the-magic-of-windows-11s-dynamic-color-spectrum/"><u>Uncovering the Magic of Windows 11'S Dynamic Color Spectrum</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-google-pixel-8-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Google Pixel 8 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

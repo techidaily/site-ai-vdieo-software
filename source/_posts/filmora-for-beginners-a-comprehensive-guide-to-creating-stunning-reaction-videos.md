@@ -1,7 +1,7 @@
 ---
 title: Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos
-date: 2024-08-15T05:24:15.222Z
-updated: 2024-08-16T05:24:15.222Z
+date: 2024-12-09T16:13:08.667Z
+updated: 2024-12-16T16:10:43.841Z
 tags: 
   - video editing software
   - video editing
@@ -47,9 +47,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
@@ -58,39 +55,18 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
@@ -109,9 +85,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -122,12 +95,37 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>[New] 2024 Approved A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-rapidly-eliminating-youtube-feedback/"><u>[New] 2024 Approved The Ultimate Guide to Rapidly Eliminating YouTube Feedback</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-urban-oasis-best-6-modern-mc-living-spaces-for-2024/"><u>[New] Urban Oasis Best 6 Modern MC Living Spaces for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outubes-creative-playground-explained-with-ease-for-2024/"><u>[New] YouTube's Creative Playground Explained with Ease for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>[Updated] In 2024, Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-picsart-analysis-and-tutorial/"><u>[Updated] In 2024, Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cultivate-inner-peace-and-physical-strength-with-these-channels-for-2024/"><u>Cultivate Inner Peace & Physical Strength with These Channels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-steps-to-access-bup-file-contents-on-pcs-and-mac-computers/"><u>Effortless Steps to Access BUP File Contents on PCs and Mac Computers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>In 2024, A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-editing-solutions-a-top-5-roundup/"><u>In 2024, Free AVI Video Editing Solutions A Top 5 Roundup</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-process-of-verifying-your-youtube-id-for-2024/"><u>Navigating the Process of Verifying Your YouTube ID for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vllo-for-mac-and-get-alternatives/"><u>New Download VLLO for Mac and Get Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/online-video-editors-compatible-with-chromebooks-2023-review/"><u>Online Video Editors Compatible with Chromebooks 2023 Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stop-time-in-its-tracks-how-to-freeze-frames-in-your-favorite-video-editor/"><u>Stop Time in Its Tracks How to Freeze Frames in Your Favorite Video Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-content-with-the-best-3d-video-generators/"><u>Transform Your Content with the Best 3D Video Generators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-countdown-magic-mastering-fcpx-timers-in-3-short-steps/"><u>Updated Countdown Magic Mastering FCPX Timers in 3 Short Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-online-tools-to-generate-artificial-faces-for-free/"><u>Updated Top Online Tools to Generate Artificial Faces for Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-online-video-editing-tools-for-vertical-videos/"><u>Updated Top Online Video Editing Tools for Vertical Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

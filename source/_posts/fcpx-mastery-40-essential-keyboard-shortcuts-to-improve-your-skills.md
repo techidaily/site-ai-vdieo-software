@@ -1,7 +1,7 @@
 ---
 title: FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills
-date: 2024-08-15T05:24:09.144Z
-updated: 2024-08-16T05:24:09.144Z
+date: 2024-12-12T16:10:52.450Z
+updated: 2024-12-16T16:10:02.706Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 # Top 40 Keyboard Shortcuts for Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -105,8 +102,9 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 * **What to do when the shortcuts in FCPX not working?**
@@ -121,10 +119,11 @@ There are two ways to open the modifying menu: choose Final Cut Pro > Commands >
 
 Above are the top useful shortcuts that I used most when editing videos in Final Cut Pro. If you want to edit videos in a much easier way and get some Hollywood film looking at the same time, you can try Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Check the video to see how to edit videos with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -132,12 +131,27 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-obs-recording-software-unveiled-in-our-latest-study/"><u>[New] 2024 Approved Top OBS Recording Software Unveiled in Our Latest Study</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>[Updated] 2024 Approved Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-show-planning-with-obs-timer-functions/"><u>In 2024, Enhance Show Planning with OBS Timer Functions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-m6-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco M6 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-your-pc-games-to-the-portable-world-of-steam-deck/"><u>Introducing Your PC Games to the Portable World of Steam Deck</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-free-4k-video-converters-for-pc-and-mac/"><u>New Best of the Best Free 4K Video Converters for PC and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>New Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-designing-striking-youtube-thumbnails-with-macos/"><u>Step-by-Step Designing Striking Youtube Thumbnails with macOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-introduces-a-stylish-and-versatile-mp4-editor-for-windows-8-that-enables-you-to-create-hollywood-like-home-movies-with-titles-effects-and-trans/"><u>This Article Introduces a Stylish and Versatile MP4 Editor for Windows 8 that Enables You to Create Hollywood-Like Home Movies with Titles, Effects and Transitions Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-history-with-the-wayback-machine-step-by-step-tutorial/"><u>Unlocking History with The Wayback Machine - Step by Step Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-videos-on-mac-a-step-by-step-guide/"><u>Updated Create Stunning Videos on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android/"><u>Updated Free and Fabulous Best Video Special Effects Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-orientation-made-easy-a-quick-start-guide/"><u>Video Orientation Made Easy A Quick Start Guide</u></a></li>
+</ul></div>
 

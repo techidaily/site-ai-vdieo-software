@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-12-01T23:50:14.662Z
-updated: 2024-12-03T11:07:43.024Z
+date: 2024-12-10T16:13:49.745Z
+updated: 2024-12-16T16:09:14.115Z
 tags: 
   - video editing software
   - video editing
@@ -33,7 +33,7 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
@@ -46,15 +46,15 @@ First of all, you should specify a name for your project and add photos to the t
 
 _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -98,10 +98,6 @@ The users can also adjust the speed of the animation and the duration of the fre
 
 _![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7: Swap the Start and End Frame**
 
 Now, swap the start and ending frame as per your preference for the Ken Burns animation. Here’s how you can do this:
@@ -114,10 +110,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 
 _![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 8: Play/Preview Looping**
 
 After you have optimized the speed of the Ken Burns Effect by trimming the clip’s length and have widened the shot to include everyone, it’s time to preview the changes you have made. Given below are simple steps:
@@ -129,6 +121,14 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
@@ -152,7 +152,7 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -180,21 +180,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-to-use-itop-recorder-a-compelling-case-in-2024/"><u>[Updated] To Use ITop Recorder A Compelling Case, In 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-be-the-best-lifeguard-at-your-friends-tiktok-shores/"><u>2024 Approved Be the Best Lifeguard at Your Friends’ TikTok Shores</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-look-the-tech-behind-m1-max-clip/"><u>2024 Approved Inside Look The Tech Behind M1 Max Clip</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-smart-8-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-disc-to-device-converting-dvds-to-digital-video-files/"><u>In 2024, From Disc to Device Converting DVDs to Digital Video Files</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-hot-40i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Hot 40i Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-with-premium-effects-extensions/"><u>In 2024, Unlock Creative Potential with Premium Effects Extensions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide/"><u>New Adobe Premiere Pro CS6 for macOS Free Download and Install Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-movie-making-magic-top-16-picks/"><u>New Free Movie Making Magic Top 16 Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x/"><u>New Reset and Refresh Fixing Common Issues in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pinnacle-studio-for-mac-best-replacement-options-this-year/"><u>Pinnacle Studio for Mac Best Replacement Options This Year</u></a></li>
-<li><a href="https://driver-install.techidaily.com/precision-tuning-of-samsung-ssds-in-windows-setups-done/"><u>Precision Tuning of Samsung SSDs in Windows Setups [Done]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-your-tiktok-profile-altering-account-numbers-for-2024/"><u>Transforming Your TikTok Profile Altering Account Numbers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-novice-to-master-the-best-animation-makers-for-every-level/"><u>Updated From Novice to Master The Best Animation Makers for Every Level</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-top-3d-video-making-software/"><u>Updated Unleash Your Creativity Top 3D Video Making Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-surpass-your-competition-effective-youtube-seo-tips/"><u>[New] 2024 Approved Surpass Your Competition Effective YouTube SEO Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-boost-engagement-in-stories-tips-for-adding-smoothly-animated-text/"><u>[New] In 2024, Boost Engagement in Stories Tips for Adding Smoothly Animated Text</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-edit-mp4-videos-on-mac-mavericks-a-step-by-step-guide/"><u>2024 Approved How to Edit MP4 Videos on Mac Mavericks A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-closer-look-at-virtualdub-review-benefits-and-top-alternatives/"><u>A Closer Look at Virtualdub Review, Benefits, and Top Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-4k-video-editing-software/"><u>Best 4K Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-advanced-personalization-for-dynamic-websites/"><u>Cookiebot: Advanced Personalization for Dynamic Websites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-3d-videos-top-makers-for-every-budget-for-2024/"><u>Create Stunning 3D Videos Top Makers for Every Budget for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discount-alert-4-ways-to-get-cheap-filmora-subscriptions/"><u>Discount Alert! 4 Ways to Get Cheap Filmora Subscriptions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dont-miss-out-the-best-4k-video-samples-available-for-2024/"><u>Dont Miss Out The Best 4K Video Samples Available for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-copywriting-with-ai-wisdom/"><u>Enhancing Copywriting with AI Wisdom</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/face-swap-frenzy-the-best-mobile-apps-to-try/"><u>Face Swap Frenzy The Best Mobile Apps to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-basic-to-brilliant-mastering-picture-in-picture-in-final-cut-pro-for-2024/"><u>From Basic to Brilliant Mastering Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-free-imgburn-tool-now-ideal-for-transforming-secure-dvds-into-easy-to-use-iso-files/"><u>Get Your Free ImgBurn Tool Now! Ideal for Transforming Secure DVDs Into Easy-to-Use ISO Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-obtaining-printer-and-scanner-drivers-that-are-not-preinstalled-on-windows-nt-os/"><u>Guide: Obtaining Printer and Scanner Drivers that Are Not Preinstalled on Windows nT OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionize-your-social-media-top-downloader-plugins-and-addons-for-fb-on-firefox/"><u>In 2024, Revolutionize Your Social Media Top Downloader Plugins and Addons for FB on Firefox</u></a></li>
+<li><a href="https://fox-info.techidaily.com/magix-composition-wizard-an-audio-editing-experience/"><u>Magix Composition Wizard An Audio Editing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-to-understanding-langchain/"><u>Simplified Guide to Understanding LangChain</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-social-platform-puzzle-where-to-foster-group-connections/"><u>The Social Platform Puzzle: Where to Foster Group Connections?</u></a></li>
 </ul></div>
 

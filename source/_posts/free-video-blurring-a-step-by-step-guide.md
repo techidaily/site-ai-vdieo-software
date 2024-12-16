@@ -1,7 +1,7 @@
 ---
 title: Free Video Blurring A Step-by-Step Guide
-date: 2024-08-15T05:22:45.189Z
-updated: 2024-08-16T05:22:45.189Z
+date: 2024-12-13T16:04:43.110Z
+updated: 2024-12-16T16:02:05.766Z
 tags: 
   - video editing software
   - video editing
@@ -31,6 +31,10 @@ With that said, in the following sections, you will learn about some portals ava
 ## Best Online Tools to Blur Videos
 
 A list of some of the best websites and their essential details are given below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. PickFrom
 
@@ -80,6 +84,10 @@ To **blur part of video online free** with WoFox:
 
 ![Blur videos online with WoFox](https://images.wondershare.com/filmora/article-images/blur-video-online-with-wofox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Limitations of using Wo** **Fox to Blur Video Online**
 
 * In this writing, WoFox cannot differentiate between the normal background and humans.
@@ -121,8 +129,9 @@ To **blur video online** **with** **Flixier**:
 * The maximum resolution for the videos exported with a free account is 720p
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4. Kapwing
 
 Visit: <https://www.kapwing.com/studio>
@@ -156,8 +165,9 @@ To **blur video background online** with Kapwing:
 * Videos of only up to 7 minutes each can be exported with a free account, while the total duration of the videos that can be exported is up to 3 hours.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5. Hippo Video
 
 Visit: <https://www.hippovideo.io/users/sign%5Fin>
@@ -186,9 +196,6 @@ To **blur video background online** for free with Hippo Video:
 * Back on the previous page, click **EXPORT** from the lower area of the preview window.
 * Choose your preferred platform to export and publish the modified video to
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Blur videos online with hippovideo](https://images.wondershare.com/filmora/article-images/blur-video-online-hippo-video.jpg)
 
 **Limitations**
@@ -196,9 +203,6 @@ To **blur video background online** for free with Hippo Video:
 * The video resolution remains 480p while using a free account
 * With the free version, you only get 1GB of bandwidth per month
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6. YouTube Studio
 
 Visit: <https://studio.youtube.com/>
@@ -243,27 +247,29 @@ You can check more details of [blurring videos with YouTube Studio](https://tool
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a versatile post-production application with a built-in video editing tools and effects to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with ease. The tool is usually considered a good competitor of Adobe Premiere Pro, Final Cut Pro X, etc.
 
 Like any other similar program, even Filmora allows you to blur both landscape and portrait videos. The processes of getting these tasks done are given below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Blur a Part of Video (Landscape Video)
 
 **Step 1: Import and Add the Source Video to Timeline**
 
 Launch Wondershare Filmora on your Windows or Mac computer (MacBook Pro M1 is used here), make sure that the **16:9 (Widescreen)** layout preset is selected under the **Select Project Aspect Ratio** section on the flash screen, and click **New Project**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora start window](https://images.wondershare.com/filmora/article-images/filmora-start-window-mac.jpg)
 
 Next, click to select **My Media** from the menu bar if not already selected, and from the navigation pane on the left, select **Project Media**.
 
 ![Filmora project library](https://images.wondershare.com/filmora/article-images/filmora-project-media-library.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click Import from the **Media** box, select and import the source video to the program, drag the clip from the **Media** box to the Timeline at the bottom, and when the confirmation box appears, choose the option either under the **Keep Project Settings** or **Match to Media** sections to add the video to the Timeline.
 
@@ -275,6 +281,10 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 ![add mosaic effects to timeline](https://images.wondershare.com/filmora/article-images/add-mosaic-effect-blur.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Customize the Effect to Blur a Part of Video**
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
@@ -282,14 +292,16 @@ Double-click the **Blur** effect in the Timeline, use the scaling handles in the
 ![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2. Blur a Vertical Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1: Import a Vertical Video and Add It to the Timeline**
 
@@ -299,18 +311,12 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -327,12 +333,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-adding-audio-descriptions-to-videos-on-youtube-for-2024/"><u>[Updated] Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-digital-pioneer-how-jake-paul-mastered-youtube/"><u>[Updated] The Digital Pioneer How Jake Paul Mastered Youtube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-checking-top-5-web-based-or-extension-voice-changers-for-chromebook/"><u>2024 Approved Checking Top 5 Web-Based or Extension Voice Changers for Chromebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/commute-with-convenience-in-car-zoom-calls-coming-to-your-tesla-model/"><u>Commute with Convenience: In-Car Zoom Calls Coming to Your Tesla Model</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-developing-captivating-audio-visual-teasers/"><u>In 2024, Expert Strategies for Developing Captivating Audio-Visual Teasers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mov-video-rotator-top-picks-and-reviews/"><u>In 2024, Free MOV Video Rotator Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotation-made-easy-top-10-tools-and-software/"><u>In 2024, Free Video Rotation Made Easy Top 10 Tools and Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-efficient-editing-embrace-inshot-software/"><u>In 2024, Pioneering Efficient Editing Embrace Inshot Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mx922-software-updates-for-microsoft-windows-users/"><u>Latest Canon PIXMA MX922 Software Updates for Microsoft Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-dailymotion-converter-online/"><u>New Best Free Dailymotion Converter Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-dont-reveal-the-best-video-editing-tools-for-anonymity/"><u>New Blur, Dont Reveal The Best Video Editing Tools for Anonymity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pet-palooza-an-interactive-adventure/"><u>Pet Palooza: An Interactive Adventure</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-reaction-video-editing-software/"><u>The Ultimate List Best Reaction Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-vn-video-editor-pro-pros-cons-and-everything-in-between/"><u>Updated A Closer Look at VN Video Editor Pro Pros, Cons, and Everything in Between</u></a></li>
+</ul></div>
 

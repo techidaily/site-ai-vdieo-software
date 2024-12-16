@@ -1,7 +1,7 @@
 ---
 title: New Free and Easy The Best Online Tone Generator Sites
-date: 2024-12-02T05:25:31.979Z
-updated: 2024-12-03T07:05:18.166Z
+date: 2024-12-13T16:26:56.249Z
+updated: 2024-12-16T16:13:38.150Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top 5 Online Tone Generators
@@ -48,22 +48,22 @@ You can find a number of different options on this website that range from the P
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. [Audio Test File Generators](https://www.audiocheck.net/audiofrequencysignalgenerator%5Findex.php)
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
@@ -73,6 +73,10 @@ In the upper left corner of the new webpage, you’ll be able to see the **Play*
 Making tones on this online platform doesn’t require any effort at all since you can easily control the frequency of the tone using a large slider that is displayed across the entire page. Clicking on the **Play** button will play the tone under the current settings so you can make the necessary adjustments if you’re not happy with the results you’re getting. Several options that let you fine-tune the settings of the tone you’re generating can be found below the frequency slider.
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
 
@@ -94,14 +98,10 @@ There are **four wave types** you can choose from that generate different types 
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,18 +127,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-omnimix-pro-versatile-os-edition/"><u>[New] 2024 Approved OMNIMix Pro Versatile OS Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-best-practices-recording-on-ios-devices/"><u>[New] Best Practices Recording on iOS Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-resolved-mystery-of-absentee-shorts/"><u>[Updated] In 2024, Resolved Mystery of Absentee Shorts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-recording-internet-radios-simplified-tips-and-tricks/"><u>2024 Approved Recording Internet Radios Simplified Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-back-to-normal-fixing-the-one-way-startup-issue-with-outlook/"><u>Getting Back to Normal: Fixing the One-Way Startup Issue with Outlook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-start-to-finish-how-to-record-your-desktop-with-filmora-scrn/"><u>In 2024, From Start to Finish How to Record Your Desktop with Filmora Scrn</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/julys-must-watch-shows-on-discovery-plus-your-comprehensive-guide/"><u>July's Must-Watch Shows on Discovery Plus - Your Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ating-the-world-of-hashtags-to-boost-your-gaming-video-yields-for-2024/"><u>Navigating the World of Hashtags to Boost Your Gaming Video Yields for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere/"><u>New From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-content-10-top-rated-animated-text-generators/"><u>Revolutionize Your Content 10 Top-Rated Animated Text Generators</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android/"><u>Updated Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-editing-free-cutters-and-joiners-for-new-users/"><u>Updated Easy Video Editing Free Cutters and Joiners for New Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-film-lovers-answers-repository/"><u>[New] 2024 Approved Film Lovers' Answers Repository</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-iconic-imagery-stories-a-deep-dive/"><u>[New] In 2024, Iconic Imagery Stories A Deep Dive</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-mpeg-video-concatenation-software-for-2024/"><u>Best Free MPEG Video Concatenation Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-volume-for-a-better-listening-experience-on-windows-10-systems/"><u>Enhancing Audio Volume for a Better Listening Experience on Windows 10 Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mod-video-editing-solutions-expert-approved-choices/"><u>Free MOD Video Editing Solutions Expert-Approved Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-beginner-to-pro-mastering-jump-cuts-in-fcpx-for-2024/"><u>From Beginner to Pro Mastering Jump Cuts in FCPX for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722854357401-tutorial-adjusting-languages-and-regions-on-ios-devices/"><u>Tutorial: Adjusting Languages and Regions on iOS Devices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile-for-2024/"><u>Updated How to Add Emojis To Discord on Desktop Computer and Mobile for 2024</u></a></li>
 </ul></div>
 

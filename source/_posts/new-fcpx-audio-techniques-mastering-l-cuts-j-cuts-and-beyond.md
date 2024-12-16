@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-12-06T10:31:50.554Z
-updated: 2024-12-10T07:37:29.409Z
+date: 2024-12-09T16:17:45.132Z
+updated: 2024-12-16T16:03:33.278Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,24 +131,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-youtube-to-mpeg-transformation-hacks-you-need/"><u>[New] 2024 Approved YouTube-to-MPEG Transformation Hacks You Need</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>[New] In 2024, Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings-zdnet/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/5-best-online-stop-motion-makers-for-2024/"><u>5 Best Online Stop Motion Makers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beginner-friendly-video-editing-apps-no-cost-no-hassle-for-2024/"><u>Beginner-Friendly Video Editing Apps No Cost, No Hassle for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-green-screen-software-for-mac-for-2024/"><u>Best Green Screen Software for Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-q/"><u>Break Free From Q</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-review-for-hero4-black-for-2024/"><u>Complete Review for Hero4 Black for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android-for-2024/"><u>Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dual-display-video-editing-top-free-online-and-offline-apps/"><u>Dual-Display Video Editing Top Free Online and Offline Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-top-online-video-stabilizers-for-a-professional-finish-for-2024/"><u>Free and Fabulous The Top Online Video Stabilizers for a Professional Finish for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-iphone-recording-creating-fb-shareable-reels/"><u>In 2024, Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/launching-liberated-chatgpt-on-windows/"><u>Launching Liberated ChatGPT on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maxsuns-latest-creation-a-unique-reverse-slot-design-for-mini-itx-motherboards/"><u>Maxsun's Latest Creation: A Unique Reverse Slot Design for Mini-ITX Motherboards</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-agni-2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Agni 2 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://discover-data.techidaily.com/mac-ossd/"><u>アクセス・マニュアル: Mac OS上でSDカードと接続する全体的解説</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>[New] 2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-prolonged-patrol-top-endurance-aerial-vehicles-revealed-for-2024/"><u>[New] Prolonged Patrol Top Endurance Aerial Vehicles Revealed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-social-network-showdown-tiktok-vs-snap-for-2024/"><u>[New] Social Network Showdown TikTok Vs Snap for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-creative-with-free-sound-effects-a-final-cut-pro-users-guide-to-enhancing-audio/"><u>2024 Approved Get Creative with Free Sound Effects A Final Cut Pro Users Guide to Enhancing Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>2024 Approved Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/capture-the-moment-freezing-frames-in-videos-made-simple-for-2024/"><u>Capture the Moment Freezing Frames in Videos Made Simple for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-vertical-video-editing-apps-for-mobile/"><u>Edit Like a Pro Top Vertical Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-2023-color-correction-secrets-for-filmmakers-for-2024/"><u>Final Cut Pro 2023 Color Correction Secrets for Filmmakers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-how-to-record-and-edit-your-desktop-with-filmora-scrn/"><u>From Start to Finish How to Record and Edit Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-para-reducir-tamano-de-archivo-de-videos-avi-sin-quitar-su-calidad-con-windows-10/"><u>Guía Paso a Paso Para Reducir Tamaño De Archivo De Videos AVI Sin Quitar Su Calidad Con Windows 10</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-common-reasons-why-your-pcs-cd-rom-drive-fails-to-read-disc-data-solutions-by-yl-tech-experts/"><u>Identifying Common Reasons Why Your PC's CD-ROM Drive Fails to Read Disc Data - Solutions by YL Tech Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-10-best-4k-screen-recorders/"><u>In 2024, 10 Best 4K Screen Recorders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr-2-comprehensive-info-on-latest-announcement-costs-and-release-timeline/"><u>PS VR 2 - Comprehensive Info on Latest Announcement, Costs, and Release Timeline</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again</u></a></li>
 </ul></div>
 

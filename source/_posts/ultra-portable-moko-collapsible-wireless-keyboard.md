@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2024-12-01T04:32:50.928Z
-updated: 2024-12-02T20:48:49.153Z
+date: 2024-12-13T16:15:01.906Z
+updated: 2024-12-16T16:01:43.344Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/wHZ-ZuGaBn8D_tIZ9YtAursona4=/400x300/fi
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -40,6 +36,10 @@ Lifewire / Jeffrey Daniel Chadwick
 [View On Amazon $100](https://www.amazon.com/Kensun-Performance-Portable-Compressor-Inflator/dp/B01J8Y91GC/?tag=lifewire-onsite-prod-20&ascsubtag=4776821%7Cn7137248c5e6f4b0b979879dcac87fc7908%7CB01J8Y91GC)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
@@ -67,6 +67,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -89,10 +93,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -100,7 +100,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
@@ -123,16 +123,12 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -148,6 +144,10 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -174,24 +174,19 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-master-the-art-of-youtube-thumbnails-in-minutes/"><u>[New] Master the Art of YouTube Thumbnails in Minutes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlocking-secrets-to-compelling-youtube-live-thumbnails-for-2024/"><u>[New] Unlocking Secrets to Compelling YouTube Live Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-zoom-meetings-on-windows-10/"><u>[Updated] Navigating Zoom Meetings on Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-scripting-solutions-for-ae/"><u>2024 Approved Best Scripting Solutions for AE</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-steps-to-transform-your-macs-flac-audio-into-mp3-format-without-itunes/"><u>Easy Steps to Transform Your Mac's FLAC Audio Into MP3 Format Without iTunes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-address-missing-jscriptdll-files-on-your-pc/"><u>Effective Techniques to Address Missing Jscript.dll Files on Your PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/online-dailymotion-converter-convert-videos-to-any-format-for-free/"><u>Online Dailymotion Converter Convert Videos to Any Format for Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-copilot-from-your-windows-environment/"><u>Removing Copilot From Your Windows Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-undetected-extra-screen-on-pcs/"><u>Tackling Undetected Extra Screen on PCs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ocial-blade-approach-to-analyzing-youtube-video-performance-metrics-for-2024/"><u>The Social Blade Approach to Analyzing YouTube Video Performance Metrics for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unlock-image-potential-with-editors-essentials/"><u>Unlock Image Potential with Editor's Essentials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-2023-a-step-by-step-guide-to-video-import-and-export/"><u>Updated Adobe Premiere Pro 2023 A Step-by-Step Guide to Video Import and Export</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-music-for-free-top-10-recording-software-options/"><u>Updated Create Music for Free Top 10 Recording Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-top-rated-explainer-video-platforms-for-20/"><u>Updated Discover the Top-Rated Explainer Video Platforms for 20</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-avi-editing-a-step-by-step-guide-to-splitting-and-trimming/"><u>Updated Effortless AVI Editing A Step-by-Step Guide to Splitting and Trimming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-rotate-video-180-with-these-easy-steps/"><u>Updated Final Cut Pro Tutorial Rotate Video 180° with These Easy Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-stitching-5-best-software-for-windows-mac-and-online/"><u>Updated Free MOV Video Stitching 5 Best Software for Windows, Mac, and Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vertical-video-mastery-best-editing-apps-for-iphone-and-android/"><u>Vertical Video Mastery Best Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-cartoon-animation-software-for-android-and-ios/"><u>Best Cartoon Animation Software for Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-vignette-apps-for-ios-and-android-free-and-paid-for-2024/"><u>Best Vignette Apps for iOS and Android Free & Paid for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-minitool-movie-maker-exploring-top-video-editing-software-options/"><u>Beyond Minitool Movie Maker Exploring Top Video Editing Software Options</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-8-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 8 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fantastic-the-top-mov-movie-editing-software-for-2024/"><u>Free and Fantastic The Top MOV Movie Editing Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-and-install-camera-driver-packages-on-windows-11-10-8-and-7-complete-tutorial/"><u>Get and Install Camera Driver Packages on Windows 11, 10, 8 & 7 – Complete Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-instagram-stop-motion-a-comprehensive-tutorial/"><u>Get Creative with Instagram Stop Motion A Comprehensive Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g34-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G34 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-corsair-clicktech-driver-packs-for-enhanced-performance/"><u>Latest Corsair ClickTech Driver Packs for Enhanced Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-detected-accessories-in-windows-10-using-bluetooth-technology/"><u>The Ultimate Fix for Non-Detected Accessories in Windows 10 Using Bluetooth Technology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-igtv-videos-secure-downloading-techniques-for-computers/"><u>Unlocking IGTV Videos Secure Downloading Techniques for Computers</u></a></li>
 </ul></div>
 

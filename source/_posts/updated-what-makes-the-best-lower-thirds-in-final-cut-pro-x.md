@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-12-08T06:30:04.380Z
-updated: 2024-12-10T08:35:45.390Z
+date: 2024-12-14T16:08:16.662Z
+updated: 2024-12-16T16:09:24.604Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -52,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -94,7 +90,11 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -134,7 +134,7 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
@@ -142,10 +142,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -164,6 +160,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -188,18 +188,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-budget-friendly-vr-headsets-that-deliver-immersion/"><u>[Updated] In 2024, Budget-Friendly VR Headsets That Deliver Immersion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-creative-potential-with-new-iphone-x-camera-for-2024/"><u>[Updated] Unlocking Creative Potential with New iPhone X Camera for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-runtime-broker-its-job-in-computing-architecture/"><u>Dissecting the Runtime Broker: Its Job in Computing Architecture</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/exploring-toms-gear-a-deep-dive-into-pc-hardware-insights/"><u>Exploring Tom's Gear: A Deep Dive Into PC Hardware Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-prevent-automatic-steam-renewal/"><u>How to Prevent Automatic Steam Renewal</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-11-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 11 Pro Smoothly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotator-apps-for-iphone-expert-recommendations/"><u>In 2024, Free Video Rotator Apps for iPhone Expert Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebook-meets-video-editing-power-running-windows-and-mac-os-apps/"><u>New Chromebook Meets Video Editing Power Running Windows and Mac OS Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-crack-free-filmora-discover-the-safe-and-legal-way-to-get-it/"><u>New Crack-Free Filmora Discover the Safe and Legal Way to Get It</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>New Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-huawei-nova-y91-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Huawei Nova Y91</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-concealed-cause-for-non-video-alerts-on-fb/"><u>[New] 2024 Approved Unveiling the Concealed Cause for Non-Video Alerts on FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adjust-your-screen-with-confidence-and-ease-iphone/"><u>[New] Adjust Your Screen with Confidence and Ease (iPhone)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-stepwise-voice-transformation-techniques-for-tiktokers/"><u>[Updated] 2024 Approved Stepwise Voice Transformation Techniques for TikTokers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplify-your-schedule-using-free-clocks-wisely/"><u>[Updated] Simplify Your Schedule Using FREE Clocks Wisely</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tailoring-speech-interpretation-a-guide-with-google-translate/"><u>2024 Approved Tailoring Speech Interpretation A Guide with Google Translate</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-video-editing-software-for-windows-10/"><u>2024 Approved Top Video Editing Software for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vn-video-editor-pro-review-does-it-live-up-to-the-hype/"><u>2024 Approved VN Video Editor Pro Review Does It Live Up to the Hype?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-review-pros-cons-and-verdict-for-2024/"><u>AVS Video Editor Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-videos-on-windows-8-with-precision-the-best-editor/"><u>Edit AVI Videos on Windows 8 with Precision The Best Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-basics-to-pro-l-cuts-and-j-cuts-in-final-cut-pro-x-tutorial-for-2024/"><u>From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-console-to-camera-3-simple-video-game-recording-methods/"><u>From Console to Camera 3 Simple Video Game Recording Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-taming-the-obs-timeline-glitches/"><u>In 2024, Taming the OBS Timeline Glitches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5-for-2024/"><u>Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-for-the-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed for the ChatGPT Plugin Marketplace</u></a></li>
 </ul></div>
 
