@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Tutorial Image Cropping Made Easy
-date: 2024-12-12T16:02:22.380Z
-updated: 2024-12-16T16:06:28.460Z
+date: 2024-12-22T17:26:12.112Z
+updated: 2024-12-25T10:55:52.682Z
 tags: 
   - video editing software
   - video editing
@@ -53,6 +53,10 @@ Trimming is the process of removing portions of a video clip without changing th
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
@@ -61,17 +65,9 @@ The easiest way to do this is to click the icon in the lower left corner of the 
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This displays the cropping tools in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
 
@@ -83,6 +79,10 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Drag other corners or edges to further trim the image.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
@@ -92,7 +92,7 @@ When you have trimmed the image the way you want, click the "Done" button in the
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If no other clip is below the trimmed clip, the background will be black.
@@ -111,30 +111,34 @@ There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click the Crop icon, as we illustrated above
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you selected any option except the Inspector, click the Crop button in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
 
@@ -142,17 +146,9 @@ Final Cut displays numbers at the top of the Viewer indicating how much the imag
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Reposition the frame by grabbing inside the rectangle and dragging.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When you are happy with the results, click the Done button in the top right corner.
 
@@ -178,6 +174,10 @@ I use both these techniques frequently in my own editing.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -193,24 +193,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-battle-of-the-capture-tools-obs-studio-against-bandicam-for-2024/"><u>[New] Battle of the Capture Tools OBS Studio Against Bandicam for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools-for-2024/"><u>[New] Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-change-metaverse-advertising-masterclass/"><u>2024 Approved Leading Change Metaverse Advertising Masterclass</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-guide-to-green-screen-software-for-mac-users/"><u>2024 Approved The Ultimate Guide to Green Screen Software for Mac Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-review-pros-cons-and-features-for-2024/"><u>AVS Video Editor Review Pros, Cons, and Features for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-slow-mo-video-editors-for-stunning-visuals/"><u>Best Slow-Mo Video Editors for Stunning Visuals</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-tecno-pova-6-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Pova 6 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slow-motion-top-video-editors-for-dramatic-effects/"><u>Cinematic Slow Motion Top Video Editors for Dramatic Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/download-free-public-domain-videos-from-these-top-websites/"><u>Download Free Public Domain Videos From These Top Websites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-on-steroids-top-40-final-cut-pro-x-keyboard-shortcuts-for-2024/"><u>Editing on Steroids Top 40 Final Cut Pro X Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-avi-video-editing-top-cutters-and-trimmers-for-any-device/"><u>Effortless AVI Video Editing Top Cutters and Trimmers for Any Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-dvd-player-for-windows-10-our-top-10-picks-for-2024/"><u>Free DVD Player for Windows 10 Our Top 10 Picks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-recording-to-editing-the-best-reaction-video-apps-for-mobile/"><u>From Recording to Editing The Best Reaction Video Apps for Mobile</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-audiophiles-guide-to-superior-9-online-mic-tools/"><u>In 2024, Audiophile's Guide to Superior 9 Online Mic Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/real-time-video-sketching-with-movavi-live-draw-over-recorded-footage/"><u>Real-Time Video Sketching with Movavi - Live Draw Over Recorded Footage</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schnelle-behebung-fur-fehlercode-0xc000021a-in-windows-10-expertenrat/"><u>Schnelle Behebung Für Fehlercode 0xC000021A in Windows 10 - Expertenrat</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-edge-40-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cerebral-showcase-2024-exclusive-selection-of-trivia-streaming-sites/"><u>[New] Cerebral Showcase 2024 Exclusive Selection of Trivia Streaming Sites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-replay-gopro-hero5-black-meets-hero4-silver-edition/"><u>[Updated] Action Replay GoPro Hero5 Black Meets Hero4 Silver Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-leading-edge-in-social-media-video-capture-5-apps-reviewed/"><u>2024 Approved The Leading Edge in Social Media Video Capture (5 Apps Reviewed)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-running-a-32-bit-windows-computer-and-looking-for-best-free-video-editing-software-for-32-bit-windows-here-are-top-3-free-video-editing-software-for/"><u>In 2024, Running a 32-Bit Windows Computer and Looking for Best Free Video Editing Software for 32-Bit Windows? Here Are Top 3 Free Video Editing Software for a User Running 32-Bit Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-in-car-security-methods-for-finding-the-secret-code-of-your-vehicles-radio-system/"><u>Mastering In-Car Security: Methods for Finding the Secret Code of Your Vehicle's Radio System</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cartoonize-your-photos-in-seconds/"><u>New Cartoonize Your Photos in Seconds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-6-free-mov-video-cutters/"><u>New Top 6 Free MOV Video Cutters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Computer Enthusiasts by Tom's Hardware</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-picks-for-top-rated-free-srt-translation-tools-for-2024/"><u>Ultimate Picks for Top-Rated Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-for-mac-install-now-or-discover-alternatives/"><u>VN Video Editor for Mac Install Now or Discover Alternatives</u></a></li>
 </ul></div>
 

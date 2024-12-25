@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Adjust Video Shape
-date: 2024-11-28T21:06:13.827Z
-updated: 2024-12-02T23:15:04.076Z
+date: 2024-12-23T01:26:47.846Z
+updated: 2024-12-24T19:12:32.380Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -90,6 +90,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -97,10 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,21 +171,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficient-video-marketing-incorporating-timestamps-effectively/"><u>[New] 2024 Approved Efficient Video Marketing Incorporating Timestamps Effectively</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] 2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-building-your-screencasting-skills-from-the-ground-up/"><u>[New] In 2024, Building Your Screencasting Skills From the Ground Up</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit-for-2024/"><u>Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Huawei P60.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c210-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C210</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-fubotv-on-a-fire-stick/"><u>How to Get FuboTV on a Fire Stick</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-photos-move-the-10-best-animation-tools-for-beginners/"><u>Make Your Photos Move The 10 Best Animation Tools for Beginners</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/story-2-confusing-nash-with-cirrhosis-due-to-alcoholic-liver-disease-ald/"><u>Story 2: Confusing NASH with Cirrhosis Due to Alcoholic Liver Disease (ALD)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcpx-troubleshooting-resource-2023-edition/"><u>The Ultimate FCPX Troubleshooting Resource 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-editing-on-32-bit-windows-for-2024/"><u>The Ultimate Guide to Free Video Editing on 32-Bit Windows for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-3gp-cutter-how-to-cut-3gp-files/"><u>Updated 3GP Cutter How to Cut 3GP Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-metadata-made-simple-8-top-rated-mac-editor-tools/"><u>Video Metadata Made Simple 8 Top-Rated Mac Editor Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best-logo-animation-/"><u>Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/omparative-assessment-youtube-vs-dailymention-for-2024/"><u>[New] Comparative Assessment YouTube Vs. DailyMention for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-get-every-detail-of-your-favorite-movies-macscreencasting-netflix/"><u>[New] In 2024, Get Every Detail of Your Favorite Movies MacScreencasting Netflix</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-fake-followers-trap-on-youtube-landscapes-for-2024/"><u>[New] Unveiling Fake Followers' Trap on YouTube Landscapes for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-social-media-gold-selecting-top-10-powerful-hashtags/"><u>[Updated] 2024 Approved Social Media Gold Selecting Top 10 Powerful Hashtags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-photographers-journey-to-jaw-dropping-colors/"><u>[Updated] A Photographer's Journey to Jaw-Dropping Colors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-master-the-art-of-photo-purity-with-picart/"><u>[Updated] In 2024, Master the Art of Photo Purity with PicArt</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-quick-take-on-vn-video-editors-pc-performance-for-2024/"><u>A Quick Take on VN Video Editors PC Performance for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/advanced-video-editing-made-easy-adobe-premiere-pro-on-mac-for-2024/"><u>Advanced Video Editing Made Easy Adobe Premiere Pro on Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-and-creative-app/"><u>Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-video-editor-for-windows-8-latest-2023-features/"><u>Best AVI Video Editor for Windows 8 Latest 2023 Features</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-images-to-cartoons-with-ease-for-2024/"><u>Convert Images to Cartoons with Ease for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-like-a-pro-on-mac-with-mkvtoolnix-for-2024/"><u>Edit Videos Like a Pro on Mac with MKVtoolnix for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-steam-gifts-joyful-digital-delights/"><u>Effortless Steam Gifts: Joyful Digital Delights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximize-moments-with-engaging-tasks-while-embracing-your-favorite-talk-shows-for-2024/"><u>Maximize Moments with Engaging Tasks While Embracing Your Favorite Talk Shows for 2024</u></a></li>
 </ul></div>
 

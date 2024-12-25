@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-12-11T16:02:01.673Z
-updated: 2024-12-16T16:05:10.376Z
+date: 2024-12-22T23:34:38.225Z
+updated: 2024-12-25T06:33:34.361Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -48,7 +44,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -65,10 +61,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -82,6 +74,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -98,7 +94,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -108,7 +104,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -118,6 +114,10 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,16 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-laugh-out-loud-for-free-easymemes-tutorial/"><u>[New] Laugh Out Loud for Free EasyMemes Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-online-workshop-replay-for-2024/"><u>[New] Online Workshop Replay for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-online-locations-free-quality-alarm-songs/"><u>[New] Optimal Online Locations Free, Quality Alarm Songs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>[Updated] 2024 Approved Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-note-30-vip-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Note 30 VIP and Browser | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mov-video-editor-roundup-top-10-options/"><u>New Free MOV Video Editor Roundup Top 10 Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-avi-video-rotators-a-comprehensive-review/"><u>The Best Free AVI Video Rotators A Comprehensive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-timecode-conversion-tools-online-ios-and-android/"><u>Top 10 Timecode Conversion Tools Online, iOS, and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-stunning-movie-creator-for-mac/"><u>Updated 8 Stunning Movie Creator for Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-download-4k-videos-in-mp4-the-best-conversion-methods-revealed/"><u>Updated Download 4K Videos in MP4 The Best Conversion Methods Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-hulu-recording-guide-for-pcmacios-devices/"><u>[New] Comprehensive Hulu Recording Guide for PC/Mac/iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotation-software-top-picks/"><u>In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-a34-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy A34 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionize-your-photo-editing-skills-with-pixlr-insights/"><u>In 2024, Revolutionize Your Photo Editing Skills with Pixlr Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-stay-ahead-in-snapchat-streaks/"><u>In 2024, The Ultimate Guide Stay Ahead in Snapchat Streaks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-quicktime-video-editing-on-mac-a-beginners-guide-for-2024/"><u>Mastering QuickTime Video Editing on Mac A Beginners Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/most-reliable-image-archiving-sites/"><u>Most Reliable Image Archiving Sites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mpeg-video-splitter-downloads-top-5-picks/"><u>New Free MPEG Video Splitter Downloads Top 5 Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-stabilizer-roundup-the-best-options/"><u>New Free Video Stabilizer Roundup The Best Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-text-animation-tools/"><u>New Top Text Animation Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-best-free-iphone-video-rotators/"><u>Top 5 Best Free iPhone Video Rotators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-robot-vacuums-of-2023-thorough-expert-analysis-and-ratings-engadget/"><u>Ultimate Guide to the Leading Robot Vacuums of 2023: Thorough Expert Analysis and Ratings | Engadget</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3-steps-to-add-a-countdown-timer-in-final-cut-pro-x/"><u>Updated 3 Steps to Add a Countdown Timer in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mobile-video-invitation-makers-top-picks-for-iphone-and-android-users/"><u>Updated In 2024, Mobile Video Invitation Makers Top Picks for iPhone and Android Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210800772-9798886850956-when-i-found-thorns-in-my-garden/"><u>When I found Thorns In My Garden | Free Book</u></a></li>
 </ul></div>
 

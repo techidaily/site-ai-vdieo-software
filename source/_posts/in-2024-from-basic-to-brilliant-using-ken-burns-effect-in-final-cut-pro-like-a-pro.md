@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
-date: 2024-12-02T06:01:38.939Z
-updated: 2024-12-02T17:00:22.975Z
+date: 2024-12-22T08:13:07.275Z
+updated: 2024-12-24T18:30:07.650Z
 tags: 
   - video editing software
   - video editing
@@ -43,10 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -55,6 +51,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -62,7 +62,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -74,6 +74,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -94,7 +98,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -102,10 +106,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,20 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-top-5-compact-camcorders-for-adventure/"><u>[New] 2024 Approved Essential Top 5 Compact Camcorders for Adventure</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ech-tutorial-download-youtube-for-your-idevice-securely/"><u>[New] Tech Tutorial Download YouTube for Your iDevice Securely</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-whats-sweeping-the-web-dive-into-these-8-trending-videos/"><u>[Updated] In 2024, What's Sweeping the Web? Dive Into These 8 Trending Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-wallpaper-image-storage-on-windows-11/"><u>Exploring Wallpaper Image Storage on Windows 11</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guide-merging-mp4-videos-seamlessly-in-windows-11/"><u>Guide: Merging MP4 Videos Seamlessly in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-civi-3-disney-100th-anniversary-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi Civi 3 Disney 100th Anniversary Edition Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-a14-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy A14 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-titles-in-fcpx-a-step-by-step-guide/"><u>Mastering Titles in FCPX A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vn-video-editor-for-mac-or-explore-alternative-options/"><u>New Download VN Video Editor for Mac or Explore Alternative Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-frustration-easy-filmora-coupon-code-access/"><u>Say Goodbye to Frustration Easy Filmora Coupon Code Access</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ssential-handheld-guide-to-youtube-production/"><u>The Essential Handheld Guide to YouTube Production</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-green-screen-apps-for-androidios-best-2023-for-2024/"><u>Top 10 Free Green Screen APPs for Android/iOS Best 2023 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-animation-tools-free-and-premium-options-compared/"><u>Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-9-tips-and-tricks-for-resolving-errors-in-adobe-premiere-pro/"><u>Top 9 Tips and Tricks for Resolving Errors in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-wmv-video-joiner-programs/"><u>Top-Rated Free WMV Video Joiner Programs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-master-the-art-of-livestreaming-tech-tips-for-iosandroid-users/"><u>[New] Master the Art of Livestreaming Tech Tips for iOS/Android Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-aesir-rebellion-skies-of-valhalla/"><u>[Updated] In 2024, Aesir Rebellion Skies of Valhalla</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mp4-made-easy-converting-and-downloading-4k-videos-simplified/"><u>2024 Approved MP4 Made Easy Converting and Downloading 4K Videos Simplified</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>2024 Approved Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-jaw-dropping-slow-mo-videos-with-these-top-10-editors-for-2024/"><u>Create Jaw-Dropping Slow Mo Videos with These Top 10 Editors for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-auditory-immersion-with-canvas-soundscape-tools-for-2024/"><u>Creating Auditory Immersion with Canva's Soundscape Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-avi-video-cutters-top-picks-for-windows-mac-android-iphone-and-online-use-for-2024/"><u>Cutting-Edge AVI Video Cutters Top Picks for Windows, MAC, Android, iPhone, and Online Use for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-production-top-4k-video-editing-software/"><u>Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-crashes-in-civ-5-pc/"><u>Eliminating Crashes in Civ 5-PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-responding-get-back-to-editing-with-these-fixes-for-2024/"><u>FCPX Not Responding? Get Back to Editing with These Fixes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-codes-2024-your-ultimate-guide-to-savings/"><u>Filmora Promo Codes 2024 Your Ultimate Guide to Savings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-crystal-clear-videos-top-picks-for-resolution-enhancement-software-for-2024/"><u>Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/rethinking-content-circulation-facebook-listens-to-user-voices/"><u>Rethinking Content Circulation: Facebook Listens to User Voices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/revolutionizing-the-music-creation-process-through-magix-mentor-x-for-2024/"><u>Revolutionizing the Music Creation Process Through Magix Mentor X for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009621197-solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-error-codes-how-to-fix-a-missing-class-registration/"><u>Troubleshooting Windows Error Codes: How to Fix a Missing Class Registration</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/wiederherstellung-von-geloschten-ordnern-wege-ohne-papierkorb/"><u>Wiederherstellung Von Gelöschten Ordnern - Wege Ohne Papierkorb</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2024-12-13T16:16:07.603Z
-updated: 2024-12-16T16:03:20.959Z
+date: 2024-12-20T16:09:48.209Z
+updated: 2024-12-25T01:40:24.436Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,22 +131,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>[New] Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerating-aesthetic-crafting-instant-collage-for-fb-shares/"><u>2024 Approved Accelerating Aesthetic Crafting Instant Collage for FB Shares</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>2024 Approved Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-the-dangers-of-fabricated-followers-on-feed/"><u>2024 Approved Navigating the Dangers of Fabricated Followers on Feed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-resoudre-les-problemes-de-sauvegarde-non-fonctionnels-sur-windows-eblocs-10/"><u>Comment Résoudre Les Problèmes De Sauvegarde Non Fonctionnels Sur Windows Eblocs 10?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/cryptographic-cantaloupe-does-this-voice-modification-appify-to-magic-find-other-tools/"><u>Cryptographic Cantaloupe Does This Voice Modification Appify to Magic? Find Other Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discount-alert-4-ways-to-save-big-on-filmora-software-for-2024/"><u>Discount Alert! 4 Ways to Save Big on Filmora Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easily-remove-tiktok-watermarks-top-online-services-for-2024/"><u>Easily Remove TikTok Watermarks Top Online Services for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-dvd-playback-made-easy-top-10-windows-10-players/"><u>Free DVD Playback Made Easy Top 10 Windows 10 Players</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-photos-to-film-how-to-create-an-unforgettable-video-for-2024/"><u>From Photos to Film How to Create an Unforgettable Video for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects-for-2024/"><u>Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xs-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XS You Should Try Out</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-musical-enhancements-for-powerpoint/"><u>The Ultimate Guide to Musical Enhancements for PowerPoint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vivid-twitter-visuals-the-journey-to-full-hd-viewing/"><u>[New] In 2024, Vivid Twitter Visuals The Journey to Full HD Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] 6 Video Styles for Maximum Viewer Engagement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-illuminating-images-techniques-in-color-science/"><u>[Updated] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[Updated] In 2024, Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-differences-between-standard-and-premium-youtube-viewing-for-2024/"><u>[Updated] The Differences Between Standard and Premium YouTube Viewing for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-discovering-open-source-masterpieces-and-resources/"><u>2024 Approved Discovering Open-Source Masterpieces & Resources</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>2024 Approved From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mastering-slow-mo-a-step-by-step-guide-to-windows-live-movie-maker/"><u>2024 Approved Mastering Slow-Mo A Step-by-Step Guide to Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-3d-animation-tools-free-and-premium-options-compared/"><u>2024 Approved Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-engaging-videos-with-these-10-free-whiteboard-animation-tools-windows-and-mac-compatible/"><u>Create Engaging Videos with These 10 Free Whiteboard Animation Tools (Windows and Mac Compatible)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-with-ease-best-video-editor-for-windows-8-for-2024/"><u>Edit MP4 Files with Ease Best Video Editor for Windows 8 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-gopro-videos-on-pc-quik-alternatives-and-more-for-2024/"><u>Editing GoPro Videos on PC Quik, Alternatives, and More for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-flv-video-editing-on-windows-8-the-ultimate-guide-for-2024/"><u>Effortless FLV Video Editing on Windows 8 The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-strategies-for-effective-instagram-video-interactions-for-2024/"><u>Expert Strategies for Effective Instagram Video Interactions for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-connect-windows-desktop-to-television-with-googles-chromecast-device/"><u>Step-by-Step Tutorial: Connect Windows Desktop to Television with Google's Chromecast Device</u></a></li>
 </ul></div>
 

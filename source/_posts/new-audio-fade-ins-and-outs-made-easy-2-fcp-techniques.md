@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-12-12T16:00:05.324Z
-updated: 2024-12-16T16:21:22.900Z
+date: 2024-12-22T02:56:15.371Z
+updated: 2024-12-25T10:04:11.396Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -56,25 +52,29 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,6 +101,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -114,10 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,15 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-preeminent-zero-price-stock-image-sites/"><u>[New] In 2024, Preeminent Zero-Price Stock Image Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-peak-panzoid-structures-for-beginners/"><u>[New] Peak Panzoid Structures for Beginners</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-split-screen-audio-logging-for-2024/"><u>[New] Split Screen Audio Logging for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>[Updated] In 2024, Innovative iPhone & iPad Video Players The 10 Best Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-list-of-3d-video-software-you-should-know/"><u>2024 Approved The Ultimate List of 3D Video Software You Should Know</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-autonomous-windows-speech-transcription-app-with-whisper-aid/"><u>Crafting an Autonomous Windows Speech Transcription App with Whisper Aid</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-on-a-budget-how-to-get-it-without-breaking-the-law/"><u>Filmora on a Budget How to Get It Without Breaking the Law</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-top-10-picks-for-mp4-files-for-2024/"><u>Free Video Editing Software Top 10 Picks for MP4 Files for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/et-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>[New] Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-7-fps-titles-you-cant-miss/"><u>[New] Prime 7 FPS Titles You Can't Miss</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-freeze-whole-website-panel/"><u>[Updated] In 2024, Freeze Whole Website Panel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 15 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-quick-charges-and-longevity-in-jabra-voice-talk-25/"><u>Exploring Quick Charges and Longevity in Jabra Voice Talk 25</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-download-videoleap-on-macbook/"><u>In 2024, How to Download Videoleap on MacBook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lenovo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lenovo FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-approach-to-revamping-your-videos-cover-images-on-fb-for-2024/"><u>Innovative Approach to Revamping Your Videos' Cover Images on FB for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-fcpx-stabilization-secrets/"><u>Take Your Videos to the Next Level FCPX Stabilization Secrets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-value-video-editing-software/"><u>The Best Value Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-animation-software-for-bringing-photos-to-life/"><u>Top 10 Animation Software for Bringing Photos to Life</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-video-background-blur-apps-for-mobile-devices-for-2024/"><u>Top Video Background Blur Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download/"><u>Updated Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download)</u></a></li>
 </ul></div>
 

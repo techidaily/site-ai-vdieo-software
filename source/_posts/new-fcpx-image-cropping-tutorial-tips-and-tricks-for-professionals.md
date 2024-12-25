@@ -1,7 +1,7 @@
 ---
 title: New FCPX Image Cropping Tutorial Tips and Tricks for Professionals
-date: 2024-10-14T17:51:13.940Z
-updated: 2024-10-18T19:21:48.003Z
+date: 2024-12-18T04:43:21.045Z
+updated: 2024-12-25T05:31:31.438Z
 tags: 
   - video editing software
   - video editing
@@ -33,6 +33,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Crop an Image in Final Cut Pro X
 
@@ -75,6 +79,10 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Drag other corners or edges to further trim the image.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
@@ -83,9 +91,17 @@ When you have trimmed the image the way you want, click the "Done" button in the
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If no other clip is below the trimmed clip, the background will be black.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
 
@@ -98,6 +114,10 @@ Cropping allows us to select just a portion of a video clip, without creating an
 There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click the Crop icon, as we illustrated above
 
@@ -116,6 +136,10 @@ If you selected any option except the Inspector, click the Crop button in the Vi
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
 
 Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
@@ -125,6 +149,10 @@ Final Cut displays numbers at the top of the Viewer indicating how much the imag
 Reposition the frame by grabbing inside the rectangle and dragging.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you are happy with the results, click the Done button in the top right corner.
 
@@ -165,37 +193,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-7-best-budget-mirrorless-4k-cameras-under-1000/"><u>[New] 7 Best Budget Mirrorless 4K Cameras Under $1000</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-essential-tools-for-creative-video-content-for-2024/"><u>[Updated] Essential Tools for Creative Video Content for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-dramatic-writing-site/"><u>[Updated] In 2024, Best Dramatic Writing Site</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-venture-made-easy-the-most-accessible-biz-channel-ideas-ranked/"><u>[Updated] In 2024, YouTube Venture Made Easy The Most Accessible Biz Channel Ideas Ranked</u></a></li>
-<li><a href="https://article-posts.techidaily.com/assessing-negative-impacts-of-vr-for-2024/"><u>Assessing Negative Impacts of VR for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/budget-recording-tools-the-ultimate-guide-for-windows-for-2024/"><u>Budget Recording Tools The Ultimate Guide for Windows for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android-for-2024/"><u>Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-earning-maestro-of-video-content/"><u>Global Earning Maestro of Video Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>In 2024, Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>In 2024, The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>New Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortlessly-blur-video-footage-on-iphone-and-android-devices/"><u>New Effortlessly Blur Video Footage on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-chaos-to-control-how-to-effectively-save-and-manage-fcp-projects/"><u>New From Chaos to Control How to Effectively Save and Manage FCP Projects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-best-pc-video-dubbing-programs-reviews-and-downloads/"><u>S Best PC Video Dubbing Programs Reviews and Downloads</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-professional-color-in-fcp-tips-and-tricks/"><u>Unlock Professional Color in FCP Tips and Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-android-essentials-must-have-apps-from-google-play/"><u>Updated Android Essentials Must-Have Apps From Google Play</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-3d-videos-best-free-and-paid-software/"><u>Updated Create Stunning 3D Videos Best Free and Paid Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-similar-software-or-alternatives-to-virtualdub/"><u>Updated Similar Software or Alternatives to VirtualDub</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-mac-os-x-mavericks-a-beginners-guide/"><u>Video Editing on Mac OS X Mavericks A Beginners Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>[New] Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[New] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-increasing-roi-mastering-the-art-of-fb-animation-ads-for-2024/"><u>[Updated] Increasing ROI Mastering the Art of FB Animation Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-superior-ff-videograbber-package-easy-and-reliable/"><u>[Updated] Superior FF Videograbber Package - Easy and Reliable</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>2024 Approved Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/easy-guide-converting-iso-files-into-h264-format/"><u>Easy Guide: Converting ISO Files Into H264 Format</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8-for-2024/"><u>Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fake-it-top-online-face-generators-for-creating-artificial-faces/"><u>Fake It! Top Online Face Generators for Creating Artificial Faces</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-mastering-time-manipulation/"><u>FCPX Essentials Mastering Time Manipulation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-freeze-frames-and-slow-motion-for-2024/"><u>Final Cut Pro X Freeze-Frames and Slow Motion for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-solutions-for-32-bit-windows-our-top-picks-for-2024/"><u>Free Video Editing Solutions for 32-Bit Windows Our Top Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-fcp-to-vhs-easy-techniques-for-a-retro-look/"><u>From FCP to VHS Easy Techniques for a Retro Look</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-free-video-editing-top-tools-for-32-bit-windows/"><u>Get Started with Free Video Editing Top Tools for 32-Bit Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-optimize-your-productivity-with-copilot-features-in-microsoft-teams/"><u>How to Optimize Your Productivity with Copilot Features in Microsoft Teams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-exploring-per-view-money-flow-among-youtubers/"><u>In 2024, Exploring Per-View Money Flow Among YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>In 2024, Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>In 2024, Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/qbf-otl-dg-quick-brown-fox-jump-over-lazy-dog/"><u>QBF O/Tl DG - Quick Brown Fox Jump Over Lazy Dog</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2024-12-15T16:07:02.832Z
-updated: 2024-12-16T16:05:55.524Z
+date: 2024-12-20T18:52:56.090Z
+updated: 2024-12-24T17:50:19.249Z
 tags: 
   - video editing software
   - video editing
@@ -49,7 +49,7 @@ The term auditions are commonly used on FCP platform that represents sets of som
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now in order to record voice over FCP, you need to follow the steps as below:
@@ -64,13 +64,13 @@ Now in order to start your recording, you need to press Shift+A from the keyboar
 
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The countdown will automatically start.
 
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -80,13 +80,13 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -107,7 +107,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
@@ -119,11 +119,11 @@ It is also possible to extract desired recordings from auditions; for example if
 
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -152,17 +152,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-tiktok-age-update-made-simple-user-friendly-techniques-for-2024/"><u>[New] TikTok Age Update Made Simple User-Friendly Techniques for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-implementing-instagram-story-opinion-polls-effectively/"><u>2024 Approved Implementing Instagram Story Opinion Polls Effectively</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leading-edge-webcams-and-camcorders-for-windows-11-pcs/"><u>2024 Approved Leading Edge Webcams & Camcorders for Windows 11 PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/crop-trim-and-refine-mastering-image-editing-in-fcpx/"><u>Crop, Trim, and Refine Mastering Image Editing in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts-for-2024/"><u>FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mkv-video-editing-software-top-cutting-tools/"><u>Free MKV Video Editing Software Top Cutting Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-editors-that-rival-imovie-2023-edition-for-2024/"><u>Free Online Video Editors That Rival iMovie (2023 Edition) for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s17t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S17t to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-problems-in-steams-remote-play-functionality/"><u>Overcoming Common Problems in Steam's Remote Play Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-frozen-usb-hub-issue-a-windows-approach/"><u>Overcoming Frozen USB Hub Issue - A Windows Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-speed-potential-with-easy-ssd-transition-steps/"><u>Unlocking Speed Potential with Easy SSD Transition Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-increase-igtv-views-strategic-use-of-hashtags/"><u>[New] 2024 Approved Increase IGTV Views Strategic Use of Hashtags</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies-for-2024/"><u>[New] Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-visual-storytelling-the-top-cinematic-secrets-for-2024/"><u>[Updated] Mastering Visual Storytelling The Top Cinematic Secrets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfect-iphone-silhouette-captures-101/"><u>[Updated] Perfect iPhone Silhouette Captures 101</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-virtual-venue-vaults-audiences-for-2024/"><u>[Updated] Virtual Venue Vaults Audiences for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v27e-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V27e Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-movies-like-a-pro-best-windows-10-video-editors-for-2024/"><u>Make Movies Like a Pro Best Windows 10 Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-had-you-ever-thought-about-inserting-a-countdown-timer-in-your-video-clip-do-you-want-to-try-one-this-article-gives-you-the-best-insights-on-the-inserti/"><u>New Had You Ever Thought About Inserting a Countdown Timer in Your Video Clip? Do You Want to Try One? This Article Gives You the Best Insights on the Insertion of the Countdown Timer in the Final Cut Pro X Application. Quickly Step Into the Below Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-with-the-trending-of-videos-more-and-more-people-are-likely-to-create-videos-to-help-people-figure-out-the-best-free-online-video-editing-tools-ive-test/"><u>New With the Trending of Videos, More and More People Are Likely to Create Videos. To Help People Figure Out the Best Free Online Video Editing Tools, Ive Tested some Online Video Editors on the Market A</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-stability-issues-essential-fixes-for-guardians-of-the-galaxy-game-crashes-on-windows/"><u>Solving Stability Issues: Essential Fixes for 'Guardians of the Galaxy' Game Crashes on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-editing-mastery-3-advanced-transition-techniques/"><u>Updated FCP Editing Mastery 3 Advanced Transition Techniques</u></a></li>
 </ul></div>
 

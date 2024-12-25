@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2024-11-29T19:51:21.547Z
-updated: 2024-12-03T11:26:36.745Z
+date: 2024-12-20T10:15:49.759Z
+updated: 2024-12-25T07:56:31.009Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,18 +131,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-explore-the-most-effective-zoom-screen-recorders/"><u>[New] Explore the Most Effective Zoom Screen Recorders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers/"><u>[Updated] 2024 Approved Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-magix-pixel-mastery-review/"><u>[Updated] Exploring MAGIX Pixel Mastery Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleashing-potential-with-the-vida-editing-suite-for-2024/"><u>[Updated] Unleashing Potential with the Vida Editing Suite for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-apple-devices-with-easy-recording/"><u>2024 Approved Streamline Your Apple Devices with Easy Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-lightroom-alternative-insights/"><u>In 2024, Photoshop Lightroom Alternative Insights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-3d-animation-makers-for-stunning-videos/"><u>New Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-concept-to-reality-10-best-music-video-making-platforms/"><u>New From Concept to Reality 10 Best Music Video Making Platforms</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-online-trailer-production-services/"><u>Professional Online Trailer Production Services</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-crowd-favorite-a-versatile-powerhouse-notebook-excels-in-performance-and-build-quality-insights-from-zdnet/"><u>Top Rated Crowd Favorite: A Versatile Powerhouse Notebook Excels in Performance and Build Quality - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-top-free-video-effects-apps-for-iphone-and-android/"><u>Unleash Creativity Top Free Video Effects Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bringing-memories-to-life-a-step-by-step-final-cut-pro-slideshow-creation-tutorial/"><u>Updated Bringing Memories to Life A Step-by-Step Final Cut Pro Slideshow Creation Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-for-free-top-online-video-editor-options/"><u>Updated Edit Like a Pro for Free Top Online Video Editor Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>[New] Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-regulatory-challenges-in-todays-complex-markets/"><u>[Updated] Navigating Regulatory Challenges in Today's Complex Markets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-your-guide-to-crafting-engaging-text-based-roleplay-games/"><u>ChatGPT: Your Guide to Crafting Engaging Text-Based Roleplay Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide-for-2024/"><u>Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-cut-large-videos-faster-on-mac/"><u>Easily Cut Large Videos Faster on Mac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/erfolgreiches-datenerholungsverfahren-fur-altere-hardware-tipps-und-tricks-zur-rettung-ihrer-dateien/"><u>Erfolgreiches Datenerholungsverfahren Für Ältere Hardware: Tipps Und Tricks Zur Rettung Ihrer Dateien!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-implemented-accessing-origin-accounts-is-possible-again/"><u>Fix Implemented! Accessing Origin Accounts Is Possible Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-crash-error-for-a-smooth-football-manager-2022-experience-on-your-computer/"><u>Fixing the Crash Error for a Smooth Football Manager 2022 Experience on Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-sideways-to-straight-quick-video-flipping-solutions-for-2024/"><u>From Sideways to Straight Quick Video Flipping Solutions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gaming-galore-top-websites-to-download-games-for-2024/"><u>Gaming Galore Top Websites to Download Games for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/hand-drawing-whiteboard-animation-made-easy-top-tools/"><u>Hand Drawing Whiteboard Animation Made Easy Top Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
 

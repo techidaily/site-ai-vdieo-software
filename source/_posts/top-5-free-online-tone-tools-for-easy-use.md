@@ -1,7 +1,7 @@
 ---
 title: Top 5 Free Online Tone Tools for Easy Use
-date: 2024-12-11T16:05:40.196Z
-updated: 2024-12-16T16:06:34.665Z
+date: 2024-12-18T03:15:13.049Z
+updated: 2024-12-24T22:51:17.083Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 Online Tone Generators
 
 Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
@@ -45,7 +49,7 @@ You can find a number of different options on this website that range from the P
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
@@ -55,7 +59,7 @@ You can insert any frequency value you want or choose between **Sine, Square, Sa
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
@@ -81,7 +85,7 @@ The free version of this website offers only a **limited amount of tones** that 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/wavtones-online-tone-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **WavtonesAudio Frequency Signal Generator** allows you to alter the properties of each tone it offers, even if you’re using the free version, but you can’t listen to any of the available tones before you download them. This makes it a bit more difficult to generate a tone in accordance with your current demands. Furthermore, the **Bit Depth** of all tones the free version of this online tone generator provides is limited to 16-bit.
@@ -95,7 +99,7 @@ There are **four wave types** you can choose from that generate different types 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
@@ -107,10 +111,6 @@ The scope of options different online tone generators provide can vary. That is 
 What is your favorite method of generating tones? Leave a comment below and let us know.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -127,21 +127,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/tep-by-step-imovie-videos-on-your-youtube-channel/"><u>[New] Step-by-Step IMovie Videos on Your YouTube Channel</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-cut-the-clutter-advanced-techniques-for-cam-recordings/"><u>[Updated] 2024 Approved Cut the Clutter Advanced Techniques for Cam Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-integration-offline-watching-of-youtube-via-ios/"><u>[Updated] Seamless Integration Offline Watching of YouTube via iOS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>2024 Approved Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-/"><u>2024 Approved Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-iphone-and-ipad-apps-for-watching-movie-trailers-for-2024/"><u>Best iPhone and iPad Apps for Watching Movie Trailers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-limits-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>Break Free From Limits Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easy-video-editor-for-mac-mkvtoolnix-review-for-2024/"><u>Easy Video Editor for Mac MKVtoolnix Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-webm-video-editing-software-top-10-picks/"><u>Free WebM Video Editing Software Top 10 Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed-for-2024/"><u>From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-noticed-top-rated-free-animated-logo-creators-plus-creative-insights/"><u>Get Noticed Top-Rated Free Animated Logo Creators + Creative Insights</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>In 2024, A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-home-vr-construct-how-to-assemble-your-own-google-cardboard/"><u>In 2024, Home VR Construct How to Assemble Your Own Google Cardboard</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-a2-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi A2 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-starting-problems-with-outriders-game-for-pc-users/"><u>Overcoming Starting Problems with Outriders Game for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-not-starting-troubleshooting-solutions-found/"><u>Valheim Not Starting : Troubleshooting Solutions Found</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mov-file-saving-techniques-for-windows-11-users-for-2024/"><u>[New] .MOV File Saving Techniques for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-decoding-youtubes-operations-following-uploads/"><u>[New] Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-digital-cinematographer-hub/"><u>[Updated] Digital Cinematographer Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-capture-to-share-streamlining-logitech-webcam-recordings/"><u>[Updated] From Capture to Share Streamlining Logitech Webcam Recordings</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-step-by-step-guide-moving-your-conversations-from-one-android-device-to-another-on-viber/"><u>1. Step-by-Step Guide: Moving Your Conversations From One Android Device to Another on Viber</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-dailymotion-video-converters-online/"><u>Best Free DailyMotion Video Converters Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-way-to-convert-4k-videos-to-mp4-fast-free-and-easy/"><u>Best Way to Convert 4K Videos to MP4 Fast, Free, and Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/budget-friendly-filmmaking-essentials-software-you-need-for-2024/"><u>Budget-Friendly Filmmaking Essentials Software You Need for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker-for-2024/"><u>Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-kinemaster-for-macstep-by-step-guide/"><u>Download KineMaster for MacStep-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-now-top-20-premiere-pro-title-templates/"><u>Download Now Top 20 Premiere Pro Title Templates</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-insight-my-journey-in-creating-a-3d-printer-crafted-aircraft-model/"><u>Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-achieve-pro-level-video-stability/"><u>FCPX Essentials How to Achieve Pro-Level Video Stability</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-watermark-removal-free-and-paid-methods-for-2024/"><u>Filmora Watermark Removal Free and Paid Methods for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-platforms-simplifying-group-chats/"><u>Innovative Platforms Simplifying Group Chats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-integration-seamless-functionality-in-google-sheets-docs-and-more/"><u>Mastering ChatGPT Integration: Seamless Functionality in Google Sheets, Docs & More</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/to-expunge-your-youtube-queue-of-postponed-content-for-2024/"><u>Tips to Expunge Your YouTube Queue of Postponed Content for 2024</u></a></li>
 </ul></div>
 

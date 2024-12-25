@@ -1,7 +1,7 @@
 ---
 title: New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-12-09T16:17:45.132Z
-updated: 2024-12-16T16:03:33.278Z
+date: 2024-12-21T22:45:11.387Z
+updated: 2024-12-25T10:51:31.924Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,19 +131,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>[New] 2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-prolonged-patrol-top-endurance-aerial-vehicles-revealed-for-2024/"><u>[New] Prolonged Patrol Top Endurance Aerial Vehicles Revealed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-social-network-showdown-tiktok-vs-snap-for-2024/"><u>[New] Social Network Showdown TikTok Vs Snap for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-creative-with-free-sound-effects-a-final-cut-pro-users-guide-to-enhancing-audio/"><u>2024 Approved Get Creative with Free Sound Effects A Final Cut Pro Users Guide to Enhancing Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>2024 Approved Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/capture-the-moment-freezing-frames-in-videos-made-simple-for-2024/"><u>Capture the Moment Freezing Frames in Videos Made Simple for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-vertical-video-editing-apps-for-mobile/"><u>Edit Like a Pro Top Vertical Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-2023-color-correction-secrets-for-filmmakers-for-2024/"><u>Final Cut Pro 2023 Color Correction Secrets for Filmmakers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-how-to-record-and-edit-your-desktop-with-filmora-scrn/"><u>From Start to Finish How to Record and Edit Your Desktop with Filmora Scrn</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-para-reducir-tamano-de-archivo-de-videos-avi-sin-quitar-su-calidad-con-windows-10/"><u>Guía Paso a Paso Para Reducir Tamaño De Archivo De Videos AVI Sin Quitar Su Calidad Con Windows 10</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-common-reasons-why-your-pcs-cd-rom-drive-fails-to-read-disc-data-solutions-by-yl-tech-experts/"><u>Identifying Common Reasons Why Your PC's CD-ROM Drive Fails to Read Disc Data - Solutions by YL Tech Experts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-10-best-4k-screen-recorders/"><u>In 2024, 10 Best 4K Screen Recorders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps-vr-2-comprehensive-info-on-latest-announcement-costs-and-release-timeline/"><u>PS VR 2 - Comprehensive Info on Latest Announcement, Costs, and Release Timeline</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-fest-the-ultimate-list-of-hilarious-youtube-personalities/"><u>[Updated] In 2024, Chuckle Fest The Ultimate List of Hilarious YouTube Personalities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-top-hd-video-recorders-for-2024/"><u>[Updated] Ultimate Guide to Top HD Video Recorders for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smartest-screens-top-11-general-knowledge-channels/"><u>2024 Approved Smartest Screens Top 11 General Knowledge Channels</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-croatias-linguistic-landscape-with-these-essential-phrases/"><u>Conquer Croatia's Linguistic Landscape with These Essential Phrases!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-the-autoplay-feature-in-your-apple-music-library/"><u>Disabling the Autoplay Feature in Your Apple Music Library</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-action-cams-for-beginners/"><u>In 2024, Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-divx-files-updated-2023/"><u>New Best Free Video Cutting Software for Divx Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-editing-software-for-splitting-wmv-files/"><u>New Best Free Video Editing Software for Splitting WMV Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>New From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-fastest-way-to-convert-4k-videos-to-mp4-no-technical-expertise-needed/"><u>The Fastest Way to Convert 4K Videos to MP4 No Technical Expertise Needed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-newest-player-in-ai-chatter-googles-bard-poses-serious-competition-for-chatgpt/"><u>The Newest Player in AI Chatter: Google's Bard Poses Serious Competition for ChatGPT</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-compression-on-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Free Video Compression on iPhone and iPad for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-vob-video-editing-tools/"><u>The Ultimate Guide to Free VOB Video Editing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transition-tactics-in-audio-leveraging-adobes-fading-effects/"><u>Transition Tactics in Audio Leveraging Adobe’s Fading Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-comprehensive-guide-to-using-wax-for-free-video-editing/"><u>Unleash Your Creativity A Comprehensive Guide to Using Wax for Free Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-is-my-choice-of-top-10-adobe-premiere-plugins-tools-that-i-find-the-most-useful-premiere-pro-plugins-fit-quite-well-with-your-video-check-this-/"><u>Updated Here Is My Choice of Top 10 Adobe Premiere Plugins Tools that I Find the Most Useful. Premiere Pro Plugins Fit Quite Well with Your Video. Check This Article to Know More</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-acoustic-harmony-optimal-eq-settings-guide-for-2024/"><u>Updated Mastering Acoustic Harmony Optimal EQ Settings Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-avchd-video-editing-software/"><u>Updated Top 5 AVCHD Video Editing Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering FCP Editing Audio Like a Pro
-date: 2024-11-29T18:07:45.796Z
-updated: 2024-12-03T13:24:49.112Z
+date: 2024-12-22T05:09:41.996Z
+updated: 2024-12-24T19:52:45.508Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -46,12 +50,16 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -68,10 +76,6 @@ In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
 The Audio Inspector would allow you to apply the following effects:
@@ -82,7 +86,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
@@ -90,7 +94,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -102,10 +106,6 @@ The Audio Inspector would allow you to apply the following effects:
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -122,18 +122,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>[New] Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[New] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-gaming-evolved-streaming-xbox-content-on-facebook/"><u>2024 Approved Gaming Evolved Streaming Xbox Content on Facebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>2024 Approved Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensively-addressing-winservicesexe-concerns/"><u>Comprehensively Addressing Winservices.exe Concerns</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-leading-mesh-wi-fi-solutions-for-home-and-office-2024-edition/"><u>Discover the Leading Mesh Wi-Fi Solutions for Home and Office - 2024 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-laggard-to-lightning-pick-8-apps-now-for-2024/"><u>From Laggard to Lightning Pick 8 Apps Now for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/official-announcement-filmora-x-now-supports-arm-for-2024/"><u>Official Announcement Filmora X Now Supports ARM for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-power-user-20-shortcuts-to-save-time/"><u>Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Video Collage Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated Discover the Best Free Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users-for-2024/"><u>Beyond Quik Exploring the Best PC Video Editing Software for GoPro Users for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-epic-trailers-top-movie-maker-software-for-mac-and-pc-for-2024/"><u>Create Epic Trailers Top Movie Maker Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-mobile-filmmaking-the-top-iphone-video-editing-apps-for-2024/"><u>Elevate Your Mobile Filmmaking The Top iPhone Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/explainer-video-software-review-the-top-contenders-for-2024/"><u>Explainer Video Software Review The Top Contenders for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-effects-made-simple-a-quick-3-step-tutorial/"><u>FCP X Effects Made Simple A Quick 3-Step Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-your-footage-easy-final-cut-pro-tutorial-for-2024/"><u>Flip Your Footage Easy Final Cut Pro Tutorial for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-stunning-how-to-create-stop-motion-videos-on-instagram/"><u>From Still to Stunning How to Create Stop Motion Videos on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-the-great-1080p-video-editing-software-to-edit-1080p-videos-for-2024/"><u>Get the Great 1080P Video Editing Software to Edit 1080P Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c33-2023-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme C33 2023 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-modify-image-scale-on-both-windows-and-macos-effortlessly/"><u>How to Modify Image Scale on Both Windows & macOS Effortlessly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro to Roku? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-image-potential-the-importance-of-luts/"><u>In 2024, Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nintendo-face-off-features-performance-and-value-of-switch-lite-vs-switch-oled/"><u>Nintendo Face-Off: Features, Performance, and Value of Switch Lite vs Switch OLED</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-geforce-gtx-3070-ti-windows-drivers-compatible-with-windows-10-8-and-7/"><u>Official GeForce GTX 3070 Ti Windows Drivers: Compatible with Windows 10, 8 and 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
 </ul></div>
 

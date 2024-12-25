@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Videos Mastering Lower Thirds in FCPX
-date: 2024-12-13T16:16:30.188Z
-updated: 2024-12-16T16:20:55.872Z
+date: 2024-12-21T08:28:24.777Z
+updated: 2024-12-24T19:00:08.052Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -52,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -66,6 +62,10 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -94,7 +94,11 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -134,7 +138,7 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
@@ -142,10 +146,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -188,18 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>[New] 2024 Approved Becoming a Broadcast Pro Zooming Into YouTube Live Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unraveling-mukbang-the-art-of-feast-filled-vlogs/"><u>[Updated] In 2024, Unraveling Mukbang The Art of Feast-Filled Vlogs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-processes-how-to-make-and-modify-multi-snap-chats/"><u>[Updated] Streamlined Processes How To Make & Modify Multi-Snap Chats</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-systems-offers-free-download-of-premiere-pro-cs6-for-mac-for-2024/"><u>Adobe Systems Offers Free Download of Premiere Pro CS6 for Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-browser-based-vertical-video-editing-solutions/"><u>Best Browser-Based Vertical Video Editing Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-13-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 13</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-footage-expert-video-editing-advice-for-stunning-home-videos/"><u>Elevate Your Footage Expert Video Editing Advice for Stunning Home Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-review-videopad-video-editor-the-good-the-bad-and-the-ugly-for-2024/"><u>Expert Review Videopad Video Editor - The Good, the Bad, and the Ugly for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-camera-to-computer-a-beginners-guide-to-editing-nikon-videos-for-2024/"><u>From Camera to Computer A Beginners Guide to Editing Nikon Videos for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-d3dx941dll-file-not-found-step-by-step-solution-guide/"><u>Resolving 'd3dx9_41.dll' File Not Found? Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unlocking-the-potential-of-gopros-burst-functionality-for-2024/"><u>Unlocking the Potential of GoPro's Burst Functionality for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-smooth-cuts-and-seamless-edits-top-6-mac-videos-editors/"><u>[New] 2024 Approved Smooth Cuts and Seamless Edits Top 6 Mac Videos Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-videos-at-full-hd-your-watchful-pathway/"><u>[New] Twitter Videos at Full HD - Your Watchful Pathway</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-the-secrets-to-building-trust-with-fb-giveaways-for-2024/"><u>[New] Unlocking the Secrets to Building Trust with FB Giveaways for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-recording-gear-the-ultimate-voice-recorders-2023-for-2024/"><u>[Updated] Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mac-users-adding-the-social-app-snapchat/"><u>2024 Approved Mac Users Adding the Social App Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-camera-allocation-conflict-on-windows-os/"><u>Handling Camera Allocation Conflict on Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-p55-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel P55 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-spinning-tales-embracing-the-full-rotational-vision/"><u>In 2024, Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/kindly-follow-me-through-the-different-options-that-you-have-on-how-you-can-capture-and-share-your-ps4-screenshots/"><u>Kindly Follow Me Through the Different Options that You Have on How You Can Capture and Share Your PS4 Screenshots</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-content-strategy-after-the-facebook-revamp-for-2024/"><u>Mastering Content Strategy After the Facebook Revamp for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/maximize-your-gopro-footage-effortless-video-editing-on-macbook-with-quik/"><u>Maximize Your GoPro Footage Effortless Video Editing on MacBook with Quik</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/merge-wmv-files-with-ease-the-best-free-tools/"><u>Merge WMV Files with Ease The Best Free Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-get-animated-the-top-10-software-for-creating-stunning-2d-animations/"><u>New Get Animated The Top 10 Software for Creating Stunning 2D Animations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/seamless-edits-the-top-5-free-online-video-combining-tools-you-should-know/"><u>Seamless Edits The Top 5 Free Online Video Combining Tools You Should Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-top-10-video-players-for-slow-motion-video/"><u>Updated Best of the Best Top 10 Video Players for Slow Motion Video</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-video-editing-apps-for-kids-free-paid-and-everything-in-between/"><u>Updated Discover the Best Video Editing Apps for Kids Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-crash-fix-solutions/"><u>Updated Final Cut Pro X Crash Fix Solutions</u></a></li>
 </ul></div>
 

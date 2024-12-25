@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-12-14T16:07:37.253Z
-updated: 2024-12-16T16:15:18.939Z
+date: 2024-12-22T23:13:31.164Z
+updated: 2024-12-24T17:12:25.223Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -40,7 +40,7 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -50,10 +50,6 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -70,7 +66,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -102,7 +98,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -110,6 +106,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -134,19 +134,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>2024 Approved Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-and-split-wmv-videos-with-these-top-free-tools/"><u>Cut and Split WMV Videos with These Top Free Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-s17e-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo S17e Device SIM</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-code-alert-no-need-to-scour-reddit/"><u>Filmora Promo Code Alert No Need to Scour Reddit</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-vs-paid-the-best-3d-animation-software-for-creators/"><u>Free Vs. Paid The Best 3D Animation Software for Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-amateur-to-pro-easy-tips-for-producing-high-quality-films/"><u>From Amateur to Pro Easy Tips for Producing High-Quality Films</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-13t-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 13T Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-poco-x6-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Poco X6 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-razr-40-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Razr 40 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>In 2024, YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210773452-9781649697189-the-sound-of-the-stone-being-rolled-away/"><u>The sound of the stone being rolled away | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-steelseries-aerox-eblishing-itself-as-the-optimal-choice-for-gamers-seeking-unparalleled-performance-in-mmomoba-titles/"><u>ZDNet's Comprehensive SteelSeries Aerox Eblishing Itself as the Optimal Choice for Gamers Seeking Unparalleled Performance in MMO/MOBA Titles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-kindle-vs-amazon-fire-tablet-unraveling-their-distinct-features/"><u>Amazon Kindle Vs. Amazon Fire Tablet: Unraveling Their Distinct Features</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023-for-2024/"><u>AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-unforgettable-home-videos-top-dvd-authoring-software/"><u>Create Unforgettable Home Videos Top DVD Authoring Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-video-editing-how-to-crop-and-resize-images-like-a-pro/"><u>FCPX Video Editing How to Crop and Resize Images Like a Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-stitching-software-top-5-choices/"><u>Free MOV Video Stitching Software Top 5 Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-sound-effects-for-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Free Sound Effects for Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-instant-freeze-capture-feature-guide/"><u>In 2024, Instant Freeze Capture Feature Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/resolved-fixing-the-issue-of-non-syncing-icloud-photo-libraries/"><u>Resolved: Fixing the Issue of Non-Syncing iCloud Photo Libraries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-iphones-guide-to-great-night-images/"><u>The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
 

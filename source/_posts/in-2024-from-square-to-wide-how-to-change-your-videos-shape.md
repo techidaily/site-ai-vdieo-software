@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2024-11-27T20:04:39.317Z
-updated: 2024-12-02T23:25:49.427Z
+date: 2024-12-17T23:38:38.812Z
+updated: 2024-12-25T06:58:35.334Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -91,7 +91,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -101,10 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -156,6 +152,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -171,19 +171,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-six-winning-strategies-to-recording-and-saving-mov-on-windows-11/"><u>[New] 2024 Approved Six Winning Strategies to Recording and Saving .mov on Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[New] Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-crafting-viral-vignettes/"><u>[Updated] 2024 Approved Crafting Viral Vignettes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-best-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Best Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/13098203-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-tone-generation-5-best-free-online-tools-you-need/"><u>New Easy Tone Generation 5 Best Free Online Tools You Need</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/quicktime-player-tutorial-speed-up-videos-on-windows-and-mac-computers/"><u>QuickTime Player Tutorial Speed Up Videos on Windows and Mac Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-iastordatasvc-high-cpu-drain-in-win11-systems-a-comprehensive-guide/"><u>Resolving IAStorDataSvc High CPU Drain in Win11 Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/supercharge-your-screens-with-video-enhancer-v22/"><u>Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors/"><u>The Anatomy of Great Lower Thirds A Guide for FCPX Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-exclusive-deals-top-4-methods-to-get-filmora-discounts-for-2024/"><u>Unlock Exclusive Deals Top 4 Methods to Get Filmora Discounts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pros-secret-weapons-top-15-plugins-you-need-free-and-paid/"><u>Updated Adobe Premiere Pros Secret Weapons Top 15 Plugins You Need (Free & Paid)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-android-video-editor-showdown-top-10-free-and-paid-apps/"><u>Updated Android Video Editor Showdown Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-video-editing-mastery-leveraging-youtube-then-expanding-beyond/"><u>[New] In 2024, Video Editing Mastery Leveraging YouTube, Then Expanding Beyond</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-pc-video-editing-made-easy-a-review-of-vn-video-editor/"><u>2024 Approved PC Video Editing Made Easy A Review of VN Video Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analisis-completo-de-freemake-video-converter-funcion-coste-y-datos-adicionales/"><u>Análisis Completo De Freemake Video Converter - Función, Coste Y Datos Adicionales</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-review-and-rating-is-it-worth-the-hype-for-2024/"><u>AVS Video Editor Review and Rating Is It Worth the Hype for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/background-noise-be-gone-mastering-audio-cleanup-in-final-cut-pro-x/"><u>Background Noise Be Gone Mastering Audio Cleanup in Final Cut Pro X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-traffic-management-tools-our-number-one-picks/"><u>Best Traffic Management Tools: Our Number One Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-ultimate-64-bit-video-editor-for-windows-for-2024/"><u>Discover the Ultimate 64-Bit Video Editor for Windows for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-avi-videos-for-free-top-5-software-options-for-2024/"><u>Flip and Rotate AVI Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-gif-maker-tools-for-seamless-loops/"><u>Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-online-face-creation-the-top-generators-for-artificial-faces-for-2024/"><u>Free Online Face Creation The Top Generators for Artificial Faces for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-to-edit-the-best-free-game-video-editing-software/"><u>Get Ready to Edit The Best Free Game Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gif-tempo-tweakers-the-best-online-and-mobile-solutions/"><u>GIF Tempo Tweakers The Best Online and Mobile Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-perform-an-iphone-os-update-when-faced-with-issues/"><u>How To Successfully Perform An iPhone OS Update When Faced With Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>In 2024, Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-cyber-monday-savings-on-lg-gram-17-shop-the-ultra-slim-high-res-display-laptop-now-for-400-less/"><u>Massive Cyber Monday Savings on LG Gram 17 - Shop the Ultra-Slim, High-Res Display Laptop Now for $400 Less!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/phone-lens-magic-creating-high-horizons-for-2024/"><u>Phone Lens Magic Creating High Horizons for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revive-your-peripheral-connection-a-comprehensive-drivers-refresh-for-usb-serial-devices/"><u>Revive Your Peripheral Connection: A Comprehensive Drivers Refresh for USB-Serial Devices</u></a></li>
 </ul></div>
 

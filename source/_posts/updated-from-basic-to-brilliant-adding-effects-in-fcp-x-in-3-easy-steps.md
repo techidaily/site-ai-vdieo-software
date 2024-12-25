@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-12-10T16:00:26.156Z
-updated: 2024-12-16T16:16:07.520Z
+date: 2024-12-21T03:30:47.169Z
+updated: 2024-12-25T04:09:41.721Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,13 +57,13 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -79,20 +83,20 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -101,7 +105,7 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
@@ -109,10 +113,6 @@ To enable an effect, click the gray box so it turns blue again.
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -141,17 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-blur-apps-that-work-wonders-on-iphonesandroids/"><u>[New] Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-digging-deep-into-facebooks-short-video-shift-the-2023-scenario-for-2024/"><u>[New] Digging Deep Into Facebook's Short Video Shift The 2023 Scenario for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/avigating-new-waters-personalbusiness-youtube-channels-made-mobile-ready/"><u>[New] Navigating New Waters Personal/Business YouTube Channels Made Mobile-Ready</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamlining-console-experience-through-computer-recording/"><u>[Updated] 2024 Approved Streamlining Console Experience Through Computer Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-streaming-showdown-gopro-hero5-black-vs-virb-ultra-30/"><u>[Updated] In 2024, Streaming Showdown GoPro Hero5 Black Vs. VIRB Ultra 30</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-realistic-fake-faces-with-these-free-online-generators/"><u>Create Realistic Fake Faces with These Free Online Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/essential-fcpx-add-ons-top-10-free-and-paid-plugins-you-need-for-2024/"><u>Essential FCPX Add-Ons Top 10 Free and Paid Plugins You Need for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-advice-securing-your-mac-with-encryption-decrypting-and-disk-recovery-methods/"><u>Expert Advice: Securing Your Mac with Encryption – Decrypting and Disk Recovery Methods</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fade-in-fade-out-exploring-two-essential-audio-techniques-in-final-cut-pro-for-2024/"><u>Fade In, Fade Out Exploring Two Essential Audio Techniques in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-torrent-download-100-safe-and-free-method-for-2024/"><u>Filmora Torrent Download 100 Safe and Free Method for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>In 2024, Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-digital-expression-unleashed-crafting-metaverse-memes-for-2024/"><u>[New] Digital Expression Unleashed Crafting Metaverse Memes for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-gamers-playbook-4-essential-steps-for-recording-games-for-2024/"><u>[Updated] The Gamer's Playbook 4 Essential Steps for Recording Games for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-to-exclusive-youtube-gamers-intros-freepaid/"><u>[Updated] Ultimate Guide to Exclusive YouTube Gamers' Intros (Free/Paid)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-innovators-to-watch-leading-av-and-acoustic-artisans/"><u>2024 Approved Innovators to Watch Leading Av & Acoustic Artisans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-da-wav-a-mp3-online-con-movavi-il-modo-piu-semplice/"><u>Conversione Gratuita Da WAV a MP3 Online Con Movavi: Il Modo Più Semplice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723037722452-enhance-your-viewing-with-toshibas-55-inch-fire-tv-the-ultimate-choice-for-amazon-prime-fans/"><u>Enhance Your Viewing with Toshiba's 55-Inch Fire TV - The Ultimate Choice for Amazon Prime Fans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-15-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 15? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-epic-trailers-best-software-for-mac-and-pc-2023-review/"><u>New Create Epic Trailers Best Software for Mac and PC (2023 Review)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-video-editing-software/"><u>New Free Filmora 13 Download Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-animation-mastery-the-10-best-2d-software-for-creators-free-and-paid/"><u>Updated Animation Mastery The 10 Best 2D Software for Creators Free & Paid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-use-windows-live-movie-maker-slow-motion-effect/"><u>Updated How to Use Windows Live Movie Maker Slow Motion Effect</u></a></li>
 </ul></div>
 

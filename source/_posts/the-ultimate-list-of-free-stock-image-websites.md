@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Free Stock Image Websites
-date: 2024-12-11T16:09:14.973Z
-updated: 2024-12-16T16:18:56.131Z
+date: 2024-12-23T19:27:42.858Z
+updated: 2024-12-25T10:19:37.966Z
 tags: 
   - video editing software
   - video editing
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  Finding an image you like on the Internet doesn’t take long, since almost every website you can stumble upon, contains at least one picture. This doesn’t mean that you can just download any photo and use it in your blog, online marketing campaign or for any other purpose. Moreover, stock image websites like Getty Images or iStock let you purchase the right to use a photo commercially. As a reaction to an expanding stock image industry, many photographers, museums and cultural institutions are choosing to forfeit their rights and to publish public domain images. So, in this article, we are going to take you through the ten best public domain image websites where you can download pictures for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Public Domain Images?
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
 **Pros:**
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
 **Pros:**
@@ -108,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
 
@@ -153,10 +157,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
 **Pros:**
@@ -186,6 +186,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 #### 9. [NYPL Digital Gallery](https://digitalcollections.nypl.org/)
 
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
@@ -234,10 +238,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -253,18 +253,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/arly-birds-youtube-strategies-for-channel-and-revenue-for-2024/"><u>[New] Early Bird's Youtube Strategies for Channel and Revenue for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-procedure-for-severing-digital-bonds/"><u>[New] The Procedure for Severing Digital Bonds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reimagining-action-recording-with-intova-edge-x/"><u>2024 Approved Reimagining Action Recording with Intova Edge X</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-insider-guide-elevating-your-instagram-imagery/"><u>2024 Approved The Insider Guide Elevating Your Instagram Imagery</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-wmv-video-editors-a-comprehensive-review-for-2024/"><u>Best Zero-Cost WMV Video Editors A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users-for-2024/"><u>Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/choosing-the-right-green-screen-tool-for-your-mac/"><u>Choosing the Right Green Screen Tool for Your Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos/"><u>Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-aturbs-in-play-investigating-the-causes-behind-call-of-dutys-frame-rate-drops/"><u>Modern Warfare Aturbs in Play: Investigating the Causes Behind Call of Duty's Frame Rate Drops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-phasmophobia-games-excessive-cpu-drain-a-step-by-step-guide/"><u>Solving the Phasmophobia Game's Excessive CPU Drain: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-powerhouses-of-social-networking-facebook-twitter-instagram-youtube/"><u>Understanding the Powerhouses of Social Networking: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-converting-moments-into-memorable-gifs/"><u>[New] 2024 Approved Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-compreayers-guide-to-capturing-console-games-on-a-computer-for-2024/"><u>[New] A Compreayer's Guide to Capturing Console Games on a Computer for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-guide-to-simplified-hdr-techniques/"><u>[New] Comprehensive Guide to Simplified HDR Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/audio-video-synchronization-in-fcpx-2024-best-practice/"><u>Audio-Video Synchronization in FCPX 2024 Best Practice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-logitech-momo-steering-wheel-software-for-your-pc-download/"><u>Complete Logitech MOMO Steering Wheel Software for Your PC Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-blurring-a-step-by-step-guide/"><u>Free Video Blurring A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-essentials-top-5-splitter-tools-for-2024/"><u>Free Video Editing Essentials Top 5 Splitter Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-final-cut-pro-90-days-of-free-usage-ahead/"><u>Get Started with Final Cut Pro 90 Days of Free Usage Ahead</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-the-perfect-angle-10-best-video-rotators-for-online-use/"><u>Get the Perfect Angle 10 Best Video Rotators for Online Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-change-shape-of-a-video-for-2024/"><u>How to Change Shape of a Video for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-sony-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Sony Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
 

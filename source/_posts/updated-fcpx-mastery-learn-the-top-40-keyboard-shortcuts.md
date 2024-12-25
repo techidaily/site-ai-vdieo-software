@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2024-12-13T16:07:26.061Z
-updated: 2024-12-16T16:02:16.063Z
+date: 2024-12-24T08:57:08.577Z
+updated: 2024-12-25T08:54:10.437Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,21 +140,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capture-your-gaming-adventures-with-steam/"><u>[New] 2024 Approved Capture Your Gaming Adventures with Steam</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>[New] Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-kazam-screen-recorder-review/"><u>[New] Kazam Screen Recorder Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-laptop-battery-not-charging-quickly-and-easily/"><u>[SOLVED] | Laptop Battery Not Charging | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-elite-silent-input-transcription-suites/"><u>2024 Approved Elite Silent Input Transcription Suites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-to-make-your-choice-easier-from-thousands-of-software-i-am-listing-the-top-five-in-the-businesslet-us-go-over-the-specifications-and-shed-ligh/"><u>2024 Approved To Make Your Choice Easier From Thousands of Software I Am Listing the Top Five in the business.Let Us Go over the Specifications and Shed Light on the Comparisons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-hosting-solutions-for-individuals-and-businesses-for-2024/"><u>Best Free Video Hosting Solutions for Individuals and Businesses for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming/"><u>Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/compressor-essentials-a-beginners-guide-to-video-compression-in-fcpx-for-2024/"><u>Compressor Essentials A Beginners Guide to Video Compression in FCPX for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fast-and-free-dailymotion-to-mp3-converter-online-for-2024/"><u>Fast and Free Dailymotion to MP3 Converter Online for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-lol-to-omg-the-best-meme-generator-apps-for-mobile/"><u>From LOL to OMG The Best Meme Generator Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-recording-the-10-best-webcam-software-for-windows-10-users/"><u>Get Recording The 10 Best Webcam Software for Windows 10 Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-pova-5-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Pova 5 Activity | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-how-to-binge-watch-the-complete-dragon-ball-series/"><u>Step-by-Step Instructions on How to Binge-Watch the Complete Dragon Ball Series</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-10-no-cost-high-quality-digital-recorder-apps-for-2024/"><u>Top 10 No-Cost, High-Quality Digital Recorder Apps for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-13-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-innovations-in-video-calls-discover-the-top-10-apps/"><u>[Updated] Leading Innovations in Video Calls Discover the Top 10 Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-youtube-content-onto-insta-feed/"><u>[Updated] Streamlining YouTube Content Onto Insta Feed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-premiere-pro-transition-plugins-expert-picks/"><u>Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools-for-2024/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-grading-101-unifying-your-video-clips-in-powerdirector/"><u>Color Grading 101 Unifying Your Video Clips in PowerDirector</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-and-download-4k-videos-in-mp4-format-a-beginners-guide/"><u>Convert and Download 4K Videos in MP4 Format A Beginners Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dvd-to-digital-made-easy-a-comprehensive-conversion-guide-for-2024/"><u>DVD to Digital Made Easy A Comprehensive Conversion Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easy-video-cutting-and-joining-software-for-starters-2023-update-for-2024/"><u>Easy Video Cutting and Joining Software for Starters (2023 Update) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-online-top-picks-and-reviews/"><u>Free Video Editing Online Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-boring-to-brilliant-10-animated-text-converters-youll-love/"><u>From Boring to Brilliant 10 Animated Text Converters Youll Love</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/getting-a-video-editor-app-for-your-chromebook-from-a-google-play-store-is-now-possiblein-this-article-we-will-recommend-the-best-best-android-video-editor-/"><u>Getting a Video Editor App for Your Chromebook From a Google Play Store Is Now possible.In This Article, We Will Recommend the Best Best Android Video Editor Apps for Chromebook and How to Install It</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-80-pro-straight-screen-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 80 Pro Straight Screen Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a18-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A18</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Note 50 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-personalized-nutrition-planning-with-the-help-of-chatgpt/"><u>Leveraging AI: Personalized Nutrition Planning with the Help of ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-a1-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A1 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

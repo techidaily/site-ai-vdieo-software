@@ -1,7 +1,7 @@
 ---
 title: Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts
-date: 2024-08-27T06:10:43.158Z
-updated: 2024-08-28T06:10:43.158Z
+date: 2024-12-17T23:12:43.114Z
+updated: 2024-12-24T20:09:50.709Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -136,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>[Updated] 2024 Approved Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-noteworthy-14-dynamic-text-artworks/"><u>[Updated] In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-insight-gopro-silver-hero4-detailed-assessment/"><u>Complete Insight GoPro Silver Hero4 Detailed Assessment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/exploring-toms-gear-a-deep-dive-into-pc-hardware-insights/"><u>Exploring Tom's Gear: A Deep Dive Into PC Hardware Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotator-apps-for-iphone-expert-recommendations/"><u>In 2024, Free Video Rotator Apps for iPhone Expert Recommendations</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tips-for-entering-a-friends-tiktok-live-stream/"><u>In 2024, Tips for Entering a Friend's TikTok Live Stream</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebook-meets-video-editing-power-running-windows-and-mac-os-apps/"><u>New Chromebook Meets Video Editing Power Running Windows and Mac OS Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-crack-free-filmora-discover-the-safe-and-legal-way-to-get-it/"><u>New Crack-Free Filmora Discover the Safe and Legal Way to Get It</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>New Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-your-mouses-right-click-solutions-for-windows-11-users/"><u>Reactivate Your Mouse's Right Click: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-video-compression-solutions-for-windows-10-users/"><u>S Best Free Video Compression Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-downloading-and-updating-synaptics-drivers-on-your-windows-system/"><u>Step-by-Step: Downloading and Updating Synaptics Drivers on Your Windows System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamlined-design-and-functionality-unpacking-the-amazon-basics-compact-tablet-support/"><u>Streamlined Design & Functionality: Unpacking the Amazon Basics Compact Tablet Support</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-techniques-to-captivate-viewers-with-facebook-covers/"><u>Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avi-video-rotation-made-easy-top-free-software/"><u>Updated AVI Video Rotation Made Easy Top Free Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-plugin-problems-heres-how-to-get-them-working-again/"><u>Updated FCPX Plugin Problems? Heres How to Get Them Working Again</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-10-webcam-recording-the-top-10-software-options/"><u>Windows 10 Webcam Recording The Top 10 Software Options</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

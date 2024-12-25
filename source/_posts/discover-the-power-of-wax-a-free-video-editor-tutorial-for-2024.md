@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of Wax A Free Video Editor Tutorial for 2024
-date: 2024-08-27T06:13:29.997Z
-updated: 2024-08-28T06:13:29.997Z
+date: 2024-12-18T23:16:36.231Z
+updated: 2024-12-25T00:27:13.368Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,25 +56,16 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -92,8 +74,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +81,25 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>[New] In 2024, Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-tutorial-for-using-movie-maker-on-windows-8-os/"><u>[Updated] A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>2024 Approved Skyline Spectacle Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-hot-40i-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Hot 40i Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>In 2024, Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-14-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-reaction-video-editing-apps-for-ios-and-android-users/"><u>New Best Reaction Video Editing Apps for iOS and Android Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfectly-emulated-sony-ps3-titles-top-5-windows-tools/"><u>Perfectly Emulated Sony PS3 Titles Top 5 Windows Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixels-musical-ensemble-unveiled-online/"><u>Pixel's Musical Ensemble Unveiled Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-free-online-video-looper-tools/"><u>The Ultimate List 10 Free Online Video Looper Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-20-free-adobe-premiere-intro-templates/"><u>Updated Best 20 Free Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>Updated Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-title-effects-unlocking-creative-possibilities/"><u>Updated FCPX Title Effects Unlocking Creative Possibilities</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
