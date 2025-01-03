@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-12-19T01:09:53.740Z
-updated: 2024-12-25T06:07:37.764Z
+date: 2024-12-30T17:11:48.029Z
+updated: 2025-01-03T19:00:32.798Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -90,11 +90,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -121,6 +117,10 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -140,11 +140,7 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -164,6 +160,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -188,19 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nfluencer-tip-crafting-irresistible-templated-content-in-youtube-descriptions-for-2024/"><u>[New] Influencer Tip Crafting Irresistible Templated Content in YouTube Descriptions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-8-ultimate-online-photo-mosaic-compiler/"><u>[Updated] In 2024, 8 Ultimate Online Photo Mosaic Compiler</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>2024 Approved QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-f25-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo F25 Pro 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-vs-after-effects-which-one-should-you-use-in-2024/"><u>Adobe Premiere vs After Effects Which One Should You Use, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-to-perfection-10-acclaimed-films-edited-exclusively-with-final-cut-pro/"><u>Cut to Perfection 10 Acclaimed Films Edited Exclusively with Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dub-like-a-pro-top-6-video-dubbing-apps-for-funny-videos-for-2024/"><u>Dub Like a Pro Top 6 Video Dubbing Apps for Funny Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flip-it-how-to-reverse-video-clips-in-final-cut-pro-like-a-pro/"><u>Flip It! How to Reverse Video Clips in Final Cut Pro Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-editor-reviews-top-6-cutting-solutions/"><u>Free MOV Video Editor Reviews Top 6 Cutting Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fully-functional-page-to-page-printer-printing/"><u>Fully Functional, Page-to-Page Printer Printing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/positive-reinforcement/"><u>Positive Reinforcement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/solo-scrutiny-an-examination-of-3dr-printers/"><u>Solo Scrutiny An Examination of '3DR' Printers</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>Updated In 2024, Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715940849719-new-in-2024-how-to-use-markers-in-video-recording-and-editing/"><u>[New] In 2024, How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/oggflacmp3-movavi/"><u>無限制線上更改OGG成FLAC的MP3編解碼器 – 利用Movavi易於操作方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-to-selecting-peak-performance-lipo-tech/"><u>A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-japan-welcomes-mariko-maeda-as-new-president-driving-market-expansion-forward/"><u>ABBYY Japan Welcomes Mariko Maeda as New President, Driving Market Expansion Forward</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-secrets-20-shortcuts-to-supercharge-your-editing-for-2024/"><u>Adobe Premiere Pro Secrets 20 Shortcuts to Supercharge Your Editing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cartoonize-yourself-with-these-16-amazing-mobile-apps/"><u>Cartoonize Yourself with These 16 Amazing Mobile Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-mpeg2-videos-with-free-virtualdub-software/"><u>Compress MPEG2 Videos with Free VirtualDub Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-music-recording-tools-in-depth-reviews-for-2024/"><u>Discover the Best Free Music Recording Tools In-Depth Reviews for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-file-management-best-practices-for-saving-and-organizing-for-2024/"><u>Final Cut Pro File Management Best Practices for Saving and Organizing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-guide-for-amd-rx-560-graphics-card-on-various-windows-versions-111087/"><u>Fix Guide for AMD RX 560 Graphics Card on Various Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-the-job-done-fast-qui/"><u>Get the Job Done Fast Qui</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-unwanted-sound-interruptions-in-windows-1011/"><u>How to Silence Unwanted Sound Interruptions in Windows 10/11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unfolding-the-chronicles-of-farsi-for-modern-minds/"><u>Unfolding the Chronicles of Farsi for Modern Minds</u></a></li>
 </ul></div>
 

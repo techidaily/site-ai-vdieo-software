@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2024-12-24T08:57:08.577Z
-updated: 2024-12-25T08:54:10.437Z
+date: 2024-12-31T17:23:28.070Z
+updated: 2025-01-03T18:02:05.930Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,24 +140,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-innovations-in-video-calls-discover-the-top-10-apps/"><u>[Updated] Leading Innovations in Video Calls Discover the Top 10 Apps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-youtube-content-onto-insta-feed/"><u>[Updated] Streamlining YouTube Content Onto Insta Feed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-premiere-pro-transition-plugins-expert-picks/"><u>Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools-for-2024/"><u>Bringing Your Nikon Videos to Life Essential Editing Skills and Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/color-grading-101-unifying-your-video-clips-in-powerdirector/"><u>Color Grading 101 Unifying Your Video Clips in PowerDirector</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/convert-and-download-4k-videos-in-mp4-format-a-beginners-guide/"><u>Convert and Download 4K Videos in MP4 Format A Beginners Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dvd-to-digital-made-easy-a-comprehensive-conversion-guide-for-2024/"><u>DVD to Digital Made Easy A Comprehensive Conversion Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easy-video-cutting-and-joining-software-for-starters-2023-update-for-2024/"><u>Easy Video Cutting and Joining Software for Starters (2023 Update) for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-online-top-picks-and-reviews/"><u>Free Video Editing Online Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-boring-to-brilliant-10-animated-text-converters-youll-love/"><u>From Boring to Brilliant 10 Animated Text Converters Youll Love</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/getting-a-video-editor-app-for-your-chromebook-from-a-google-play-store-is-now-possiblein-this-article-we-will-recommend-the-best-best-android-video-editor-/"><u>Getting a Video Editor App for Your Chromebook From a Google Play Store Is Now possible.In This Article, We Will Recommend the Best Best Android Video Editor Apps for Chromebook and How to Install It</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-80-pro-straight-screen-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 80 Pro Straight Screen Edition Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a18-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A18</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Note 50 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-personalized-nutrition-planning-with-the-help-of-chatgpt/"><u>Leveraging AI: Personalized Nutrition Planning with the Help of ChatGPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-a1-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A1 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-aerial-companions-for-gopro-hd-adventures/"><u>[New] Premium Aerial Companions for GoPro HD Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-mov-capture-potential-on-windows-10/"><u>[Updated] In 2024, Unlocking MOV Capture Potential on Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/y-ways-to-multiply-your-youtube-follower-base-for-2024/"><u>5 Easy Ways to Multiply Your YouTube Follower Base for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-video-editors-for-chromebook-top-recommendations-for-2024/"><u>Android Video Editors for Chromebook Top Recommendations for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-free-from-quik-exploring-the-best-pc-video-editors-for-gopro-users-for-2024/"><u>Breaking Free From Quik Exploring the Best PC Video Editors for GoPro Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enabled-personalization-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Personalization: Enhance Your Site's User Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-visuals-advanced-slideshow-techniques-in-final-cut-pro-for-2024/"><u>Elevate Your Visuals Advanced Slideshow Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-voice-over-essentials-mastering-the-basics-for-2024/"><u>FCP Voice Over Essentials Mastering the Basics for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-these-free-video-special-effects-apps-for-ios-and-android-for-2024/"><u>Get Creative with These Free Video Special Effects Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-8-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 8 - 4 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unraveling-top-hdr-camera-brands-and-features/"><u>Unraveling Top HDR Camera Brands and Features</u></a></li>
 </ul></div>
 

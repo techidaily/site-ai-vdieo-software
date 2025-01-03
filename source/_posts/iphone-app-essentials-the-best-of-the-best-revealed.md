@@ -1,7 +1,7 @@
 ---
 title: IPhone App Essentials The Best of the Best Revealed
-date: 2024-12-20T22:48:31.863Z
-updated: 2024-12-24T22:36:31.696Z
+date: 2025-01-01T17:46:54.241Z
+updated: 2025-01-03T17:33:43.536Z
 tags: 
   - video editing software
   - video editing
@@ -32,15 +32,15 @@ The current trends on App Store show a growing interest in applications that unl
 * [Part 2: Most Trending & Popular Apps for iPhone of the Year \[Full Checklist\]](#trending%5Fapps%5Fof%5Fthe%5Fyear%5FiPhone)
 * [Part 3: Most Popular and Trending Photo & Video Apps for iPhone \[+Review\]](#trending%5Fphoto%5Fvideo%5Fapps%5Fof%5Fthe%5Fyear%5FiPhone)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: The iPhone App of the Year: [Spectre Camera](https://apps.apple.com/us/app/spectre-camera/id1450074595)
 
 Social networks have made [photography](https://tools.techidaily.com/wondershare/filmora/download/)more popular than ever. However, the quality of pictures taken with Smartphones still cannot be compared to the quality of images produced on [DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![Best App of the Year 2019 for iPhone - Spectre Camera   ](https://images.wondershare.com/filmora/article-images/spectre-camera-long-exposures-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The iPhone app of the year provides a solution to this issue by employing the latest computational photography techniques. The Spectre Camera is equipped with an AI that can easily create long-exposure photographs, remove crowds from images and [detect scenes automatically](https://tools.techidaily.com/wondershare/filmora/download/). The app saves all pictures it takes during a long-exposure and generates live photos by merging all images into a single breathtaking shot.
 
@@ -49,6 +49,10 @@ Optionally, you can apply live effects to each image you take with Spectre Camer
 As the popularity of social media platforms continues to grow, so does the demand for photo and video applications that are compatible with iOS devices. That’s why it is hardly surprising that Spectre Camera is the iPhone app of the year because it is packed with industry-leading technologies that simplify the image-taking process.
 
 You can check the detailed review below of Spectre Camera App from YouTube Channel TinyShutter to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Most Trending & Popular Apps for iPhone of the Year \[Full Checklist\]
 
@@ -81,12 +85,16 @@ Besides the best app for iPhone of the year, Apple also picked up some most tren
 | WIDE                             | Xiamen Meitu Technology         | Photo & Video | 158.6 MB | Free                   | 10K     | 4.9         | Requires iOS 9.0 or later   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 10 Most Popular and Trending Photo & Video Apps in 2024
 
 Apps from gaming, entertainment, and books categories were gaining momentum throughout the year, but the photo and video category that makes the storytelling easier is by far the most popular. If you are looking to [record voices](https://tools.techidaily.com/wondershare/filmora/download/), [create podcasts](https://tools.techidaily.com/wondershare/filmora/download/), take photos or record videos, you’ll find the app that meets all your demands effortlessly. Here are some of the most popular apps from the Photo & Video category on the App Store in 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Canva: Stories and Video Maker](https://apps.apple.com/us/app/canva-stories-video-maker/id1462030036)
 
@@ -106,10 +114,6 @@ Building social media following can be a daunting task if you don’t have the r
 
 ![Trending Apps in 2019 for iPhone - Magisto](https://images.wondershare.com/filmora/article-images/magisto-video-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In 2017, Magisto was selected as the number one video editing app for iPhones and a few years later it is still one of the best apps in this category on the App Store. Digital marketers who don’t have the skills or the time to edit their videos with professional video editing software can benefit from this AI-powered editor. In order to create a new video, you just have to choose a video editing style such as kids or pets, import the media assets into your project and let Magisto work its magic. If you opt for the monthly Business subscription plan you will gain access to more than 3 million stock videos and 25 million photos.
 
 ### 3\. [Mojo](https://apps.apple.com/us/app/mojo-stories-editor/id1434861974)
@@ -121,6 +125,10 @@ In 2017, Magisto was selected as the number one video editing app for iPhones an
 ![Trending Apps in 2019 for iPhone - Mojo Stories Editor ](https://images.wondershare.com/filmora/article-images/mojo-stories-editor.jpg)
 
 The 4.9 User Rating on more than 15.000 reviews speaks volumes about Mojo’s capabilities. Even the free version of the app lets you choose from more than a hundred fully customizable templates. So, once you pick an animated template you just have to add the video and audio files you want to include in the final version of the video and wait for Mojo to generate a new story you can share on social media. However, you must upgrade to the pro version of the app if you want to choose the aspect ratio for all videos you edit with this app or be able to use all of the text styles and templates Mojo offers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Over: Design/Flyers/Story Maker](https://apps.apple.com/us/app/over-design-flyer-story-maker/id535811906)
 
@@ -141,7 +149,7 @@ Producing brand content that drives the sales of the products and services your 
 ![Trending Apps in 2019 for iPhone - Spark Camera & Video Editor ](https://images.wondershare.com/filmora/article-images/spark-camera-video-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple included the Spark Camera app in their selection of the best storytelling apps in 2024, and a brief look at the app’s features shows why. Besides recording videos in Full HD and 4K resolutions you can also use Spark Camera to create voiceovers, remove any segment of a video clip you want or change a clip’s playback speed. In addition, you can set the preferred frame rate for each video you record with Spark Camera and utilize its image stabilization options while shooting under difficult light conditions. Applying a filter to a video you recorded with this app requires you to just swipe left or right while you can adjust their intensity by simply moving your finger up or down.
@@ -154,11 +162,11 @@ Apple included the Spark Camera app in their selection of the best storytelling 
 
 ![Trending Apps in 2019 for iPhone - Steller Discover·Create·Share Stories](https://images.wondershare.com/filmora/article-images/steller-app-for-creating-share-stories.jpg)
 
-It has already been five years since Steller was named as one of the best apps on the App Store by Apple, but very little has changed in the meantime. You don’t have to be a professional storyteller in order to create engaging visual stories with this app since you can select a theme you like and let Steller do all the heavy lifting for you. There just ten text styles to choose from and the app doesn’t offer even the basic video editing tools, which limits your options throughout the video editing process. Nonetheless, you can share all video content you edit with Steller directly to your Instagram Stories.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+It has already been five years since Steller was named as one of the best apps on the App Store by Apple, but very little has changed in the meantime. You don’t have to be a professional storyteller in order to create engaging visual stories with this app since you can select a theme you like and let Steller do all the heavy lifting for you. There just ten text styles to choose from and the app doesn’t offer even the basic video editing tools, which limits your options throughout the video editing process. Nonetheless, you can share all video content you edit with Steller directly to your Instagram Stories.
 
 ### 7\. [Unfold](https://apps.apple.com/us/app/unfold-create-stories/id1247275033)
 
@@ -168,11 +176,11 @@ It has already been five years since Steller was named as one of the best apps o
 
 ![Trending Apps in 2019 for iPhone - Unfold  Story Editor & Collage Maker  ](https://images.wondershare.com/filmora/article-images/unfold-create-stories.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Creating Facebook or Instagram Stories that attract the attention of thousands of daily viewers is what Unfold does best. You can apply ten different filters and effects to all videos you record with this app and then choose from over 150 video templates. Unfold also grants you access to advanced text tools that enable you to customize the messages you want to distribute through social media channels. The free version of Unfold offers only a limited range of options, and you must upgrade to Unfold+ if you want to access all of the themes, fonts, and stickers this app provides. Despite the great user rating, Unfold still lacks video and audio editing tools that would allow its users to manipulate their footage without any restrictions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. [24 FPS – Video Filter & LUT](https://apps.apple.com/us/app/24fps-video-filter-lut/id1341136787)
 
@@ -182,15 +190,7 @@ Creating Facebook or Instagram Stories that attract the attention of thousands o
 
 ![Trending Apps in 2019 for iPhone - 24FPS - Video Filter & LUT ](https://images.wondershare.com/filmora/article-images/24fps-video-filter-lut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iPhone owners in need of a video editing app that allows them to record and edit their footage with professional tools should consider installing 24 FPS. In addition to excellent video recording capabilities, this app features a plethora of options you can use to enhance the colors in the videos you edit. Importing LUTs into 24 FPS is a routine operation that can reduce the amount of time you have to spend on giving a video a particular cinematic style. Skin-thinning and skin smoothing filters enable you to beautify the people in your videos and make them more visually appealing to the online audience. The app’s video editor also contains audio editing options that make creating a video’s soundtrack fun and enjoyable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. [VUE – Video Camera and Editor](https://apps.apple.com/us/app/vue-video-camera-and-editor/id1458609369)
 
@@ -201,10 +201,6 @@ iPhone owners in need of a video editing app that allows them to record and edit
 ![Trending Apps in 2019 for iPhone - VUE - Video Camera and Editor  ](https://images.wondershare.com/filmora/article-images/vue-video-camera-and-editor.jpg)
 
 Recording and editing social media videos from your iPhone enables you to produce visually impressive content wherever you are. An app like Vue is a perfect option if you don’t want to post unedited footage on your social media accounts, but don’t have the time to use a professional video editing software. Besides offering more than twenty filters, Vue also lets you change a video’s playback speed, merge or split multiple clips and enhance the colors of each clip you edit. The seemingly endless library of royalty-free songs offers you all the resources you are going to need while creating a soundtrack for your video, and you can also control the volume of video’s original sound and audio files you added to a project.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10 [1 Second Every Day: Video Diary](https://apps.apple.com/us/app/1-second-everyday-video-diary/id587823548)
 
@@ -222,6 +218,10 @@ According to Apple, some of the most popular apps for the iPhone are built for s
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -237,22 +237,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-easy-steps-for-designing-podcast-rss-structure/"><u>[New] 2024 Approved Easy Steps for Designing Podcast RSS Structure</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-becoming-a-confident-content-creator-youtubes-top-tips-for-2024/"><u>[New] Becoming a Confident Content Creator YouTube's Top Tips for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-leveraging-discord-for-efficient-media-broadcasting-techniques/"><u>[New] Leveraging Discord for Efficient Media Broadcasting Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-unboxing-game-to-next-level/"><u>[Updated] Elevate Your Unboxing Game to Next Level</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ipad-video-editing-made-easy-top-5-apps/"><u>2024 Approved IPad Video Editing Made Easy Top 5 Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-review-of-its-performance-and-capabilities/"><u>AVS Video Editor A Review of Its Performance and Capabilities</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-shoot-edit-the-ultimate-kids-movie-making-guide-for-2024/"><u>Create, Shoot, Edit The Ultimate Kids Movie-Making Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/editprox-in-detail-ultimate-video-editor-review/"><u>EditProX in Detail – Ultimate Video Editor Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-avi-videos-for-free-top-5-software-options/"><u>Flip and Rotate AVI Videos for Free Top 5 Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-merger-top-5-recommendations/"><u>Free MOV Video Merger Top 5 Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-up-space-how-to-convert-your-dvds-to-digital-video-files/"><u>Free Up Space How to Convert Your DVDs to Digital Video Files</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clash-to-harmony-mastering-color-matching-in-final-cut-pro/"><u>From Clash to Harmony Mastering Color Matching in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-disc-to-digital-how-to-transfer-your-dvd-collection-to-computer-or-mobile-for-2024/"><u>From Disc to Digital How to Transfer Your DVD Collection to Computer or Mobile for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-k11x-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo K11x to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-macs-best-gif-maker-tool/"><u>In 2024, Mac's Best Gif Maker Tool</u></a></li>
-<li><a href="https://article-helps.techidaily.com/vlc-vs-mpc-decoding-the-best-free-media-player-for-2024/"><u>VLC Vs. MPC Decoding the Best Free Media Player for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[New] In 2024, Seamless Integration of Skype and Zoom for Businesses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-10-tips-to-make-your-youtube-shorts-channels-stand-out-for-2024/"><u>[Updated] 10 Tips to Make Your YouTube Shorts Channels Stand Out for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-spectacular-selects-ideal-laptops-mastering-4k-editing-for-2024/"><u>[Updated] Spectacular Selects Ideal Laptops Mastering 4K Editing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-seamless-e-book-conversion-from-azw-files-to-mobile-ready-mobi-format/"><u>1. Seamless E-Book Conversion: From Azw Files to Mobile Ready Mobi Format</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-best-alternatives-of-vsdc-video-editor-on-mac/"><u>2024 Approved Get Best Alternatives of VSDC Video Editor on Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-cs6-mac-version-free-download-tutorials-and-resources/"><u>Adobe Premiere Pro CS6 Mac Version Free Download, Tutorials, and Resources</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-final-cut-pro-x-here-are-10-alternative-video-editors/"><u>Ditch Final Cut Pro X? Here Are 10 Alternative Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-animated-logo-makers-top-picks-and-expert-design-tips-for-2024/"><u>Free Animated Logo Makers Top Picks and Expert Design Tips for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-noticed-by-recruiters-the-best-video-resume-creation-tools-free-templates/"><u>Get Noticed by Recruiters The Best Video Resume Creation Tools Free Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-movie-edits-the-best-tools-ranked/"><u>In 2024, Mastering Movie Edits The Best Tools Ranked</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mini-magnate-ryan-kajis-staggering-income-from-video-platform-for-2024/"><u>Mini Magnate Ryan Kaji’s Staggering Income From Video Platform for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-seagate-hdd-visibility-issue-in-win11/"><u>Solving Seagate HDD Visibility Issue in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-ais-frailty-the-process-and-implications-of-prompt-injection-attacks/"><u>Unraveling AI's Frailty - The Process and Implications of Prompt Injection Attacks</u></a></li>
 </ul></div>
 

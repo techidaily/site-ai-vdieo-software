@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2024-12-20T16:09:48.209Z
-updated: 2024-12-25T01:40:24.436Z
+date: 2024-12-27T18:49:59.858Z
+updated: 2025-01-03T18:50:49.901Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,21 +131,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vivid-twitter-visuals-the-journey-to-full-hd-viewing/"><u>[New] In 2024, Vivid Twitter Visuals The Journey to Full HD Viewing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] 6 Video Styles for Maximum Viewer Engagement</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-illuminating-images-techniques-in-color-science/"><u>[Updated] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[Updated] In 2024, Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-differences-between-standard-and-premium-youtube-viewing-for-2024/"><u>[Updated] The Differences Between Standard and Premium YouTube Viewing for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-discovering-open-source-masterpieces-and-resources/"><u>2024 Approved Discovering Open-Source Masterpieces & Resources</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>2024 Approved From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mastering-slow-mo-a-step-by-step-guide-to-windows-live-movie-maker/"><u>2024 Approved Mastering Slow-Mo A Step-by-Step Guide to Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-3d-animation-tools-free-and-premium-options-compared/"><u>2024 Approved Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-engaging-videos-with-these-10-free-whiteboard-animation-tools-windows-and-mac-compatible/"><u>Create Engaging Videos with These 10 Free Whiteboard Animation Tools (Windows and Mac Compatible)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-with-ease-best-video-editor-for-windows-8-for-2024/"><u>Edit MP4 Files with Ease Best Video Editor for Windows 8 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-gopro-videos-on-pc-quik-alternatives-and-more-for-2024/"><u>Editing GoPro Videos on PC Quik, Alternatives, and More for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-flv-video-editing-on-windows-8-the-ultimate-guide-for-2024/"><u>Effortless FLV Video Editing on Windows 8 The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expert-strategies-for-effective-instagram-video-interactions-for-2024/"><u>Expert Strategies for Effective Instagram Video Interactions for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-connect-windows-desktop-to-television-with-googles-chromecast-device/"><u>Step-by-Step Tutorial: Connect Windows Desktop to Television with Google's Chromecast Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-peak-performance-in-live-recording-software/"><u>[New] Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-techniques-in-hand-based-tracking/"><u>2024 Approved Pioneering Techniques in Hand-Based Tracking</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-free-video-watermark-removal-and-addition-software-for-2024/"><u>5 Free Video Watermark Removal and Addition Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-dubbing-software-for-windows-1011-for-2024/"><u>Best Free Video Dubbing Software for Windows 10/11 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options/"><u>Chromebook Video Editing Software Top 10 Online Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-epic-reactions-the-best-video-makers-to-use/"><u>Create Epic Reactions The Best Video Makers to Use</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-data-restoration-app-for-mac-easy-retrieval-of-photos-videos-and-contact-information/"><u>Lost iPhone Data Restoration App for Mac: Easy Retrieval of Photos, Videos, and Contact Information</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-airtag-add-ons-for-202n4-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Selection of AirTag Add-Ons for 202N4: In-Depth Analysis and Ratings | ZDNet</u></a></li>
 </ul></div>
 

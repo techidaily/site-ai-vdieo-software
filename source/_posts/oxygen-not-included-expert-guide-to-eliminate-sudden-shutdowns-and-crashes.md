@@ -1,7 +1,7 @@
 ---
 title: 'Oxygen Not Included' - Expert Guide to Eliminate Sudden Shutdowns and Crashes
-date: 2024-12-24T10:30:16.429Z
-updated: 2024-12-25T01:38:08.581Z
+date: 2024-12-31T18:22:04.756Z
+updated: 2025-01-03T18:28:07.881Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game files
@@ -40,11 +40,15 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. Click **the LOCAL FILES tab** , then click **Verify integrity of game files…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
@@ -69,7 +73,7 @@ If it doesn’t work, move to the next fix.
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
@@ -82,7 +86,7 @@ If it doesn’t work, move to the next fix.
 3. Back to Steam and click**Play** to launch Stray.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. You should be able to play the game.
@@ -90,7 +94,7 @@ If it doesn’t work, move to the next fix.
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
@@ -116,21 +120,9 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -148,11 +140,19 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
@@ -182,18 +182,15 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-extension-software-leaders-in-chromebook-video-recording/"><u>[Updated] 2024 Approved Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-convert-youtube-to-mp4-safely-for-2024/"><u>[Updated] How to Convert YouTube to MP4 Safely for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>[Updated] In 2024, Explore Every Degree Top 9 Techniques for VR Filmmaking</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-insiders-choice-selecting-the-superior-screen-recorder-for-2024/"><u>[Updated] Insider’s Choice Selecting the Superior Screen Recorder for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-creative-with-glitch-video-editing-best-software-for-windows-mac-and-web/"><u>2024 Approved Get Creative with Glitch Video Editing Best Software for Windows, Mac, and Web</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/creating-an-unforgettable-meme-requires-inspiration-and-inspiration-can-strike-at-any-moment-so-if-you-dont-want-to-forget-a-potentially-viral-meme-you-can-/"><u>Creating an Unforgettable Meme Requires Inspiration, and Inspiration Can Strike at Any Moment, so if You Dont Want to Forget a Potentially Viral Meme, You Can Install an Android or iOS App on Your Sm</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ning-youtubes-highlighted-comment-mechanics/"><u>Examining YouTube's Highlighted Comment Mechanics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-for-students-unbeatable-prices-you-wont-want-to-miss/"><u>Final Cut Pro for Students Unbeatable Prices You Wont Want to Miss</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-animation-solutions-top-picks-for-windows-and-mac-computers/"><u>Free Animation Solutions Top Picks for Windows and Mac Computers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-add-effects-in-3-steps-do-with-fcp-x/"><u>How To Add Effects in 3 Steps? Do with FCP X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/improve-your-work-efficiency-leveraging-snap-photography-techniques/"><u>Improve Your Work Efficiency Leveraging Snap Photography Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-v29e-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo V29e to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-breaking-tiktok-trends-twitters-1-list-unveiled/"><u>[New] Breaking TikTok Trends Twitter's #1 List Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-of-battles-10-most-epic-royale-games/"><u>[Updated] 2024 Approved Best of Battles 10 Most Epic Royale Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-premier-free-srt-to-video-subtitle-tools/"><u>[Updated] In 2024, The Premier Free SRT to Video Subtitle Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>2024 Approved From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/design-your-own-fake-faces-with-these-free-online-generators-for-2024/"><u>Design Your Own Fake Faces with These Free Online Generators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques-for-2024/"><u>Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-video-blur-apps-on-iphone-and-android-facebackground/"><u>New In 2024, Best Video Blur Apps on iPhone and Android Face/Background</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-travel-credit-cards-offering-exclusive-airport-lounges-unlock-elite-benefits/"><u>Top 5 Travel Credit Cards Offering Exclusive Airport Lounges - Unlock Elite Benefits!</u></a></li>
 </ul></div>
 

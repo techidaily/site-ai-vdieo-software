@@ -1,7 +1,7 @@
 ---
 title: In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-12-22T06:41:46.740Z
-updated: 2024-12-25T09:55:52.805Z
+date: 2024-12-28T18:31:22.702Z
+updated: 2025-01-03T17:41:48.417Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -38,6 +38,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -65,10 +69,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -78,10 +78,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -102,7 +98,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -119,6 +115,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -134,20 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>[Updated] Excellence on Screen The Year's Best Camcorders Reviewed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-no-cost-video-editors-for-side-by-side-videos-online-and-offline-for-2024/"><u>Best No-Cost Video Editors for Side-by-Side Videos Online & Offline for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/canon-camcorder-video-editing-for-beginners-a-comprehensive-guide-for-2024/"><u>Canon Camcorder Video Editing for Beginners A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-files-on-windows-8-with-ease-2023s-top-editor-for-2024/"><u>Edit AVI Files on Windows 8 with Ease 2023S Top Editor for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exquisite-quintet-of-precision-engineered-cameras/"><u>Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life-for-2024/"><u>Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/home-movie-mastery-ezvid-for-mac-makes-video-creation-a-breeze/"><u>Home Movie Mastery Ezvid for Mac Makes Video Creation a Breeze</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-7-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 7 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-sj4000-stylish-essentials-a-comprehensive-list/"><u>In 2024, SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-13t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi 13T IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/hing-into-content-creation-account-setup-on-youtube-for-2024/"><u>Launching Into Content Creation Account Setup on YouTube for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-zebra-gk420d-driver-quickly-and-easily/"><u>[DOWNLOAD] Zebra GK420d Driver | Quickly & Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cutting-edge-tips-for-the-aspiring-gopro-4k-editor/"><u>[New] In 2024, Cutting-Edge Tips for the Aspiring GoPro 4K Editor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-slow-it-down-techniques-to-improve-your-slow-motion-photography-skills-for-instagram-for-2024/"><u>[New] Slow It Down Techniques to Improve Your Slow Motion Photography Skills for Instagram for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-glitch-video-editing-software-for-windows-and-mac-users/"><u>2024 Approved Top Glitch Video Editing Software for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-reducers-for-iphone-and-ipad-top-5-picks-for-2024/"><u>Best Free Video Reducers for iPhone and iPad Top 5 Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-hand-drawn-whiteboard-animation-makers-for-2024/"><u>Bring Your Ideas to Life Top Hand-Drawn Whiteboard Animation Makers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-working-learn-how-to-reset-and-get-back-to-editing/"><u>FCPX Not Working? Learn How to Reset and Get Back to Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-vob-video-editor-roundup-top-5-choices/"><u>Free VOB Video Editor Roundup Top 5 Choices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-webinar-solutions-explored/"><u>In 2024, Leading Webinar Solutions Explored</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-the-world-of-instagram-story-highlights/"><u>In 2024, Navigating the World of Instagram Story Highlights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-through-mixed-reality-an-overview-for-2024/"><u>Navigating Through Mixed Reality An Overview for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-create-a-self-hosted-free-chatgpt-copy-with-gpt4all/"><u>Windows Users, Create a Self-Hosted Free ChatGPT Copy with GPT4All</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Adobe Premiere Pro Secrets 20 Shortcuts to Supercharge Your Editing
-date: 2024-08-02T07:07:02.788Z
-updated: 2024-08-03T07:07:02.788Z
+date: 2024-12-28T18:30:57.309Z
+updated: 2025-01-03T16:09:29.501Z
 tags: 
   - video editing software
   - video editing
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-through-peak-fluid-gaming-titles/"><u>[Updated] Navigating Through Peak Fluid Gaming Titles</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-analytics-and-personalization-services/"><u>Cookiebot-Driven Analytics and Personalization Services</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-zero-30-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Zero 30 5G Is Unlocked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y27-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y27 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>In 2024, From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-meet-your-new-favorites-top-5-video-creators-and-soundtrack-artists/"><u>In 2024, Meet Your New Favorites Top 5 Video Creators & Soundtrack Artists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-your-tech-expertise-with-io-screen-recording/"><u>In 2024, Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030190143-mp4itunes/"><u>MP4ビデオがiTunesで再生できない原因・解決策入門 - 詳しく学ぶ！</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-3-steps-to-add-a-countdown-timer-in-final-cut-pro-x/"><u>New 3 Steps to Add a Countdown Timer in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-arm-support-arrives-filmora-x-update-now-live/"><u>New ARM Support Arrives Filmora X Update Now Live</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-choosing-the-best-video-editor-sony-vegas-vs-adobe-premiere-pro-2023-analysis/"><u>New Choosing the Best Video Editor Sony Vegas vs Adobe Premiere Pro 2023 Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>New Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-s-best-face-swap-apps-for-iphone-and-android/"><u>New S Best Face Swap Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-best-free-mkv-cutters-2023-update/"><u>New Top 10 Best Free MKV Cutters-2023 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-on-pc-how-to-restore-audio-functionality-for-chats/"><u>Sea of Thieves on PC - How to Restore Audio Functionality for Chats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-moto-g-with-stylus-budget-friendly-and-high-performance/"><u>The Ultimate Guide to the Moto G with Stylus - Budget-Friendly and High Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-c32-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia C32 FRP</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/yosemite-video-editing-mastery-advanced-techniques-for-mac-users/"><u>Yosemite Video Editing Mastery Advanced Techniques for Mac Users</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

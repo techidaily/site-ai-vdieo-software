@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-12-20T01:36:47.554Z
-updated: 2024-12-25T00:57:51.477Z
+date: 2024-12-29T18:33:35.551Z
+updated: 2025-01-03T16:01:23.429Z
 tags: 
   - video editing software
   - video editing
@@ -32,10 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -53,7 +49,7 @@ As you can see, our timeline has no other video clip. Hence, Final Cut Pro will 
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Add the Ken Burns Effect**
@@ -83,7 +79,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 _![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5: Add a Freeze Frame**
@@ -96,11 +92,19 @@ You’re not done yet because you need to hold your picture at the end of the an
 
 _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
 _![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7: Swap the Start and End Frame**
 
@@ -127,7 +131,7 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -150,10 +154,6 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -180,24 +180,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-flawless-frequency-facilitator-for-voices-for-2024/"><u>[Updated] Flawless Frequency Facilitator for Voices for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-yearly-insights-the-most-impactful-social-graphs/"><u>[Updated] In 2024, Yearly Insights - The Most Impactful Social Graphs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-here-is-a-list-of-some-of-the-best-slow-motion-video-editing-software-in-the-market-today-keep-reading-and-tell-us-which-video-editor-you-are-/"><u>2024 Approved Here Is a List of some of the Best Slow Motion Video Editing Software in the Market Today. Keep Reading and Tell Us Which Video Editor You Are Using to Make a Slow Motion Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-14-exceptional-text-animations/"><u>2024 Approved Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/alternatives-to-virtualdub-best-video-processing-software/"><u>Alternatives to VirtualDub Best Video Processing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-animations-5-best-online-stop-motion-makers/"><u>Create Stunning Animations 5 Best Online Stop Motion Makers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-loops-best-free-gif-software-for-2024/"><u>Create Stunning Loops Best Free GIF Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-video-editors-compatible-with-32-bit-windows-for-2024/"><u>Discover the Best Free Video Editors Compatible with 32-Bit Windows for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-top-10-free-4k-video-converters-for-pc-and-mac-for-2024/"><u>Discover the Best Top 10 Free 4K Video Converters for PC and Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-audio-editing-made-easy-a-tutorial-for-creators-for-2024/"><u>FCP Audio Editing Made Easy A Tutorial for Creators for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-3gp-video-rotator-review-top-rated-options-for-2024/"><u>Free 3GP Video Rotator Review Top-Rated Options for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/full-guide-how-to-free-up-space-for-fcpx/"><u>Full Guide How to Free Up Space for FCPX?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hue-harmonies-crafting-visual-balance-for-2024/"><u>Hue Harmonies Crafting Visual Balance for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-12-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 12 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-geforce-210-graphics-card-drivers-optimized-for-windows-11-operating-system/"><u>Install the Newest GeForce 210 Graphics Card Drivers Optimized for Windows 11 Operating System</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users/"><u>New 2024 Approved Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-six-game-changing-benefits-of-integrating-chatgpt-with-your-smartwatch/"><u>The Six Game-Changing Benefits of Integrating ChatGPT with Your Smartwatch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-easy-steps-to-save-youtube-videos/"><u>[New] In 2024, Easy Steps to Save YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-swiftly-excise-your-youtube-comment-spam-for-2024/"><u>[Updated] How to Swiftly Excise Your Youtube Comment Spam for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-copyright-free-game-audio-repositories/"><u>[Updated] In 2024, Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-giggle-galore-twitters-top-10-joke-threads/"><u>2024 Approved Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animate-on-the-go-top-free-mobile-apps-for-3d-animation-enthusiasts-for-2024/"><u>Animate On-the-Go Top Free Mobile Apps for 3D Animation Enthusiasts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-editors-easy-peasy-for-newbies-for-2024/"><u>Best Free Video Editors Easy Peasy for Newbies for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-cartoons-top-10-mobile-apps/"><u>Create Stunning Cartoons Top 10 Mobile Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-videos-on-mac-with-avs-editor/"><u>Create Stunning Videos on Mac with AVS Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-epson-v600-driver-today/"><u>Download & Update Your Epson V600 Driver Today</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-adobe-premiere-pro-cs6-for-mac-download-latest-2023-release-for-2024/"><u>Free Adobe Premiere Pro CS6 for Mac Download Latest 2023 Release for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/here-you-will-find-10-best-free-animation-software-for-windows-and-mac-if-you-want-to-know-what-they-are-the-pros-and-cons-check-it-out/"><u>Here, You Will Find 10 Best Free Animation Software for Windows and Mac. If You Want to Know What They Are, the Pros and Cons, Check It Out</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snippet-storyboarding-procedure/"><u>In 2024, Snippet Storyboarding Procedure</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/les-plus-performants-solutions-de-backup-pour-outlook-options-libres-et-securisees/"><u>Les Plus Performants Solutions De Backup Pour Outlook: Options Libres Et Sécurisées</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-dji-phantom-3-pros-innovations-for-2024/"><u>Navigating the DJI Phantom 3 Pro's Innovations for 2024</u></a></li>
 </ul></div>
 

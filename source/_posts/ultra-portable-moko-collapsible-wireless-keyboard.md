@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2024-12-17T23:27:21.772Z
-updated: 2024-12-25T07:17:22.489Z
+date: 2024-12-31T18:05:54.235Z
+updated: 2025-01-03T16:12:29.148Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -13,12 +13,16 @@ thumbnail: https://www.lifewire.com/thmb/wHZ-ZuGaBn8D_tIZ9YtAursona4=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -41,17 +45,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -103,6 +99,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -128,7 +128,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -146,7 +146,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -174,22 +174,18 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-green-screen-apps-for-android-and-ios-for-2024/"><u>Best Free Green Screen Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-iphone-video-orientation-changers-5-free-options/"><u>Best iPhone Video Orientation Changers 5 Free Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-top-text-animation-apps-for-android-and-ios/"><u>Bring Your Videos to Life Top Text Animation Apps for Android and iOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-your-webex-mic-issues/"><u>Effective Solutions for Troubleshooting Your Webex Mic Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-mp4-video-tagging-top-editor-recommendations/"><u>Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-replication-expertise-achieving-flawless-robocopy-mirrors-for-superior-data-alignment/"><u>Effortless Replication Expertise: Achieving Flawless Robocopy Mirrors for Superior Data Alignment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/essential-iphone-apps-the-cream-of-the-crop-reviewed-and-recommended/"><u>Essential iPhone Apps The Cream of the Crop, Reviewed and Recommended</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-free-vob-video-editing-solutions/"><u>Expert-Approved Free VOB Video Editing Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-download-filmora-13-video-editing-made-easy-for-2024/"><u>Free Download Filmora 13 Video Editing Made Easy for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-top10-best-whiteboard-animation-software-for-2024/"><u>FREE Top10 Best Whiteboard Animation Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-inbuilt-camera-working-again-on-a-windows-machine/"><u>How to Get Your Inbuilt Camera Working Again on a Windows Machine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>In 2024, Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-pixels-master-color-correction-techniques-11-steps/"><u>In 2024, Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212038014-microsoft-store-malfunction-heres-how-you-can-fix-it-now/"><u>Microsoft Store Malfunction? Here's How You Can Fix It Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/specialized-application-of-local-policies-on-a-lone-users-profile/"><u>Specialized Application of Local Policies on a Lone User's Profile</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-restoring-your-lenovo-ideapad-g50-with-the-recovery-password/"><u>Step-by-Step Guide: Restoring Your Lenovo IdeaPad G50 with the Recovery Password</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-your-videos-with-these-10-top-rated-trimmers/"><u>[New] Master Your Videos with These 10 Top-Rated Trimmers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prestigious-archive-open-source-photo-galleries/"><u>[Updated] In 2024, Prestigious Archive Open-Source Photo Galleries</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-which-video-editor-wins-filmora-or-democreator-reviewed-for-2024/"><u>[Updated] Which Video Editor Wins? Filmora or Democreator Reviewed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-pc-video-editing-made-easy-a-review-of-vn-video-editor/"><u>2024 Approved PC Video Editing Made Easy A Review of VN Video Editor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-review-and-rating-is-it-worth-the-hype-for-2024/"><u>AVS Video Editor Review and Rating Is It Worth the Hype for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-latest-tech-google-pixel-watch-2-vs-apple-watch-series-9-which-offers-more-value-for-money/"><u>Comparing the Latest Tech: Google Pixel Watch 2 Vs. Apple Watch Series 9 - Which Offers More Value for Money?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-avi-videos-for-free-top-5-software-options-for-2024/"><u>Flip and Rotate AVI Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-gif-maker-tools-for-seamless-loops/"><u>Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-reduce-high-network-use-by-svchostexe-netsvcs-on-your-pc/"><u>How to Diagnose and Reduce High Network Use by Svchost.exe (NETsvcs) on Your PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-magic-5-lite-phone-by-drfone-android/"><u>How to Reset a Locked Honor Magic 5 Lite Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-z-flip-5-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy Z Flip 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/iphone-audio-the-complete-guide-to-effortless-recording-for-2024/"><u>IPhone Audio The Complete Guide to Effortless Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-connectivity-free-downloads-of-intel-wireless-network-adapter-drivers-for-windows-computers/"><u>Upgrade Your Connectivity: Free Downloads of Intel Wireless Network Adapter Drivers for Windows Computers</u></a></li>
 </ul></div>
 

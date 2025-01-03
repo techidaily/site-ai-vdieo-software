@@ -1,7 +1,7 @@
 ---
 title: The Art of Effective Lower Thirds in Final Cut Pro X
-date: 2024-12-19T04:30:57.657Z
-updated: 2024-12-24T17:33:22.519Z
+date: 2024-12-28T16:38:32.784Z
+updated: 2025-01-03T17:27:45.933Z
 tags: 
   - video editing software
   - video editing
@@ -47,10 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -62,10 +58,6 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -94,7 +86,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -121,11 +113,19 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -134,7 +134,7 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
@@ -142,6 +142,10 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -169,10 +173,6 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,20 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-fishermans-field-guide-to-prime-camers/"><u>[New] In 2024, The Fisherman's Field Guide to Prime Camers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976921677-get-the-latest-dolby-audio-driver-updates-for-windows-111081-free-download-now/"><u>Get the Latest Dolby Audio Driver Updates for Windows 11/10/8.1 - Free Download Now!</u></a></li>
-<li><a href="https://windows11.techidaily.com/hidden-panels-revealed-recovering-offscreen-windows-in-edges-os/"><u>Hidden Panels Revealed: Recovering Offscreen Windows in Edges OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-sound-on-your-laptops-built-in-speakers/"><u>How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-the-art-of-audio-capture-sans-microphone/"><u>In 2024, Mastering the Art of Audio Capture Sans Microphone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-edit-videos-with-quicktime-on-mac/"><u>New From Start to Finish How to Edit Videos with QuickTime on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-on-iphone-for-free-top-5-essential-tools/"><u>Rotate Videos on iPhone for Free Top 5 Essential Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/should-you-buy-videopad-an-honest-review-and-recommendation/"><u>Should You Buy Videopad? An Honest Review and Recommendation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-dynamic-duo-of-charge-and-chatter-in-jabras-voice-model-25/"><u>The Dynamic Duo of Charge & Chatter in Jabra's Voice Model 25</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-funniest-meme-creator-apps-for-android-and-ios-updated-2023/"><u>The Funniest Meme Creator Apps for Android and iOS (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-avs-video-editor-review-and-rating/"><u>Updated A Closer Look at AVS Video Editor Review and Rating</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-tones-in-seconds-5-best-online-generators/"><u>Updated Create Tones in Seconds 5 Best Online Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-4k-video-editing-software/"><u>Updated The Ultimate Guide to 4K Video Editing Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728498414483-windows-11/"><u>Windows 11 アップグレード直前に重要なデータ保護ガイド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-classic-family-vacation-movie-for-summer/"><u>[Updated] 10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cost-free-translation-made-easy-with-these-subtitle-downloader-apps/"><u>[Updated] Cost-Free Translation Made Easy with These Subtitle Downloader Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>[Updated] In 2024, Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[Updated] In 2024, How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta/"><u>2024 Approved Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-moto-g04-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Moto G04</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-still-to-moving-adding-animated-effects-to-your-text-ig-stories-for-2024/"><u>From Still to Moving Adding Animated Effects to Your Text IG Stories for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-webcam-recording-tools-for-windows-10/"><u>New 10 Essential Webcam Recording Tools for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-essentials-reversing-a-clip-in-4-simple-steps/"><u>New Final Cut Pro Essentials Reversing a Clip in 4 Simple Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-whiteboard-animation-software-top-picks-for-windows-and-mac-users/"><u>New Free Whiteboard Animation Software Top Picks for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-free-online-video-compressors-with-no-downloads/"><u>The Ultimate List 10 Free Online Video Compressors with No Downloads</u></a></li>
 </ul></div>
 

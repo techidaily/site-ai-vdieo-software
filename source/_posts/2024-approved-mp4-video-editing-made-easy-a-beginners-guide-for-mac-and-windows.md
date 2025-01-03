@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows
-date: 2024-08-02T07:05:47.193Z
-updated: 2024-08-03T07:05:47.193Z
+date: 2024-12-31T17:51:09.104Z
+updated: 2025-01-03T17:11:47.080Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 # How to Edit MP4 Video in Mac/Windows (Windows 8 included)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -53,16 +50,21 @@ It's Wondershare Filmora (originally Wondershare Video Editor). With it, you're 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Easily Edit MP4 Video?
 
 Before we proceed to illustrate every detail on how to edit the MP4 video, you can download the MP4 editor first so you can follow the below steps one by one.
 
 It's free to download now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ####
 
@@ -72,9 +74,6 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
 ####
@@ -87,9 +86,6 @@ If you want to make the joined videos look like a really intact movie, just add 
 
 If you don't want to choose the transition one by one, let the software choose the transition randomly by right clicking and selecting "Random to All" option.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
 
 ####
@@ -104,9 +100,6 @@ No problem.
 
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
 ####
@@ -122,6 +115,10 @@ Besides the basic video editing functions, Video Editor also provides various st
 
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ####
 
 #### 5. Save or Share the Edited Video
@@ -135,11 +132,16 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -148,8 +150,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,5 +157,21 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-virtual-screens-the-ultimate-guide/"><u>[New] 2024 Approved Virtual Screens The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-growth-guide-mastering-instagram-likes-and-video/"><u>2024 Approved Quick Growth Guide - Mastering Instagram Likes & Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-walkthrough-of-the-how-to-train-your-dragon-movies-watch-them-in-order/"><u>A Complete Walkthrough of the How to Train Your Dragon Movies - Watch Them in Order!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-clean-up-unwanted-apps-on-your-windows-10-system-a-step-by-step-guide/"><u>How to Clean Up Unwanted Apps on Your Windows 10 System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>In 2024, Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-gigabytes-needed-for-a-full-days-movie-watching/"><u>In 2024, Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-civi-3-disney-100th-anniversary-edition-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Civi 3 Disney 100th Anniversary Edition to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 12 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-video-gear-expert-recommendations-for-youtube-clips/"><u>In 2024, Pro Video Gear Expert Recommendations for YouTube Clips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative/"><u>Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mp4-video-editor-roundup-top-10-options/"><u>New Free MP4 Video Editor Roundup Top 10 Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-integration-of-bing-ai-chat-in-android-keyboard-settings/"><u>Seamless Integration of Bing AI Chat in Android Keyboard Settings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-creating-stop-motion-videos-for-instagram/"><u>The Ultimate Guide to Creating Stop Motion Videos for Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-and-trim-3gp-files-with-ease-updated-2023/"><u>Updated Cut and Trim 3GP Files with Ease Updated 2023</u></a></li>
+</ul></div>
 

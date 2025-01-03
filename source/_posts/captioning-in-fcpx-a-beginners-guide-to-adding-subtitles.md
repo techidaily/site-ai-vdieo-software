@@ -1,7 +1,7 @@
 ---
 title: Captioning in FCPX A Beginners Guide to Adding Subtitles
-date: 2024-08-27T06:17:05.633Z
-updated: 2024-08-28T06:17:05.633Z
+date: 2025-01-02T17:33:18.622Z
+updated: 2025-01-03T17:31:02.711Z
 tags: 
   - video editing software
   - video editing
@@ -35,8 +35,9 @@ On the other hand, the captions display every kind of audio information, includi
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -53,9 +54,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -82,10 +80,11 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
@@ -103,6 +102,10 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -115,10 +118,11 @@ You can use the transcriptions feature of YouTube to import captions file into y
 
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -129,15 +133,13 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -146,8 +148,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +155,24 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[New] 2024 Approved Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-embrace-the-vivid-world-editing-and-viewing-hd-with-windows-hdr-for-2024/"><u>[New] Embrace the Vivid World Editing & Viewing HD with Windows HDR for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-the-top-overlooked-dual-function-robot-cleaner-from-an-unknown-brand-featured-on-zdnet/"><u>Discover the Hidden Gem: The Top Overlooked Dual-Function Robot Cleaner From an Unknown Brand - Featured on ZDNet!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-efficient-online-analytics-via-cookiebot-integration/"><u>Experience Efficient Online Analytics via Cookiebot Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guaranteed-steps-to-protectly-delete-your-private-data-from-a-windows-pc-cost-free-methods-covered/"><u>Guaranteed Steps to Protectly Delete Your Private Data From a Windows PC: Cost-Free Methods Covered!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-create-captions-in-final-cut-pro-x-a-comprehensive-guide/"><u>How to Create Captions in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>In 2024, Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bypass-filmora-watermark-legal-ways-to-do-it-with-or-without-payment/"><u>In 2024, Bypass Filmora Watermark Legal Ways to Do It with or without Payment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-compressor-essentials-optimizing-video-files-in-final-cut-pro-x/"><u>In 2024, Compressor Essentials Optimizing Video Files in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-movies-online-for-free-top-9-tools/"><u>In 2024, Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-color-and-create-top-iphone-video-editing-apps/"><u>In 2024, Cut, Color, and Create Top iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-video-reversal-top-online-tools/"><u>In 2024, Easy Video Reversal Top Online Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-free-download-legit-and-virus-free-options/"><u>In 2024, Filmora Free Download Legit and Virus-Free Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-v-purse-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor V Purse For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-galaxy-a24-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Galaxy A24, is it possible?</u></a></li>
+</ul></div>
 

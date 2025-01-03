@@ -1,7 +1,7 @@
 ---
 title: Achieving Cinematic Color in Final Cut Pro
-date: 2024-08-02T07:09:00.036Z
-updated: 2024-08-03T07:09:00.036Z
+date: 2024-12-27T18:15:40.787Z
+updated: 2025-01-03T18:41:57.236Z
 tags: 
   - video editing software
   - video editing
@@ -45,9 +45,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [How to Correct Color in iMovie >>](https://tools.techidaily.com/wondershare/filmora/download/)
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -60,6 +57,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -68,12 +69,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2
 
@@ -83,9 +89,6 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -96,31 +99,30 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -129,8 +131,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +138,24 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[Updated] 2024 Approved Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-5-pc-emulators-bringing-ps1-to-life/"><u>[Updated] 2024 Approved Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweettracker-monitor-and-grab-visuals-from-social-feeds/"><u>[Updated] 2024 Approved TweetTracker Monitor & Grab Visuals From Social Feeds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-best-instagram-extractors-for-memories-saved/"><u>2024 Approved The Best Instagram Extractors for Memories Saved</u></a></li>
+<li><a href="https://win-webster.techidaily.com/beat-the-frustration-essential-strategies-for-handling-cannot-open-file-corrupted-issues/"><u>Beat the Frustration: Essential Strategies for Handling 'Cannot Open - File Corrupted' Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-itel-p55plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Itel P55+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-rotation-made-easy-top-10-tools-and-software/"><u>In 2024, Free Video Rotation Made Easy Top 10 Tools and Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-dailymotion-converter-online/"><u>New Best Free Dailymotion Converter Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-dont-reveal-the-best-video-editing-tools-for-anonymity/"><u>New Blur, Dont Reveal The Best Video Editing Tools for Anonymity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/"><u>Take Your Video Editing to the Next Level Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-secret-to-engaging-lower-thirds-fcpx-best-practices-revealed/"><u>The Secret to Engaging Lower Thirds FCPX Best Practices Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-vlog-video-editing-best-software-for-creators/"><u>The Ultimate Guide to Vlog Video Editing Best Software for Creators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-reaction-video-editing-software/"><u>The Ultimate List Best Reaction Video Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game-for-2024/"><u>Top Streamers Choice Does VirusMix or WireCast Rule the Game for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-winxdvd-tutorial-step-by-step-installation-and-usage/"><u>Ultimate WinXDVD Tutorial: Step-by-Step Installation and Usage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-a-closer-look-at-vn-video-editor-pro-pros-cons-and-everything-in-between/"><u>Updated A Closer Look at VN Video Editor Pro Pros, Cons, and Everything in Between</u></a></li>
+</ul></div>
 

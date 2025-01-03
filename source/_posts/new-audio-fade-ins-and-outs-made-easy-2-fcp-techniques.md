@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-12-22T02:56:15.371Z
-updated: 2024-12-25T10:04:11.396Z
+date: 2024-12-27T18:45:53.066Z
+updated: 2025-01-03T17:37:44.633Z
 tags: 
   - video editing software
   - video editing
@@ -52,29 +52,25 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +89,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -103,7 +99,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -118,6 +114,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,19 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/et-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>[New] Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-prime-7-fps-titles-you-cant-miss/"><u>[New] Prime 7 FPS Titles You Can't Miss</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-freeze-whole-website-panel/"><u>[Updated] In 2024, Freeze Whole Website Panel</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 15 Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-quick-charges-and-longevity-in-jabra-voice-talk-25/"><u>Exploring Quick Charges and Longevity in Jabra Voice Talk 25</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-download-videoleap-on-macbook/"><u>In 2024, How to Download Videoleap on MacBook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lenovo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lenovo FRP Bypass</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/innovative-approach-to-revamping-your-videos-cover-images-on-fb-for-2024/"><u>Innovative Approach to Revamping Your Videos' Cover Images on FB for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-fcpx-stabilization-secrets/"><u>Take Your Videos to the Next Level FCPX Stabilization Secrets</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-value-video-editing-software/"><u>The Best Value Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-animation-software-for-bringing-photos-to-life/"><u>Top 10 Animation Software for Bringing Photos to Life</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-video-background-blur-apps-for-mobile-devices-for-2024/"><u>Top Video Background Blur Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download/"><u>Updated Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-snaps-triumph-videos-dominating-discussions/"><u>[Updated] 2024 Approved Tweet-Snaps Triumph Videos Dominating Discussions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-break-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid/"><u>[Updated] Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-buy-tiktok-fame-responsibly-safe-trusted-providers/"><u>[Updated] Buy TikTok Fame Responsibly - Safe, Trusted Providers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-free-software-for-2024/"><u>AVI Video Rotation Made Easy Top Free Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-stop-motion-apps-for-ios-and-android/"><u>Best Stop Motion Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/champions-5-wearable-devices-for-top-fpv-racing-for-2024/"><u>Champion's 5 Wearable Devices for Top FPV Racing for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-split-screen-videos-for-free-online-and-offline-editor-reviews/"><u>Create Split Screen Videos for Free Online and Offline Editor Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-music-making-software-the-top-10-picks-for-2024/"><u>Free Music Making Software The Top 10 Picks for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 Phone without PIN</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>In 2024, Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/zwei-methoden-zur-wiederherstellung-von-pc-backups-unter-windows-11-ein-umfassender-leitfaden/"><u>Zwei Methoden Zur Wiederherstellung Von PC-Backups Unter Windows 11: Ein Umfassender Leitfaden</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-12-18T00:30:37.116Z
-updated: 2024-12-25T00:51:41.521Z
+date: 2024-12-31T18:21:35.110Z
+updated: 2025-01-03T18:02:38.653Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -45,10 +49,6 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * There is NO relationship between how the background is lit and how your actors are lit. This article will illustrate that.
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setting up the Key
 
@@ -62,17 +62,9 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
@@ -88,21 +80,17 @@ Your key should look better immediately. Most of the time, you can probably stop
 
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the **Matte** button to display your key as a white foreground on a black background.
 
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
@@ -129,13 +117,13 @@ This is a subtle effect, but very cool.
 
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When you are done, you have a great looking key!
 
@@ -143,11 +131,19 @@ When you are done, you have a great looking key!
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
@@ -158,10 +154,6 @@ Once you get your key looking as good as you can – which in this case isn't al
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
 
@@ -179,7 +171,15 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -196,17 +196,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-allocating-budget-for-youtube-video-success/"><u>[New] Allocating Budget for YouTube Video Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210966361-9781088236666-fuerza-para-recomenzar/"><u>Fuerza para Recomenzar | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-nest-wi-fi-reviewed-achieve-blistering-speeds-with-easy-mesh-integration/"><u>Google Nest Wi-Fi Reviewed: Achieve Blistering Speeds With Easy Mesh Integration</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-download-and-update-your-windows-rndis-device-drivers/"><u>How to Successfully Download and Update Your Windows RNDIS Device Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-create-animation-drawing-with-7-best-software/"><u>In 2024, How to Create Animation Drawing with 7 Best Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-unforgettable-lip-sync-videos-with-these-5-top-rated-apps/"><u>New Create Unforgettable Lip Sync Videos with These 5 Top-Rated Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-hack-add-a-countdown-timer-in-3-easy-steps/"><u>New Final Cut Pro X Hack Add a Countdown Timer in 3 Easy Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-free-green-screen-apps-for-androidios-best-2023/"><u>New Top 10 Free Green Screen APPs for Android/iOS Best 2023</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-connection-issues-between-iphone-and-windows-10-itunes-troubleshooting-guide/"><u>Resolved: Fixing Connection Issues Between iPhone and Windows 10 - ITunes Troubleshooting Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-frames-a-comprehensive-guide-to-converting-videos-to-images-10-converters/"><u>Unlocking Frames A Comprehensive Guide to Converting Videos to Images 10 Converters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevating-your-youtube-shorts-presence-with-impactful-strategies/"><u>[New] In 2024, Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-users-path-to-professional-audio-with-audacity/"><u>[Updated] Mac Users' Path to Professional Audio with Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>[Updated] Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>[Updated] Unleash Creativity Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambia-tus-archivos-webp-por-tiff-facilmente-y-gratis-descubre-el-poder-de-la-conversion-en-linea-con-movavi/"><u>Cambia Tus Archivos WEBP Por TIFF Fácilmente Y Gratis: Descubre El Poder De La Conversión en Línea Con Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-for-less-take-advantage-of-education-pricing/"><u>In 2024, Final Cut Pro for Less Take Advantage of Education Pricing</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-video-editing-software-like-gopro-quik-for-windows-and-mac/"><u>New Video Editing Software Like GoPro Quik for Windows and Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no1-free-dailymotion-to-mp4-converter-online/"><u>No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-image-retrieval-app-how-to-restore-accidentally-deleted-pictures/"><u>Ultimate iPhone Image Retrieval App: How to Restore Accidentally Deleted Pictures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook/"><u>Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-3d-video-makers-you-must-know/"><u>Updated Best 3D Video Makers You Must Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-alternative-to-gopro-studio-to-work-with-gopro-footage/"><u>Updated Best Alternative to GoPro Studio to Work with GoPro Footage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-professional-grade-video-editing-on-mac-adobe-premiere-pro/"><u>Updated Professional-Grade Video Editing on Mac Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
 </ul></div>
 
