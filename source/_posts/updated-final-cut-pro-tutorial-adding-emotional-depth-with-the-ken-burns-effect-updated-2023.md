@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-12-27T18:19:20.525Z
-updated: 2025-01-03T18:00:12.579Z
+date: 2025-01-09T00:34:48.547Z
+updated: 2025-01-10T10:14:56.803Z
 tags: 
   - video editing software
   - video editing
@@ -29,15 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -48,7 +48,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -60,7 +60,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -68,10 +68,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -83,13 +79,13 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -119,6 +115,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -134,14 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-skype-call-recording-tactics-for-pcsmacs-for-2024/"><u>[Updated] Essential Skype Call Recording Tactics for PCs/Macs for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-preservation-straightforward-techniques-unpacked/"><u>Instagram Video Preservation Straightforward Techniques Unpacked</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-recording-to-editing-the-best-reaction-video-apps-for-mobile/"><u>New From Recording to Editing The Best Reaction Video Apps for Mobile</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>New In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-failed-to-refresh-error-on-windows-11-a-step-by-step-guide/"><u>Resolving the 'Failed to Refresh' Error on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/s-shown-no-more-hidden-videos-for-2024/"><u>Shorts Shown – No More Hidden Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-vr-converting-videos-made-easy/"><u>Updated Discover the Power of VR Converting Videos Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-dailymotion-downloader-and-converter/"><u>Updated Free Online Dailymotion Downloader and Converter</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-compatible-options-to-replace-sony-vegas-pro/"><u>Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[New] 2024 Approved Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premium-platforms-for-hearing-westeros-tones/"><u>[New] 2024 Approved Premium Platforms for Hearing Westeros Tones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streamlining-youtube-videos-for-facebook-circulation-for-2024/"><u>[New] Streamlining YouTube Videos for Facebook Circulation for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-future-of-home-entertainment-tv-or-projection-for-4k-in-2024/"><u>[New] The Future of Home Entertainment TV or Projection for 4K, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bringing-rhythm-to-instagrams-visual-narratives/"><u>2024 Approved Bringing Rhythm to Instagram's Visual Narratives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/create-edges-of-images-with-rotational-softness-blend-psx/"><u>Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-impacts-of-ditching-windows-11s-taskbar-chatting-feature/"><u>Exploring Impacts of Ditching Windows 11'S Taskbar Chatting Feature</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-animation-tools-to-bring-your-ideas-to-life/"><u>In 2024, Best Online Animation Tools to Bring Your Ideas to Life</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-animations-a-review-of-the-best-drawing-software/"><u>In 2024, Create Stunning Animations A Review of the Best Drawing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-game-the-7-best-free-online-video-enhancers/"><u>In 2024, Elevate Your Video Game The 7 Best Free Online Video Enhancers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-face-obscuring-made-easy-expert-video-editing-solutions/"><u>In 2024, Face Obscuring Made Easy Expert Video Editing Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-performance-enabling-gpu-functionality-for-warzone-on-windows-11-systems/"><u>Maximizing Performance: Enabling GPU Functionality for Warzone on Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/munchen-testet-digitales-stimmzettelsammeln-fortschrittliche-wahlsysteme-fur-landeshauptstadte/"><u>München Testet Digitales Stimmzettelsammeln - Fortschrittliche Wahlsysteme Für Landeshauptstädte</u></a></li>
 </ul></div>
 

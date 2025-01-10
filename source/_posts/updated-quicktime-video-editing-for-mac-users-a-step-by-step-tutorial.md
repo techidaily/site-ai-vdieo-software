@@ -1,7 +1,7 @@
 ---
 title: Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial
-date: 2024-12-30T18:31:03.873Z
-updated: 2025-01-03T16:46:07.710Z
+date: 2025-01-08T22:38:53.412Z
+updated: 2025-01-10T02:20:53.188Z
 tags: 
   - video editing software
   - video editing
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 There is no doubt that one of the most underrated components of the consumer Mac software that comes built into every Mac is Apple's QuickTime Player. The reason for this, of course, is that QuickTime, in addition to being a simple video player that edits mp4 Mac, also allows users to do some basic video trimming. This can come in handy for average users, especially when you consider how expensive, bloated, and complex video editing software can be. In this article, we will show you that how QuickTime edit videos on Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part1: Quicktime is More Than a Player
 
 QuickTime Player is a simple yet powerful video editing program available for Mac. It includes features for casual video editors and professionals alike, so whatever your reason for looking for good edit mp4 Mac software, QuickTime Player has to cover you.
@@ -45,10 +41,6 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -58,7 +50,7 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
@@ -74,11 +66,7 @@ Step4: When you have done, click on “Trim”.
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -93,6 +81,10 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -104,6 +96,10 @@ Step2: Select the clip by going to View > Show Clips.
 Step3: Choose to rotate the clip left or right, or flip it horizontally or vertically, from the Edit menu.
 
 Step4: When you're done, click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
@@ -127,6 +123,10 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -144,16 +144,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>2024 Approved Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-post-production-mastery-l-cuts-and-j-cuts-in-fcpx-for-2024/"><u>Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-gopro-videos-on-pc-quik-alternatives-and-more-for-2024/"><u>Editing GoPro Videos on PC Quik, Alternatives, and More for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-casting-setup-learn-how-to-connect-your-phone-to-google-chromecast/"><u>Effortless Casting Setup: Learn How to Connect Your Phone to Google Chromecast</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fantastic-10-whiteboard-animation-tools-for-pc-and-mac-users/"><u>Free and Fantastic 10 Whiteboard Animation Tools for PC and Mac Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-video-to-live-photo-best-conversion-apps-and-methods-for-2024/"><u>From Video to Live Photo Best Conversion Apps and Methods for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-6s-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 6s</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-synergy-of-business-and-virtual-experience-design/"><u>In 2024, The Synergy of Business and Virtual Experience Design</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/iphone-camera-roll-synergy-with-snapchat-sharing/"><u>IPhone Camera Roll Synergy with Snapchat Sharing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-platinum-quick-and-easy-5-minute-conversion-to-mp4-h264hevc/"><u>WinX DVD Ripper Platinum: Quick & Easy 5-Minute Conversion to MP4 (H.264/HEVC)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/yis-4k-capability-in-action-capture/"><u>Yi's 4K Capability in Action Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-learning-from-the-past-10-top-history-educational-channels/"><u>[New] 2024 Approved Learning From the Past - 10 Top History Educational Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-antique-cinematography-in-the-digital-realm/"><u>[Updated] 2024 Approved Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-compact-snaps-via-mac-techniques/"><u>[Updated] In 2024, Crafting Compact Snaps via Mac Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pinnacle-photo-narrative-assembly-platform/"><u>[Updated] Pinnacle Photo Narrative Assembly Platform</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/hidden-history-unveiled-understanding-off-facebook-data-for-2024/"><u>Hidden History Unveiled Understanding Off-Facebook Data for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-the-ultimate-guide/"><u>In 2024, Video Editing Showdown Sony Vegas vs Adobe Premiere Pro - The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insights-on-logitechs-c615-camcorder-where-budget-meets-excellence-in-performance/"><u>Insights on Logitech's C615 Camcorder: Where Budget Meets Excellence in Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-free-sound-fx-websites-and-integrate-with-final-cut-pro/"><u>New Discover Free Sound FX Websites and Integrate with Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-gopro-video-editing-a-beginners-guide/"><u>New Effortless GoPro Video Editing A Beginners Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-most-popular-video-editing-apps-for-iphone-and-ipad/"><u>S Most Popular Video Editing Apps for iPhone and iPad</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-budget-video-editing-top-picks/"><u>Updated Budget Video Editing Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-4k-to-mp4-the-ultimate-video-conversion-and-download-guide/"><u>Updated From 4K to MP4 The Ultimate Video Conversion and Download Guide</u></a></li>
 </ul></div>
 

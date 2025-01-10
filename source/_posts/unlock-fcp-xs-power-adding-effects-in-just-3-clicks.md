@@ -1,7 +1,7 @@
 ---
 title: Unlock FCP Xs Power Adding Effects in Just 3 Clicks
-date: 2024-12-30T17:19:41.263Z
-updated: 2025-01-03T19:02:53.670Z
+date: 2025-01-04T06:26:32.427Z
+updated: 2025-01-10T08:22:25.926Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -61,12 +57,16 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -82,21 +82,17 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -104,15 +100,15 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -125,6 +121,10 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,20 +141,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[Updated] 2024 Approved Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>[Updated] 2024 Approved Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-20-free-adobe-premiere-intro-templates-for-2024/"><u>Best 20 Free Adobe Premiere Intro Templates for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-orientation-correction-tools-for-iphone/"><u>Best Free Video Orientation Correction Tools for iPhone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/capture-every-move-top-motion-tracking-apps-for-android-and-ios-for-2024/"><u>Capture Every Move Top Motion Tracking Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-color-and-compile-a-deep-dive-into-youtube-studio-video-editing-for-2024/"><u>Cut, Color & Compile A Deep Dive Into YouTube Studio Video Editing for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/editing-videos-on-mac-try-vn-video-editor-or-these-alternatives-for-2024/"><u>Editing Videos on Mac? Try VN Video Editor or These Alternatives for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-view-converting-standard-videos-to-vr-masterpieces/"><u>Elevate Your View Converting Standard Videos to VR Masterpieces</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-strategy-for-scoring-a-free-macbook-air-m3-at-best-buy-insider-tips-and-tricks-shared-by-zdnet/"><u>Exclusive Strategy for Scoring a Free MacBook Air M3 at Best Buy - Insider Tips and Tricks Shared by ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-erase-the-imprint-of-epic-games-hub-on-w11/"><u>How to Erase the Imprint of Epic Games Hub on W11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo S17e</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/timex-starter-watch-critique-the-ultimate-budget-entry-into-advanced-timekeeping-technology/"><u>TimeX Starter Watch Critique: The Ultimate Budget Entry Into Advanced Timekeeping Technology</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-and-totally-free-the-best-online-video-editors-without-watermarks-for-2024/"><u>Updated Top-Rated and Totally Free The Best Online Video Editors without Watermarks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[New] 2024 Approved DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[New] 2024 Approved Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-reimagining-communication-advanced-tactics-for-capturing-skype-calls/"><u>[Updated] In 2024, Reimagining Communication Advanced Tactics for Capturing Skype Calls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc-for-2024/"><u>[Updated] Top 5 Emulators The Ultimate Guide for Classic PS1 Games on PC for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-nokia-g310-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Nokia G310?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus with IMEI Code?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g34-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G34 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>In 2024, Unleash Your Creativity Best GoPro Video Editing Software (Beyond GoPro Studio)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>New Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-lol-to-omg-the-best-meme-creator-apps-for-android-and-ios/"><u>New From LOL to OMG The Best Meme Creator Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-get-back-on-track-resetting-final-cut-pro-x-to-resolve-common-problems/"><u>New Get Back on Track Resetting Final Cut Pro X to Resolve Common Problems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-yt-thumbnails-with-aspect-ratios/"><u>Perfecting YT Thumbnails with Aspect Ratios</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-10-free-antivirus-software-of-2cuary-protect-your-system-without-spending-a-dime/"><u>Top 10 Free Antivirus Software of 2Cuary: Protect Your System Without Spending a Dime</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-6-video-dubbing-apps-for-hilarious-voiceovers/"><u>Top 6 Video Dubbing Apps for Hilarious Voiceovers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-gopro-footage-easy-editing-tips-and-tricks/"><u>Transform Your GoPro Footage Easy Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/uncovering-gadget-secrets-tips-from-toms-hardware-experts/"><u>Uncovering Gadget Secrets: Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-download-now-top-20-premiere-pro-title-templates/"><u>Updated Download Now Top 20 Premiere Pro Title Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-flipping-videos-like-a-pro-quick-easy-and-stress-free/"><u>Updated Flipping Videos Like a Pro Quick, Easy, and Stress-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164816351-why-your-gameplay-screams-for-an-oled-display/"><u>Why Your Gameplay Screams for an OLED Display.</u></a></li>
 </ul></div>
 

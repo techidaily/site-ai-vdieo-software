@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2024-12-29T16:09:17.802Z
-updated: 2025-01-03T16:13:52.510Z
+date: 2025-01-08T22:48:54.228Z
+updated: 2025-01-10T07:09:29.770Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,19 +81,15 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-access-unlimited-stock-photos-via-four-noteworthy-youtubes/"><u>[New] In 2024, Access Unlimited Stock Photos via Four Noteworthy YouTubes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-rapid-runners-prime-fastest-titles-for-pc-mobile-devices-for-2024/"><u>[New] Rapid Runners Prime Fastest Titles for PC, Mobile Devices for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-v30-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme V30 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertir-rapidement-une-image-iso-en-mp4-en-moins-de-5-minutes-guide-simple/"><u>Convertir Rapidement Une Image ISO en MP4 en Moins De 5 Minutes - Guide Simple</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-tips-embedding-moving-images-in-written-content-for-2024/"><u>Free Tips Embedding Moving Images in Written Content for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-13-pro-max-how-to-unlock-a-disabled-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Disabled iPhone 13 Pro Max How to Unlock a Disabled iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-v29-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V29 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pioneering-the-future-of-drones-today-and-tomorrow/"><u>Pioneering the Future of Drones Today & Tomorrow</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-mobile-video-editors-for-portrait-mode-videos-for-2024/"><u>Top Mobile Video Editors for Portrait Mode Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-flip-it-how-to-reverse-video-clips-in-final-cut-pro-like-a-pro/"><u>Updated Flip It! How to Reverse Video Clips in Final Cut Pro Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-free-animated-logo-creators-boost-your-brand/"><u>Updated Top 10 Free Animated Logo Creators Boost Your Brand</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dive-deep-into-sims-4-gameplay-with-videography/"><u>2024 Approved Dive Deep Into Sims 4 Gameplay with Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps/"><u>Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-original-elite-social-favorites-and-watch-count-hits-for-2024/"><u>Amazon Original Elite Social Favorites and Watch Count Hits for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-insignia-ns-pcy5bma2-drivers-on-your-pc-windows-11107/"><u>Easy Guide to Installing Insignia NS-PCY5BMA2 Drivers on Your PC (Windows 11/10/7)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/edge-it-right-a-list-of-top-borders-in-social-media-photography-for-2024/"><u>Edge It Right A List of Top Borders in Social Media Photography for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>In 2024, Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-best-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Best Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-animation-creators-for-every-level-of-expertise/"><u>In 2024, Discover the Best Animation Creators for Every Level of Expertise</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-adobe-premiere-pro-cs6-for-mac-os-free-trial/"><u>In 2024, Download Adobe Premiere Pro CS6 for Mac OS - Free Trial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/upgrade-your-images-to-ultra-high-definition-using-winxvideo-ai-technology/"><u>Upgrade Your Images to Ultra-High Definition Using Winxvideo AI Technology</u></a></li>
 </ul></div>
 

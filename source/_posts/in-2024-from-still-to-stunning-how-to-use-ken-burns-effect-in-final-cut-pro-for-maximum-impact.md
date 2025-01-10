@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact
-date: 2024-12-30T17:55:50.495Z
-updated: 2025-01-03T16:16:28.558Z
+date: 2025-01-04T06:54:42.909Z
+updated: 2025-01-09T19:19:56.269Z
 tags: 
   - video editing software
   - video editing
@@ -29,15 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -48,7 +48,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -65,10 +65,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -79,9 +75,17 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -97,15 +101,15 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -114,10 +118,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,22 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>[New] DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-nextgen-videostreaming-platforms/"><u>[New] In 2024, Exploring NextGen Videostreaming Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-spectaculous-fb-ad-videos-with-creativity/"><u>[Updated] In 2024, Crafting Spectaculous Fb Ad Videos with Creativity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picsart-background-removal-tool-a-step-by-step-guide/"><u>2024 Approved Picsart Background Removal Tool A Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-6s-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 6s Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/anonymize-your-media-10-free-face-blurring-apps-for-photos-and-videos/"><u>Anonymize Your Media 10 Free Face Blurring Apps for Photos and Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/countdown-magic-in-fcpx-a-3-step-tutorial-for-beginners/"><u>Countdown Magic in FCPX A 3-Step Tutorial for Beginners</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-a-viral-hit-10-best-music-video-producers-for-2024/"><u>Create a Viral Hit 10 Best Music Video Producers for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flv-video-editor-for-windows-8-a-comprehensive-review/"><u>FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-glitch-art-generators-the-ultimate-list-for-creators/"><u>Free Glitch Art Generators The Ultimate List for Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators-for-2024/"><u>From Snapshots to Masterpieces Best Online Photo and Video Collage Creators for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y100-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y100</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-c50-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco C50 Pattern Lock Screen</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>In 2024, The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-dual-boots-creating-and-running-a-linux-environment-on-windows-11/"><u>Mastering Dual Boots: Creating and Running a Linux Environment on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominate-search-results-essential-tips-for-optimizing-youtube-videos/"><u>[New] 2024 Approved Dominate Search Results Essential Tips for Optimizing YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-examination-of-syma-x5c-perfect-for-uav-newbies/"><u>[New] Comprehensive Examination of Syma X5C Perfect for UAV Newbies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-monitoring-and-snapping-digital-displays/"><u>[Updated] 2024 Approved Innovative Approaches to Monitoring and Snapping Digital Displays</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discovering-the-timeline-for-youtube-earnings/"><u>[Updated] Discovering the Timeline for YouTube Earnings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-beginners-booklet-on-backdrops-and-blending/"><u>In 2024, Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-3d-animation-makers-for-stunning-videos/"><u>New Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-concept-to-reality-10-best-music-video-making-platforms/"><u>New From Concept to Reality 10 Best Music Video Making Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-word-processes-with-ai-driven-gpt-assistance/"><u>Optimizing Word Processes with AI-Driven GPT Assistance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Hot 40</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-online-trailer-production-services/"><u>Professional Online Trailer Production Services</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-top-free-video-effects-apps-for-iphone-and-android/"><u>Unleash Creativity Top Free Video Effects Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bringing-memories-to-life-a-step-by-step-final-cut-pro-slideshow-creation-tutorial/"><u>Updated Bringing Memories to Life A Step-by-Step Final Cut Pro Slideshow Creation Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-for-free-top-online-video-editor-options/"><u>Updated Edit Like a Pro for Free Top Online Video Editor Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-is-my-steam-games-slow-effective-ways-to-improve-game-load-times/"><u>Why Is My Steam Games Slow? Effective Ways to Improve Game Load Times</u></a></li>
 </ul></div>
 

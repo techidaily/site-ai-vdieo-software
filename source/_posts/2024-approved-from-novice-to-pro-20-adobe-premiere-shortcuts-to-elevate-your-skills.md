@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills
-date: 2024-08-02T07:04:39.607Z
-updated: 2024-08-03T07:04:39.607Z
+date: 2025-01-05T08:05:42.998Z
+updated: 2025-01-10T11:34:22.721Z
 tags: 
   - video editing software
   - video editing
@@ -30,27 +30,12 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -73,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -93,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -148,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -191,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -234,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -243,5 +214,28 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-scenes-unpacking-instagram-stories/"><u>[Updated] Behind the Scenes Unpacking Instagram Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gopros-best-underwater-enhancement-filters/"><u>[Updated] In 2024, GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capture-edit-and-enhance-a-novices-journey-with-lunapic-for-2024/"><u>Capture, Edit & Enhance A Novice's Journey with LunaPic for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-industry-leading-audio-editing-solutions-for-professionals/"><u>In 2024, 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-review-a-closer-look-at-its-capabilities-and-limitations/"><u>In 2024, AVS Video Editor Review A Closer Look at Its Capabilities and Limitations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-top-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Top Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cross-platform-video-editing-mastery-using-chromebook-with-windows-and-mac-apps/"><u>In 2024, Cross-Platform Video Editing Mastery Using Chromebook with Windows and Mac Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-avi-trimmers-top-software-for-windows-mac-and-android-devices/"><u>In 2024, Cutting-Edge AVI Trimmers Top Software for Windows, MAC, and Android Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-wmv-files-for-free-top-5-video-editor-options/"><u>In 2024, Edit WMV Files for Free Top 5 Video Editor Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ezvid-for-mac-create-slideshows-and-home-videos-easily-in-mac-os/"><u>In 2024, Ezvid for Mac Create Slideshows and Home Videos Easily in Mac OS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-merging-youtube-soundtracks-to-cinematic-scenes/"><u>In 2024, Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>In 2024, Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-studio-basics-full-guide-to-ps4-game-recording-for-2024/"><u>Obs Studio Basics - Full Guide to PS4 Game Recording for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-media-save-vimeo-to-mp4-for-2024/"><u>Streamline Your Media Save Vimeo to MP4 for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/two-hassle-free-techniques-safeguard-your-files-with-amazon-cloud-drive-at-no-charge/"><u>Two Hassle-Free Techniques: Safeguard Your Files with Amazon Cloud Drive at No Charge</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

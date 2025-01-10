@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2025-01-02T16:20:51.769Z
-updated: 2025-01-03T17:21:55.955Z
+date: 2025-01-02T16:29:14.036Z
+updated: 2025-01-09T21:28:44.995Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ If you are new to the world of editing and find Final Cut Pro little difficult t
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Voice Over with Final Cut Pro
@@ -64,13 +64,13 @@ Now in order to start your recording, you need to press Shift+A from the keyboar
 
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The countdown will automatically start.
 
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -80,12 +80,16 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4
@@ -115,11 +119,11 @@ It is also possible to extract desired recordings from auditions; for example if
 
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
-Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## FAQ
 
@@ -132,10 +136,6 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -152,24 +152,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-keeping-up-with-the-screen-capturing-internet-television-online/"><u>[New] 2024 Approved Keeping Up With The Screen - Capturing Internet Television Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-live-obs-video-on-instagram/"><u>2024 Approved Live OBS Video on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-13c-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi 13C 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-animated-gif-makers-with-looping-features-for-2024/"><u>Best Animated GIF Makers with Looping Features for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-stop-motion-apps-for-ios-and-android-devices/"><u>Best Stop Motion Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cartoonize-your-videos-the-ultimate-conversion-tutorial-for-2024/"><u>Cartoonize Your Videos The Ultimate Conversion Tutorial for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-converter-turn-humble-footage-into-breathtaking-films/"><u>Cinematic Converter Turn Humble Footage Into Breathtaking Films</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creative-annotation-best-smartphone-apps-reviewed/"><u>Creative Annotation Best Smartphone Apps Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/devops-craze-continues-to-heat-up-yet-experts-agree-on-the-imperative-for-enhanced-practices-zdnet/"><u>DevOps Craze Continues to Heat Up, Yet Experts Agree on the Imperative for Enhanced Practices | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-on-mac-mavericks-a-comprehensive-guide/"><u>Edit MP4 Files on Mac Mavericks A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80070141-making-unreachable-devices-connectable/"><u>Eliminating Error Code 0X80070141: Making Unreachable Devices Connectable</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/extracting-still-images-from-videos-10-reliable-converters/"><u>Extracting Still Images From Videos 10 Reliable Converters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-vs-lumafusion-a-comprehensive-comparison-for-video-creators-for-2024/"><u>FCP vs LumaFusion A Comprehensive Comparison for Video Creators for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/l-the-best-of-history-top-10-youtube-channel-list-for-2024/"><u>Unveil the Best of History Top 10 YouTube Channel List for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/xmedia-recodemp4movm2ts/"><u>XMedia Recode：簡単ガイド！MP4/MOV/M2TS形式のビデオフォーマット変換法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-for-podcast-cover-art-mastery/"><u>[New] Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g14-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G14</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ace-your-pcs-stability-addressing-and-solving-the-vcruntime140dll-error-problem/"><u>Ace Your PC's Stability: Addressing and Solving the VCRUNTIME140.dll Error Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-captivating-and-impressive-hdr-portraits/"><u>In 2024, Expert Tips for Captivating and Impressive HDR Portraits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-maximize-your-videos-with-top-youtube-rippers/"><u>In 2024, Maximize Your Videos with Top YouTube Rippers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/masters-of-illusion-top-vr-producers/"><u>Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mysterious-disappearance-of-my-photos-from-computer-help-me-find-them/"><u>Mysterious Disappearance of My Photos From Computer – Help Me Find Them!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/replace-sony-vegas-discover-the-best-video-editing-software-for-windows/"><u>Replace Sony Vegas Discover the Best Video Editing Software for Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-game-video-editing-tools/"><u>The Ultimate List of Free Game Video Editing Tools</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/titre-seo-performant-comment-recuperer-sans-probleme-vos-fichiers-endommages-avec-notre-methode-rapide-et-simple/"><u>Titre SEO Performant: Comment Récupérer Sans Problème Vos Fichiers Endommagés Avec Notre Méthode Rapide Et Simple</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>Updated Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-hand-drawing-whiteboard-animation-tools/"><u>Updated Expert-Approved Hand Drawing Whiteboard Animation Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-crashing-heres-the-ultimate-fix/"><u>Updated Final Cut Pro X Crashing? Heres the Ultimate Fix</u></a></li>
 </ul></div>
 

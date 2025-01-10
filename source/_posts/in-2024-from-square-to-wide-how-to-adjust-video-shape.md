@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Adjust Video Shape
-date: 2025-01-01T18:59:23.662Z
-updated: 2025-01-03T16:22:57.277Z
+date: 2025-01-07T05:31:47.738Z
+updated: 2025-01-10T01:24:41.923Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -58,6 +58,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -65,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -87,7 +91,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -97,10 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,21 +171,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[Updated] 2024 Approved Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-free-voice-modification-tools-enhance-your-auditory-presentation/"><u>[Updated] Free Voice Modification Tools – Enhance Your Auditory Presentation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mp4-made-easy-converting-and-downloading-4k-videos-simplified/"><u>2024 Approved MP4 Made Easy Converting and Downloading 4K Videos Simplified</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazing-16-features-of-alexa-in-your-amazon-echo-device-insights-from-zdnet/"><u>Amazing 16 Features of Alexa in Your Amazon Echo Device - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-fixes-for-corsair-void-microphone-failure-problems/"><u>Common Fixes for Corsair Void Microphone Failure Problems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-jaw-dropping-slow-mo-videos-with-these-top-10-editors-for-2024/"><u>Create Jaw-Dropping Slow Mo Videos with These Top 10 Editors for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cutting-edge-avi-video-cutters-top-picks-for-windows-mac-android-iphone-and-online-use-for-2024/"><u>Cutting-Edge AVI Video Cutters Top Picks for Windows, MAC, Android, iPhone, and Online Use for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-production-top-4k-video-editing-software/"><u>Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-responding-get-back-to-editing-with-these-fixes-for-2024/"><u>FCPX Not Responding? Get Back to Editing with These Fixes for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-codes-2024-your-ultimate-guide-to-savings/"><u>Filmora Promo Codes 2024 Your Ultimate Guide to Savings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-top-10-picks-for-mp4-files/"><u>Free Video Editing Software Top 10 Picks for MP4 Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-resolve-lg-device-usb-connection-problems-on-windows-10-8-and-7/"><u>How to Resolve LG Device USB Connection Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-youtube-earnings-master-the-art-with-500-subscribers/"><u>In 2024, Maximizing YouTube Earnings Master the Art with 500 Subscribers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/innovative-titles-to-lengthen-viewing-times-within-limit/"><u>Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-flapping-discord-overlay-on-pc/"><u>Unraveling the Mystery of a Flapping Discord Overlay on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-youtube-creator-summit-a-getaway-for-youtubes-top-talent/"><u>[New] 2024 Approved The YouTube Creator Summit - A Getaway for YouTube's Top Talent</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-fundamental-tips-for-broadcasting-fan-favorite-sports-for-2024/"><u>[Updated] Fundamental Tips for Broadcasting Fan-Favorite Sports for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/break-into-cash-with-periscope-first-timers-tips/"><u>Break Into Cash with Periscope First-Timers' Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-tips-for-stable-server-connections-in-rainbow-six-siege/"><u>Expert Tips for Stable Server Connections in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crashes-during-the-link-process-in-granblue-fantasy-for-pc-players/"><u>Fixing Crashes During the Link Process in Granblue Fantasy for PC Players</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-web-free-online-video-editors-ranked/"><u>New Best of the Web Free Online Video Editors Ranked</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streaming-supremacy-tivo-and-comcasts-dvr-battle-royale/"><u>Streaming Supremacy TiVo and Comcasts DVR Battle Royale</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-2023-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Rated 2023 Surface Computers: In-Depth Analysis & Comparison by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-12-top-rated-online-animation-tools/"><u>Unleash Your Creativity 12 Top-Rated Online Animation Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Sony Xperia 1 V? | Dr.fone</u></a></li>
 </ul></div>
 

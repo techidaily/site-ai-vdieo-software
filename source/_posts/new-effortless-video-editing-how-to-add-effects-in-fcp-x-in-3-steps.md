@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Editing How to Add Effects in FCP X in 3 Steps
-date: 2024-12-30T17:52:03.480Z
-updated: 2025-01-03T18:34:54.285Z
+date: 2025-01-08T19:00:20.625Z
+updated: 2025-01-10T05:34:36.192Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -58,12 +54,16 @@ To apply an effect, first select the clip in the Timeline.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -82,21 +82,21 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -110,10 +110,6 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The effect will be deleted from the selected clip.
 
 #### Extra credit
@@ -125,6 +121,10 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,17 +141,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-co-productions-a-guide-to-more-followers/"><u>[New] Streamlining Co-Productions A Guide to More Followers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-solved-final-cut-pro-x-keeps-crashing/"><u>2024 Approved Solved Final Cut Pro X Keeps Crashing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beginners-guide-to-free-video-editing-cutting-and-joining-made-simple/"><u>Beginners Guide to Free Video Editing Cutting and Joining Made Simple</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-green-screen-apps-for-mobile-devices-updated-2023-for-2024/"><u>Best Free Green Screen Apps for Mobile Devices (Updated 2023) for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-webcam-tripods-flex-neck-and-stands/"><u>Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-scrn-tutorial-how-to-record-your-computer-screen-like-a-pro-for-2024/"><u>Filmora Scrn Tutorial How to Record Your Computer Screen Like a Pro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flash-flick-narrative-template/"><u>Flash Flick Narrative Template</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus 11 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-live-video-to-insta-platform/"><u>In 2024, OBS Live Video to Insta Platform</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premier-2024-selection-cloud-saving-apps-for-android-users/"><u>Premier 2024 Selection Cloud Saving Apps for Android Users</u></a></li>
-<li><a href="https://win-data.techidaily.com/solving-hardware-issues-on-your-pc-a-comprehensive-guide-by-yl-computing/"><u>Solving Hardware Issues on Your PC: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uncomplicated-logitech-audio-drivers-download/"><u>Uncomplicated Logitech Audio Drivers Download</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-income-icons-top-earner-video-stars/"><u>[New] 2024 Approved Income Icons Top Earner Video Stars</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>[New] Cinema's Best Shoot Techniques The Ultimate Guide for '24</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-what-makes-vimeo-special-a-look-inside/"><u>[New] What Makes Vimeo Special? A Look Inside</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-architects-of-unique-virtual-environments/"><u>[Updated] 2024 Approved Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-thorough-evaluation-of-frozen-snack-playback-devices-for-2024/"><u>[Updated] Thorough Evaluation of Frozen Snack Playback Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-and-swift-face-blur-on-piscart-tools-at-hand/"><u>Easy and Swift Face-Blur on PiscArt Tools at Hand</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-a-sense-of-urgency-3-quick-steps-to-create-a-countdown-in-fcpx/"><u>New Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-vision-to-life-wevideos-user-friendly-video-maker/"><u>New Bring Your Vision to Life WeVideos User-Friendly Video Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-divx-video-editing-made-easy-top-free-cutting-tools/"><u>New Divx Video Editing Made Easy Top Free Cutting Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-3d-video-creation-tools-you-need-to-try-for-2024/"><u>Top 3D Video Creation Tools You Need to Try for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-pro-level-video-editing-with-64-bit-software/"><u>Unleash Pro-Level Video Editing with 64-Bit Software</u></a></li>
 </ul></div>
 
