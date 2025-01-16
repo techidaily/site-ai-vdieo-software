@@ -1,7 +1,7 @@
 ---
 title: New Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2025-01-09T09:11:03.739Z
-updated: 2025-01-10T06:02:18.419Z
+date: 2025-01-11T19:48:11.471Z
+updated: 2025-01-16T05:10:27.465Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -56,24 +52,28 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -91,10 +91,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
 
@@ -119,6 +115,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -134,22 +134,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-journey-to-visual-vigor-a-beginners-guidebook/"><u>[New] 2024 Approved Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-sphere-unveiled-in-film-tech/"><u>2024 Approved The Complete Sphere Unveiled in Film Tech</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-lenovos-budget-android-tablet-pros-and-cons/"><u>Comprehensive Review of Lenovo's Budget Android Tablet: Pros & Cons</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c12-plus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C12 Plus to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-upload-personal-video-content-to-apple-tv-application/"><u>Guide: Upload Personal Video Content to Apple TV Application</u></a></li>
-<li><a href="https://games-able.techidaily.com/helldivers-2-and-its-impact-on-future-game-development/"><u>Helldivers 2 and Its Impact on Future Game Development</u></a></li>
-<li><a href="https://article-helps.techidaily.com/igniting-conversations-fostering-a-supportive-youtube-environment/"><u>Igniting Conversations Fostering a Supportive YouTube Environment</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/la-methode-definitive-de-configuration-des-logiciels-pour-professionnels-dimportation-exportation/"><u>La Méthode Definitive De Configuration Des Logiciels Pour Professionnels D'Importation-Exportation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-unforgettable-videos-top-10-iphone-and-ipad-collage-apps-2023/"><u>Make Unforgettable Videos Top 10 iPhone and iPad Collage Apps 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-capture-your-best-moments-3-simple-video-game-recording-solutions/"><u>New Capture Your Best Moments 3 Simple Video Game Recording Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-capture-to-cinematic-canon-video-editing-software-and-best-practices/"><u>New From Capture to Cinematic Canon Video Editing Software and Best Practices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-game-on-3-simple-ways-to-record-your-gameplay/"><u>New Game On! 3 Simple Ways to Record Your Gameplay</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-video-content-high-quality-made-simple/"><u>Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-top-rated-video-editing-software-for-high-definition-videos/"><u>S Top-Rated Video Editing Software for High-Definition Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cience-and-art-of-engaging-youtube-audiences/"><u>The Science and Art of Engaging YouTube Audiences</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcps-full-potential-5-expert-editing-tips-you-need-to-know/"><u>Unlock FCPs Full Potential 5 Expert Editing Tips You Need to Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-zero-cost-mp4-video-editors-top-10-reviews/"><u>Updated Best Zero-Cost MP4 Video Editors Top 10 Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-art-of-setting-up-and-evaluating-facebooks-in-stream-ads/"><u>[New] Mastering the Art of Setting Up & Evaluating Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-strategy-for-recording-complete-facebook-calls/"><u>[Updated] In 2024, The Ultimate Strategy for Recording Complete Facebook Calls</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-convert-and-download-any-video-format-with-novamov-from-novamov-streams-to-multiple-file-types/"><u>1. Convert & Download Any Video Format with NovaMov: From NovaMov Streams to Multiple File Types</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-11-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 11 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-lego-stop-motion-makers/"><u>New Best Lego Stop Motion Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-10-webm-to-mp4-converters-for-easy-conversion/"><u>New Best of the Best 10 WebM to MP4 Converters for Easy Conversion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/shrink-your-videos-10-free-online-compressors-with-no-installation/"><u>Shrink Your Videos 10 Free Online Compressors with No Installation</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essential-strategy-for-securing-an-e-commerce-refund-on-fb/"><u>The Essential Strategy for Securing an E-Commerce Refund on FB</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unraveling-the-mystery-identifying-reasons-behind-your-computers-erratic-freezing-episodes-expertise-from-yl-computing/"><u>Unraveling the Mystery: Identifying Reasons Behind Your Computer's Erratic Freezing Episodes - Expertise From YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Updated Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fake-it-top-online-face-generators-for-creating-artificial-faces/"><u>Updated Fake It! Top Online Face Generators for Creating Artificial Faces</u></a></li>
 </ul></div>
 

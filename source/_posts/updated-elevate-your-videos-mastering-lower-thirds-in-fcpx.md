@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Videos Mastering Lower Thirds in FCPX
-date: 2025-01-03T21:02:10.709Z
-updated: 2025-01-10T08:05:00.812Z
+date: 2025-01-15T05:59:10.199Z
+updated: 2025-01-16T01:50:11.663Z
 tags: 
   - video editing software
   - video editing
@@ -36,7 +36,7 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part1: What is the lower third?**
@@ -50,6 +50,10 @@ You can also observe this lower third module during an interview session on your
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
 
@@ -89,10 +93,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -117,10 +117,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -133,6 +129,10 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
@@ -140,11 +140,11 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -188,24 +188,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-chaos-to-clarity-professional-tools-for-youtube-cuts/"><u>[New] 2024 Approved From Chaos to Clarity Professional Tools for Youtube Cuts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[New] In 2024, Quick Start Guide Recording Your PC's Display with HP</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elevating-your-live-broadcast-with-mixer-on-macos/"><u>[Updated] Elevating Your Live Broadcast with Mixer on macOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-drones-for-beginners-10-must-have-mini-choices/"><u>[Updated] In 2024, Drones for Beginners 10 Must-Have Mini Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-audio-preservation-in-the-digital-age-for-2024/"><u>[Updated] Step-by-Step Audio Preservation in the Digital Age for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>[Updated] Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-your-web-experience-by-flushing-dns-in-windows-1011/"><u>Enhance Your Web Experience by Flushing DNS in Windows 10/11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-this-article-we-will-review-gopro-quik-for-desktop-and-recommend-alternatives-to-gopro-quik-pc/"><u>In This Article, We Will Review Gopro Quik for Desktop and Recommend Alternatives to Gopro Quik Pc</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-lenovo-screen-software-updates-and-download-instructions/"><u>Latest Lenovo Screen Software Updates and Download Instructions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/major-update-alert-filmora-x-now-compatible-with-arm-processors/"><u>Major Update Alert Filmora X Now Compatible with ARM Processors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-trim-and-edit-avi-videos-with-the-best-tools-windows-mac-android-iphone-online/"><u>New Cut, Trim, and Edit AVI Videos with the Best Tools Windows, MAC, Android, iPhone, Online</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-download-videoleap-on-macbook/"><u>New How to Download Videoleap on MacBook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-imovie-alternatives-expert-approved-video-editing-options/"><u>No-Cost iMovie Alternatives Expert-Approved Video Editing Options</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-converting-wma-audio-tracks-to-mp3-format-using-a-mac-for-hassle-free-playbacks/"><u>Step-by-Step Tutorial: Converting WMA Audio Tracks to MP3 Format Using a Mac for Hassle-Free Playbacks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unbranded-video-merging-our-top-7-recommendations/"><u>Unbranded Video Merging Our Top 7 Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-adobe-premieres-full-potential-top-15-plugins-free-download/"><u>Unlock Adobe Premieres Full Potential Top 15 Plugins (Free Download)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-monetization-potential-the-modern-creators-manual-for-mobile-for-2024/"><u>Unlocking Monetization Potential The Modern Creator’s Manual for Mobile for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-free-online-video-trimmers-2023-reviews/"><u>Updated 10 Best Free Online Video Trimmers 2023 Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-photos-to-film-how-to-craft-a-compelling-video-slideshow-in-final-cut-pro/"><u>Updated From Photos to Film How to Craft a Compelling Video Slideshow in Final Cut Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughlines-drawing-chuckles-online/"><u>2024 Approved LaughLines Drawing Chuckles Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-roblox-games-on-mac-for-recording/"><u>2024 Approved Streamlining Roblox Games on Mac for Recording</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/harnessing-the-power-of-cookiebot-elevate-seo-and-user-experience-on-your-website/"><u>Harnessing the Power of Cookiebot: Elevate SEO and User Experience on Your Website</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-7-essential-free-online-tiktok-converters-for-mp3s/"><u>In 2024, 7 Essential Free Online TikTok Converters for MP3s</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sideways-to-right-side-up-how-to-flip-videos-quickly/"><u>In 2024, From Sideways to Right-Side Up How to Flip Videos Quickly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-tutorial-reversing-video-clips-made-easy/"><u>New Final Cut Pro Tutorial Reversing Video Clips Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/troubleshooting-failed-launches-for-thaumaturge-software-on-computers/"><u>Troubleshooting Failed Launches for Thaumaturge Software on Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-the-most-common-fallacies-surrounding-artifice-intelligence-chatbots-exposed/"><u>Unveiling the Truth: The Most Common Fallacies Surrounding Artifice Intelligence Chatbots Exposed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-audio-editors-for-m4a-files-2024-edition/"><u>Updated Best Free Audio Editors for M4A Files (2024 Edition)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>Updated QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 15 Pro Max? How to Fix</u></a></li>
 </ul></div>
 

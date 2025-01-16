@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2025-01-07T07:54:14.677Z
-updated: 2025-01-10T12:32:59.487Z
+date: 2025-01-11T03:38:55.389Z
+updated: 2025-01-15T18:27:21.188Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -62,6 +62,10 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -89,10 +93,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -118,7 +118,7 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -133,19 +133,15 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -173,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,20 +188,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-iphone-photography-focus-on-shadows/"><u>[Updated] 2024 Approved Mastering iPhone Photography Focus on Shadows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-spawn-a-shared-chuckle/"><u>[Updated] In 2024, Spawn a Shared Chuckle</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-trend-watcher-track-top-8-rankings/"><u>[Updated] Ultimate Trend Watcher Track Top 8 Rankings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-powerful-and-packed-feature-samsung-gear-s3-frontier-your-ultimate-wrist-companion/"><u>A Closer Look at The Powerful & Packed-Feature Samsung Gear S3 Frontier - Your Ultimate Wrist Companion?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-premier-iphone-upgrades-and-attachments-on-the-market/"><u>Discover the Premier iPhone Upgrades and Attachments on the Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-the-magic-of-modern-narratives-with-these-4-cutting-edge-ai-writer-helpers/"><u>Experience the Magic of Modern Narratives with These 4 Cutting-Edge AI Writer Helpers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-obscurity-to-opulence-grow-your-insta-following-to-1000-for-2024/"><u>From Obscurity to Opulence Grow Your Insta Following to 1,000 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms/"><u>In 2024, Free AVI Video Rotators A Roundup of the Best Tools for All Platforms</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mpeg-video-assembly-top-rated-programs/"><u>In 2024, Free MPEG Video Assembly Top Rated Programs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>In 2024, Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-voice-input-technology-apps/"><u>Leading Voice Input Technology Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-apps-to-turn-videos-into-live-photos-on-iphoneandroid/"><u>New Best Apps to Turn Videos Into Live Photos on iPhone/Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-video-recorders-head-on-screen-viewing/"><u>Prime Video Recorders Head-On Screen Viewing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-vob-video-editor-options-ranked/"><u>Updated Best Free VOB Video Editor Options Ranked</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-digital-presence-mastering-the-art-of-video-reacts/"><u>[New] Elevate Your Digital Presence Mastering the Art of Video Reacts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs-for-2024/"><u>[Updated] Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-free-fast-skype-to-mp3-guide-for-call-recorders/"><u>2024 Approved Free, Fast Skype to MP3 Guide for Call Recorders</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level/"><u>2024 Approved From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-harness-the-power-of-wins11-new-gaming-titles/"><u>2024 Approved Harness the Power of Wins11 New Gaming Titles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-list-of-3d-video-software-you-should-know/"><u>2024 Approved The Ultimate List of 3D Video Software You Should Know</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/breakthrough-strategies-for-rapid-fb-media-delivery-for-2024/"><u>Breakthrough Strategies for Rapid FB Media Delivery for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-easy-video-editing-with-gopro-quik-on-macbook-for-2024/"><u>Elevate Your Storytelling Easy Video Editing with GoPro Quik on MacBook for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-on-a-budget-how-to-get-it-without-breaking-the-law/"><u>Filmora on a Budget How to Get It Without Breaking the Law</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-the-art-of-freeze-frames-and-slow-motion-storytelling-for-2024/"><u>Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-top-10-picks-for-mp4-files-for-2024/"><u>Free Video Editing Software Top 10 Picks for MP4 Files for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/google-plays-best-of-the-best-top-android-apps/"><u>Google Plays Best of the Best Top Android Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17t Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-gaming-through-time-with-top-5-pc-based-ps1-game-emulators/"><u>In 2024, Gaming Through Time with Top 5 PC-Based PS1 Game Emulators</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-hot-40-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Hot 40 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-graphics-glitch-solve-the-driver-crashed-error-swiftly-and-get-back-to-gaming/"><u>Valorant Graphics Glitch? Solve the 'Driver Crashed' Error Swiftly and Get Back to Gaming</u></a></li>
 </ul></div>
 

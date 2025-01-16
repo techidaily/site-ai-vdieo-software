@@ -1,7 +1,7 @@
 ---
 title: Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro
-date: 2025-01-07T13:26:49.364Z
-updated: 2025-01-10T04:15:47.217Z
+date: 2025-01-12T18:15:31.999Z
+updated: 2025-01-15T18:42:06.255Z
 tags: 
   - video editing software
   - video editing
@@ -57,7 +57,7 @@ There are **blue handles at each corner** which enable the user to adjust image 
 ![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
@@ -65,18 +65,26 @@ Blue handles in the middle of each side are used to adjust horizontal and vertic
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
 ![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -106,10 +114,6 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Flipping the whole video:**
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
@@ -128,10 +132,6 @@ After the outcome, click on **the Export option in the middle on the right side 
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -141,7 +141,7 @@ After you have finished doing all the editing and transformation, you can then c
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -149,7 +149,7 @@ In case you want to flip videos on Windows or flip clips in an easier way, you c
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -167,17 +167,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/1726029285852-ps3/"><u>「PS3」ビデオコンバート：ゲーム機向け動画変換方法とヒント</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-your-status-music-in-whatsapp/"><u>2024 Approved Amplify Your Status Music in WhatsApp</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100a-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100A? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-post-update-black-screen-in-windows-10/"><u>Fixing Post-Update BLACK SCREEN in Windows 10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-gaming-paradise-top-10-download-sites-for-pc-and-android/"><u>In 2024, Free Gaming Paradise Top 10 Download Sites for PC and Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-retrieving-information-from-raw-hard-drive-formats/"><u>Step-by-Step Guide: Retrieving Information From RAW Hard Drive Formats</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-compressing-videos-on-iphone-and-ipad-for-free/"><u>The Ultimate Guide to Compressing Videos on iPhone and iPad for Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-photos-to-life-a-detailed-ken-burns-effect-tutorial/"><u>Updated Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-for-macos-sierras-system-return-to-el-capitan/"><u>[New] Step-by-Step for MacOS Sierra's System Return to El Capitan</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premier-video-communication-tools-the-top-10-for-ios-and-android/"><u>[Updated] 2024 Approved Premier Video Communication Tools The Top 10 for iOS & Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-minecraft-banner-templates-get-them-here/"><u>[Updated] Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ace-your-workout-routine-with-the-top-fitness-bracelets-of-2024/"><u>Ace Your Workout Routine with the Top Fitness Bracelets of 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-historical-masterpieces-without-copyrights/"><u>Delving Into Historical Masterpieces without Copyrights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-upgrade-to-iris-gma520-sdk/"><u>Efficient Upgrade to Iris GMA520 SDK</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expedite-excitement-fast-video-on-android-for-2024/"><u>Expedite Excitement Fast Video on Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-your-moments-shine-top-highlight-video-editing-software/"><u>Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nine-key-points-before-investing-in-a-new-4k-lens-for-2024/"><u>Nine Key Points Before Investing in a New 4K Lens for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixels-of-peaceful-bedtime-narratives/"><u>Pixels of Peaceful Bedtime Narratives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-power-user-20-shortcuts-to-save-time/"><u>Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reverse-engineering-a-step-by-step-guide-to-reversing-tiktok-videos/"><u>Reverse Engineering A Step-by-Step Guide to Reversing TikTok Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-siris-feature-effortless-text-to-speech-for-apple-devices/"><u>Unlock Siri's Feature: Effortless Text-to-Speech for Apple Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated Discover the Best Free Animation Software for Windows and Mac</u></a></li>
 </ul></div>
 

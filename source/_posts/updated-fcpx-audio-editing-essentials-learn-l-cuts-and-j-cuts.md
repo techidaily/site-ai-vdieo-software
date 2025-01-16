@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2025-01-04T11:23:56.917Z
-updated: 2025-01-09T23:52:03.453Z
+date: 2025-01-09T00:53:41.335Z
+updated: 2025-01-15T18:25:41.199Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,16 +131,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unleashing-potential-in-your-channel-through-studio/"><u>[Updated] 2024 Approved Unleashing Potential in Your Channel Through Studio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tech-savvy-strategies-to-maximize-whiteboard-functionality-across-devices/"><u>[Updated] Tech-Savvy Strategies to Maximize Whiteboard Functionality Across Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-conduct-screenshares-in-zoom/"><u>2024 Approved How to Conduct Screenshares in Zoom</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-tv-with-youtube-video-loops/"><u>2024 Approved Streamline Your TV with YouTube Video Loops</u></a></li>
-<li><a href="https://common-error.techidaily.com/banishing-awakenings-sleep-mode-mastery-in-win11/"><u>Banishing Awakenings: Sleep Mode Mastery in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-i-tuoi-file-mp4-in-formato-m4v-con-leditor-video-movavi-gratuitamente-e-on-line/"><u>Cambia I Tuoi File MP4 in Formato M4V Con L'editor Video Movavi Gratuitamente E On-Line!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-10-picks/"><u>In 2024, Free WebM Video Editing Software Top 10 Picks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>In 2024, Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mp4-tag-editor-reviews-top-picks-for-windows-and-mac-users/"><u>MP4 Tag Editor Reviews Top Picks for Windows and Mac Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro/"><u>Updated Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed/"><u>Updated Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-best-practices-in-updating-your-social-network-backdrop-for-2024/"><u>[New] Best Practices in Updating Your Social Network Backdrop for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-avoiding-the-common-path-the-route-to-unique-streamer-identities-for-2024/"><u>[Updated] Avoiding the Common Path The Route to Unique Streamer Identities for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>2024 Approved Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-3gp-video-rotation-software-top-picks-for-2024/"><u>Best Free 3GP Video Rotation Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options-for-2024/"><u>Chromebook Video Editing Software Top 10 Online Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-and-convert-dailymotion-videos-for-free-online/"><u>Download and Convert Dailymotion Videos for Free Online</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-top-high-school-themed-anime-free-in-ultra-hd-quality-the-essential-guide-to-201s-best-picks/"><u>Download Top High School-Themed Anime (Free) in Ultra HD Quality - The Essential Guide to 201#'S Best Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-notifications-from-phone-link-app-on-windows/"><u>Fixing Unresponsive Notifications From Phone Link App on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-the-best-video-editing-experience-on-windows-8-and-above/"><u>Get the Best Video Editing Experience on Windows 8 and Above</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-hiccup-x712/"><u>Overcoming Windows Update Hiccup X712</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 

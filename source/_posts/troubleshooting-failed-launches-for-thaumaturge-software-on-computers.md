@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Launches for Thaumaturge Software on Computers
-date: 2025-01-05T10:42:28.040Z
-updated: 2025-01-10T02:11:56.704Z
+date: 2025-01-12T03:38:14.279Z
+updated: 2025-01-15T19:05:57.740Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
  As the latest installment of the Age of Empires series, Age of Empires IV is finally here. However, some players are complaining that the game won’t launch. If you’re facing the same issue, don’t worry. Here we’ll tell you how to fix the problem easily and quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have helped other players solve the game launch issues. You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the game’s system requirements
 
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
  After confirming that your PC is good enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Verify the integrity of game files
 
  The game not launching issue can be caused by corruption in your extracted game files. To see if that’s the case, you can scan and repair game files through Steam. Here’s how:
@@ -77,13 +73,13 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the process is completed, try launching the game again.
 
 If the issue persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -98,16 +94,8 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -116,7 +104,7 @@ If the issue persists, move on to the next fix.
  If you’re still having trouble launching the game, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -161,8 +149,16 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -184,12 +180,12 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -199,10 +195,6 @@ If this fix doesn’t work for you, proceed to the next one.
 
 If it doesn’t, try the last fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean boot
 
  The Age of Empires IV may not launch if you’re running software that interferes with Steam and your game. To see if that’s the case, you can perform a clean boot. Here’s how:
@@ -211,8 +203,16 @@ If it doesn’t, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
@@ -221,7 +221,7 @@ If it doesn’t, try the last fix below.
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
@@ -254,24 +254,24 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-youtube-link-building-a-strategic-guide/"><u>[New] 2024 Approved Mastering YouTube Link Building A Strategic Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quicksnap-pause-and-capture-techniques/"><u>[New] 2024 Approved QuickSnap Pause & Capture Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-raising-the-bar-youtubes-live-streaming-excellence/"><u>[New] 2024 Approved Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-medias-impact-with-precise-aspect-ratios-for-2024/"><u>[New] Enhance Your Media's Impact with Precise Aspect Ratios for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-the-secrets-of-integrating-online-videos-in-slides/"><u>[New] In 2024, Unlocking the Secrets of Integrating Online Videos in Slides</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-use-luts-to-obs-studio-and-download-free-luts/"><u>[Updated] 2024 Approved How to Use LUTs to OBS Studio & Download Free LUTs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-future-of-video-on-facebook-focusing-on-shorter-formats/"><u>2024 Approved The Future of Video on Facebook Focusing on Shorter Formats</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>Boosting Collaboration Mastering Real-Time Photography on Google Meet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-to-use-the-top-10-public-domain-image-sites/"><u>In 2024, Free to Use The Top 10 Public Domain Image Sites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-wmv-video-cutter-top-picks/"><u>In 2024, Free WMV Video Cutter Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reduce-webm-file-size-top-online-compression-tools/"><u>Reduce WebM File Size Top Online Compression Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-pro-level-video-editing-on-windows-8-and-beyond/"><u>Unleash Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-5-best-lip-sync-apps-for-making-epic-videos/"><u>Unleash Your Creativity 5 Best Lip Sync Apps for Making Epic Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-online-stop-motion-animation-software/"><u>Unleash Your Creativity Top Online Stop Motion Animation Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-animated-explainer-tools-for-pc-and-mac-2024-update/"><u>Updated Best Free Animated Explainer Tools for PC and Mac (2024 Update)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-not-working-try-resetting-a-simple-solution-to-common-issues/"><u>Updated FCPX Not Working? Try Resetting A Simple Solution to Common Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-top-10-free-and-paid-2d-animation-software-you-need-to-know/"><u>Updated The Top 10 Free and Paid 2D Animation Software You Need to Know</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nary-voices-triumph-online-for-2024/"><u>Visionary Voices Triumph Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brief-basslines-video-music-mosaics/"><u>[New] 2024 Approved Brief Basslines Video Music Mosaics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-endorsement-exquisite-websites-to-download-snap-alert-tunes/"><u>2024 Approved Elite Endorsement Exquisite Websites to Download Snap Alert Tunes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-animated-discover-the-7-best-drawing-software/"><u>2024 Approved Get Animated Discover the 7 Best Drawing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-minitool-movie-maker-review-tutorial-and-alternatives/"><u>A Beginners Guide to Minitool Movie Maker Review, Tutorial, and Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/boost-your-videos-top-10-free-online-video-enhancement-tools-for-2024/"><u>Boost Your Videos Top 10 Free Online Video Enhancement Tools for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-adobe-premiere-rush-discover-the-top-4-alternative-video-editors/"><u>Break Free From Adobe Premiere Rush Discover the Top 4 Alternative Video Editors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-color-and-contrast-post-win11-update/"><u>Correcting Color and Contrast Post Win11 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-bokeh-top-apps-for-iphone-and-android-for-2024/"><u>Create Stunning Bokeh Top Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-videos-on-windows-8-a-simple-guide/"><u>Edit MP4 Videos on Windows 8 A Simple Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-freeze-frames-slow-mo-and-more-for-2024/"><u>FCPX Essentials Freeze Frames, Slow-Mo, and More for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-assets-galore-top-public-domain-download-sites/"><u>Free Video Assets Galore Top Public Domain Download Sites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users/"><u>Get Creative with Slow Motion Tips and Tricks for Windows Live Movie Maker Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-apple-vision-pro-now-from-amazon-with-uncommon-200-off-limited-time-offer/"><u>Grab Apple Vision Pro Now From Amazon with Uncommon $200 Off - Limited Time Offer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v30-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V30 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-6s-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 6s Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-whatsapps-vocal-messaging-system-for-2024/"><u>Navigating WhatsApp's Vocal Messaging System for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-hp-monitor-issues-solved/"><u>Troubleshooting Guide: Fixing HP Monitor Issues - Solved!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-choice-for-live-tv-access-with-regional-networks-2024-edition/"><u>Ultimate Choice for Live TV Access with Regional Networks, 2024 Edition</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor X7b | Dr.fone</u></a></li>
 </ul></div>
 

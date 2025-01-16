@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Game Sounds: Solving Borderlands"
-date: 2024-12-18T11:18:46.425Z
-updated: 2024-12-25T01:00:59.369Z
+date: 2025-01-13T06:31:14.710Z
+updated: 2025-01-16T05:45:29.088Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are reporting they can’t hear any sound especially in Eden 6\. Most of the time, completely restarting your Borderlands 3 can fix it. However, it comes back again and again. Is there any permanent fix?
 
  Of course, the answer is “**YES”** . Whether you’re experiencing**no sound effects** ,**no weapon sound** ,**no dialogue sound,** or**no sound at all** , this post will show you how to fix it quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,10 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
   
  However, if it keeps giving you the silent treatment, you can try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your default output device
 
  First, you need to make sure that the default playback device (your headset or speaker) is correctly set, especially when you have multiple audio outputs.
@@ -48,15 +56,11 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-1.jpg)
 3. In the Playback tab, select your device and click Set Default. Then click Apply to save the changes. (If already default, you can set another device as default and set it back again.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/default-device-1.jpg)
 4. Go to**Audio Settings** of Borderlands 3 and make sure the output audio is set to your default device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Launch your Borderlands 3.
@@ -74,10 +78,6 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 
 If the sound issue still persists, then head on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off Spatial sound
 
  Many Borderlands players find Spatial sound is always the culprit of their Borderlands 3 no sound issue. To fix it, you need to turn off Spatial sound both in your Windows settings and in-game settings.
@@ -90,10 +90,6 @@ If the sound issue still persists, then head on to the next fix.
 3. Choose**None** to turn it back off and click**Apply** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-off-1.png)
 4. In Borderlands 3, go to**Sound** settings and set**Spatial Sound** to**Disabled** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your game and see if this fixes your sound not working issue.
 
@@ -142,13 +138,14 @@ If the sound issue still persists, then head on to the next fix.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Launch your Borderlands 3 again to test the sound issue.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn off Social Notification Frequency
 
@@ -158,11 +155,11 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/network-and-social-Borderlands-3.jpg)
 2. Turn off**Notification Frequency** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Restart your game and test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run as administrator
 
@@ -173,14 +170,14 @@ If the sound issue still persists, then head on to the next fix.
 2. Go to the**Compatibility** tab and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/epic-games-run-as-admin.jpg)
 3. Navigate to where your Borderlands 3 is installed (C:\\Program Files\\Epic Games\\Borderlands 3).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_Note:_**   _If you can’t find the executable file, you can run Borderlands 3 and press_ **_Ctrl + Shift+ Esc_**   _to open Task Manager, then right click your Borderlands 3.exe. and select_ **_Open file location_** _._
@@ -207,24 +204,30 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-2.jpg)
 2. Under the**Playback** tab, select your default device and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/configure.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/speaker-set-up.jpg)
 4. Check the**Front left and right** box. Then click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Finish** to save changes.
 6. Then go to the**Recording** tab, and select**Stereo Mix** as default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Stereo-8.jpg)
 7. Click**Apply** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Launch your Borderlands 3 again to test the sound issue.
 9. If the issue still persists, you can change the audio channel to**5.1 Surround** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Borderlands 3
@@ -259,20 +262,20 @@ If the sound issue still persists, then head on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>[New] How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-premium-gopro-editing-applications-on-smartphones-for-2024/"><u>[New] Premium GoPro Editing Applications on Smartphones for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-broadcasting-fb-movies-on-whatsapp/"><u>2024 Approved Broadcasting FB Movies on WhatsApp</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp-for-2024/"><u>Audio Editing Essentials 2 Ways to Fade In and Out in FCP for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/convert-video-to-audio-best-apps-for-ios-and-android-for-2024/"><u>Convert Video to Audio Best Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-costs-not-quality-final-cut-pro-education-bundle-offers/"><u>Cut Costs, Not Quality Final Cut Pro Education Bundle Offers</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-a-smooth-transition-for-linux-subsystem-within-the-new-windows-paradigm/"><u>Ensuring a Smooth Transition for Linux Subsystem Within the New Windows Paradigm</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-cinematography-how-to-create-visually-stunning-videos-for-2024/"><u>FCPX Cinematography How to Create Visually Stunning Videos for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-filmora-no-crack-no-risk-just-genuine-methods-for-2024/"><u>Free Filmora No Crack, No Risk, Just Genuine Methods for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-gif-looping-software-for-animated-fun-2023-review/"><u>Free GIF Looping Software for Animated Fun 2023 Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-photos-to-film-how-to-craft-a-compelling-video-slideshow-in-final-cut-pro-for-2024/"><u>From Photos to Film How to Craft a Compelling Video Slideshow in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/step-by-step-livestream-guide-for-pre-recorded-videos-on-fb/"><u>Step-by-Step Livestream Guide for Pre-Recorded Videos on FB</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-prevent-left-4-dead-2-from-crashing/"><u>Troubleshooting Tips to Prevent Left 4 Dead 2 From Crashing</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-stealthy-lens-approach-to-consuming-instagram-stories-on-desktop-and-mobile-devices-for-2024/"><u>[New] The Stealthy Lens Approach to Consuming Instagram Stories on Desktop & Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-digital-content-incorporation-for-todays-educator/"><u>[Updated] In 2024, Digital Content Incorporation For Today's Educator</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-recording-high-quality-mov-video-on-windows-11-for-2024/"><u>[Updated] Tips for Recording High-Quality MOV Video on Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-beat-the-curve-top-facebook-ad-strategies/"><u>2024 Approved Beat the Curve Top Facebook Ad Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-industry-leading-audio-editing-solutions-for-professionals/"><u>In 2024, 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>In 2024, Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-a-film-on-mac-a-step-by-step-guide/"><u>In 2024, Create a Film on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-animated-photos-with-these-8-tools/"><u>In 2024, Create Stunning Animated Photos with These 8 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cross-platform-video-editing-mastery-using-chromebook-with-windows-and-mac-apps/"><u>In 2024, Cross-Platform Video Editing Mastery Using Chromebook with Windows and Mac Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-expert-approved-audio-editing-software-top-8-picks/"><u>In 2024, Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-for-cleaning-out-nonessential-software-on-your-windows-10-system-techradar/"><u>Step-by-Step Tutorial for Cleaning Out Nonessential Software on Your Windows 10 System | TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turn-off-subtitle-feature-easily-on-an-lg-smart-tv-complete-instructions/"><u>Turn Off Subtitle Feature Easily on an LG Smart TV – Complete Instructions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726223749607-wmv-movavi/"><u>WMV 파일을 쉽게 무료로 인터넷 측면에서 변환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

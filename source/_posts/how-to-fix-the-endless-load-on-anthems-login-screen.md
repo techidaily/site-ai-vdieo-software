@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2025-01-07T01:17:26.885Z
-updated: 2025-01-10T11:40:20.483Z
+date: 2025-01-09T21:12:12.066Z
+updated: 2025-01-15T19:04:16.295Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 If you didn’t find any hardware issues, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -56,10 +56,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -69,14 +65,14 @@ If you didn’t find any hardware issues, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -100,13 +96,17 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,16 +133,20 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-vr-bicycle-journeys-to-try/"><u>[Updated] Immersive VR Bicycle Journeys to Try</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-specialized-compilation-choosing-ringtones-with-ease/"><u>2024 Approved Specialized Compilation Choosing Ringtones with Ease</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/abbyy-cloud-services-agreement-comprehensive-terms-and-conditions-including-eu-data-protection-regulation-compliance/"><u>ABBYY Cloud Services Agreement: Comprehensive Terms & Conditions Including EU Data Protection Regulation Compliance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-neglects-critical-security-fixes-on-vulnerable-chipsets-sinkclose-bug-remains-in-legacy-ryzen-cpus/"><u>AMD Neglects Critical Security Fixes on Vulnerable Chipsets; 'Sinkclose' Bug Remains in Legacy Ryzen CPUs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>In 2024, Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-dvd-players-for-windows-10/"><u>New Best Free DVD Players for Windows 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>Updated Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/visual-filmmaking-aids-go-green-no-money/"><u>Visual Filmmaking Aids Go Green, No Money</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-top-11-screen-recorder-programs-for-mac/"><u>[New] 2024 Approved The Top 11 Screen Recorder Programs for Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-free-gamers-choice-top-10-easy-record-software-listing/"><u>[New] Free Gamers' Choice Top 10 Easy Record Software Listing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-into-action-quick-tips-for-cellphone-screen-capture-for-2024/"><u>[New] Snap Into Action Quick Tips for Cellphone Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-which-is-the-top-screener-bandicam-or-camtasia/"><u>[Updated] In 2024, Which Is the Top Screener? - Bandicam Or Camtasia</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-facilmente-tu-fotografia-de-cr2-a-jpg-gratuita-usando-movavi-en-linea/"><u>Cambia Fácilmente Tu Fotografía De CR2 a JPG Gratuita Usando Movavi en Línea</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-jolly-juvenile-auto-antics/"><u>In 2024, Jolly Juvenile Auto Antics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-video-text-overlay-techniques-for-2024/"><u>Mastering YouTube Video Text Overlay Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-divx-files-updated-2023/"><u>New Best Free Video Cutting Software for Divx Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-editing-software-for-splitting-wmv-files/"><u>New Best Free Video Editing Software for Splitting WMV Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-compression-on-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Free Video Compression on iPhone and iPad for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-vob-video-editing-tools/"><u>The Ultimate Guide to Free VOB Video Editing Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-comprehensive-guide-to-using-wax-for-free-video-editing/"><u>Unleash Your Creativity A Comprehensive Guide to Using Wax for Free Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-is-my-choice-of-top-10-adobe-premiere-plugins-tools-that-i-find-the-most-useful-premiere-pro-plugins-fit-quite-well-with-your-video-check-this-/"><u>Updated Here Is My Choice of Top 10 Adobe Premiere Plugins Tools that I Find the Most Useful. Premiere Pro Plugins Fit Quite Well with Your Video. Check This Article to Know More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-avchd-video-editing-software/"><u>Updated Top 5 AVCHD Video Editing Software</u></a></li>
 </ul></div>
 

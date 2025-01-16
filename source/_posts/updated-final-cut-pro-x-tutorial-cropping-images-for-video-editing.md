@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro X Tutorial Cropping Images for Video Editing
-date: 2024-12-21T18:05:41.979Z
-updated: 2024-12-25T00:19:30.264Z
+date: 2025-01-12T04:03:32.459Z
+updated: 2025-01-15T18:24:43.817Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -60,6 +64,10 @@ For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say tha
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This displays the cropping tools in the Viewer.
 
@@ -88,7 +96,7 @@ If no other clip is below the trimmed clip, the background will be black.
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
@@ -104,7 +112,7 @@ There are several ways we can choose to crop an image:
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click the Crop icon, as we illustrated above
@@ -116,21 +124,21 @@ There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
 
@@ -142,17 +150,9 @@ Reposition the frame by grabbing inside the rectangle and dragging.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When you are happy with the results, click the Done button in the top right corner.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
 
@@ -163,7 +163,7 @@ And, if you look closely, you'll see that the cropped image is softer (blurrier)
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
@@ -193,19 +193,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-boosting-detail-with-videoleaps-in-camera-zooming-for-2024/"><u>[New] Boosting Detail with VideoLeap's In-Camera Zooming for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovative-methods-for-shuffling-yt-playlists/"><u>2024 Approved Innovative Methods for Shuffling YT Playlists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-trim-3gp-videos-a-step-by-step-guide/"><u>2024 Approved Trim 3GP Videos A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-webm-to-mp4-the-10-best-webm-to-mp4-converters/"><u>2024 Approved WebM to MP4 The 10 Best WebM to MP4 Converters</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-agni-2-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Agni 2 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-your-game-glitches-fix-terraria-connection-problems-with-these-amazing-6-tips/"><u>Banish Your Game Glitches: Fix Terraria Connection Problems with These Amazing 6 Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-top-10-video-players-for-slow-motion-playback-for-2024/"><u>Discover the Best Top 10 Video Players for Slow Motion Playback for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/generate-a-face-online-best-tools-and-resources/"><u>Generate a Face Online Best Tools and Resources</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-transforming-viewers-experience-the-impact-of-text-on-youtube-media/"><u>In 2024, Transforming Viewers' Experience The Impact of Text on YouTube Media</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/oleaut32dll-errors-uncovered-strategies-for-restoration-and-recovery/"><u>Oleaut32.dll Errors Uncovered: Strategies for Restoration and Recovery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-capturing-and-keeping-your-social-media-moments/"><u>[New] Capturing and Keeping Your Social Media Moments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[New] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-the-9gag-meme-landscape-a-beginners-guide-for-2024/"><u>[New] Navigating the 9GAG Meme Landscape A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-warped-youtube-videos-step-by-step/"><u>[Updated] Fixing Warped YouTube Videos Step-by-Step</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-level-8-screen-snip-contenders/"><u>2024 Approved Pro-Level 8 Screen Snip Contenders</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users-for-2024/"><u>Beyond Quik Exploring the Best PC Video Editing Software for GoPro Users for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/comment-synchroniser-automatiquement-vos-fichiers-vers-un-nas-sous-windows/"><u>Comment Synchroniser Automatiquement Vos Fichiers Vers Un NAS Sous Windows?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-epic-trailers-top-movie-maker-software-for-mac-and-pc-for-2024/"><u>Create Epic Trailers Top Movie Maker Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-files-on-mac-the-ultimate-mavericks-solution/"><u>Edit MP4 Files on Mac The Ultimate Mavericks Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-mobile-filmmaking-the-top-iphone-video-editing-apps-for-2024/"><u>Elevate Your Mobile Filmmaking The Top iPhone Video Editing Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-live-videos-with-manycam-top-of-the-line-software-for-virtual-webcams-and-recording-features/"><u>Enhance Your Live Videos with ManyCam - Top-of-the-Line Software for Virtual Webcams and Recording Features</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-effects-made-simple-a-quick-3-step-tutorial/"><u>FCP X Effects Made Simple A Quick 3-Step Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-your-footage-easy-final-cut-pro-tutorial-for-2024/"><u>Flip Your Footage Easy Final Cut Pro Tutorial for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Video Effects Handbook Tips and Tricks
-date: 2025-01-08T18:42:29.984Z
-updated: 2025-01-09T22:01:32.679Z
+date: 2025-01-13T17:09:43.346Z
+updated: 2025-01-15T17:41:00.771Z
 tags: 
   - video editing software
   - video editing
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 How to make a cool video? Besides creativities, you may also need a video editing software which allows you to add some cool video effects. Actually it's much simpler than you might expect if you use cool video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to easily trim videos, add voice narration or a music sound track from your personal collection and add cool effects and give your plain old home videos the extra touch that makes them more special. In this article, we will introduce some cool video effects that you can use in Filmora as well as the step-by-step guide about how to add cool effects to videos for making a cool edit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Introducing 5 cool effects that you may be interested in
@@ -49,7 +49,7 @@ Besides these common cool video effects, [Filmora Effects Store](https://tools.t
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
@@ -62,6 +62,10 @@ Install and launch Wondershare Filmora. Click New Project and then click the “
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2 Add cool effects to your video
 
 Now it's time to add cool effects to your video. Just drop the video and audio files from the media library to the corresponding timelines. Then click the “Effect” button in the toolbar to switch to the “Effect” tab. Here you will see filters and overlays effects for you to choose.
@@ -73,6 +77,10 @@ You can also right click your favorite effect and select apply. You will see the
 Detailed information about how to add a split-screen effect video, check our [guide about how to make a split screen video here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For steps of compositing a green screen video, check this video tutorial below:
 
@@ -92,22 +100,14 @@ Filmora features more than 300 video effects, elements and motion effects and 10
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -125,22 +125,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cubic-cottages-for-newcomers-to-mc-world/"><u>[Updated] In 2024, Cubic Cottages for Newcomers to MC World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>[Updated] PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/concealment-secrets-in-photoshop-master-class-for-2024/"><u>Concealment Secrets in Photoshop Master Class for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-m4a-editor-software-top-5-recommendations/"><u>In 2024, Free M4A Editor Software Top 5 Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-gopro-video-editors-alternatives-to-gopro-studio/"><u>In 2024, Top GoPro Video Editors Alternatives to GoPro Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>In 2024, Ultimate Guide Top 8 Convertors for Sub to Srt Harmony</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-sound-effects-for-video-editing-a-comprehensive-guide-for-final-cut-pro-users/"><u>New Free Sound Effects for Video Editing A Comprehensive Guide for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-you-dont-necessarily-have-to-know-a-lot-about-photo-or-video-editing-process-in-order-to-add-a-vignette-to-a-picture-or-adjust-its-color-brightness-or-h/"><u>New You Dont Necessarily Have to Know a Lot About Photo or Video Editing Process in Order to Add a Vignette to a Picture or Adjust Its Color, Brightness or Highlights. In This Article We Are Going to Ta</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx/"><u>Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-overcoming-the-nba-2k21-pc-crash-challenge/"><u>Smooth Gaming Experience: Overcoming the NBA 2K21 PC Crash Challenge</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-kooteks-portable-desktop-chiller-the-perfect-multi-functional-cooler/"><u>Unveiling the Power of Kootek's Portable Desktop Chiller - The Perfect Multi-Functional Cooler</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-video-production-made-easy-free-and-paid-software-options/"><u>Updated 3D Video Production Made Easy Free and Paid Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-unforgettable-moments-best-online-collage-makers/"><u>Updated Create Unforgettable Moments Best Online Collage Makers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-mac-video-maker-professional-video-editing-software/"><u>Updated Mac Video Maker Professional Video Editing Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reinstate-fb-watch-video-tile/"><u>[New] Reinstate FB Watch Video Tile</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades-for-2024/"><u>[New] Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>[New] Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-best-5-free-mpeg-video-joiners/"><u>2024 Approved Top Best 5 Free MPEG Video Joiners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-gopro-video-editors-alternatives-to-gopro-studio/"><u>2024 Approved Top GoPro Video Editors Alternatives to GoPro Studio</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/big-news-for-creators-filmora-x-now-runs-on-arm-devices/"><u>Big News for Creators Filmora X Now Runs on ARM Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-11-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 11 - 4 Easy Ways</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-hilarious-memes-with-these-10-awesome-apps-2023-edition-for-2024/"><u>Create Hilarious Memes with These 10 Awesome Apps (2023 Edition) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-jaw-dropping-slow-mo-videos-with-these-top-10-editors/"><u>Create Jaw-Dropping Slow Mo Videos with These Top 10 Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-splice-video-editor-for-mac-for-2024/"><u>Download Splice Video Editor for Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques-for-2024/"><u>Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-final-cut-pro-90-days-of-free-access-for-2024/"><u>Get Started with Final Cut Pro 90 Days of Free Access for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-moto-g34-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Moto G34 5G Device SIM</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/preserving-chronological-integrity-in-visuals/"><u>Preserving Chronological Integrity in Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-october-prime-echo-dot-discounts-unbeatable-offers-you-cant-miss/"><u>Top October Prime Echo Dot Discounts: Unbeatable Offers You Can't Miss!</u></a></li>
 </ul></div>
 

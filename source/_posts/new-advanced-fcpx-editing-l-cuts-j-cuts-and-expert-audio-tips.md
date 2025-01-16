@@ -1,7 +1,7 @@
 ---
 title: New Advanced FCPX Editing L-Cuts, J-Cuts, and Expert Audio Tips
-date: 2024-12-19T07:27:34.064Z
-updated: 2024-12-24T19:57:03.865Z
+date: 2025-01-10T16:44:36.352Z
+updated: 2025-01-16T00:13:26.872Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,16 +131,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[New] 2024 Approved Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-balancing-act-volume-control-techniques-for-logic-pro-x/"><u>[New] 2024 Approved Balancing Act Volume Control Techniques for Logic Pro X</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-grandview-media-mastering-the-art-of-selecting-a-cms-for-2024/"><u>[Updated] Grandview Media Mastering the Art of Selecting a CMS for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>AVS Video Editor 2023 A Comprehensive Review and Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads/"><u>Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-amateur-to-pro-easy-tips-for-producing-high-quality-films/"><u>From Amateur to Pro Easy Tips for Producing High-Quality Films</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c300-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C300 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-rapid-video-capture-software-w-audible-commentaries/"><u>In 2024, Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-13c-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-gadgets-for-your-home-in-2e23/"><u>Top-Rated Smart Gadgets for Your Home in 2E23</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-drive-dynamics-compiling-the-top-10-windows-and-mac-srt-mods-for-2024/"><u>[New] Drive Dynamics Compiling the Top 10 Windows & Mac SRT Mods for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-podcasts-on-windows-select-best-8/"><u>[New] Mastering Podcasts on Windows - Select Best 8</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrate-twitter-and-snapchat-posting-tweets-as-snaps/"><u>[Updated] In 2024, Integrate Twitter & Snapchat Posting Tweets as Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spotlight-on-5-captivating-book-viddies/"><u>[Updated] Spotlight on 5 Captivating Book Viddies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-excellence-a-selection-of-best-free-srt-tools/"><u>2024 Approved Affordable Excellence A Selection of Best FREE SRT Tools</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/access-beacon-live-show-download-episodes-anytime-pc-and-mac-compatible/"><u>Access Beacon Live Show: Download Episodes Anytime, PC & Mac Compatible</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animation-mastery-8-elite-software-options-for-mac-and-windows-users/"><u>Animation Mastery 8 Elite Software Options for Mac and Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/convert-live-facebook-videos-to-mp3s-on-the-fly/"><u>Convert Live Facebook Videos to MP3s on the Fly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-engaging-content-10-leading-animated-text-generator-options/"><u>Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-free-sound-fx-websites-and-integrate-with-final-cut-pro/"><u>Discover Free Sound FX Websites and Integrate with Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Discover the Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-audio-2-fade-infade-out-methods-in-fcp-for-2024/"><u>Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-color-correction-tips-tricks-and-techniques-for-2024/"><u>Final Cut Pro Color Correction Tips, Tricks, and Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-3gp-videos-for-free-best-options-reviewed-for-2024/"><u>Flip and Rotate 3GP Videos for Free Best Options Reviewed for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-whiteboard-animation-software-for-windows-and-mac-top-10-picks/"><u>Free Whiteboard Animation Software for Windows and Mac Top 10 Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 10 5G? | Dr.fone</u></a></li>
 </ul></div>
 

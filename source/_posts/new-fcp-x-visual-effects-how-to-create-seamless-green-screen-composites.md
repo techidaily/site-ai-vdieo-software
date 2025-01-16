@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2025-01-08T03:53:45.777Z
-updated: 2025-01-09T17:08:39.631Z
+date: 2025-01-12T03:05:45.246Z
+updated: 2025-01-16T02:31:17.600Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -51,7 +55,7 @@ First, the best thing you can do to improve the quality of your keys is to impro
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
@@ -62,12 +66,16 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
@@ -123,19 +131,23 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 When you are done, you have a great looking key!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
@@ -146,10 +158,6 @@ Once you get your key looking as good as you can – which in this case isn't al
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
 
@@ -162,7 +170,7 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -171,15 +179,7 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -196,16 +196,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-zip-to-srt-converting-zip-extracts-to-subtitle-files/"><u>[New] 2024 Approved Zip to SRT Converting ZIP Extracts to Subtitle Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-take-long-exposure-shots-with-iphone-in-ios-11-or-previous/"><u>[New] How to Take Long Exposure Shots with iPhone in iOS 11 or Previous</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essence-of-plot-weaving/"><u>Essence of Plot Weaving</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-boredom-to-laughter-your-kinemaster-guide-for-2024/"><u>From Boredom to Laughter Your KineMaster Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-script-to-screen-the-top-explainer-video-software/"><u>In 2024, From Script to Screen The Top Explainer Video Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-top-free-video-editing-tools-for-gamers/"><u>New Best Top Free Video Editing Tools for Gamers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transformez-facilement-votre-audiovideo-m4a-en-wmv-sans-frais-utilisez-loutil-de-conversion-en-ligne-de-movavi/"><u>Transformez Facilement Votre Audio/Vidéo M4A en WMV Sans Frais - Utilisez L'outil De Conversion en Ligne De Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolved-realtek-high-quality-sound-connection-issue/"><u>Troubleshooting Guide - Resolved: Realtek High-Quality Sound Connection Issue</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-programs-for-gopro-users-looking-beyond-studio/"><u>Updated Best Video Editing Programs for GoPro Users Looking Beyond Studio</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files/"><u>Updated Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maintaining-a-continuous-snapchat-connection-for-2024/"><u>[Updated] Maintaining a Continuous Snapchat Connection for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-crafting-gentle-sound-declines-with-logic-pro/"><u>2024 Approved Crafting Gentle Sound Declines with Logic Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-illusions-the-art-of-time-and-space-manipulation/"><u>Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 40C Phone with Broken Screen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-smooth-operator-mastering-video-stabilization-in-fcpx/"><u>In 2024, Smooth Operator Mastering Video Stabilization in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-blur-apps-for-iphone-and-android/"><u>New Best Video Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-portable-and-easy-to-carry-amazon-basics-tablet-stands-for-busy-lifestyles/"><u>Review of Portable and Easy to Carry Amazon Basics Tablet Stands for Busy Lifestyles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-gopro-karma-quest-for-altitude-dominance-for-2024/"><u>The GoPro Karma Quest for Altitude Dominance for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-companion-items-to-maximize-steam-deck-functions/"><u>The Ultimate Companion Items to Maximize Steam Deck Functions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-advanced-video-editing-capabilities-on-windows-8-and-later/"><u>Unlock Advanced Video Editing Capabilities on Windows 8 and Later</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-5-free-tools-to-combine-mpeg-videos/"><u>Updated Best 5 Free Tools to Combine MPEG Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-watermark-your-videos-for-free-top-5-software-options/"><u>Updated Watermark Your Videos for Free Top 5 Software Options</u></a></li>
 </ul></div>
 
