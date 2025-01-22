@@ -1,7 +1,7 @@
 ---
 title: Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars!
-date: 2025-01-10T04:41:09.188Z
-updated: 2025-01-15T19:29:50.607Z
+date: 2025-01-15T08:34:15.600Z
+updated: 2025-01-21T22:49:00.950Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-optimizing-self-filmed-content-on-youtube/"><u>[New] In 2024, Optimizing Self-Filmed Content on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-delving-into-sns-hdr-pros-merits-and-peer-comparisons/"><u>[Updated] Delving Into SNS HDR Pro's Merits & Peer Comparisons</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-tips-add-ons-that-elevate-your-vimeo-video/"><u>[Updated] In 2024, Expert Tips Add-Ons that Elevate Your Vimeo Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-integrating-obs-recording-capabilities-into-zoom-sessions-for-2024/"><u>[Updated] Integrating OBS Recording Capabilities Into Zoom Sessions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-refined-retouches-using-the-eraser-in-photoshop-proficiently/"><u>[Updated] Refined Retouches Using the Eraser in Photoshop Proficiently</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-recipe-to-concoct-a-clumsy-brew-in-the-world-of-minecraft/"><u>Effortless Recipe to Concoct a Clumsy Brew in the World of Minecraft</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-arena-showdown-best-of-the-royales-for-2024/"><u>Elite Arena Showdown Best of the Royales for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-4k-video-samples/"><u>In 2024, Top 10 4K Video Samples</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/loop-it-10-best-free-online-video-looping-software-this-year/"><u>Loop It! 10 Best Free Online Video Looping Software This Year</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-royalty-free-image-websites-you-need-to-know/"><u>New 10 Royalty-Free Image Websites You Need to Know</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-highlight-video-makers/"><u>New Best Highlight Video Makers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-fcp-top-10-movies-edited-with-final-cut-pro-for-2024/"><u>The Best of FCP Top 10 Movies Edited with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-glitch-video-editors-for-desktop-and-online-use/"><u>Updated Discover the Best Glitch Video Editors for Desktop and Online Use</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-mp4-videos-on-mac-and-windows-a-complete-guide-for-all-levels/"><u>Updated Editing MP4 Videos on Mac and Windows A Complete Guide for All Levels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-filmora-free-no-cost-no-malware-no-worries/"><u>Updated Get Filmora Free No Cost, No Malware, No Worries</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>Updated In 2024, 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>Updated Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-sound-on-dell-devices-with-realtek/"><u>Updating Sound on Dell Devices with Realtek</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-tutorial-how-to-add-a-countdown-timer-in-obs/"><u>[New] In 2024, Ultimate Tutorial How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-valhallas-vanguard-fiery-rebirth/"><u>[New] Valhalla's Vanguard Fiery Rebirth</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-vector-art-our-picks-for-top-10-tools-in-industry/"><u>[Updated] Mastering Vector Art Our Picks for Top 10 Tools in Industry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-auditory-aesthetics-weaving-melodies-into-your-feed/"><u>In 2024, Auditory Aesthetics Weaving Melodies Into Your Feed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-7-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 7 Plus from iCloud</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-security-hacked-how-to-get-into-your-locked-device-without-a-pin/"><u>IPhone Security Hacked: How to Get Into Your Locked Device Without a PIN</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/learn-how-to-edit-videos-in-windows-live-movie-maker-with-ease-and-learn-the-video-and-audio-formats-windows-live-movie-maker-supports/"><u>Learn How to Edit Videos in Windows Live Movie Maker with Ease and Learn the Video and Audio Formats Windows Live Movie Maker Supports</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightning-flicker-viewer-windows-photos-for-2024/"><u>Lightning Flicker Viewer - Windows Photos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mavericks-mp4-video-editor-simplify-your-editing-process/"><u>Mavericks MP4 Video Editor Simplify Your Editing Process</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-latest-movies-with-these-top-10-trailer-apps-for-ios/"><u>New In 2024, Discover the Latest Movies with These Top 10 Trailer Apps for iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-level-jump-cuts-made-easy-a-final-cut-pro-x-tutorial/"><u>Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-video-editing-microsofts-guide-for-windows-users/"><u>Updated Discover the Power of Video Editing Microsofts Guide for Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/wevideo-easily-create-videos-online/"><u>WeVideo Easily Create Videos Online</u></a></li>
 </ul></div>
 

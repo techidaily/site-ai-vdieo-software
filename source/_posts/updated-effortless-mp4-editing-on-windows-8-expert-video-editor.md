@@ -1,7 +1,7 @@
 ---
 title: Updated Effortless MP4 Editing on Windows 8 Expert Video Editor
-date: 2025-01-09T19:09:40.804Z
-updated: 2025-01-15T23:47:54.834Z
+date: 2025-01-14T16:07:21.053Z
+updated: 2025-01-21T22:04:55.340Z
 tags: 
   - video editing software
   - video editing
@@ -41,7 +41,7 @@ The imported MP4 videos will show as thumbnails in the user's album's item tray.
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -54,6 +54,10 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
@@ -61,7 +65,7 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
@@ -69,10 +73,6 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Add Scene Transition
 
@@ -89,18 +89,18 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -117,24 +117,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-food-videography-how-to-shoot-food-videos/"><u>[New] Food Videography How to Shoot Food Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-optimize-solo-streaming-with-flawless-execution/"><u>[New] How to Optimize Solo Streaming with Flawless Execution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>[New] In 2024, A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-revenue-revolution-strategies-for-sustainable-earnings/"><u>[New] In 2024, Vimeo's Revenue Revolution Strategies for Sustainable Earnings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-addressed-hidden-shorters-now-visible-for-2024/"><u>[Updated] Addressed Hidden Shorters, Now Visible for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-illustration-insights-elevating-text-in-three-dimensions/"><u>[Updated] In 2024, Illustration Insights Elevating Text in Three Dimensions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-gadgets-for-capturing-zoom-sessions/"><u>Essential Gadgets for Capturing Zoom Sessions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-gt-5-pro-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from GT 5 Pro.</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-stabilize-your-camera-without-buying-a-tripod-in-2024/"><u>How to Stabilize Your Camera without Buying a Tripod, In 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-audio-editing-tools-for-pro-level-sound-design/"><u>In 2024, Top 10 Audio Editing Tools for Pro-Level Sound Design</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-5-essential-mts-video-editing-software-for-creators/"><u>New 5 Essential MTS Video Editing Software for Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac/"><u>New Best of the Best 10 Free Whiteboard Animation Software for PC and Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-combine-mov-files-for-free-5-excellent-options/"><u>New Combine MOV Files for Free 5 Excellent Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows/"><u>New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-recommended-avi-cutters-top-16-for-precise-video-editing-multi-device/"><u>New Expert-Recommended AVI Cutters Top 16 for Precise Video Editing Multi-Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-cutting-solutions-for-mp4-files-top-9/"><u>New Free Video Cutting Solutions for MP4 Files Top 9</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-video-effects-handbook-tips-and-tricks/"><u>The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-3d-animation-apps-for-android-and-iphone-free-download/"><u>Updated Best 3D Animation Apps for Android and iPhone (Free Download)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero4-vs-gopro-hero5-showdown/"><u>[New] GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-eye-catching-insta-highlights-unveiling-3-secrets/"><u>[Updated] 2024 Approved Eye-Catching Insta Highlights Unveiling 3 Secrets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-3dr-a-solo-traverse-into-future-tech-world/"><u>[Updated] In 2024, '3DR' A Solo Traverse Into Future Tech World</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/"><u>[Updated] In 2024, Transform Your Videography Using YouTube to Boost Visual Clarity</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/5-must-know-tips-for-efficient-macos-tiktok-use-for-2024/"><u>5 Must-Know Tips for Efficient macOS TikTok Use for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-jitters-to-silk-stabilizing-your-footage-in-fcpx/"><u>In 2024, From Jitters to Silk Stabilizing Your Footage in FCPX</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978930439-install-new-nvidia-1080-drivers-on-windows-10-instantly-download/"><u>Install New NVIDIA 1080 Drivers on Windows 10 - Instantly Download!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-editor-for-windows-8-easily-edit-mp4-files-on-pc-for-2024/"><u>MP4 Editor for Windows 8 Easily Edit MP4 Files on PC for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-faces-or-backgrounds-in-videos-best-apps-for-ios-and-android/"><u>New Blur Faces or Backgrounds in Videos Best Apps for iOS and Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ocidll-not-detected-heres-how-you-can-resolve-this-problem/"><u>OCI.DLL Not Detected? Here's How You Can Resolve This Problem</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/project-protection-learn-how-to-save-your-final-cut-pro-files/"><u>Project Protection Learn How to Save Your Final Cut Pro Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-80s-easy-vhs-effects-for-final-cut-pro-users/"><u>Unleash the 80S Easy VHS Effects for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-edit-share-the-top-android-video-editing-apps-free-and-paid/"><u>Updated Cut, Edit, Share The Top Android Video Editing Apps (Free and Paid)</u></a></li>
 </ul></div>
 

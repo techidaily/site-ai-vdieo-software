@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2025-01-12T05:44:01.404Z
-updated: 2025-01-15T16:25:32.676Z
+date: 2025-01-18T05:41:18.061Z
+updated: 2025-01-22T09:46:57.105Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -49,24 +53,28 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -86,10 +94,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
@@ -100,10 +104,6 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
@@ -111,7 +111,7 @@ To delete an effect, click the name of the effect - in this example: Gaussian - 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
@@ -141,19 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-innovative-broadcasting-leveraging-monitor-screens-in-live-fb-streams-for-2024/"><u>[New] Innovative Broadcasting Leveraging Monitor Screens in Live Fb Streams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creative-geniuses-selecting-the-best-youtube-videos-for-channels/"><u>[Updated] In 2024, Creative Geniuses Selecting the Best YouTube Videos for Channels</u></a></li>
-<li><a href="https://win-data.techidaily.com/accelerate-your-computers-speed-with-key-hardware-enhancements-insights-by-yl-software-experts/"><u>Accelerate Your Computer's Speed with Key Hardware Enhancements - Insights by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-google-chrome-black-screen-issue-on-windows/"><u>How to Fix the Google Chrome Black Screen Issue on Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-x-recorder-for-pc-free-recording-software/"><u>In 2024, X-Recorder for PC Free Recording Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-mov-video-orientation-changers-top-5-list/"><u>New Free MOV Video Orientation Changers Top 5 List</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>New From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/synchronizing-podcast-drops-with-audience-behavior/"><u>Synchronizing Podcast Drops with Audience Behavior</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-mac-book-on-srt-file-handling/"><u>The Complete Mac Book on SRT File Handling</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-gt-10-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix GT 10 Pro fingerprint</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-trailer-making-tools-for-filmmakers-mac-and-windows-compatible/"><u>Updated Best Trailer Making Tools for Filmmakers (Mac and Windows Compatible)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-change-the-look-how-to-modify-video-dimensions-easily/"><u>Updated Change the Look How to Modify Video Dimensions Easily</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-animation-logo-tools-expert-picks-and-pro-design-tips/"><u>Updated Free Animation Logo Tools Expert Picks and Pro Design Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-multimedia-caption-compiler/"><u>[New] In 2024, Multimedia Caption Compiler</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>[Updated] In 2024, 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>[Updated] In 2024, Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quintessential-stop-motion-gems-for-cinephiles/"><u>[Updated] Quintessential Stop-Motion Gems for Cinephiles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>2024 Approved How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-photo-and-video-display-apps-for-iphone-series-78/"><u>Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-gaming-on-a-budget-asus-rog-nuc-begins-at-affordable-1629-with-core-ultra-cpu-and-rtx-gpu/"><u>Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/introduction-to-soft-starting-sounds-in-audition-for-2024/"><u>Introduction to Soft-Starting Sounds in Audition for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-dvd-players-for-windows-10/"><u>New Best Free DVD Players for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>Updated The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
 </ul></div>
 

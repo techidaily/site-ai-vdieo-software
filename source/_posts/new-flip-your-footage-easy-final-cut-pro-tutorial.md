@@ -1,7 +1,7 @@
 ---
 title: New Flip Your Footage Easy Final Cut Pro Tutorial
-date: 2025-01-11T20:48:27.308Z
-updated: 2025-01-15T16:18:39.876Z
+date: 2025-01-17T22:02:18.024Z
+updated: 2025-01-22T03:17:04.469Z
 tags: 
   - video editing software
   - video editing
@@ -60,23 +60,19 @@ Blue handles in the middle of each side are used to adjust horizontal and vertic
 
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
 ![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -98,6 +94,10 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flipping the clips more easily in Wondershare Filmora:
 
 **Step1: Importing the original video clip:**
@@ -112,10 +112,6 @@ When you double-click on the video, the editing panel appears on the screen, and
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * _Flipping only a single part of the video:_
 
 Wondershare Filmora also allows you to flip a few parts of the video instead of whole. Just move the play head towards the position where you want the split. Click on the icon of **Scissors** in the menu.
@@ -123,7 +119,7 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * _Exporting the flip video:_
@@ -131,6 +127,10 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
@@ -141,16 +141,16 @@ After you have finished doing all the editing and transformation, you can then c
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
 
@@ -167,20 +167,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>[New] Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-strategic-social-sharing-master-facebook-story-linking-for-2024/"><u>[New] Strategic Social Sharing Master Facebook Story Linking for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-sony-xperia-5-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Sony Xperia 5 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-dailymotion-video-converters-online/"><u>Best Free DailyMotion Video Converters Online</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-no-cost-software-for-converting-dvds-into-mp3-files-windows-and-macos-supported/"><u>Best No-Cost Software for Converting DVDs Into MP3 Files - Windows & macOS Supported</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-way-to-convert-4k-videos-to-mp4-fast-free-and-easy/"><u>Best Way to Convert 4K Videos to MP4 Fast, Free, and Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/budget-friendly-filmmaking-essentials-software-you-need-for-2024/"><u>Budget-Friendly Filmmaking Essentials Software You Need for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker-for-2024/"><u>Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/essential-techniques-for-restoring-your-windows-registry-insights-by-yl-software-experts/"><u>Essential Techniques for Restoring Your Windows Registry: Insights by YL Software Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-achieve-pro-level-video-stability/"><u>FCPX Essentials How to Achieve Pro-Level Video Stability</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-watermark-removal-free-and-paid-methods-for-2024/"><u>Filmora Watermark Removal Free and Paid Methods for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-webm-to-mp3-top-10-converter-options/"><u>How to Convert WebM to MP3 Top 10 Converter Options</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solve-your-iphones-focusing-issues-top-fixes-you-need/"><u>Solve Your iPhone's Focusing Issues: Top Fixes You Need</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-cheese-top-apps-to-convert-your-photos-into-cartoons/"><u>Updated In 2024, Say Cheese! Top Apps to Convert Your Photos Into Cartoons</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>[New] A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmakers-choice-for-steady-videos/"><u>[New] In 2024, Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovating-advertising-on-facebook-the-most-effective-videography/"><u>[New] Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-subscribers-youtubes-expansion-blueprint-for-2024/"><u>[New] Maximizing Subscribers YouTube's Expansion Blueprint for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-in-class-top-10-streamers-with-a-comparative-edge/"><u>[Updated] Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-methods-for-capturing-google-voice-conversations-for-2024/"><u>[Updated] Effortless Methods for Capturing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-value-budget-friendly-pros-for-high-impact-sports/"><u>Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/converting-vimeo-selections-the-pathway-to-memorable-gifs/"><u>Converting Vimeo Selections The Pathway to Memorable GIFs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-tape-to-digital-mastering-the-vhs-effect-in-fcp/"><u>In 2024, From Tape to Digital Mastering the VHS Effect in FCP</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-vob-video-editing-software-top-picks/"><u>New Free VOB Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/online-photo-cartoonizer-software/"><u>Online Photo Cartoonizer Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/share-your-ps4-gaming-moments-online-sharing-made-easy-for-2024/"><u>Share Your PS4 Gaming Moments Online Sharing Made Easy for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/ultimate-step-by-step-tutorial-restore-your-data-safely-after-an-abrupt-system-crash/"><u>Ultimate Step-by-Step Tutorial: Restore Your Data Safely After an Abrupt System Crash</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-adobe-premiere-pro-extensions-for-video-editing-free-and-paid/"><u>Updated Best Adobe Premiere Pro Extensions for Video Editing - Free & Paid</u></a></li>
 </ul></div>
 
