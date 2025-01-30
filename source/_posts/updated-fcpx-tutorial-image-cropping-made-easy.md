@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Tutorial Image Cropping Made Easy
-date: 2025-01-20T01:33:16.967Z
-updated: 2025-01-22T07:42:29.458Z
+date: 2025-01-25T23:51:56.293Z
+updated: 2025-01-29T21:39:39.877Z
 tags: 
   - video editing software
   - video editing
@@ -57,12 +57,16 @@ For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say tha
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This displays the cropping tools in the Viewer.
@@ -70,7 +74,7 @@ This displays the cropping tools in the Viewer.
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
@@ -84,12 +88,16 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Drag other corners or edges to further trim the image.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
 
@@ -98,6 +106,10 @@ When you have trimmed the image the way you want, click the "Done" button in the
 If no other clip is below the trimmed clip, the background will be black.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
 
@@ -111,10 +123,6 @@ There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click the Crop icon, as we illustrated above
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
@@ -124,24 +132,16 @@ There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
@@ -193,20 +193,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-recording-techniques-for-itunes-media-for-2024/"><u>[New] Efficient Recording Techniques for iTunes Media for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[New] In 2024, Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-standard-youtube-licenses-versus-cc/"><u>[New] Standard Youtube Licenses Versus CC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-integrating-twitter-videos-into-facebook-social-graph/"><u>[Updated] 2024 Approved Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/comprehensive-evaluation-of-the-linksys-wrt1900acs-a-budget-friendly-openness-in-mind/"><u>Comprehensive Evaluation of the Linksys WRT1900ACS: A Budget-Friendly, Openness in Mind</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-to-live-photos-apps-plushowtos/"><u>New Best Video to Live Photos Apps +Howtos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-overcoming-startup-problems-with-error-code-1053/"><u>Quick Fixes: Overcoming Startup Problems with Error Code 1053</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx-for-2024/"><u>Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-call-of-duty-ww2-error-4220-for-smoother-gaming/"><u>Troubleshooting Call of Duty WW2 Error 4220 for Smoother Gaming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-the-power-of-lower-thirds-in-final-cut-pro-x/"><u>Unleashing the Power of Lower Thirds in Final Cut Pro X</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unraveling-the-secrets-of-viral-content-creation/"><u>Unraveling the Secrets of Viral Content Creation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-avi-video-editor-for-windows-8-latest-2023-features/"><u>Updated Best AVI Video Editor for Windows 8 Latest 2023 Features</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-the-ultimate-guide/"><u>Updated Video Editing Showdown Sony Vegas vs Adobe Premiere Pro - The Ultimate Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x/"><u>What Is an XML File and How to Export XML in Final Cut Pro X?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unveiling-the-mystery-of-proper-lighting-in-youtube-vids/"><u>[New] 2024 Approved Unveiling the Mystery of Proper Lighting in YouTube Vids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-epicurean-elites-top-food-vloggers-you-cant-miss/"><u>[New] In 2024, Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms/"><u>[Updated] Ultimate Configuration Ticking Clocks Setup Guide for Broadcasting Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seconds-in-a-20mb-hd-video-file/"><u>2024 Approved Seconds in a 20MB HD Video File</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>2024 Approved The Ultimate Method Changing Account Numbers on TikTok</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-5-video-marketing-effective-tagging-techniques/"><u>In 2024, Top 5 Video Marketing Effective Tagging Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/live-photo-maker-top-apps-and-step-by-step-instructions/"><u>Live Photo Maker Top Apps and Step-by-Step Instructions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-vs-express-which-video-editing-software-reigns-supreme/"><u>Pro Vs. Express Which Video Editing Software Reigns Supreme?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-meme-maker-apps-for-android-and-ios-devices-2023-update/"><u>Top Meme Maker Apps for Android & iOS Devices (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-to-live-photos-apps-plushowtos/"><u>Updated Best Video to Live Photos Apps +Howtos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-making-lip-sync-videos-with-5-best-lip-sync-apps/"><u>Updated Making Lip Sync Videos with 5 Best Lip Sync Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
 

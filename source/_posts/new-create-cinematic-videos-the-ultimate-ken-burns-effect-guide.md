@@ -1,7 +1,7 @@
 ---
 title: New Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2025-01-12T22:45:15.993Z
-updated: 2025-01-16T05:18:10.600Z
+date: 2025-01-28T19:34:32.136Z
+updated: 2025-01-29T17:03:22.111Z
 tags: 
   - video editing software
   - video editing
@@ -32,10 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -46,15 +42,15 @@ First of all, you should specify a name for your project and add photos to the t
 
 _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -70,6 +66,10 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 
 _![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Customize Your Effect**
 
 In the Ken Burns display, you can see the controls for adjusting the panning and zooms effects by changing the size and position of two-colored rectangles overlaying on the clip. To customize the Ken Burns effect:
@@ -81,6 +81,10 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 5. You can see the preview of the animation on the screen.
 
 _![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Add a Freeze Frame**
 
@@ -111,7 +115,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 _![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 8: Play/Preview Looping**
@@ -125,10 +129,6 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
@@ -152,7 +152,7 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -180,20 +180,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-demystifying-syncopated-soundscapes-via-crossfading/"><u>[Updated] 2024 Approved Demystifying Syncopated Soundscapes via Crossfading</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premium-animated-design-kits/"><u>[Updated] In 2024, Premium Animated Design Kits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>2024 Approved From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/8-best-tools-to-make-animated-photo-easily-for-2024/"><u>8 Best Tools to Make Animated Photo Easily for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-de-fichiers-mod-en-wmv-gratuite-sur-internet-guide-facile-avec-movavi/"><u>Conversion De Fichiers MOD en WMV Gratuite Sur Internet : Guide Facile Avec Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-visual-stories-best-online-collage-software-for-2024/"><u>Create Stunning Visual Stories Best Online Collage Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/design-your-own-fake-faces-with-these-free-online-generators-for-2024/"><u>Design Your Own Fake Faces with These Free Online Generators for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques-for-2024/"><u>Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-video-editing-a-microsoft-tutorial-for-windows-10-8-and-7/"><u>Get Started with Video Editing A Microsoft Tutorial for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-upgrading-zoom-video-fidelity-a-comprehensive-guide/"><u>In 2024, Upgrading Zoom Video Fidelity A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/organic-scenes-essential-free-templates-to-elevate-filmmaking-art/"><u>Organic Scenes Essential, Free Templates to Elevate Filmmaking Art</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-s18-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo S18 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-ace-2-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Ace 2 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>[New] In 2024, Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ourney-around-the-world-on-youtube-including-you-for-2024/"><u>[New] Journey Around the World on YouTube, Including You for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-premier-live-streaming-platforms-revealed-for-2024/"><u>[New] Premier Live Streaming Platforms Revealed for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-blurring-iphone-pics-at-zero-cost-for-2024/"><u>[New] The Ultimate Guide to Blurring iPhone Pics at Zero Cost for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2021-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2021 | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-s17-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo S17 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp-for-2024/"><u>Maximizing Your Firefox Multitasking with FFXP for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vn-video-editor-for-mac-or-discover-other-editing-solutions/"><u>New Download VN Video Editor for Mac or Discover Other Editing Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-vn-video-editor-pc-review-a-quick-look/"><u>New VN Video Editor PC Review A Quick Look</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-downloads-needed-10-free-online-video-compression-solutions/"><u>No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-4k-the-ultimate-list-of-free-video-converters/"><u>Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-audio-fix-expert-solutions-for-common-issues/"><u>Updated Avidemux Audio Fix Expert Solutions for Common Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/webs-best-vertical-video-editors-a-2023-review/"><u>Webs Best Vertical Video Editors A 2023 Review</u></a></li>
 </ul></div>
 

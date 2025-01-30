@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2025-01-18T09:23:04.688Z
-updated: 2025-01-21T20:45:21.976Z
+date: 2025-01-28T19:19:07.999Z
+updated: 2025-01-29T20:43:57.231Z
 tags: 
   - video editing software
   - video editing
@@ -36,7 +36,7 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -47,10 +47,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -58,10 +54,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
@@ -79,12 +71,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -101,15 +97,15 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -118,6 +114,10 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,19 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-harness-the-potential-of-instagram-videos-for-brand-growth-for-2024/"><u>[New] Harness the Potential of Instagram Videos for Brand Growth for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-vr-surgical-training-and-planning-systems/"><u>[New] In 2024, VR Surgical Training and Planning Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insta-twist-techniques-manual-flipping-photos-and-videos-for-social-media-success/"><u>[Updated] The Insta Twist Techniques Manual Flipping Photos and Videos for Social Media Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-turbocharging-your-instagram-footage-for-2024/"><u>[Updated] Turbocharging Your Instagram Footage for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortless-transition-transferring-data-from-your-previous-device-to-the-latest-iphone-1415/"><u>Effortless Transition: Transferring Data From Your Previous Device to the Latest iPhone 14/15</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-create-captions-in-final-cut-pro-x-a-comprehensive-guide/"><u>How to Create Captions in Final Cut Pro X A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>In 2024, Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-compressor-essentials-optimizing-video-files-in-final-cut-pro-x/"><u>In 2024, Compressor Essentials Optimizing Video Files in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-movies-online-for-free-top-9-tools/"><u>In 2024, Create Movies Online for Free Top 9 Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-video-reversal-top-online-tools/"><u>In 2024, Easy Video Reversal Top Online Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmora-free-download-legit-and-virus-free-options/"><u>In 2024, Filmora Free Download Legit and Virus-Free Options</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-learn-audio-recording-in-audacity-with-your-mac/"><u>In 2024, Learn Audio Recording in Audacity with Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-money-saving-top-six-coupon-destinations-for-bargain-hunters/"><u>Mastering Money-Saving: Top Six Coupon Destinations for Bargain Hunters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-fundamental-concepts-of-cyber-narratives/"><u>[New] Fundamental Concepts of Cyber Narratives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-eye-catching-fb-ad-content/"><u>[New] In 2024, Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>[Updated] In 2024, Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-quick-windows-10-tutorial-for-simple-video-trimming/"><u>[Updated] Quick Windows 10 Tutorial for Simple Video Trimming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-gopro-video-editors-alternatives-to-gopro-studio/"><u>In 2024, Top GoPro Video Editors Alternatives to GoPro Studio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-the-latest-amd-radeon-gpu-driver-v2410-for-optimal-performance/"><u>Installing the Latest AMD Radeon GPU Driver v24.10 for Optimal Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-3d-animation-software-free-and-paid2022-new/"><u>New Best 3D Animation Software Free and Paid(2022 New)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos/"><u>New Unleash Your Creativity Top Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-the-ultimate-guide-to-hard-reboot-sequences-and-accessing-recovery-mode-features/"><u>Reviving Your iPhone: The Ultimate Guide to Hard Reboot Sequences and Accessing Recovery Mode Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchats-hidden-messages-revealed-the-definitive-guide-to-emoji-meanings/"><u>Snapchat's Hidden Messages Revealed: The Definitive Guide to Emoji Meanings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stop-motion-mastery-top-10-software-for-mac-and-pc-users/"><u>Stop Motion Mastery Top 10 Software for Mac and PC Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-video-production-made-easy-free-and-paid-software-options/"><u>Updated 3D Video Production Made Easy Free and Paid Software Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mac-video-maker-professional-video-editing-software/"><u>Updated Mac Video Maker Professional Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editor-for-macos-easy-video-creation-tool/"><u>Video Editor for macOS Easy Video Creation Tool</u></a></li>
 </ul></div>
 

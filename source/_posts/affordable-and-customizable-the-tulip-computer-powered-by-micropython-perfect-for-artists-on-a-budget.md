@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget"
-date: 2025-01-18T10:25:48.904Z
-updated: 2025-01-21T22:57:33.184Z
+date: 2025-01-26T19:55:08.706Z
+updated: 2025-01-29T19:57:11.249Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,19 +81,14 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-syncing-your-presence-in-real-time-tiktoks/"><u>[New] In 2024, Syncing Your Presence in Real-Time TikToks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>[Updated] 2024 Approved Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-engaging-audiences-how-twitch-stacks-up-against-youtube/"><u>[Updated] Engaging Audiences How Twitch Stacks Up Against YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-depth-evaluation-obs-as-an-advanced-recorder-for-2024/"><u>[Updated] In-Depth Evaluation OBS as an Advanced Recorder for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-quiet-echo-architects-6-unpublicized-voice-recorder-apps/"><u>2024 Approved Quiet Echo Architects 6 Unpublicized Voice Recorder Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-6-best-gopro-helmet-mounts-and-how-to-use-them/"><u>In 2024, 6 Best GoPro Helmet Mounts and How to Use Them</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-time-lapse-video-editing-software/"><u>In 2024, Best Time-Lapse Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-craft-a-winning-video-resume-the-best-tools-and-free-templates/"><u>In 2024, Craft a Winning Video Resume The Best Tools and Free Templates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crafting-compelling-lower-thirds-essential-tips-for-fcpx/"><u>In 2024, Crafting Compelling Lower Thirds Essential Tips for FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-best-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Best Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-animation-creators-for-every-level-of-expertise/"><u>In 2024, Discover the Best Animation Creators for Every Level of Expertise</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-adobe-premiere-pro-cs6-for-mac-os-free-trial/"><u>In 2024, Download Adobe Premiere Pro CS6 for Mac OS - Free Trial</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-default-application-issues/"><u>Troubleshooting Windows 11 Default Application Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/winter-ready-soundbot-sb210-assessment-reliable-high-quality-acoustics-achieved/"><u>Winter-Ready Soundbot SB210 Assessment: Reliable High-Quality Acoustics Achieved</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>[Updated] Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-mkv-files-to-mjpeg-streaming-videos-for-free-using-the-movavi-tool/"><u>Convert MKV Files to MJPEG Streaming Videos for Free Using the Movavi Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromebooks-finest-online-video-editors-ranked/"><u>New Chromebooks Finest Online Video Editors Ranked</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-video-editing-tutorial-mastering-the-basics/"><u>OS X Mavericks Video Editing Tutorial Mastering the Basics</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-ultimate-video-editing-solution-for-windows-8-users/"><u>Updated Discover the Ultimate Video Editing Solution for Windows 8 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-online-for-free-the-best-tools-and-services/"><u>Updated Edit Videos Online for Free The Best Tools and Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/winning-hearts-gaining-more-likes-on-tiktok-unboxes/"><u>Winning Hearts Gaining More Likes on TikTok Unboxes</u></a></li>
 </ul></div>
 
