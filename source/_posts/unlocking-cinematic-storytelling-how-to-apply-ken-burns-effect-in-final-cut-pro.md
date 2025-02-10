@@ -1,7 +1,7 @@
 ---
 title: Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2025-01-26T20:20:48.258Z
-updated: 2025-01-29T17:09:55.471Z
+date: 2025-02-07T13:08:35.594Z
+updated: 2025-02-10T00:14:24.195Z
 tags: 
   - video editing software
   - video editing
@@ -29,6 +29,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
@@ -43,6 +47,10 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -51,19 +59,11 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -94,7 +94,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -104,7 +104,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,15 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>[New] How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-webcam-applications-in-windows-our-choices-for-2024/"><u>Essential Webcam Applications in Windows Our Choices for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-organizar-y-conducir-un-webinar-libremente-en-tu-ordenador/"><u>Guía Paso a Paso: Organizar Y Conducir Un Webinar Libremente en Tu Ordenador</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-choose-the-ideal-preassembled-gaming-rig-for-gamers/"><u>How to Choose the Ideal Preassembled Gaming Rig for Gamers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-3d-videos-like-a-pro-top-free-and-paid-resources/"><u>Make 3D Videos Like a Pro Top Free and Paid Resources</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-photography-in-phantom-cameras-for-2024/"><u>Mastering Slow-Motion Photography in Phantom Cameras for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between/"><u>S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-dynamic-text-top-motion-tracking-software/"><u>Unleash Dynamic Text Top Motion Tracking Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726027920774-wav/"><u>WAVへの変換：デジタルオーディオから最適な形式へ -初めての専門家ガイド-</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>[New] Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-scenes-to-screenings-filming-across-os-ecosystems-for-2024/"><u>[New] From Scenes to Screenings Filming Across OS Ecosystems for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-churn-memetic-content-for-gif-hub-for-2024/"><u>[Updated] Churn Memetic Content for GIF Hub for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-coalescing-iphone-media-with-ease/"><u>[Updated] In 2024, Coalescing iPhone Media with Ease</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-quality-comprehensive-tp-link-archer-a6-ac1200-router-assessment/"><u>Affordable Quality: Comprehensive TP-Link Archer A6 AC1200 Router Assessment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-live-stream-the-2024-summer-olympics/"><u>How to Live Stream the 2024 Summer Olympics</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-blur-hide-protect-the-ultimate-guide-to-face-blurring-in-video/"><u>In 2024, Blur, Hide, Protect The Ultimate Guide to Face Blurring in Video</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-ideas-to-life-top-hand-drawn-whiteboard-animation-makers/"><u>In 2024, Bring Your Ideas to Life Top Hand-Drawn Whiteboard Animation Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-camtasia-essentials-adjusting-video-speed-for-better-engagement/"><u>In 2024, Camtasia Essentials Adjusting Video Speed for Better Engagement</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cast-it-all-a-step-by-step-guide-to-streaming-any-video-to-chromecast/"><u>In 2024, Cast It All A Step-by-Step Guide to Streaming Any Video to Chromecast</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-correction-in-final-cut-pro/"><u>In 2024, Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-enhance-your-footage-color-correction-in-final-cut-pro-2023/"><u>In 2024, Enhance Your Footage Color Correction in Final Cut Pro 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

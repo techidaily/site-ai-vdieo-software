@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX
-date: 2025-01-28T17:17:24.866Z
-updated: 2025-01-29T21:17:57.119Z
+date: 2025-02-04T01:41:29.275Z
+updated: 2025-02-10T04:39:21.828Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,17 +131,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-a-seamless-transition-sharing-tiktok-videos-with-twitter-for-2024/"><u>[New] A Seamless Transition Sharing TikTok Videos with Twitter for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-prime-fb-downloader-pack-for-ff-browsing-enthusiasts/"><u>[New] In 2024, Prime FB Downloader Pack for FF Browsing Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>2024 Approved The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-top-picks-for-creating-art-on-windows-for-2024/"><u>Expert's Top Picks for Creating Art on Windows for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-pova-5-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Pova 5 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/lock-down-a-steal-save-250-on-top-tier-rtx-4090-gaming-setup/"><u>Lock Down a Steal! Save $250 on Top-Tier RTX 4090 Gaming Setup</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps/"><u>New Effortless Video Editing How to Add Effects in FCP X in 3 Steps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-full-guide-how-to-free-up-space-for-fcpx/"><u>New Full Guide How to Free Up Space for FCPX?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-gamers-choice-the-best-of-the-best-4k-tvs/"><u>[Updated] 2024 Approved Gamer's Choice The Best of the Best 4K TVs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-minecraft-game-evaluation-a-family-friendly-building-adventure/"><u>Comprehensive Minecraft Game Evaluation: A Family-Friendly Building Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-future-of-ios-how-apples-new-purchase-signals-advanced-ai-features-for-next-gen-iphone-lineup-exclusive/"><u>Decoding the Future of iOS: How Apple's New Purchase Signals Advanced AI Features for Next-Gen iPhone Lineup Exclusive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-any-video-file-into-an-easy-fun-gif-using-the-free-vlc-software/"><u>How to Turn Any Video File Into an Easy, Fun GIF Using the Free VLC Software!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-in-class-text-tracking-and-animation-software-2023/"><u>In 2024, Best in Class Text Tracking and Animation Software 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-budget-video-editing-software-top-picks/"><u>In 2024, Budget Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>In 2024, Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-kinemaster-for-macstep-by-step-guide/"><u>In 2024, Download KineMaster for MacStep-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-color-correction-tips-tricks-and-techniques/"><u>In 2024, Final Cut Pro Color Correction Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-xs-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone XS Smoothly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>In 2024, Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-walkthrough-of-recording-gameplay-on-apple-gaming-systems/"><u>In-Depth Walkthrough of Recording Gameplay on Apple Gaming Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/industry-standards-prime-gimbals-for-drones-for-2024/"><u>Industry Standards Prime Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msda80dll-importance-and-management-tips/"><u>Understanding MSDA80.DLL: Importance and Management Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2025-01-27T18:27:20.555Z
-updated: 2025-01-29T21:10:43.184Z
+date: 2025-02-03T08:10:23.860Z
+updated: 2025-02-10T08:41:15.090Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,22 +140,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>[New] Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-harness-the-power-of-hashtags-in-instagram-marketing-strategies-for-2024/"><u>[New] Harness the Power of Hashtags in Instagram Marketing Strategies for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-dynamic-discussions-how-to-make-your-ig-stories-pop/"><u>[New] In 2024, Dynamic Discussions How to Make Your IG Stories Pop</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[Updated] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-download-free-sound-effects-for-youtubers/"><u>[Updated] Download Free Sound Effects for YouTubers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-incorporation-of-text-overlays-for-vimeo-films-for-2024/"><u>[Updated] Seamless Incorporation of Text Overlays for Vimeo Films for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-5-psone-emulators-perfect-play-on-your-pc/"><u>2024 Approved Top 5 PsOne Emulators Perfect Play on Your PC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-8-youtube-marketing-apps-and-solutions-for-2024/"><u>Best 8 YouTube Marketing Apps & Solutions for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-ideal-internet-filters-and-routers-for-families/"><u>Expert Picks: Ideal Internet Filters and Routers for Families</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/peeking-into-instagram-stories-what-viewers-dont-know-for-2024/"><u>Peeking Into Instagram Stories What Viewers Don’t Know for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-screen-recording-with-filmora-scrn-best-practices-and-more/"><u>The Ultimate Guide to Screen Recording with Filmora Scrn Best Practices and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-photos-to-life-8-essential-animation-software/"><u>Updated Bring Photos to Life 8 Essential Animation Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>Updated Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-transform-your-videos-a-step-by-step-mp4-video-editing-guide-for-mac-and-windows/"><u>Updated Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-harnessing-ambiance-with-thoughtful-lighting/"><u>[Updated] Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-easy-route-to-capturing-every-gameplay-moment-for-2024/"><u>[Updated] The Easy Route to Capturing Every Gameplay Moment for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-iphone-apps-expert-reviews-and-recommendations/"><u>2024 Approved Top-Rated iPhone Apps Expert Reviews and Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/accelerate-your-videos-10-free-speed-changer-apps-for-ios-and-android-for-2024/"><u>Accelerate Your Videos 10 Free Speed Changer Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-with-switch/"><u>Bridging Console and Computer with Switch</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-conversion-top-10-webm-to-mp4-tools/"><u>Effortless Video Conversion Top 10 WebM to MP4 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flipping-videos-like-a-pro-quick-easy-and-stress-free-for-2024/"><u>Flipping Videos Like a Pro Quick, Easy, and Stress-Free for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-enjoy-every-goal-the-free-football-broadcast-guide/"><u>In 2024, How to Enjoy Every Goal The FREE Football Broadcast Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/914657-9781101603741-the-dead-roam-the-earth/"><u>The Dead Roam the Earth | Free Book</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X50 GT.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wav/"><u>WAVファイル対応高品質音声変換フリーソフトをおすすめ！無料で最適な選び方。</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock FCP Xs Power Adding Effects in Just 3 Clicks
-date: 2025-01-12T20:04:22.279Z
-updated: 2025-01-16T07:07:49.763Z
+date: 2025-02-09T12:43:32.123Z
+updated: 2025-02-10T07:26:47.915Z
 tags: 
   - video editing software
   - video editing
@@ -37,7 +37,7 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Apply Effects to Video in Final Cut Pro X
@@ -57,21 +57,21 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -86,13 +86,13 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
@@ -104,15 +104,15 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -141,22 +141,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[New] 2024 Approved Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-hilarity-unleashed-prime-meme-text-generators/"><u>[New] Hilarity Unleashed Prime Meme Text Generators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-prime-opening-strategies-top-16-youtube-vids-that-thrive/"><u>[Updated] 2024 Approved Prime Opening Strategies Top 16 YouTube Vids That Thrive</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-asmr-insights-understanding-its-health-benefits-for-2024/"><u>[Updated] ASMR Insights Understanding Its Health Benefits for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-invaluable-list-of-costless-photographic-and-moving-images/"><u>[Updated] Invaluable List of Costless Photographic and Moving Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-video-conferences-with-snap-camera-functions-for-2024/"><u>[Updated] Streamlining Video Conferences with Snap Camera Functions for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/animated-text-generator-is-easy-to-make-text-animation-do-you-know-what-is-the-10-best-animated-text-generator-check-this-article/"><u>Animated Text Generator Is Easy to Make Text Animation. Do You Know What Is the 10 Best Animated Text Generator? Check This Article</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-avi-video-editing-software/"><u>Best Free AVI Video Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-memories-to-life-how-to-make-a-dvd-with-movie-making-software-for-2024/"><u>Bring Your Memories to Life How to Make a DVD with Movie Making Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/burning-videos-to-dvd-a-quick-and-easy-guide-for-windows-and-mac-for-2024/"><u>Burning Videos to DVD A Quick and Easy Guide for Windows and Mac for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversion-vod-gratuit-convertissez-des-fichiers-ogm-en-vob-facilement-grace-a-movavi/"><u>Conversion VOD Gratuit : Convertissez Des Fichiers OGM en VOB Facilement Grâce À Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/do-vhs-effect-with-final-cut-pro-in-the-right-way-for-2024/"><u>Do VHS Effect with Final Cut Pro in the Right Way for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dont-miss-out-the-most-astounding-4k-video-samples-available-for-2024/"><u>Dont Miss Out The Most Astounding 4K Video Samples Available for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-game-top-rated-4k8k-editing-software/"><u>Elevate Your Video Game Top-Rated 4K/8K Editing Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro-for-2024/"><u>From Forward to Reverse Mastering Video Reversal in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steer-clear-of-these-devastating-mistakes-in-using-apple-vision-pro-save-your-project-before-its-too-late-expert-advice-from-zdnet/"><u>Steer Clear of These Devastating Mistakes in Using Apple Vision Pro – Save Your Project Before It's Too Late | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-understanding-prompt-injections-and-their-mechanism/"><u>Unveiling AI: Understanding Prompt Injections & Their Mechanism</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>[New] 2024 Approved Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premium-audio-capabilities-1-10-free-desktop-tools/"><u>[New] 2024 Approved Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>[Updated] Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>[Updated] The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamentals-of-online-tale-creation-methods/"><u>2024 Approved Fundamentals of Online Tale Creation Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-note-12-4g-convert-mts-for-redmi-note-12-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi Note 12 4G-convert MTS for Redmi Note 12 4G</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a15-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A15 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>In 2024, Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>New Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-avi-video-joiner-software-merge-clips-in-minutes/"><u>New Free AVI Video Joiner Software Merge Clips in Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-pcs-windows-10-blue-screen-error/"><u>Resolve Your PC's Windows 10 Blue Screen Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editors-2023-update/"><u>The Ultimate Guide to Free FLV Video Editors (2023 Update)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-essential-video-metadata-editors-for-mac-users-updated-2023/"><u>Updated 8 Essential Video Metadata Editors for Mac Users (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-subtitle-editing-tools-for-mac-a-comprehensive-list-of-alternatives/"><u>Updated Best Subtitle Editing Tools for Mac A Comprehensive List of Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-webm-to-mp3-converters-for-fast-and-easy-file-conversion/"><u>Updated Best WebM to MP3 Converters for Fast and Easy File Conversion</u></a></li>
 </ul></div>
 

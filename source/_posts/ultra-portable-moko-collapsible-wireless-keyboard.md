@@ -1,7 +1,7 @@
 ---
 title: Ultra-Portable MoKo Collapsible Wireless Keyboard
-date: 2025-01-28T19:59:51.528Z
-updated: 2025-01-29T19:03:06.868Z
+date: 2025-02-07T12:59:17.960Z
+updated: 2025-02-10T05:17:32.107Z
 categories:
   - BestProducts
 description: This Article Describes Ultra-Portable MoKo Collapsible Wireless Keyboard
@@ -14,7 +14,7 @@ thumbnail: https://www.lifewire.com/thmb/wHZ-ZuGaBn8D_tIZ9YtAursona4=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
@@ -42,12 +42,16 @@ Lifewire / Jeffrey Daniel Chadwick
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -94,7 +98,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: T-minus one minute**
@@ -104,7 +108,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
@@ -130,10 +134,6 @@ Lifewire / Jeffrey Daniel Chadwick
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
@@ -174,24 +174,19 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-16-crowning-youtube-opens-for-enhanced-reach/"><u>[New] 2024 Approved 16 Crowning YouTube Opens for Enhanced Reach</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>[New] 2024 Approved Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-essential-8-choices-of-tripods-for-4k-cinematography-for-2024/"><u>[New] Essential 8 Choices of Tripods for 4K Cinematography for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-snapchat-share-tweets-via-video/"><u>[New] In 2024, Mastering Snapchat Share Tweets via Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leverage-your-vfx-work-with-these-8-top-sites-offering-free-green-screen-resources/"><u>[New] Leverage Your VFX Work with These 8 Top Sites Offering Free Green Screen Resources</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-pinnacle-of-photography-top-ten-camera-lens-selections-2024/"><u>[New] The Pinnacle of Photography Top Ten Camera Lens Selections 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-key-methods-for-gathering-high-end-video-backdrops/"><u>[Updated] Key Methods for Gathering High-End Video Backdrops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hassle-free-mic-evaluation-secrets-to-instant-and-accurate-results/"><u>Hassle-Free Mic Evaluation: Secrets to Instant and Accurate Results</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-ace-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus Ace 3 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-rotators-compared-top-5-choices/"><u>In 2024, Free AVI Video Rotators Compared Top 5 Choices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-remove-background-noise-in-final-cut-pro-x/"><u>In 2024, How to Remove Background Noise in Final Cut Pro X?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-engaging-videos-on-the-go-best-animated-text-apps-for-phones/"><u>New Create Engaging Videos on the Go Best Animated Text Apps for Phones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-alternative-no-crack-no-risk-just-results/"><u>New Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/patched-reel-error-on-instagram/"><u>Patched: Reel Error on Instagram</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-mp4-editing-on-windows-8-expert-video-editor/"><u>Updated Effortless MP4 Editing on Windows 8 Expert Video Editor</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-videos-mastering-lower-thirds-in-fcpx/"><u>Updated Elevate Your Videos Mastering Lower Thirds in FCPX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-experience-seamless-video-editing-on-windows-8-and-beyond/"><u>Updated Experience Seamless Video Editing on Windows 8 and Beyond</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-free-mov-video-rotators/"><u>Updated Top 5 Free MOV Video Rotators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-auditory-appeal-modifying-voices-in-instagrams-storytelling/"><u>[New] 2024 Approved Auditory Appeal Modifying Voices in Instagram's Storytelling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-stubborn-loading-screen-in-far-cry-5-solutions-inside/"><u>Bypassing the Stubborn Loading Screen in Far Cry 5 – Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11s-bluetooth-connectivity-problems/"><u>Diagnosing and Repairing Windows 11'S Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-avi-merger-tools-combine-avi-videos-with-ease/"><u>In 2024, Best Free AVI Merger Tools Combine AVI Videos with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mp4-editor-for-windows-8-edit-videos-like-a-pro/"><u>In 2024, Best Free MP4 Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cartoonize-your-selfie-top-picks-for-iphone-ipad-and-android/"><u>In 2024, Cartoonize Your Selfie Top Picks for iPhone, iPad, and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-combine-videos-online-without-spending-a-dime-top-5-tools/"><u>In 2024, Combine Videos Online Without Spending a Dime Top 5 Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-trim-and-edit-avi-videos-with-the-best-tools-windows-mac-android-iphone-online/"><u>In 2024, Cut, Trim, and Edit AVI Videos with the Best Tools Windows, MAC, Android, iPhone, Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-editing-game-top-premiere-pro-transition-plugins/"><u>In 2024, Elevate Your Video Editing Game Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marketplaces-ease-of-repair-upgrades-for-the-latest-model-over-past-iphones-gizmodo/"><u>Marketplace's Ease of Repair Upgrades for the Latest Model Over Past iPhones | Gizmodo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761553-9781683640509-the-book-of-beasties/"><u>The Book of Beasties | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-poco-x6-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Poco X6 for Parents | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/visual-virtuosos-popular-ig-effects/"><u>Visual Virtuosos Popular IG Effects</u></a></li>
 </ul></div>
 

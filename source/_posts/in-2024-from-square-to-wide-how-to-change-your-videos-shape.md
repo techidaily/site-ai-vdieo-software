@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Square to Wide How to Change Your Videos Shape
-date: 2025-01-15T06:07:09.013Z
-updated: 2025-01-16T06:11:25.081Z
+date: 2025-02-07T09:40:14.561Z
+updated: 2025-02-10T02:03:58.384Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -91,7 +91,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -101,10 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -156,6 +152,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -171,21 +171,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweeting-tunes-converting-videos-into-melodic-gifs/"><u>[New] In 2024, Tweeting Tunes Converting Videos Into Melodic GIFs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-quick-thumbs-up-creating-your-own-google-image-mosaic/"><u>[Updated] 2024 Approved Quick Thumbs Up Creating Your Own Google Image Mosaic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-stitching-of-gopro-videos-into-complete-360-imagery/"><u>2024 Approved Perfect Stitching of GoPro Videos Into Complete 360 Imagery</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>2024 Approved Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/8-stunning-movie-creator-for-mac-for-2024/"><u>8 Stunning Movie Creator for Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-wmv-video-editors-a-comprehensive-review-for-2024/"><u>Best Zero-Cost WMV Video Editors A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users-for-2024/"><u>Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-power-of-final-cut-pro-90-day-free-trial-available-for-2024/"><u>Discover the Power of Final Cut Pro 90-Day Free Trial Available for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-adapter-drivers-for-netgear-ac1200/"><u>Download Adapter Drivers for NETGEAR AC1200</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters/"><u>Edit AVI Videos on the Go Best Mobile and Online Video Cutters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-essentials-crafting-a-compelling-video-slideshow-for-2024/"><u>Final Cut Pro Essentials Crafting a Compelling Video Slideshow for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-poco-f5-pro-5g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Poco F5 Pro 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuit-gebaseerd-converter-voor-m4a-naar-mpeg-virtueel-door-movi/"><u>Gratuit Gebaseerd Converter Voor M4A Naar MPEG - Virtueel Door Movi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-8-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 8 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/emystifying-youtube-edits-an-in-depth-analysis-and-review-for-2024/"><u>[New] Demystifying YouTube Edits An In-Depth Analysis and Review for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-to-a-consensus-in-news-endings/"><u>[Updated] In 2024, Cutting to a Consensus in News Endings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-smart-8-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix Smart 8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-video-quality-the-best-cameras-for-vloggers-dreams-for-2024/"><u>Boosting Video Quality The Best Cameras for Vloggers' Dreams for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fixing-launch-failures-for-farming-simulator-22-expert-tips-and-tricks/"><u>Fixing Launch Failures for Farming Simulator 22: Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-missing-alerts-on-desktops/"><u>How To Fix Missing Alerts on Desktops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-gopro-the-15-top-waterproof-cams-for-adventure/"><u>In 2024, Beyond GoPro The 15 Top Waterproof Cams for Adventure</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-seamless-playlist-transfer-migrating-from-spotify-to-youtube-music-service/"><u>In 2024, Seamless Playlist Transfer Migrating From Spotify to YouTube Music Service</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beginners-guide-to-face-blurring-top-free-apps-tutorials-and-tips/"><u>New Beginners Guide to Face Blurring Top Free Apps, Tutorials, and Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>New Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-top-pc-intro-makers-a-beginners-guide-to-getting-started/"><u>The Top PC Intro Makers A Beginners Guide to Getting Started</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-adobe-premiere-guide-6-tips-for-smoother-faster-edits/"><u>The Ultimate Adobe Premiere Guide 6 Tips for Smoother, Faster Edits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-perfection-made-easy-the-top-10-free-online-stabilizers-you-need/"><u>Video Perfection Made Easy The Top 10 Free Online Stabilizers You Need</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-itel-p55plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P55+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

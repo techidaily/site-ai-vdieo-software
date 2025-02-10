@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2025-01-23T16:57:10.959Z
-updated: 2025-01-29T20:52:17.954Z
+date: 2025-02-05T11:02:24.931Z
+updated: 2025-02-09T16:02:11.561Z
 tags: 
   - video editing software
   - video editing
@@ -36,7 +36,7 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part1: What is the lower third?**
@@ -52,7 +52,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -94,7 +94,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -113,6 +113,10 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -122,7 +126,7 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -142,10 +146,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -188,16 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>[New] In 2024, A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-optimizing-color-depth-and-gradients-for-obs/"><u>[New] Optimizing Color Depth and Gradients for OBS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crescendo-of-creativity-adding-audio-to-ig-stories-for-2024/"><u>[Updated] Crescendo of Creativity Adding Audio to IG Stories for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unleashing-creativity-advanced-obs-techniques-explained-for-2024/"><u>[Updated] Unleashing Creativity Advanced OBS Techniques Explained for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-magix-mixcrafts-features/"><u>In 2024, The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro/"><u>Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>Updated FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-animation-tools-for-engaging-classroom-learning/"><u>Updated Top 10 Animation Tools for Engaging Classroom Learning</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vegas-or-premiere-choosing-the-best-video-editing-software-for-you/"><u>Vegas or Premiere? Choosing the Best Video Editing Software for You</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[Updated] Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-views-not-video-length-expert-guide-to-yt-desc-templates-for-2024/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>In 2024, Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-sound-not-working-try-these-troubleshooting-tips/"><u>In 2024, Avidemux Sound Not Working? Try These Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-to-turn-videos-into-live-photos-on-iphoneandroid/"><u>In 2024, Best Apps to Turn Videos Into Live Photos on iPhone/Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avchd-editors-top-picks/"><u>In 2024, Best AVCHD Editors Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-cutting-tools-for-mp4-files-updated-2023/"><u>In 2024, Best Free Video Cutting Tools for MP4 Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-watermark-free-video-joiners-for-seamless-edits/"><u>In 2024, Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-13-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 13 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-known-graphics-driver-issue-a-comprehensive-solution/"><u>Overcoming 'Known Graphics Driver Issue': A Comprehensive Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-frustrating-loading-google-chrome-game-fixes/"><u>Stop Frustrating Loading: Google Chrome Game Fixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/virtual-horizons-inspirational-metaverse-insights-arvr/"><u>Virtual Horizons Inspirational Metaverse Insights [AR/VR]</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029778424-mkvmp3/"><u>ステップバイステップでMKVをMP3に直す方法：最新変換ツールと戦略</u></a></li>
 </ul></div>
 

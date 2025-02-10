@@ -1,7 +1,7 @@
 ---
 title: VirtualDub MPEG2 The Secret to Smaller, Faster Video Files
-date: 2025-01-08T23:40:04.600Z
-updated: 2025-01-15T20:17:48.371Z
+date: 2025-02-06T23:22:54.216Z
+updated: 2025-02-09T18:36:03.743Z
 tags: 
   - video editing software
   - video editing
@@ -30,16 +30,12 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -53,18 +49,18 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -83,10 +79,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -104,22 +104,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ideal-vr-solutions-for-drone-flying/"><u>[Updated] 2024 Approved Ideal VR Solutions for Drone Flying</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-expressive-faces-with-motion-blur-in-picsart/"><u>[Updated] Expressive Faces with Motion Blur in Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-cuts-the-essential-guide-for-windows-11-users/"><u>2024 Approved Mastering Video Cuts The Essential Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-access-windows-shared-folders/"><u>Android: Access Windows Shared Folders</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/best-methods-to-disable-the-windows-backup-feature-on-windows-server-2012/"><u>Best Methods to Disable the Windows Backup Feature on Windows Server 2012</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212469732-computer-wont-shut-down-windows-10-solved/"><u>Computer Won't Shut Down Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-sound-not-working-try-these-troubleshooting-tips/"><u>In 2024, Avidemux Sound Not Working? Try These Troubleshooting Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-to-turn-videos-into-live-photos-on-iphoneandroid/"><u>In 2024, Best Apps to Turn Videos Into Live Photos on iPhone/Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-in-class-text-tracking-and-animation-software-2023/"><u>In 2024, Best in Class Text Tracking and Animation Software 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-watermark-free-video-joiners-for-seamless-edits/"><u>In 2024, Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-budget-video-editing-software-top-picks/"><u>In 2024, Budget Video Editing Software Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>In 2024, Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-kinemaster-for-macstep-by-step-guide/"><u>In 2024, Download KineMaster for MacStep-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-color-correction-tips-tricks-and-techniques/"><u>In 2024, Final Cut Pro Color Correction Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lens-based-enlightenment-guide-to-editing-brilliance/"><u>In 2024, Lens-Based Enlightenment Guide to Editing Brilliance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>In 2024, The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
-<li><a href="https://facebook.techidaily.com/metaverse-truths-and-misconceptions-a-reality-check/"><u>Metaverse Truths & Misconceptions – A Reality Check</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>[Updated] Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-innovative-design-crafting-youtubes-efficient-subscribe-page/"><u>[Updated] Innovative Design Crafting YouTube's Efficient Subscribe Page</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-detailed-walkthrough-of-activating-and-using-sleep-mode-in-messenger-kids/"><u>A Detailed Walkthrough of Activating & Using Sleep Mode in Messenger Kids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-oppo-find-x7-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Oppo Find X7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-video-editing-workflow-top-adobe-premiere-plugins-free-trial/"><u>Revolutionize Your Video Editing Workflow Top Adobe Premiere Plugins (Free Trial)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-compression-top-picks-for-windows-10-users/"><u>Updated Free Video Compression Top Picks for Windows 10 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-s-best-video-editing-apps-for-macbook-and-imac/"><u>Updated S Best Video Editing Apps for MacBook and iMac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-10-movie-making-best-apps-and-tools/"><u>Windows 10 Movie Making Best Apps and Tools</u></a></li>
 </ul></div>
 

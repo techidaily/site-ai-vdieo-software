@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Subtitle Tutorial How to Add Captions Like a Pro
-date: 2025-01-22T22:20:52.996Z
-updated: 2025-01-30T00:12:28.246Z
+date: 2025-02-03T01:35:19.883Z
+updated: 2025-02-10T04:33:41.438Z
 tags: 
   - video editing software
   - video editing
@@ -34,10 +34,6 @@ On the other hand, the captions display every kind of audio information, includi
 
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -53,6 +49,10 @@ It is a standard caption format for web videos and broadcasts.
 * **SRT (SubRip)**
 
 It is a simple and popular format used in online videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Add Subtitles or Captions in FCPX
 
@@ -82,10 +82,6 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -102,6 +98,10 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -117,7 +117,7 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -129,7 +129,7 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -139,7 +139,7 @@ So, this is all about adding Final Cut Pro subtitles and captions via the step-b
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -157,20 +157,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-djis-innovation-race-how-mavic-air-shifts-the-scene-against-spark-for-2024/"><u>[New] DJI’s Innovation Race How Mavic Air Shifts the Scene Against Spark for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/uick-grab-your-complete-guide-to-effortless-video-capture/"><u>[New] Quick-Grab Your Complete Guide to Effortless Video Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-mac-video-resizing-to-fixed-ratio-for-2024/"><u>[Updated] Efficient Mac Video Resizing to Fixed Ratio for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools-for-2024/"><u>[Updated] Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/affordable-and-customizable-the-tulip-computer-powered-by-micropython-perfect-for-artists-on-a-budget/"><u>Affordable and Customizable: The Tulip Computer Powered by MicroPython – Perfect for Artists on a Budget</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-flip-it-a-step-by-step-guide-to-rotating-clips-in-fcp/"><u>In 2024, Flip It! A Step-by-Step Guide to Rotating Clips in FCP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-home-video-production-top-dvd-creation-tools/"><u>Mastering Home Video Production Top DVD Creation Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-business-travelers-tablet-a-non-microsoft-non-lenovo-gem-uncovered-on-zdnet/"><u>Top-Rated Business Traveler's Tablet: A Non-Microsoft, Non-Lenovo Gem Uncovered on ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-paid-android-video-editors-compared-top-10-picks/"><u>Updated Free and Paid Android Video Editors Compared Top 10 Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-amateur-to-pro-easy-tips-for-producing-high-quality-films/"><u>Updated From Amateur to Pro Easy Tips for Producing High-Quality Films</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-wmv-video-joiners/"><u>Updated Top 5 Best Free WMV Video Joiners</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pro-apk-a-comprehensive-review-of-its-features-for-2024/"><u>VN Video Editor Pro Apk A Comprehensive Review of Its Features for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2473469-9781101983577-why-cant-i-meditate/"><u>Why Can't I Meditate? | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-video-view-growth-top-10-reasons-behind-zero-views/"><u>[Updated] Unlocking Video View Growth Top 10 Reasons Behind Zero Views</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/assessing-the-dominance-of-splitcam-recording/"><u>Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100A phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-prohibition-of-chatgpt-in-italy-unpacking-the-reasons-behind-the-ban/"><u>Immediate Prohibition of ChatGPT in Italy: Unpacking the Reasons Behind the Ban</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-animate-your-phone-videos-best-text-animation-apps/"><u>In 2024, Animate Your Phone Videos Best Text Animation Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>In 2024, Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-video-blur-apps-for-iphone-and-android/"><u>In 2024, Best Video Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cinematic-storytelling-made-easy-a-beginners-handbook/"><u>In 2024, Cinematic Storytelling Made Easy A Beginners Handbook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-vllo-for-mac-os-and-uncover-alternative-options/"><u>In 2024, Download VLLO for Mac OS and Uncover Alternative Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>In 2024, Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-job-search-the-best-video-resume-makers-free/"><u>In 2024, Elevate Your Job Search The Best Video Resume Makers Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-essentials-designing-and-editing-a-professional-slideshow/"><u>In 2024, Final Cut Pro Essentials Designing and Editing a Professional Slideshow</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-axon-40-lite-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Axon 40 Lite Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-meme-crafters-playbook-building-a-library-of-laughter-gifs/"><u>In 2024, The Meme Crafter's Playbook Building a Library of Laughter (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/legal-halt-lifted-newly-available-apple-watch-series-9-and-ultra-models-post-courtroom-decision/"><u>Legal Halt Lifted: Newly Available Apple Watch Series 9 and Ultra Models Post-Courtroom Decision</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
 

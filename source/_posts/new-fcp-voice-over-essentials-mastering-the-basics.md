@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2025-01-23T21:29:57.620Z
-updated: 2025-01-29T18:47:29.111Z
+date: 2025-02-06T18:49:46.403Z
+updated: 2025-02-09T23:55:45.964Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ If you are new to the world of editing and find Final Cut Pro little difficult t
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Voice Over with Final Cut Pro
@@ -51,10 +51,6 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -73,7 +69,7 @@ The countdown will automatically start.
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3
@@ -87,10 +83,6 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -110,6 +102,10 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
 * Now as you want to finalize your decision so choose your clip then go to auditions and then press Finalize Audition.
 
@@ -120,6 +116,10 @@ It is also possible to extract desired recordings from auditions; for example if
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -134,7 +134,7 @@ It's quite common in FCPX. If reopening the software or rebooting Mac won't fix 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -152,19 +152,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-stickers-from-a-tiktok-video/"><u>[Updated] How To Remove Stickers From A Tiktok Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[Updated] Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-hidden-glance-guide-top-instagram-story-tools/"><u>2024 Approved Hidden Glance Guide Top Instagram Story Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-f23-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo F23 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24+with/without a PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-webm-video-editing-software-top-picks/"><u>In 2024, Free WebM Video Editing Software Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives/"><u>In 2024, Quik Fix A Review of GoPros Video Editor & Top PC Alternatives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-frame-fixer-query-solutions/"><u>In 2024, The Frame Fixer Query Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/kinemaster-on-mac-download-install-and-start-editing-today/"><u>KineMaster on Mac Download, Install, and Start Editing Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-new-features-a-guide-to-using-live-activities-in-ios-16/"><u>Mastering the New Features: A Guide to Using Live Activities in iOS 16</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-filmora-free-safe-and-virus-free-torrent-guide/"><u>New Download Filmora Free Safe and Virus-Free Torrent Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-business-model-and-its-moolah/"><u>The Social Business Model and Its Moolah</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-edit-videos-shot-by-sony-digital-camcorder/"><u>Updated How to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-realms-united-identifying-the-7-best-strategy-rivals/"><u>[Updated] 2024 Approved Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-alternatives-to-blockbuster-flicks/"><u>[Updated] In 2024, Best Alternatives to Blockbuster Flicks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-full-guide-on-making-a-big-budget-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved Full Guide on Making a Big-Budget Cinematic Look Video with Final Cut Pro X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-iphone-video-capture-apps/"><u>2024 Approved Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>2024 Approved Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-news-filmora-x-adds-arm-compatibility-for-2024/"><u>Breaking News Filmora X Adds ARM Compatibility for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-in-high-def-the-best-video-software-for-2024/"><u>Edit in High-Def The Best Video Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-device-experience-with-smooth-screen-capture-for-2024/"><u>Elevate Your Device Experience with Smooth Screen Capture for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-guide-to-german-sounds-for-newcomers/"><u>Essential Guide to German Sounds for Newcomers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-overcoming-valorants-voice-chat-malfunctions/"><u>Expert Tips for Overcoming Valorant's Voice Chat Malfunctions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-essentials-how-to-achieve-flawless-green-screen-effects/"><u>FCP X Essentials How to Achieve Flawless Green Screen Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-yet-powerful-top-wmv-video-editors-for-2024/"><u>Free Yet Powerful Top WMV Video Editors for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-a-powerful-64-bit-video-editor-windows-8and10-included-for-2024/"><u>Get a Powerful 64-Bit Video Editor (Windows 8&10 Included) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-filmora-for-free-the-authorized-and-authentic-way-for-2024/"><u>Get Filmora for Free The Authorized and Authentic Way for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-10t-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 10T 5G PC | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-skips-or-pauses-optimizing-bluetooth-sound-on-windows-11-platform/"><u>No More Skips or Pauses: Optimizing Bluetooth Sound on Windows 11 Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List Best Free Video Special Effects Apps for iOS and Android
-date: 2025-01-23T18:05:51.755Z
-updated: 2025-01-30T00:14:06.211Z
+date: 2025-02-08T09:13:10.457Z
+updated: 2025-02-09T19:25:37.299Z
 tags: 
   - video editing software
   - video editing
@@ -62,6 +62,10 @@ Simply put, with this app on your phone, you only have to use the device’s cam
 
 Click to get the [Android](https://play.google.com/store/apps/details?id=com.picadelic.fxguru&hl=en%5FUS) version of this special effect app from the App Store or Google Play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Best VFX Video Effects Editor Apps for iPhone & iPad
 
 If you are a proud owner of an iOS device, the following **iPhone and iPad video special effects** apps are something you would definitely love to try:
@@ -73,10 +77,6 @@ With built-in video editor and easy-to-use interface, this **iPhone special effe
 With all these features and options, and several more to explore, Enlight Vdeoleap Video Editor leaves no stone unturned to help you produce industry-standard outputs right on your iDevice.
 
 ![best vfx apps for  iOS -Enlight Videoleap Video Editor ](https://images.wondershare.com/filmora/article-images/enlight-videoleap-video-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/enlight-videoleap-video-editor/id1255135442)
 
@@ -96,10 +96,6 @@ All you need to do in order to apply special FX to the images is, capture photos
 
 ![best vfx apps for  iOS - Movie FX Maker ](https://images.wondershare.com/filmora/article-images/movie-fx-maker-hollywood-style-special-effect-change.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\. Effects Cam – Visual Effects
 
 Yet another **video special effects app**, Effects Cam allows you to add special effects like fire, blasts, explosions, etc. to your images in order to make them look live. The images can be captured right from your device’s camera, or imported from other sources like your PC, phone’s memory, etc. Once imported, you can pick any of the available special FX from the app’s library, and apply it to the photo(s).
@@ -118,10 +114,6 @@ Apart from the above, adding special video and sound effects is another lucrativ
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/videorama-text-video-editor/id1049690233)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. LumaFX
 
 Although LumaFX is a paid **video special effects app** for iOS devices, it is worth investing. The software has many features that are mostly found in professional post-production tools. These features include color correction, slow motion effect, frame-by-frame animation using the keyframes, and much more.
@@ -138,15 +130,15 @@ If you are an Android lover and prefer using non-Apple devices, you have plenty 
 
 In case you are looking for an efficient **video special effects app for Android**, those listed below are worth your attention:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Movie Booth FX Free
 
 While using [Movie Booth FX Free](https://play.google.com/store/apps/details?id=bizomobile.actionmovie.free&hl=en%5FUS), all you need to do is, record a footage from your camera, and add special effects to it. The three main categories that this **video special effects app** ships along with include Action, Sci-Fi, and Horror. Depending on the type of footage you captured, and the kind of output you want to have, you can pick any of these categories, and apply your favorite effect that is available within it.
 
 ![ action movie  video effects apps for  Andorid - Movie Booth FX Free  ](https://images.wondershare.com/filmora/article-images/movie-booth-effects-free.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Although the program is free to install, various other options and features can be unlocked by paying for them with in-app purchases.
 
@@ -157,7 +149,7 @@ Although the program is free to install, various other options and features can 
 ![   video effects app for  Andorid - MovieRide FX  ](https://images.wondershare.com/filmora/article-images/best-vfx-apps-android-movieride-fx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Movie Effects Maker
@@ -166,16 +158,12 @@ Although the program is free to install, various other options and features can 
 
 Movie Effects Maker, as the name suggests, allows you to add special effects to the images you click with your smartphone. With all the VFX options this **movie effects app** has, you can be virtually anyone you want. For instance, with the sci-fi and horror elements, you can create stickers out of your photos portraying yourself as a hero, add animated effects to your images to make them look live, and much more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Extreme VFX
 
 ![   effects apps for Andorid - Extreme VFX  ](https://images.wondershare.com/filmora/article-images/best-vfx-apps-extreme-fx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With this **video special effects app**, all you need to do is, record a footage using your Android smart device, and begin applying special effects to them until you are satisfied with the results. Since the app allows you to add multiple VFX to the clips, nothing seems impossible when it comes to decorating the videos, and making them more engaging and entertaining, especially with you playing as the main character.
@@ -183,6 +171,10 @@ With this **video special effects app**, all you need to do is, record a footage
 [Get this special video effect app from Google Play>>](https://play.google.com/store/apps/details?id=com.kaushal.extremevfx&hl=en%5FUS)
 
 ### Watch Video! Best VFX Video Effects Editor Apps for Android
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Add Special Effects to Videos in Filmora?
 
@@ -203,7 +195,7 @@ For macOS 10.14 or later
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -219,11 +211,19 @@ Launch Wondershare Filmora, click anywhere inside the **Media Bin** at the upper
 
 ![  Import media in Filmora9  ](https://images.wondershare.com/filmora/article-images/filmora9-import-media.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add Effects and Elements
 
 Place the Playhead (Skimmer) in the Timeline you want to apply effects from, click **Effects** from the standard toolbar at the top, select your preferred category from the left pane, hover mouse to the effect you want to add in the right window, and click the **+** icon from the center.
 
 ![ Add Block buster Effects in Filmora9  ](https://images.wondershare.com/filmora/article-images/add-block-buster-effect-to-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Optionally you can drag the effect in the Timeline to manage its duration. Next, go to **Elements** from the top, and repeat the process to add your preferred element to the footage.
 
@@ -231,15 +231,15 @@ Besides the included effects and elements in Filmora, you can find our more vide
 
 ![Filmora free video effects in Filmstock  ](https://images.wondershare.com/filmora/article-images/Filmstock-free-video-effects-for-filmora9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Export the Output
 
 Click **EXPORT** from the top-center section, go to the **Local** tab from the top of the **Export** box that opens up next, choose your preferred extension from the **Format** list in the left pane, select a destination location in the **Save to** field in the right window, click **SETTINGS** and make necessary adjustments (optional), and click **EXPORT** from the bottom-right corner of the box to begin rendering and to produce the video with the special effects applied to it.
 
 ![Filmora9 Output Options  ](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -258,7 +258,7 @@ For macOS 10.14 or later
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -283,24 +283,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-peruse-every-shared-piece-on-messenger/"><u>[New] In 2024, How to Peruse Every Shared Piece on Messenger</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unleashing-widespread-engagement-on-facebook-for-2024/"><u>[New] Unleashing Widespread Engagement on Facebook for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-overcoming-frame-loss-in-high-pace-broadcasts-with-obs/"><u>[Updated] 2024 Approved Overcoming Frame Loss in High-Pace Broadcasts with OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snapedit-overview-in-depth-editor-review/"><u>[Updated] SnapEdit Overview – In-Depth Editor Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avchd-video-editing-the-top-5-software-solutions-for-2024/"><u>AVCHD Video Editing The Top 5 Software Solutions for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-wmv-video-combining-software/"><u>Best Free WMV Video Combining Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-premiere-pro-transition-plugins-top-picks-for-creators-for-2024/"><u>Best Premiere Pro Transition Plugins Top Picks for Creators for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-strategies-for-clear-communication-on-google-meet-for-2024/"><u>Expert Strategies for Clear Communication on Google Meet for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-visual-effects-green-screen-and-beyond-for-2024/"><u>FCP X Visual Effects Green Screen and Beyond for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-skin-retouching-a-plugin-free-guide-to-flawless-complexions/"><u>FCPX Skin Retouching A Plugin-Free Guide to Flawless Complexions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-your-movies-how-to-convert-dvds-to-digital-video-formats/"><u>Free Your Movies How to Convert DVDs to Digital Video Formats</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>Fresh Perspectives Picture-Perfect Collages for Life's Highlights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-motion-mastering-time-lapse-video-creation-with-software-for-2024/"><u>From Still to Motion Mastering Time Lapse Video Creation with Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-vn-video-editor-for-mac-or-get-alternatives-to-edit-on-mac-for-2024/"><u>Get VN Video Editor for Mac or Get Alternatives to Edit on Mac for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-genres-and-journeys-via-chatgpt/"><u>Navigating Genres and Journeys via ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-chatgpt-into-the-ultimate-dm-companion-for-rpg-adventures/"><u>Transform ChatGPT Into the Ultimate DM Companion for RPG Adventures</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-deciphering-the-language-of-youtube-live-images/"><u>[New] In 2024, Deciphering the Language of YouTube Live Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>[New] In 2024, Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-sims-4-live-action-gaming-capture-essentials/"><u>[New] Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-windows-11-wi-fi-network-key-a-step-by-step-guide/"><u>Discovering Your Windows 11 Wi-Fi Network Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-for-burning-films-onto-dvd-discs-using-pc-or-macos-systems/"><u>Guide for Burning Films Onto DVD Discs Using PC or macOS Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-easily-make-professional-looking-movies-for-2024/"><u>How to Easily Make Professional-Looking Movies for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-7-video-joiner-software-with-no-watermark-output/"><u>In 2024, 7 Video Joiner Software with No Watermark Output</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>In 2024, 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-pro-level-effects-to-your-videos-in-3-easy-steps-with-fcp-x/"><u>In 2024, Add Pro-Level Effects to Your Videos in 3 Easy Steps with FCP X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-comprehensive-review-and-analysis/"><u>In 2024, AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>In 2024, Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-top-10-free-green-screen-apps-for-android-and-ios/"><u>In 2024, Discover the Top 10 Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>In 2024, Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utionize-your-video-content-with-free-intro-designers-for-2024/"><u>Revolutionize Your Video Content with Free Intro Designers for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transformative-mobile-tools-discovering-the-top-game-changers-on-your-smartphone/"><u>Transformative Mobile Tools: Discovering the Top Game-Changers on Your Smartphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210845032-troubleshoot-malfunctioning-keyboard-arrows-top-solutions/"><u>Troubleshoot Malfunctioning Keyboard Arrows - Top Solutions!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wie-sie-den-fehler-rucksetzung-funktioniert-nicht-bei-der-umwandlung-von/"><u>Wie Sie Den Fehler 'Rücksetzung Funktioniert Nicht' Bei Der Umwandlung Von</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210701567-9781958921128-your-soul-has-a-plan/"><u>Your Soul Has a Plan | Free Book</u></a></li>
 </ul></div>
 

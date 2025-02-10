@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2025-01-09T00:53:41.335Z
-updated: 2025-01-15T18:25:41.199Z
+date: 2025-02-06T12:13:11.802Z
+updated: 2025-02-10T06:11:41.518Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,16 +131,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-best-practices-in-updating-your-social-network-backdrop-for-2024/"><u>[New] Best Practices in Updating Your Social Network Backdrop for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-avoiding-the-common-path-the-route-to-unique-streamer-identities-for-2024/"><u>[Updated] Avoiding the Common Path The Route to Unique Streamer Identities for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>2024 Approved Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-3gp-video-rotation-software-top-picks-for-2024/"><u>Best Free 3GP Video Rotation Software Top Picks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options-for-2024/"><u>Chromebook Video Editing Software Top 10 Online Options for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/download-and-convert-dailymotion-videos-for-free-online/"><u>Download and Convert Dailymotion Videos for Free Online</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-top-high-school-themed-anime-free-in-ultra-hd-quality-the-essential-guide-to-201s-best-picks/"><u>Download Top High School-Themed Anime (Free) in Ultra HD Quality - The Essential Guide to 201#'S Best Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unresponsive-notifications-from-phone-link-app-on-windows/"><u>Fixing Unresponsive Notifications From Phone Link App on Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-the-best-video-editing-experience-on-windows-8-and-above/"><u>Get the Best Video Editing Experience on Windows 8 and Above</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-hiccup-x712/"><u>Overcoming Windows Update Hiccup X712</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>[New] From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>[Updated] Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-synchronized-squawks-and-soarings-the-bebop-parrot-review/"><u>[Updated] Synchronized Squawks & Soarings The Bebop Parrot Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages Elevate Your Environment for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-video-downsizing-on-pc-master-the-art-of-minimizing-files-with-windows-media-player-techniques/"><u>Effortless Video Downsizing on PC: Master the Art of Minimizing Files with Windows Media Player Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-files-on-a-schedule-like-never-before-the-ultimate-guide-to-using-stellar-eraser-for-windows/"><u>Erase Files on a Schedule Like Never Before: The Ultimate Guide to Using Stellar Eraser for Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g24-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-install-splice-on-your-mac-for-professional-video-editing/"><u>In 2024, Install Splice on Your Mac for Professional Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-a-lasting-impression-how-to-create-professional-looking-dvds/"><u>Make a Lasting Impression How to Create Professional-Looking DVDs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-professional-sound-effects-to-final-cut-pro-without-breaking-the-bank/"><u>New Add Professional Sound Effects to Final Cut Pro without Breaking the Bank</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-avi-video-rotators-a-comprehensive-multi-platform-review/"><u>The Best Free AVI Video Rotators A Comprehensive Multi-Platform Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-26-free-pc-maintenance-tools-the-ultimate-registry-cleaners-list-2024-edition/"><u>Top 26 Free PC Maintenance Tools: The Ultimate Registry Cleaners List - 2024 Edition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wevideo-the-simple-way-to-create-professional-looking-videos-for-2024/"><u>WeVideo The Simple Way to Create Professional-Looking Videos for 2024</u></a></li>
 </ul></div>
 

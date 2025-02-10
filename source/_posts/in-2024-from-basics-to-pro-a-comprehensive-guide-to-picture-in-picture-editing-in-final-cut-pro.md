@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Basics to Pro A Comprehensive Guide to Picture-in-Picture Editing in Final Cut Pro
-date: 2025-01-14T20:17:51.695Z
-updated: 2025-01-16T06:59:44.145Z
+date: 2025-02-03T21:34:59.101Z
+updated: 2025-02-10T08:00:08.757Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create PIP Effect with FCP
@@ -52,6 +52,10 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
@@ -59,7 +63,7 @@ As now you have added both videos on-screen now you have to select the higher vi
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
@@ -82,14 +86,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
@@ -109,7 +109,7 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -127,17 +127,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elite-gear-for-stop-motion-visuals/"><u>[New] In 2024, Elite Gear for Stop Motion Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>[New] Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-your-2ve-wia-device-solving-usb-compatibility-glitches-on-hp-260ci-model/"><u>Effective Fixes for Your 2Ve WIA Device - Solving USB Compatibility Glitches on HP 260Ci Model</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>In 2024, Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-avchd-editors-top-picks/"><u>In 2024, Best AVCHD Editors Top Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-cutting-tools-for-mp4-files-updated-2023/"><u>In 2024, Best Free Video Cutting Tools for MP4 Files (Updated 2023)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-with-free-sound-effects-a-final-cut-pro-tutorial/"><u>In 2024, Elevate Your Videos with Free Sound Effects A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://fox-search.techidaily.com/limited-time-offer-show-off-custom-images-and-messages-in-screen-using-jammtext-on-your-decks-display/"><u>Limited Time Offer: Show Off Custom Images & Messages In-Screen Using JammText on Your Deck's Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-rides-mercedes-integrates-ai-speech-control/"><u>Redefining Rides: Mercedes Integrates AI Speech Control</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-poco-f5-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco F5 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-essential-guide-to-obs-and-zoom-live-stream-setup-for-2024/"><u>The Essential Guide to OBS and Zoom Live Stream Setup for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-immaculate-game-recordings-with-obs-studio-pro/"><u>[New] 2024 Approved Immaculate Game Recordings with OBS Studio Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-must-try-top-5-mac-streaming-applications/"><u>[New] In 2024, Must-Try Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>[New] The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>2024 Approved TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-12-proplus-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 12 Pro+ 5G Unlock Without Password</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/complete-examination-of-the-versatile-handheld-gps-device/"><u>Complete Examination of the Versatile Handheld GPS Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/easy-steps-to-rename-your-files-with-windows-powershell-tools/"><u>Easy Steps to Rename Your Files with Windows PowerShell Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2023-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2023 formula not showing result | Stellar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1723262393780-how-a-revolutionary-pc-uses-centrifugal-force-for-efficient-air-cooldowns-no-massive-fans-needed/"><u>How a Revolutionary PC Uses Centrifugal Force for Efficient Air Cooldowns, No Massive Fans Needed!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-14-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 14 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-apex-of-high-res-viewing-best-4k-screens-on-macs/"><u>In 2024, The Apex of High-Res Viewing - Best 4K Screens on Macs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-gaming-sites-top-picks-for-downloading-games/"><u>New Best Gaming Sites Top Picks for Downloading Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-essential-image-cropping-techniques/"><u>New Final Cut Pro X Essential Image Cropping Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-video-editor-for-2024/"><u>PC Video Editing Made Easy A Review of VN Video Editor for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-edit-and-share-the-best-free-webm-video-editors/"><u>Updated Cut, Edit, and Share The Best Free WebM Video Editors</u></a></li>
 </ul></div>
 
