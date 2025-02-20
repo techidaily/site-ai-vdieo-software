@@ -1,7 +1,7 @@
 ---
 title: New FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2025-02-08T07:07:47.680Z
-updated: 2025-02-09T23:42:06.643Z
+date: 2025-02-16T11:30:39.387Z
+updated: 2025-02-19T16:43:33.946Z
 tags: 
   - video editing software
   - video editing
@@ -33,10 +33,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting Started
 
@@ -71,7 +67,7 @@ Click the **Sample Color** icon. This allows fine-tuning the selection of the ba
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
@@ -83,6 +79,10 @@ Your key should look better immediately. Most of the time, you can probably stop
 * Light wrap
 
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the **Matte** button to display your key as a white foreground on a black background.
 
@@ -102,10 +102,6 @@ Then, click and drag a line from the foreground to the background in the Canvas.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
 * Color Selection
@@ -121,6 +117,10 @@ This is a subtle effect, but very cool.
 
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
@@ -128,12 +128,16 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 When you are done, you have a great looking key!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -141,19 +145,23 @@ Once you pull the key – which is film-speak for creating a green-screen shot, 
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
 
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
 
@@ -165,10 +173,6 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -176,10 +180,6 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -196,22 +196,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/egal-download-how-to-safely-transfer-youtube-to-mp4-for-2024/"><u>[New] Legal Download How to Safely Transfer YouTube to MP4 for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-demystified-for-passionate-creators-and-viewers/"><u>[Updated] 2024 Approved Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-master-download-manager-facebook-and-firefox-edition-tools/"><u>[Updated] In 2024, Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-unleash-the-fun-top-10-free-game-download-sites-for-pc-android-and-more/"><u>2024 Approved Unleash the Fun Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cartoonify-your-content-the-latest-techniques-for-video-conversion-2023-for-2024/"><u>Cartoonify Your Content The Latest Techniques for Video Conversion (2023 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cropping-videos-like-a-pro-tips-tricks-and-techniques-using-avidemux/"><u>Cropping Videos Like a Pro Tips, Tricks, and Techniques Using Avidemux</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-leading-free-3d-animation-tools-for-creatives-a-detailed-review/"><u>Discover the Leading Free 3D Animation Tools for Creatives – A Detailed Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-magic-6-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor Magic 6 Device SIM</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-editing-on-mac-introducing-mkvtoolnix-2023-for-2024/"><u>Effortless Video Editing on Mac Introducing MKVtoolnix 2023 for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>From Start to Finish How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-to-roll-top-20-free-adobe-premiere-intro-templates-2023/"><u>Get Ready to Roll Top 20 Free Adobe Premiere Intro Templates 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/glitch-up-your-videos-top-ios-and-android-editing-apps/"><u>Glitch Up Your Videos Top iOS and Android Editing Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-creating-flipbooks-from-scratch-using-windows-movie-maker/"><u>In 2024, Creating Flipbooks From Scratch Using Windows Movie Maker</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unobstructed-movie-magic-erasing-youtube-borders/"><u>In 2024, Unobstructed Movie Magic Erasing YouTube Borders</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782452-9781591432685-the-lost-continent-of-pan/"><u>The Lost Continent of Pan | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-cant-i-adjust-my-volume-in-windows-10-solution-details/"><u>Why Can't I Adjust My Volume in Windows 10? [SOLUTION DETAILS]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-demystifying-the-world-of-youtube-shorts/"><u>[Updated] Demystifying the World of YouTube Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-quick-cinematic-creations-your-ultimate-guide-to-at-home-filmmaking-hacks-for-2024/"><u>[Updated] Quick Cinematic Creations Your Ultimate Guide to At-Home Filmmaking Hacks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-3-hd-film-scrapers-on-fb/"><u>[Updated] Top 3 HD Film Scrapers on Fb</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>2024 Approved Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-on-steroids-top-plugins-to-boost-productivity/"><u>In 2024, Final Cut Pro X on Steroids Top Plugins to Boost Productivity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-video-online-without-spending-a-dime-a-tutorial/"><u>New Blur Video Online Without Spending a Dime A Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>New Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-in-this-article-we-will-share-with-you-some-of-the-minimum-requirement-of-running-premiere-pro-cc-on-your-computer-and-how-to-check-the-specification-of/"><u>New In This Article, We Will Share with You some of the Minimum Requirement of Running Premiere Pro CC on Your Computer and How to Check the Specification of Your PC and Mac, and Also How to Set up the Co</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mastering-slow-mo-10-elite-video-editing-software-options-for-2024/"><u>New Mastering Slow Mo 10 Elite Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/tulip-your-next-creative-companion-for-music-production-with-open-source-micropython-at-just-59/"><u>Tulip: Your Next Creative Companion for Music Production with Open-Source MicroPython at Just $59!</u></a></li>
 </ul></div>
 

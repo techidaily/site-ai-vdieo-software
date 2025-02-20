@@ -1,7 +1,7 @@
 ---
 title: New Comcast Xfinity vs TiVo Which DVR Reigns Supreme?
-date: 2025-02-02T17:35:39.281Z
-updated: 2025-02-10T11:37:48.411Z
+date: 2025-02-18T00:02:33.163Z
+updated: 2025-02-20T06:32:16.300Z
 tags: 
   - video editing software
   - video editing
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. TiVo vs Comcast: Cost and rent versus own
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. TiVo vs Comcast: Services available
 
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -80,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
@@ -99,16 +103,12 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -145,22 +145,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-the-craft-of-macro-video-production-techniques/"><u>[New] In 2024, Mastering the Craft of Macro Video Production Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-change-default-image-savings-in-os-x/"><u>[Updated] In 2024, Change Default Image Savings in OS X</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[Updated] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro/"><u>2024 Approved From Forward to Reverse Mastering Video Reversal in Final Cut Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-gopro-quik-alternatives-for-desktop-and-laptop-users/"><u>Best GoPro Quik Alternatives for Desktop and Laptop Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beyond-virtualdub-discover-the-top-video-editing-software-alternatives/"><u>Beyond Virtualdub Discover the Top Video Editing Software Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-engaging-stop-motion-content-for-instagram-a-step-by-step-guide-for-2024/"><u>Create Engaging Stop Motion Content for Instagram A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes-for-2024/"><u>Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-face-generation-software-top-online-options/"><u>Free Face Generation Software Top Online Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-camera-to-computer-editing-sony-camcorder-videos-with-ease/"><u>From Camera to Computer Editing Sony Camcorder Videos with Ease</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-identify-and-fix-audio-distortions-in-your-pc-insights-from-yl-computing/"><u>How to Identify and Fix Audio Distortions in Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qidi-techs-q1-pro-headset-uncovered-a-detailed-performance-assessment-for-gamers/"><u>QIDI Tech's Q1 Pro Headset Uncovered: A Detailed Performance Assessment for Gamers.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revealed-the-new-wave-of-apple-technology-features-set-to-transform-your-experience-on-iphone-ipad-and-mac-devices-this-fall-incorporating-ai-gizmohub/"><u>Revealed! The New Wave of Apple Technology Features Set to Transform Your Experience on iPhone, iPad, and Mac Devices This Fall (Incorporating AI) | GizmoHub</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ultimate-timeline-tools-at-no-cost/"><u>Ultimate Timeline Tools at No Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-is-discord-not-working-for-me-tackling-the-voice-chat-glitches/"><u>Why Is Discord Not Working for Me? Tackling the Voice Chat Glitches</u></a></li>
-<li><a href="https://facebook.techidaily.com/zucks-goat-a-monetary-metaphor-in-animal-form/"><u>Zuck's Goat: A Monetary Metaphor in Animal Form</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uick-win-strategies-top-20-video-tips-for-content-boosters-for-2024/"><u>[New] Quick-Win Strategies Top 20 Video Tips for Content Boosters for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-20-laugh-inducing-prison-jail-memes-to-elevate-social-media-experience-for-2024/"><u>[Updated] Prime 20 Laugh-Inducing Prison Jail Memes to Elevate Social Media Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-astonishing-critique-and-substitutes-guide/"><u>2024 Approved Astonishing Critique & Substitutes Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>In 2024, From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>In 2024, IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y77t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y77t to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives/"><u>Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-time-in-fcpx-freeze-frames-slow-mo-and-more/"><u>Mastering Time in FCPX Freeze Frames, Slow-Mo, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks/"><u>New Free Green Screen Software for Android and iOS Top Picks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-sound-10-best-professional-audio-editing-programs/"><u>Updated Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
 </ul></div>
 

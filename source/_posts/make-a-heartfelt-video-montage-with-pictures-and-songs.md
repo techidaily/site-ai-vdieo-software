@@ -1,7 +1,7 @@
 ---
 title: Make a Heartfelt Video Montage with Pictures and Songs
-date: 2025-02-02T19:12:12.683Z
-updated: 2025-02-09T18:28:12.138Z
+date: 2025-02-17T09:54:32.377Z
+updated: 2025-02-20T10:23:37.783Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -52,7 +48,7 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
@@ -62,6 +58,10 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
 
@@ -81,10 +81,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to look for when choosing a good slideshow maker?
 
 Get a smart video slideshow maker to edit and create your own video, you need take those things into consideration:
@@ -96,7 +92,7 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -116,10 +112,14 @@ Save your slideshow in different formats, choose from ready-made presets for all
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -136,24 +136,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/"><u>[New] 2024 Approved Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options/"><u>[New] Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-compreeved-guide-to-saving-and-storing-reels/"><u>[New] The Compreeved Guide to Saving and Storing Reels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-yi-hero-review-transform-your-videography-with-4k-for-2024/"><u>[New] YI Hero Review Transform Your Videography with 4K for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-personalize-your-channel-with-free-pics/"><u>[Updated] Personalize Your Channel With Free Pics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tailor-videos-to-instagrams-preferred-format/"><u>2024 Approved Tailor Videos to Instagram's Preferred Format</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-rotation-software-for-windows-mac-and-mobile-devices/"><u>Best Free Video Rotation Software for Windows, Mac, and Mobile Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-time-lapse-video-editing-software-freeandpaid-for-2024/"><u>Best Time-Lapse Video Editing Software Free&Paid for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-wmv-splitter-software-free-and-easy-to-use/"><u>Best WMV Splitter Software Free and Easy to Use</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/clean-up-your-audio-advanced-techniques-for-removing-background-noise-in-fcpx-for-2024/"><u>Clean Up Your Audio Advanced Techniques for Removing Background Noise in FCPX for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-edit-and-share-the-best-free-webm-video-editors-for-2024/"><u>Cut, Edit, and Share The Best Free WebM Video Editors for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easy-avi-file-splitting-and-trimming-a-comprehensive-guide/"><u>Easy AVI File Splitting and Trimming A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-privacy-in-virtual-reality-why-a-vpn-is-crucial-for-users-of-the-vision-pro-and-similar-xr-devices-expert-tips/"><u>Enhancing Privacy in Virtual Reality: Why a VPN Is Crucial for Users of the Vision Pro and Similar XR Devices - Expert Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-mastery-top-5-editing-tips-and-tricks-from-the-experts/"><u>FCP Mastery Top 5 Editing Tips and Tricks From the Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-stabilization-made-easy-top-10-online-tools-for-2024/"><u>Free Video Stabilization Made Easy Top 10 Online Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-digital-videos-into-cartoons-for-2024/"><u>How to Convert Digital Videos Into Cartoons for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-updating-your-asus-vg248qe-monitor-drivers-for-optimal-windows-performance/"><u>Step-by-Step Tutorial on Updating Your Asus VG248QE Monitor Drivers for Optimal Windows Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncover-hidden-causes-of-white-screen/"><u>Uncover Hidden Causes of White Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-harness-mematic-for-efficient-note-taking-for-2024/"><u>[Updated] Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-youtubes-revenue-model-for-video-clips/"><u>2024 Approved Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-8-leading-free-software-for-drivers-updates-in-july-2024/"><u>Discover the 8 Leading Free Software for Drivers Updates in July 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/eliminate-sensitive-files-on-your-ios-device-the-best-software-for-complete-data-wipe-out/"><u>Eliminate Sensitive Files on Your iOS Device: The Best Software for Complete Data Wipe-Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-shop-crash-overcoming-error-x00000000/"><u>Eradicating Windows Shop Crash: Overcoming Error X00000000</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-online-video-cutter-10-best-options-reviewed/"><u>In 2024, Free Online Video Cutter 10 Best Options Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-to-make-your-choice-easier-from-thousands-of-software-i-am-listing-the-top-five-in-the-businesslet-us-go-over-the-specifications-and-shed-light-on-t/"><u>In 2024, To Make Your Choice Easier From Thousands of Software I Am Listing the Top Five in the business.Let Us Go over the Specifications and Shed Light on the Comparisons</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-powerdirector-the-best-mobile-video-editing-apps-of/"><u>New Beyond PowerDirector The Best Mobile Video Editing Apps Of</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-tutorial-trimming-and-cropping-images-like-a-pro/"><u>New FCPX Tutorial Trimming and Cropping Images Like a Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/restez-dans-le-coup-transformez-vos-images-dpx-en-jpg-sans-frais-decouvrez-les-trucs-de-movavi/"><u>Restez Dans Le Coup : Transformez Vos Images DPX en JPG Sans Frais - Découvrez Les Trucs De Movavi!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/silence-is-golden-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Silence Is Golden A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/solved-common-reasons-behind-pc-crashes-in-the-witcher-3-and-how-to-fix-them/"><u>Solved: Common Reasons Behind PC Crashes in 'The Witcher 3' And How to Fix Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-ideas-to-visuals-chatgpt-in-ai-artistry/"><u>Transforming Ideas to Visuals: ChatGPT in AI Artistry</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-essential-animated-text-generators-to-elevate-your-visuals/"><u>Updated 10 Essential Animated Text Generators to Elevate Your Visuals</u></a></li>
 </ul></div>
 

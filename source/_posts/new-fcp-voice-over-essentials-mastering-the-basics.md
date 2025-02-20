@@ -1,7 +1,7 @@
 ---
 title: New FCP Voice Over Essentials Mastering the Basics
-date: 2025-02-06T18:49:46.403Z
-updated: 2025-02-09T23:55:45.964Z
+date: 2025-02-17T19:21:43.702Z
+updated: 2025-02-19T18:05:17.652Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ If you are new to the world of editing and find Final Cut Pro little difficult t
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Voice Over with Final Cut Pro
@@ -68,10 +68,6 @@ The countdown will automatically start.
 
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3
 
 As soon as your recording is complete then you need to stop the process by simply pressing space bar or hitting the Shift+A button again.
@@ -80,9 +76,17 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -102,10 +106,6 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
 * Now as you want to finalize your decision so choose your clip then go to auditions and then press Finalize Audition.
 
@@ -118,7 +118,7 @@ It is also possible to extract desired recordings from auditions; for example if
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -134,7 +134,7 @@ It's quite common in FCPX. If reopening the software or rebooting Mac won't fix 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -152,21 +152,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-realms-united-identifying-the-7-best-strategy-rivals/"><u>[Updated] 2024 Approved Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-alternatives-to-blockbuster-flicks/"><u>[Updated] In 2024, Best Alternatives to Blockbuster Flicks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-full-guide-on-making-a-big-budget-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved Full Guide on Making a Big-Budget Cinematic Look Video with Final Cut Pro X</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-iphone-video-capture-apps/"><u>2024 Approved Top 10 iPhone Video Capture Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>2024 Approved Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/breaking-news-filmora-x-adds-arm-compatibility-for-2024/"><u>Breaking News Filmora X Adds ARM Compatibility for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-in-high-def-the-best-video-software-for-2024/"><u>Edit in High-Def The Best Video Software for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/elevate-your-device-experience-with-smooth-screen-capture-for-2024/"><u>Elevate Your Device Experience with Smooth Screen Capture for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-guide-to-german-sounds-for-newcomers/"><u>Essential Guide to German Sounds for Newcomers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-overcoming-valorants-voice-chat-malfunctions/"><u>Expert Tips for Overcoming Valorant's Voice Chat Malfunctions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-essentials-how-to-achieve-flawless-green-screen-effects/"><u>FCP X Essentials How to Achieve Flawless Green Screen Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-yet-powerful-top-wmv-video-editors-for-2024/"><u>Free Yet Powerful Top WMV Video Editors for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-a-powerful-64-bit-video-editor-windows-8and10-included-for-2024/"><u>Get a Powerful 64-Bit Video Editor (Windows 8&10 Included) for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-filmora-for-free-the-authorized-and-authentic-way-for-2024/"><u>Get Filmora for Free The Authorized and Authentic Way for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-10t-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 10T 5G PC | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-skips-or-pauses-optimizing-bluetooth-sound-on-windows-11-platform/"><u>No More Skips or Pauses: Optimizing Bluetooth Sound on Windows 11 Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-easy-steps-for-brightening-your-photos/"><u>2024 Approved 10 Easy Steps for Brightening Your Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-80240020-in-windows-11-a-step-by-step-solution-for-successful-installation/"><u>Error Code 80240020 in Windows 11: A Step-by-Step Solution for Successful Installation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-v30-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme V30?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-gt-10-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 8 Plus or iPad?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-process-of-rotating-a-video-is-rather-simple-and-you-dont-need-access-to-a-professional-video-editing-app-like-adobe-premiere-pro-to-perform-thi/"><u>In 2024, The Process of Rotating a Video Is Rather Simple, and You Dont Need Access to a Professional Video Editing App Like Adobe Premiere Pro to Perform This Task, because There Are Quite a Few Online Platf</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-editing-a-step-by-step-online-tutorial/"><u>Mastering Video Editing A Step-by-Step Online Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>New From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-or-slow-down-the-ultimate-camtasia-video-editing-guide/"><u>Speed Up or Slow Down The Ultimate Camtasia Video Editing Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/spring-into-savings-wondershare-filmora-coupon-code-march-2024/"><u>Spring Into Savings Wondershare Filmora Coupon Code - March 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-re-associate-file-applications-in-win108/"><u>Strategies to Re-Associate File Applications in Win10/8</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-sony-vegas-alternatives-for-windows-video-creators/"><u>Unleash Your Creativity Best Sony Vegas Alternatives for Windows Video Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-vsdc-video-editor-mac-alternatives-free-and-paid-options/"><u>Updated 2024 Approved VSDC Video Editor Mac Alternatives Free and Paid Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-for-beginners-a-step-by-step-guide-to-getting-started/"><u>Updated Free Video Editing for Beginners A Step-by-Step Guide to Getting Started</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-novice-to-pro-mastering-wax-free-video-editor-in/"><u>Updated From Novice to Pro Mastering Wax Free Video Editor In</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2025-02-08T11:32:33.617Z
-updated: 2025-02-10T02:14:02.198Z
+date: 2025-02-16T08:54:46.522Z
+updated: 2025-02-19T20:52:05.087Z
 tags: 
   - video editing software
   - video editing
@@ -29,15 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -62,7 +62,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -79,6 +79,10 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -93,10 +97,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -104,7 +104,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,21 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-getting-started-with-windows-movie-maker-6-installs/"><u>[New] 2024 Approved Getting Started with Windows Movie Maker 6 Installs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-vida-unveiled-a-gateway-to-professional-video-craftsmanship/"><u>[New] 2024 Approved Vida Unveiled A Gateway to Professional Video Craftsmanship</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-mkv-cutting-software-free-and-updated-for-2024/"><u>Best MKV Cutting Software Free and Updated for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-mp4-video-editors-2023-edition/"><u>Best Zero-Cost MP4 Video Editors 2023 Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-mkv-trimming-on-mac-the-best-tools-for-2024/"><u>Effortless MKV Trimming on Mac The Best Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-mac-microphone-tools-selecting-leading-recorders/"><u>Essential Mac Microphone Tools Selecting Leading Recorders</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-mkv-trimmers-for-mac-for-2024/"><u>Expert-Approved MKV Trimmers for Mac for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experts-rate-the-amazon-fire-tv-cube-ultimate-guide-to-lightning-fast-entertainment/"><u>Experts Rate the Amazon Fire TV Cube: Ultimate Guide to Lightning-Fast Entertainment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fastest-ways-to-adjust-gif-speed-online-and-on-mobile-for-2024/"><u>Fastest Ways to Adjust GIF Speed Online and on Mobile for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-on-the-house-top-10-free-plugins-for-video-editors-for-2024/"><u>FCPX on the House Top 10 Free Plugins for Video Editors for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-script-to-screen-top-10-movies-crafted-with-final-cut-pro/"><u>From Script to Screen Top 10 Movies Crafted with Final Cut Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/il-piu-ottimi-software-di-trasformazione-gratuita-video-dvd-a-mp4-per-mac-nel-2t4/"><u>Il Più Ottimi Software Di Trasformazione Gratuita Video: DVD a MP4 per Mac Nel 2T4</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-resolution-passport-portraits-download-for-free-and-print-your-document/"><u>In 2024, High-Resolution Passport Portraits - Download for FREE & Print Your Document</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-stabilization-of-video-on-personal-tech-devices/"><u>In 2024, Mastering Stabilization of Video on Personal Tech Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y78plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y78+ Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-apple-watch-ultra-unveiled-anticipated-costs-launch-timeline-and-latest-leaks/"><u>The Next Generation Apple Watch Ultra Unveiled? Anticipated Costs, Launch Timeline & Latest Leaks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-ultimate-tutorial-on-youtube-data-analysis/"><u>[New] 2024 Approved The Ultimate Tutorial on YouTube Data Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-chromes-top-drawing-applications-for-2024/"><u>[Updated] The Ultimate Guide to Chrome's Top Drawing Applications for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-affordable-accessible-tools-to-transform-videos/"><u>[Updated] Top 10 Affordable, Accessible Tools to Transform Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superior-chromebook-video-saver/"><u>2024 Approved Superior ChromeBook Video Saver</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/grab-filmora-13-editor-for-free-no-watermark-no-cost/"><u>Grab Filmora 13 Editor for Free No Watermark, No Cost</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-spotlight-on-windows-11-innovations/"><u>In 2024, Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/is-virtualdub-obsolete-discover-the-best-free-video-editing-software-alternatives/"><u>Is Virtualdub Obsolete? Discover the Best Free Video Editing Software Alternatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>Quick Fixes Eliminate Ssgnatures in a Blink</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-sideways-videos-16-free-avi-video-rotators-for-every-situation/"><u>Say Goodbye to Sideways Videos 16 Free AVI Video Rotators for Every Situation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-timecode-calculators-web-iphone-and-android-apps/"><u>The Ultimate List of Timecode Calculators Web, iPhone, and Android Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unmissable-4k-footage-the-best-of-the-best-for-2024/"><u>Unmissable 4K Footage The Best of the Best for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10plus-best-free-webcam-software-for-windows-10/"><u>Updated 10+ Best Free Webcam Software for Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-best-neon-text-generator-online-easy-to-use/"><u>Updated 8 Best Neon Text Generator Online (Easy to Use)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>Updated Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>Updated Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-chromebook-top-recommendations-for-2024/"><u>Video Editing on Chromebook Top Recommendations for 2024</u></a></li>
 </ul></div>
 

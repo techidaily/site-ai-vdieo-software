@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting the Cord TiVo vs Comcast - A Comprehensive DVR Comparison
-date: 2025-02-03T17:15:57.745Z
-updated: 2025-02-09T20:14:20.026Z
+date: 2025-02-18T16:13:02.971Z
+updated: 2025-02-19T21:27:33.030Z
 tags: 
   - video editing software
   - video editing
@@ -32,15 +32,15 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. TiVo vs Comcast: Cost and rent versus own
 
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. TiVo vs Comcast: Services available
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Comcast interface
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Summary**
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -145,24 +145,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>[New] Perfecting Titles on Footage Step-by-Step Tutorial for Windows Photos App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-view-youtube-statistics-in-2024/"><u>[Updated] How to View YouTube Statistics, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-quick-take-on-vn-video-editors-pc-performance-for-2024/"><u>A Quick Take on VN Video Editors PC Performance for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-and-creative-app/"><u>Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-video-editor-for-windows-8-latest-2023-features/"><u>Best AVI Video Editor for Windows 8 Latest 2023 Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/clearing-past-data-from-your-windows-10-clipboard-a-comprehensive-tutorial/"><u>Clearing Past Data From Your Windows 10 Clipboard: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/convert-images-to-cartoons-with-ease-for-2024/"><u>Convert Images to Cartoons with Ease for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-like-a-pro-on-mac-with-mkvtoolnix-for-2024/"><u>Edit Videos Like a Pro on Mac with MKVtoolnix for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/education-animation-is-useful-for-parents-teachers-and-students-check-it-for-you-for-2024/"><u>Education Animation Is Useful for Parents, Teachers and Students. Check It for You for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-divx-video-cutter-reviews-top-6-options/"><u>Free Divx Video Cutter Reviews Top 6 Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-animated-the-best-mobile-apps-for-cartooning-yourself/"><u>Get Animated The Best Mobile Apps for Cartooning Yourself</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>In 2024, 8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60x 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-friends-on-facebook-a-guide-to-6-easy-strategies/"><u>Mastering the Art of Finding Friends on Facebook: A Guide to 6 Easy Strategies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premium-top-ten-nintendo-switch-fighter-games-max-156-for-2024/"><u>Premium Top Ten Nintendo Switch Fighter Games (Max 156) for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-fastest-way-to-install-latest-nvidia-gtx-nvgtx1660-driver-software/"><u>The Fastest Way to Install Latest Nvidia GTX Nvgtx_1660 Driver Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amp-up-your-media-get-free-soundtracks/"><u>[New] 2024 Approved Amp Up Your Media Get Free Soundtracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhance-your-imagery-a-step-by-step-guide-for-instagram-videos/"><u>[New] 2024 Approved Enhance Your Imagery A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/usic-upload-essentials-your-youtube-journey/"><u>[New] Music Upload Essentials Your YouTube Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-2023-ps3-emulators-for-enhanced-gaming-for-2024/"><u>[Updated] Top 2023 Ps3 Emulators for Enhanced Gaming for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/education-evolved-embracing-vr-technology/"><u>Education Evolved Embracing VR Technology</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-selection-the-greatest-free-editing-software-for-2024/"><u>Essential Selection The Greatest Free Editing Software for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-to-create-the-best-video-editors-for-any-project/"><u>In 2024, Free to Create The Best Video Editors for Any Project</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-essential-how-to-sharing-videos-from-youtube-on-instagram/"><u>In 2024, The Essential How-To Sharing Videos From YouTube on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-file-editor-for-windows-8-quick-and-easy-video-editing/"><u>MP4 File Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-splitters-for-mkv-files-updated-2023/"><u>New Best Free Video Splitters for MKV Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-crafting-compelling-lower-thirds-fcpx-essentials/"><u>New Crafting Compelling Lower Thirds FCPX Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solving-iphone-bluetooth-connectivity-issues-pairing-troubleshooting-guide/"><u>Solving iPhone Bluetooth Connectivity Issues: Pairing Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-for-mac-free-download-and-start-creating/"><u>Splice Video Editor for Mac Free Download and Start Creating</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/teac-pd-301-cd-player-review/"><u>Teac PD-301 CD Player Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-best-free-webm-video-editors/"><u>Top 10 Best Free WebM Video Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-wevideos-intuitive-video-creation-platform/"><u>Unleash Your Creativity WeVideos Intuitive Video Creation Platform</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-beyond-fcpx-10-video-editing-software-solutions-worth-exploring/"><u>Updated Beyond FCPX 10 Video Editing Software Solutions Worth Exploring</u></a></li>
 </ul></div>
 

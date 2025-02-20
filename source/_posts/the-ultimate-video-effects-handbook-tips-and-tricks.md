@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Video Effects Handbook Tips and Tricks
-date: 2025-02-06T01:43:10.992Z
-updated: 2025-02-10T07:58:14.832Z
+date: 2025-02-12T19:00:25.676Z
+updated: 2025-02-20T03:15:01.832Z
 tags: 
   - video editing software
   - video editing
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
 How to make a cool video? Besides creativities, you may also need a video editing software which allows you to add some cool video effects. Actually it's much simpler than you might expect if you use cool video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to easily trim videos, add voice narration or a music sound track from your personal collection and add cool effects and give your plain old home videos the extra touch that makes them more special. In this article, we will introduce some cool video effects that you can use in Filmora as well as the step-by-step guide about how to add cool effects to videos for making a cool edit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Introducing 5 cool effects that you may be interested in
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **1\. Mask:** Filmora allows you add various image masks and shape mask to the image and video in the timeline, which will create a special effect. You can always add Mask effect to media when creating PIP videos.
 
@@ -48,6 +48,10 @@ Besides these common cool video effects, [Filmora Effects Store](https://tools.t
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
 
 With Filmora, you can also add some cool effects conveniently to improve your video with ease. After several clicks, your video will turn out to be a stunning masterpiece which is really fantastic to share with your family and friends on YouTube or Facebook. Now follow this step-by-step guide on how to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with this cool software.
@@ -57,10 +61,6 @@ With Filmora, you can also add some cool effects conveniently to improve your vi
 Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2 Add cool effects to your video
 
@@ -74,17 +74,21 @@ Detailed information about how to add a split-screen effect video, check our [gu
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For steps of compositing a green screen video, check this video tutorial below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
 ![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3 Export your videos
 
@@ -96,19 +100,15 @@ Filmora features more than 300 video effects, elements and motion effects and 10
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,24 +125,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ios-device-integration-with-android-images-for-2024/"><u>[New] IOS Device Integration with Android Images for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-conveniently-altering-resolution-on-ios-devices/"><u>[Updated] Conveniently Altering Resolution on iOS Devices</u></a></li>
-<li><a href="https://facebook.techidaily.com/charting-the-course-of-my-virtual-journey-starts-with-facebook/"><u>Charting the Course of My Virtual Journey Starts with Facebook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/earbud-troubles-heres-what-to-do-when-one-airpod-sounds-louder-than-its-pairing/"><u>Earbud Troubles? Here's What to Do When One AirPod Sounds Louder Than Its Pairing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/excellence-in-meeting-capture-the-best-streaming-gadgets-ranked-for-2024/"><u>Excellence in Meeting Capture The Best Streaming Gadgets Ranked for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-to-transforming-videos-into-html5-format-and-converting-various-formats-back-to-video/"><u>Guide to Transforming Videos Into HTML5 Format and Converting Various Formats Back to Video</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-printer-software-upgrade-and-installation-guide-for-windows-11-users/"><u>HP Printer Software Upgrade & Installation Guide for Windows 11 Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-android-video-editor-showdown-top-10-free-and-paid-picks/"><u>In 2024, Android Video Editor Showdown Top 10 Free and Paid Picks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avi-video-rotation-made-easy-top-5-free-software-options/"><u>In 2024, AVI Video Rotation Made Easy Top 5 Free Software Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-mobile-apps-for-recording-and-editing-reaction-videos/"><u>In 2024, Best Mobile Apps for Recording and Editing Reaction Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-videos-to-life-top-5-iphone-video-editing-apps/"><u>In 2024, Bring Your Videos to Life Top 5 iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cinematic-storytelling-with-final-cut-pro-x-tips-and-techniques/"><u>In 2024, Cinematic Storytelling with Final Cut Pro X Tips and Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-design-and-send-top-video-invitation-apps-for-ios-and-android/"><u>In 2024, Design and Send Top Video Invitation Apps for iOS & Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-lumafusion-for-mac-or-choose-from-these-top-alternatives/"><u>In 2024, Download Lumafusion for Mac or Choose From These Top Alternatives</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-viewing-experience-top-rated-vr-video-conversion-software/"><u>In 2024, Elevate Your Viewing Experience Top-Rated VR Video Conversion Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-2023-the-ultimate-guide-to-reversing-video-footage/"><u>In 2024, FCP 2023 The Ultimate Guide to Reversing Video Footage</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-the-new-wave-of-ai-with-openais-tailored-gpt-store-access-guide/"><u>Navigate the New Wave of AI with OpenAI's Tailored GPT Store Access Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quickprint-the-easy-guide-to-win-screen-snaps/"><u>[New] 2024 Approved QuickPrint The Easy Guide to Win Screen Snaps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stay-ahead-in-social-marketing-2024s-fb-ad-waves/"><u>[New] Stay Ahead in Social Marketing 2024'S FB Ad Waves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactivemix-for-all-systems/"><u>2024 Approved InteractiveMix for All Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dota-navigating-a-fixed-launch-solutions-when-youre-frozen-at-boot-up/"><u>Dota Navigating a Fixed Launch: Solutions When You're Frozen at Boot-Up</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-hardware-with-toms-guidance/"><u>Exploring the Latest in Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guida-passo-passo-per-la-sincronizzazione-dei-file-localstorage-in-onedrive-attraverso-varianti-di-windows/"><u>Guida Passo-Passo per La Sincronizzazione Dei File LocalStorage in OneDrive Attraverso Varianti Di Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>In 2024, Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-invitation-design-made-easy-top-apps-for-iphone-and-android/"><u>In 2024, Video Invitation Design Made Easy Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-pro-7-revisited-reliable-improvement-with-minor-updates-examined/"><u>Microsoft Surface Pro 7 Revisited: Reliable Improvement with Minor Updates Examined</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-unforgettable-videos-insider-tips-for-home-editors/"><u>New Create Unforgettable Videos Insider Tips for Home Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/non-profit-gaming-audio-archive-downloadable-for-2024/"><u>Non-Profit Gaming Audio Archive Downloadable for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/selecting-superior-speed-top-combo-of-cable-modems-with-routers-in-the-market-now/"><u>Selecting Superior Speed: Top Combo of Cable Modems with Routers in the Market Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-premiere-pros-full-potential-system-requirements-and-setup/"><u>Unlock Premiere Pros Full Potential System Requirements and Setup</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-5-essential-tools-for-making-viral-reaction-videos/"><u>Updated 5 Essential Tools for Making Viral Reaction Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-video-rotation-discover-the-top-10-online-tools/"><u>Updated Effortless Video Rotation Discover the Top 10 Online Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-file-editors-the-ultimate-2023-list/"><u>Updated Free MOV File Editors The Ultimate 2023 List</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-reversing-video-in-final-cut-pro/"><u>Updated The Ultimate Guide to Reversing Video in Final Cut Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-privacy-made-easy-best-blur-apps-for-iphone-and-android-for-2024/"><u>Video Privacy Made Easy Best Blur Apps for iPhone and Android for 2024</u></a></li>
 </ul></div>
 

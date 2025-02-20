@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Endless Load on Anthem's Login Screen
-date: 2025-02-09T00:39:55.125Z
-updated: 2025-02-10T10:58:06.140Z
+date: 2025-02-19T03:35:55.810Z
+updated: 2025-02-20T07:12:17.201Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for hardware issues
@@ -60,6 +60,10 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -69,25 +73,17 @@ If you didn’t find any hardware issues, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -108,6 +104,10 @@ If you didn’t find any hardware issues, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -133,20 +133,22 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>[New] Revealing Clarity Mastering the Eraser Feature in PSX</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-disparate-to-unified-color-matching-video-clips-in-powerdirector/"><u>2024 Approved From Disparate to Unified Color Matching Video Clips in PowerDirector</u></a></li>
-<li><a href="https://fox-where.techidaily.com/access-downloads-for-the-onion-in-different-video-codecs-flv-wmv-mkv-mp4/"><u>Access Downloads for The Onion in Different Video Codecs (FLV, WMV, MKV, MP4)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beyond-virtualdub-discover-the-top-video-editing-software-alternatives-for-2024/"><u>Beyond Virtualdub Discover the Top Video Editing Software Alternatives for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-walls-of-time-for-nba-watchers/"><u>Breaking Down Walls of Time for NBA Watchers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-time-lapses-with-final-cut-pro-a-beginners-guide/"><u>Create Stunning Time Lapses with Final Cut Pro A Beginners Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-merge-repeat-the-5-best-free-online-video-merging-tools-you-should-know-for-2024/"><u>Cut, Merge, Repeat The 5 Best Free Online Video Merging Tools You Should Know for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-to-edit-top-10-online-video-editors-with-no-watermark-limitations/"><u>Free to Edit Top 10 Online Video Editors with No Watermark Limitations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-solutions-10-best-options-for-individuals-and-businesses/"><u>Free Video Hosting Solutions 10 Best Options for Individuals and Businesses</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/es-galaxy-a-guide-to-hilarious-youtube-stars-for-2024/"><u>Giggles Galaxy A Guide to Hilarious YouTube Stars for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>In 2024, DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Note 30 Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/m1-macbook-air-video-editors-dream-machine-in-2024/"><u>M1 MacBook Air Video Editor's Dream Machine, In 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-huawei-matestation-pro-the-28-touchscreen-contender-against-apple-imac-tech-insights-by-zdnet/"><u>Review: Huawei MateStation Pro - The 28 Touchscreen Contender Against Apple iMac | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>[New] 2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-blocking-facebooks-advertising-overload-in-real-time/"><u>[Updated] Blocking Facebook's Advertising Overload in Real Time</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>[Updated] Journey Through the Maze Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722119857126-avoid-downloading-the-malicious-google-bard-program-its-a-risk/"><u>Avoid Downloading the Malicious Google Bard Program - It's a Risk!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-a59-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A59 5G Phone?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-text-motion-tracking-software/"><u>New Best Text Motion Tracking Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed/"><u>New Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-videos-like-a-pro-64-bit-software-for-windows-8-and-up/"><u>New Edit Videos Like a Pro 64-Bit Software for Windows 8 and Up</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-divx-video-trimming-tools-top-picks/"><u>New Free Divx Video Trimming Tools Top Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-budget-no-problem-9-free-online-movie-makers/"><u>No Budget, No Problem 9 Free Online Movie Makers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-video-stabilization-secrets-in-fcpx-revealed/"><u>Professional-Grade Video Stabilization Secrets in FCPX Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-transition-strategies-mastering-the-shift-to-your-latest-iphone-model-insights/"><u>Seamless Transition Strategies: Mastering the Shift to Your Latest iPhone Model - Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-security-camera-software/"><u>The Ultimate List of Free Security Camera Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-top-10-trending-tweets-of-2023-for-2024/"><u>Unveiling Top 10 Trending Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-easter-eggstravaganza-get-your-wondershare-filmora-promo-code-now/"><u>Updated Easter Eggstravaganza Get Your Wondershare Filmora Promo Code Now</u></a></li>
 </ul></div>
 
